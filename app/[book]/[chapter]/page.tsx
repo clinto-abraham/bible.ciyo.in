@@ -31,9 +31,48 @@ export async function generateMetadata({ params, searchParams }: PageProps) {
   const data = await getChapterData(book, chapter, lang);
   if (!data) return { title: 'Chapter Not Found' };
   const native = data.nativeName || data.hebrewName;
+  const firstVerseSnippet = data.verses.slice(0, 2).map((v) => `${v.verse}. ${v.text}`).join(' ');
+  const pageTitle = `${data.bookName} ${data.chapterNumber}${native ? ` (${native})` : ''} — ${data.translation}`;
+  const pageDescription = `Read and listen to ${data.bookName} Chapter ${data.chapterNumber} in ${data.language} (${data.translation}): "${firstVerseSnippet.slice(0, 180)}..." Study with comparative Hebrew, Greek, and Aramaic translations on bible.ciyo.in.`;
+  const canonicalUrl = `https://bible.ciyo.in/${data.bookSlug}/${data.chapterNumber}?lang=${lang}`;
+
   return {
-    title: `${data.bookName} ${data.chapterNumber}${native ? ` (${native})` : ''} | ${data.translation}`,
-    description: `Read ${data.bookName} Chapter ${data.chapterNumber} in ${data.language} from ${data.translation}.`,
+    title: pageTitle,
+    description: pageDescription,
+    keywords: [
+      `${data.bookName} ${data.chapterNumber}`,
+      `${data.bookName} Chapter ${data.chapterNumber}`,
+      `${data.bookName} in ${data.language}`,
+      native ? `${native} ${data.chapterNumber}` : '',
+      native ? `${native} അദ്ധ്യായം ${data.chapterNumber}` : '',
+      native ? `${native} ${data.chapterNumber} ഓഡിയോ` : '',
+      `${data.bookName} ${data.chapterNumber} audio`,
+      `${data.bookName} ${data.chapterNumber} text to speech`,
+      data.translation,
+      `${data.language} Bible`,
+      `${data.language} Bible online`,
+      `${data.bookName} ${data.chapterNumber} Hebrew Greek Aramaic parallel`,
+      'Comparative Bible Study',
+      'Holy Bible',
+      'Sacred Scriptures',
+      'bible.ciyo.in',
+      'ciyo.in',
+    ].filter(Boolean),
+    alternates: {
+      canonical: canonicalUrl,
+    },
+    openGraph: {
+      type: 'article',
+      url: canonicalUrl,
+      title: pageTitle,
+      description: pageDescription,
+      siteName: 'Sacred Scriptures - ciyo.in',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: pageTitle,
+      description: pageDescription,
+    },
   };
 }
 
@@ -53,19 +92,50 @@ export default async function ChapterPage({ params, searchParams }: PageProps) {
 
   const isRtl = data.dir === 'rtl';
 
+  // Schema.org JSON-LD Structured Data for Google Rich Snippets
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Chapter',
+    name: `${data.bookName} Chapter ${data.chapterNumber}`,
+    position: data.chapterNumber,
+    description: `Chapter ${data.chapterNumber} of ${data.bookName} from the ${data.translation}`,
+    inLanguage: data.language,
+    isPartOf: {
+      '@type': 'Book',
+      name: data.bookName,
+      alternateName: data.nativeName || undefined,
+      inLanguage: data.language,
+      isPartOf: {
+        '@type': 'CreativeWorkSeries',
+        name: 'Sacred Scriptures Holy Bible',
+        url: 'https://bible.ciyo.in',
+      },
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'ciyo.in',
+      url: 'https://ciyo.in',
+    },
+  };
+
   return (
-    <main className="max-w-4xl mx-auto py-12 px-4 sm:px-8">
+    <main className="max-w-4xl mx-auto py-6 sm:py-12 px-3 sm:px-8">
+      {/* Schema.org JSON-LD Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       {/* Chapter Title & Heading */}
-      <div className="text-center mb-12 relative">
+      <div className="text-center mb-8 sm:mb-12 relative">
         {/* Ciyo style pill tag */}
-        <div className="inline-flex items-center gap-2 mb-4 px-4 py-1.5 rounded-full border border-slate-700/60 bg-slate-900/80 shadow-md">
-          <span className="w-1.5 h-1.5 rounded-full bg-sky-400 animate-pulse"></span>
-          <span className="text-[11px] font-sans uppercase tracking-widest font-semibold bg-gradient-to-r from-sky-400 via-indigo-300 to-amber-300 bg-clip-text text-transparent">
+        <div className="inline-flex items-center gap-1.5 sm:gap-2 mb-3 sm:mb-4 px-3 sm:px-4 py-1.5 rounded-full border border-slate-700/60 bg-slate-900/80 shadow-md max-w-full">
+          <span className="w-1.5 h-1.5 rounded-full bg-sky-400 animate-pulse shrink-0"></span>
+          <span className="text-[10px] sm:text-[11px] font-sans uppercase tracking-widest font-semibold bg-gradient-to-r from-sky-400 via-indigo-300 to-amber-300 bg-clip-text text-transparent truncate">
             {data.translation}
           </span>
         </div>
 
-        <h1 className="text-4xl sm:text-6xl font-editorial-serif font-light tracking-tight text-white mb-3">
+        <h1 className="text-3xl sm:text-5xl lg:text-6xl font-editorial-serif font-light tracking-tight text-white mb-2 sm:mb-3 break-words">
           {data.bookName}{' '}
           <span className="bg-gradient-to-r from-amber-300 via-amber-400 to-yellow-500 bg-clip-text text-transparent font-medium">
             {data.chapterNumber}
@@ -75,7 +145,7 @@ export default async function ChapterPage({ params, searchParams }: PageProps) {
         {data.nativeName && data.nativeName !== data.bookName && (
           <div
             dir={isRtl ? 'rtl' : 'ltr'}
-            className={`text-2xl sm:text-3xl text-slate-400 font-normal tracking-wide mt-2 ${
+            className={`text-xl sm:text-2xl lg:text-3xl text-slate-400 font-normal tracking-wide mt-1.5 sm:mt-2 break-words ${
               data.language === 'hebrew'
                 ? 'font-hebrew'
                 : data.language === 'aramaic'

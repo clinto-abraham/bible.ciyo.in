@@ -167,7 +167,7 @@ export default function LanguageDropdown({ currentLang, languages }: LanguageDro
       {isOpen && (
         <div
           onWheel={(e) => e.stopPropagation()}
-          className="absolute right-0 mt-2 w-76 sm:w-84 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-2xl p-2.5 z-50 animate-in fade-in zoom-in-95 duration-150 flex flex-col"
+          className="absolute right-0 mt-2 w-76 sm:w-84 max-w-[calc(100vw-1.5rem)] rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-2xl p-2.5 z-50 animate-in fade-in zoom-in-95 duration-150 flex flex-col"
         >
           {/* Header & Search Bar */}
           <div className="pb-2 mb-1 border-b border-slate-100 dark:border-slate-800/80">

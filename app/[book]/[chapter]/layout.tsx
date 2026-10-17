@@ -3,6 +3,7 @@ import { cookies } from 'next/headers';
 import { getBooks, getChapterData, getLanguages, slugifyBook } from '@/lib/bible';
 import { PREFERRED_LANG_COOKIE } from '@/lib/preferences';
 import ChapterNav from '@/components/ChapterNav';
+import SiteFooter from '@/components/SiteFooter';
 
 interface LayoutProps {
   children: React.ReactNode;
@@ -52,16 +53,7 @@ export default async function ChapterLayout({ children, params }: LayoutProps) {
 
       <div className="flex-1 relative z-10">{children}</div>
 
-      <footer className="mt-auto border-t border-slate-800/80 py-10 text-center text-xs font-sans text-slate-500 bg-[#060814]/90">
-        <div className="max-w-4xl mx-auto px-6 space-y-2">
-          <p className="tracking-widest uppercase font-semibold text-slate-400">
-            Sacred Scriptures • Multi-Language Edition • ciyo.in
-          </p>
-          <p className="text-slate-400">
-            King James Version (KJV) • Westminster Leningrad Codex (WLC) • Textus Receptus (TR) • Judson Burmese • Elizabeth Slavonic
-          </p>
-        </div>
-      </footer>
+      <SiteFooter />
     </div>
   );
 }

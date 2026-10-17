@@ -1,9 +1,12 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
+import { useRouter } from 'next/navigation';
 import { ChapterData, Verse } from '@/lib/bible';
 import VerseCard from './VerseCard';
+import AudioSettingsModal from './AudioSettingsModal';
 import { getClientFontSize, setClientFontSize, FontSizeLevel } from '@/lib/preferences';
+import { speakText, stopAudio } from '@/lib/audio';
 
 interface ChapterReaderProps {
   data: ChapterData;
@@ -55,8 +58,151 @@ export default function ChapterReader({ data, initialVerse }: ChapterReaderProps
   const [fontSize, setFontSize] = useState<FontSizeLevel>(() => getClientFontSize());
   const [copyFeedback, setCopyFeedback] = useState<string | null>(null);
   const [isCopying, setIsCopying] = useState<boolean>(false);
+  const [isPlayingChapter, setIsPlayingChapter] = useState<boolean>(false);
+  const [isAudioSettingsOpen, setIsAudioSettingsOpen] = useState<boolean>(false);
+  const [bookmarks, setBookmarks] = useState<Array<{ id: string; bookSlug: string; chapterNumber: number; verseNumber: number }>>(() => {
+    if (typeof window === 'undefined') return [];
+    try {
+      const raw = localStorage.getItem('bible_bookmarks');
+      return raw ? JSON.parse(raw) : [];
+    } catch {
+      return [];
+    }
+  });
+  const [activeBookmarkIdx, setActiveBookmarkIdx] = useState<number>(() => {
+    if (typeof window === 'undefined') return 0;
+    try {
+      const raw = localStorage.getItem('bible_bookmarks');
+      const list = raw ? JSON.parse(raw) : [];
+      return list.length > 0 ? list.length - 1 : 0;
+    } catch {
+      return 0;
+    }
+  });
+
+  // Keep bookmarks in sync
+  useEffect(() => {
+    const syncBm = () => {
+      try {
+        const raw = localStorage.getItem('bible_bookmarks');
+        const list = raw ? JSON.parse(raw) : [];
+        setBookmarks(list);
+        if (list.length > 0) {
+          setActiveBookmarkIdx((prev) => Math.min(prev, list.length - 1));
+        }
+      } catch {
+        setBookmarks([]);
+      }
+    };
+    window.addEventListener('storage', syncBm);
+    window.addEventListener('bible_bookmarks_updated', syncBm);
+    return () => {
+      window.removeEventListener('storage', syncBm);
+      window.removeEventListener('bible_bookmarks_updated', syncBm);
+    };
+  }, []);
+
+  const router = useRouter();
+
+  const handleNextBookmark = () => {
+    if (bookmarks.length === 0) return;
+    const nextIdx = (activeBookmarkIdx + 1) % bookmarks.length;
+    setActiveBookmarkIdx(nextIdx);
+    const target = bookmarks[nextIdx];
+    if (target.bookSlug === data.bookSlug && target.chapterNumber === data.chapterNumber) {
+      setSelectedVerse(target.verseNumber);
+      scrollToVerse(target.verseNumber);
+    } else {
+      router.push(`/${target.bookSlug}/${target.chapterNumber}?lang=${data.language}#verse-${target.verseNumber}`);
+    }
+  };
+
+  const handlePrevBookmark = () => {
+    if (bookmarks.length === 0) return;
+    const prevIdx = (activeBookmarkIdx - 1 + bookmarks.length) % bookmarks.length;
+    setActiveBookmarkIdx(prevIdx);
+    const target = bookmarks[prevIdx];
+    if (target.bookSlug === data.bookSlug && target.chapterNumber === data.chapterNumber) {
+      setSelectedVerse(target.verseNumber);
+      scrollToVerse(target.verseNumber);
+    } else {
+      router.push(`/${target.bookSlug}/${target.chapterNumber}?lang=${data.language}#verse-${target.verseNumber}`);
+    }
+  };
 
   const containerRef = useRef<HTMLDivElement>(null);
+  const activePlayIndexRef = useRef<number | null>(null);
+
+  const stopChapterAudio = () => {
+    stopAudio();
+    setIsPlayingChapter(false);
+    activePlayIndexRef.current = null;
+  };
+
+  const playVerseAtIndex = (index: number, versesList: Verse[]) => {
+    if (index >= versesList.length) {
+      stopChapterAudio();
+      return;
+    }
+    const currentV = versesList[index];
+    setSelectedVerse(currentV.verse);
+    scrollToVerse(currentV.verse);
+    activePlayIndexRef.current = index;
+
+    speakText(currentV.text, data.language, {
+      onEnd: () => {
+        if (activePlayIndexRef.current === index) {
+          // Reverent 280ms pause between verses so speech synthesis pipeline resets smoothly
+          setTimeout(() => {
+            if (activePlayIndexRef.current === index) {
+              playVerseAtIndex(index + 1, versesList);
+            }
+          }, 280);
+        }
+      },
+      onError: (err) => {
+        console.warn('Speech error on verse:', currentV.verse, err);
+        // Resilient recovery: advance to next verse after short delay rather than aborting playback
+        if (activePlayIndexRef.current === index) {
+          setTimeout(() => {
+            if (activePlayIndexRef.current === index) {
+              playVerseAtIndex(index + 1, versesList);
+            }
+          }, 350);
+        }
+      },
+    });
+  };
+
+  const handleTogglePlayChapter = () => {
+    if (isPlayingChapter) {
+      stopChapterAudio();
+    } else {
+      let targetVerses = data.verses;
+      if (isRangeMode) {
+        const start = Math.min(rangeStart, rangeEnd);
+        const end = Math.max(rangeStart, rangeEnd);
+        targetVerses = data.verses.filter((v) => v.verse >= start && v.verse <= end);
+      } else if (selectedVerse !== null) {
+        const startIdx = data.verses.findIndex((v) => v.verse === selectedVerse);
+        if (startIdx !== -1) {
+          targetVerses = data.verses.slice(startIdx);
+        }
+      }
+
+      if (targetVerses.length > 0) {
+        setIsPlayingChapter(true);
+        playVerseAtIndex(0, targetVerses);
+      }
+    }
+  };
+
+  // Stop audio on unmount or chapter change
+  useEffect(() => {
+    return () => {
+      stopAudio();
+    };
+  }, [data.bookSlug, data.chapterNumber]);
 
   // Medium smooth scroll animation helper
   const scrollToVerse = (verseNum: number) => {
@@ -244,6 +390,37 @@ export default function ChapterReader({ data, initialVerse }: ChapterReaderProps
                   </span>
                 </div>
               )}
+
+              {/* Bookmarks Counter & Sequential Navigator in Toolbar */}
+              {bookmarks.length > 0 && (
+                <div className="flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-950/70 border border-emerald-500/50 text-xs shadow-xs">
+                  <span className="text-emerald-400 font-semibold flex items-center gap-1">
+                    <span>🔖</span>
+                    <span>{bookmarks.length}</span>
+                  </span>
+                  <div className="flex items-center gap-1 border-l border-emerald-800/80 pl-1.5">
+                    <button
+                      type="button"
+                      onClick={handlePrevBookmark}
+                      className="w-5 h-5 rounded-md bg-emerald-900/60 hover:bg-emerald-800 text-emerald-200 flex items-center justify-center text-xs font-bold transition-colors cursor-pointer"
+                      title="Previous Bookmark (-1)"
+                    >
+                      ‹
+                    </button>
+                    <span className="text-[10px] font-mono font-bold text-emerald-300 px-0.5">
+                      #{activeBookmarkIdx + 1}
+                    </span>
+                    <button
+                      type="button"
+                      onClick={handleNextBookmark}
+                      className="w-5 h-5 rounded-md bg-emerald-900/60 hover:bg-emerald-800 text-emerald-200 flex items-center justify-center text-xs font-bold transition-colors cursor-pointer"
+                      title="Next Bookmark (loops to 1st)"
+                    >
+                      ›
+                    </button>
+                  </div>
+                </div>
+              )}
             </div>
 
             {/* Right side: Copy Controls & Font Size Adjuster */}
@@ -304,6 +481,60 @@ export default function ChapterReader({ data, initialVerse }: ChapterReaderProps
                     </span>
                   </button>
                 )}
+              </div>
+
+              {/* Listen Audio Reading & Voice Settings Group */}
+              <div className="flex items-center gap-1 bg-slate-900/90 border border-slate-800 p-1 rounded-2xl">
+                <button
+                  type="button"
+                  onClick={handleTogglePlayChapter}
+                  className={`px-3 py-1.5 rounded-xl text-xs font-semibold flex items-center gap-1.5 transition-all cursor-pointer ${
+                    isPlayingChapter
+                      ? 'bg-amber-500/20 text-amber-300 border border-amber-500/80 shadow-amber-500/10'
+                      : 'hover:bg-slate-800 text-slate-200 hover:text-white'
+                  }`}
+                  title={isPlayingChapter ? 'Stop audio reading' : 'Read verses aloud in natural tongue'}
+                >
+                  {isPlayingChapter ? (
+                    <>
+                      <span className="flex items-end gap-0.5 h-3 px-0.5">
+                        <span className="w-0.5 h-full bg-amber-400 animate-pulse rounded-full" />
+                        <span className="w-0.5 h-2 bg-amber-300 animate-bounce rounded-full delay-75" />
+                        <span className="w-0.5 h-3 bg-amber-400 animate-pulse rounded-full delay-150" />
+                      </span>
+                      <span>Stop</span>
+                    </>
+                  ) : (
+                    <>
+                      <svg className="w-3.5 h-3.5 text-amber-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth={2}
+                          d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z"
+                        />
+                      </svg>
+                      <span>Listen</span>
+                    </>
+                  )}
+                </button>
+
+                {/* Voice & Gender Settings Trigger Button */}
+                <button
+                  type="button"
+                  onClick={() => setIsAudioSettingsOpen(true)}
+                  className="p-1.5 rounded-xl hover:bg-slate-800 text-slate-400 hover:text-amber-400 transition-colors cursor-pointer"
+                  title="Audio Voice & Gender Settings (Male/Female, Speed, Browser Voices)"
+                >
+                  <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"
+                    />
+                  </svg>
+                </button>
               </div>
 
               {/* Font Size Adjuster (A- / A+) */}
@@ -454,6 +685,13 @@ export default function ChapterReader({ data, initialVerse }: ChapterReaderProps
           );
         })}
       </div>
+
+      {/* AUDIO VOICE & GENDER SETTINGS MODAL */}
+      <AudioSettingsModal
+        isOpen={isAudioSettingsOpen}
+        onClose={() => setIsAudioSettingsOpen(false)}
+        currentLang={data.language}
+      />
     </div>
   );
 }

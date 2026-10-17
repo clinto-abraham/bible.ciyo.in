@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { ComparativeVerse, WordBreakdown } from '@/lib/bible';
+import AudioPlayButton from './AudioPlayButton';
 
 interface VerseDetails {
   book: string;
@@ -187,30 +188,40 @@ export default function TranslationModal({
                   )}
                 </div>
 
-                {/* Primary Card Copy Button */}
-                <button
-                  type="button"
-                  onClick={() => copyText(data?.primaryText || initialText, 'primary')}
-                  className={`flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold tracking-wide transition-all cursor-pointer shadow-xs border ${
-                    copiedId === 'primary'
-                      ? 'bg-emerald-950 text-emerald-300 border-emerald-600'
-                      : 'bg-slate-800/90 hover:bg-slate-700 text-slate-200 hover:text-white border-slate-700/80'
-                  }`}
-                >
-                  {copiedId === 'primary' ? (
-                    <>
-                      <span className="text-emerald-400">✓</span>
-                      <span>Copied!</span>
-                    </>
-                  ) : (
-                    <>
-                      <svg className="w-3.5 h-3.5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
-                      </svg>
-                      <span>Copy Text</span>
-                    </>
-                  )}
-                </button>
+                <div className="flex items-center gap-2 flex-wrap">
+                  {/* Listen Audio Button with Voice Settings */}
+                  <AudioPlayButton
+                    text={data?.primaryText || initialText}
+                    lang={lang}
+                    label="Listen"
+                    showSettings={true}
+                  />
+
+                  {/* Primary Card Copy Button */}
+                  <button
+                    type="button"
+                    onClick={() => copyText(data?.primaryText || initialText, 'primary')}
+                    className={`flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold tracking-wide transition-all cursor-pointer shadow-xs border ${
+                      copiedId === 'primary'
+                        ? 'bg-emerald-950 text-emerald-300 border-emerald-600'
+                        : 'bg-slate-800/90 hover:bg-slate-700 text-slate-200 hover:text-white border-slate-700/80'
+                    }`}
+                  >
+                    {copiedId === 'primary' ? (
+                      <>
+                        <span className="text-emerald-400">✓</span>
+                        <span>Copied!</span>
+                      </>
+                    ) : (
+                      <>
+                        <svg className="w-3.5 h-3.5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+                        </svg>
+                        <span>Copy Text</span>
+                      </>
+                    )}
+                  </button>
+                </div>
               </div>
 
               <p
@@ -275,31 +286,38 @@ export default function TranslationModal({
                           </span>
                         </div>
 
-                        {/* Copy Button for This Language */}
+                        {/* Audio Listen & Copy Buttons for This Language */}
                         {comp.available && comp.text && (
-                          <button
-                            type="button"
-                            onClick={() => copyText(comp.text, comp.langId)}
-                            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold tracking-wide transition-all cursor-pointer shadow-xs border ${
-                              isThisCopied
-                                ? 'bg-emerald-950 text-emerald-300 border-emerald-600'
-                                : `${comp.theme.copyBg} ${comp.theme.copyHover}`
-                            }`}
-                          >
-                            {isThisCopied ? (
-                              <>
-                                <span className="text-emerald-400">✓</span>
-                                <span>Copied!</span>
-                              </>
-                            ) : (
-                              <>
-                                <svg className="w-3.5 h-3.5 opacity-80" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
-                                </svg>
-                                <span>Copy {comp.name.split(' ')[0]}</span>
-                              </>
-                            )}
-                          </button>
+                          <div className="flex items-center gap-2 flex-wrap">
+                            <AudioPlayButton
+                              text={comp.text}
+                              lang={comp.langId}
+                              label="Listen"
+                            />
+                            <button
+                              type="button"
+                              onClick={() => copyText(comp.text, comp.langId)}
+                              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-semibold tracking-wide transition-all cursor-pointer shadow-xs border ${
+                                isThisCopied
+                                  ? 'bg-emerald-950 text-emerald-300 border-emerald-600'
+                                  : `${comp.theme.copyBg} ${comp.theme.copyHover}`
+                              }`}
+                            >
+                              {isThisCopied ? (
+                                <>
+                                  <span className="text-emerald-400">✓</span>
+                                  <span>Copied!</span>
+                                </>
+                              ) : (
+                                <>
+                                  <svg className="w-3.5 h-3.5 opacity-80" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+                                  </svg>
+                                  <span>Copy {comp.name.split(' ')[0]}</span>
+                                </>
+                              )}
+                            </button>
+                          </div>
                         )}
                       </div>
 

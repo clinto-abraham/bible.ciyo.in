@@ -190,7 +190,7 @@ export default function PassageSelector({
 
             {/* Book Search Dropdown Popover */}
             {bookDropdownOpen && (
-              <div className="absolute left-0 mt-2 w-full sm:w-80 rounded-2xl bg-slate-900 border border-slate-700 shadow-2xl p-2.5 z-50 animate-in fade-in zoom-in-95 duration-150">
+              <div className="absolute left-0 mt-2 w-full sm:w-80 max-w-[calc(100vw-2.5rem)] rounded-2xl bg-slate-900 border border-slate-700 shadow-2xl p-2.5 z-50 animate-in fade-in zoom-in-95 duration-150">
                 {/* Search Bar Input */}
                 <div className="relative mb-2">
                   <span className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-slate-400">
@@ -285,7 +285,7 @@ export default function PassageSelector({
 
             {/* Chapter Search Dropdown */}
             {chapterDropdownOpen && (
-              <div className="absolute left-0 mt-2 w-full sm:w-64 rounded-2xl bg-slate-900 border border-slate-700 shadow-2xl p-2.5 z-50 animate-in fade-in zoom-in-95 duration-150">
+              <div className="absolute left-0 mt-2 w-full sm:w-64 max-w-[calc(100vw-2.5rem)] rounded-2xl bg-slate-900 border border-slate-700 shadow-2xl p-2.5 z-50 animate-in fade-in zoom-in-95 duration-150">
                 <div className="relative mb-2">
                   <input
                     ref={chapterSearchInputRef}
@@ -353,7 +353,7 @@ export default function PassageSelector({
 
             {/* Verse Search Dropdown */}
             {verseDropdownOpen && (
-              <div className="absolute left-0 mt-2 w-full sm:w-56 rounded-2xl bg-slate-900 border border-slate-700 shadow-2xl p-2.5 z-50 animate-in fade-in zoom-in-95 duration-150">
+              <div className="absolute left-0 sm:right-0 sm:left-auto mt-2 w-full sm:w-56 max-w-[calc(100vw-2.5rem)] rounded-2xl bg-slate-900 border border-slate-700 shadow-2xl p-2.5 z-50 animate-in fade-in zoom-in-95 duration-150">
                 <div className="relative mb-2">
                   <input
                     ref={verseSearchInputRef}

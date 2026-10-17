@@ -6,6 +6,7 @@ import { PREFERRED_LANG_COOKIE } from '@/lib/preferences';
 import LanguageDropdown from '@/components/LanguageDropdown';
 import PassageSelector from '@/components/PassageSelector';
 import LanguageCard from '@/components/LanguageCard';
+import SiteFooter from '@/components/SiteFooter';
 
 interface HomePageProps {
   searchParams?: Promise<{ lang?: string }>;
@@ -58,8 +59,49 @@ export default async function HomePage({ searchParams }: HomePageProps) {
 
   const startBook = activeLangMeta.firstBook || 'genesis';
 
+  // Schema.org WebSite & Organization JSON-LD for Search Engines
+  const websiteJsonLd = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'WebSite',
+        '@id': 'https://bible.ciyo.in/#website',
+        name: 'Sacred Scriptures',
+        alternateName: ['bible.ciyo.in', 'ciyo.in Bible', 'Multi-Language Biblical Codices'],
+        url: 'https://bible.ciyo.in',
+        description:
+          'Read, listen, and cross-reference the Holy Scriptures across 15 ancient manuscripts and world translations: Westminster Leningrad Codex Hebrew, Textus Receptus Greek, Syriac Aramaic Peshitta, Malayalam, King James Version, and Berean Standard Bible.',
+        inLanguage: languages.map((l) => l.id),
+        publisher: {
+          '@id': 'https://bible.ciyo.in/#organization',
+        },
+      },
+      {
+        '@type': 'Organization',
+        '@id': 'https://bible.ciyo.in/#organization',
+        name: 'ciyo.in',
+        url: 'https://ciyo.in',
+        email: 'care@ciyo.in',
+        telephone: '+91-8590770477',
+        address: {
+          '@type': 'PostalAddress',
+          streetAddress: 'Iritty',
+          addressLocality: 'Kannur',
+          addressRegion: 'Kerala',
+          postalCode: '670703',
+          addressCountry: 'IN',
+        },
+      },
+    ],
+  };
+
   return (
     <div className="min-h-screen bg-[#060814] text-white selection:bg-sky-500/30 selection:text-white flex flex-col justify-between relative overflow-x-hidden">
+      {/* Schema.org JSON-LD Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+      />
       {/* Cosmic background glow effects matching Screenshot 1 */}
       <div
         aria-hidden="true"
@@ -90,8 +132,14 @@ export default async function HomePage({ searchParams }: HomePageProps) {
             </div>
           </Link>
 
-          {/* Top Right: Language Dropdown (Matching Screenshot 2) */}
-          <div className="flex items-center gap-3">
+          {/* Top Right: About Link & Language Dropdown */}
+          <div className="flex items-center gap-2.5">
+            <Link
+              href="/about"
+              className="text-xs font-medium text-slate-300 hover:text-sky-400 transition-colors px-3 py-1.5 rounded-full border border-slate-800/80 bg-slate-900/70 hover:border-slate-700 shadow-xs"
+            >
+              About
+            </Link>
             <Suspense fallback={<div className="w-32 h-9 rounded-full bg-slate-900 border border-slate-800 animate-pulse" />}>
               <LanguageDropdown currentLang={currentLang} languages={languages} />
             </Suspense>
@@ -100,21 +148,21 @@ export default async function HomePage({ searchParams }: HomePageProps) {
       </header>
 
       {/* Hero Section */}
-      <main className="max-w-6xl mx-auto px-6 py-16 w-full flex-1">
-        <div className="text-center py-6 mb-12 relative">
+      <main className="max-w-6xl mx-auto px-3 sm:px-6 py-8 sm:py-16 w-full flex-1">
+        <div className="text-center py-4 sm:py-6 mb-8 sm:mb-12 relative">
           {/* Ciyo Style Top Pill Tag */}
-          <div className="inline-flex items-center gap-2 mb-6 px-4 py-1.5 rounded-full border border-slate-700/60 bg-slate-900/80 shadow-md">
-            <span className="text-xs font-sans tracking-wider uppercase font-semibold bg-gradient-to-r from-purple-400 via-indigo-300 to-cyan-400 bg-clip-text text-transparent">
+          <div className="inline-flex items-center gap-1.5 sm:gap-2 mb-4 sm:mb-6 px-3.5 sm:px-4 py-1.5 rounded-full border border-slate-700/60 bg-slate-900/80 shadow-md max-w-full">
+            <span className="text-[10px] sm:text-xs font-sans tracking-wider uppercase font-semibold bg-gradient-to-r from-purple-400 via-indigo-300 to-cyan-400 bg-clip-text text-transparent truncate">
               MULTI-LANGUAGE SCRIPTURES
             </span>
             <span className="text-slate-600">•</span>
-            <span className="text-xs font-sans tracking-wider uppercase font-medium text-slate-400">
-              CIYO.IN OFFICIAL
+            <span className="text-[10px] sm:text-xs font-sans tracking-wider uppercase font-medium text-slate-400 shrink-0">
+              CIYO.IN
             </span>
           </div>
 
           {/* Main Headline with Ciyo Gradient Concept */}
-          <h1 className="text-5xl sm:text-7xl font-bold tracking-tight text-white mb-6 leading-[1.15]">
+          <h1 className="text-3xl sm:text-5xl lg:text-7xl font-bold tracking-tight text-white mb-4 sm:mb-6 leading-[1.2] sm:leading-[1.15] break-words">
             The Living Word in{' '}
             <span className="bg-gradient-to-r from-sky-400 via-blue-400 to-blue-500 bg-clip-text text-transparent">
               Ancient Tongues
@@ -125,8 +173,8 @@ export default async function HomePage({ searchParams }: HomePageProps) {
             </span>
           </h1>
 
-          <p className="max-w-2xl mx-auto text-base sm:text-lg text-slate-400 font-sans font-normal leading-relaxed mb-10">
-            A lightweight, heavily optimized reader streaming one chapter at a time with waving shimmer skeletons, vocalized biblical typography, and deep lexical translation history.
+          <p className="max-w-2xl mx-auto text-sm sm:text-base lg:text-lg text-slate-400 font-sans font-normal leading-relaxed mb-8 sm:mb-10 px-2">
+            A lightweight, heavily optimized reader streaming one chapter at a time with waving shimmer skeletons, multi-lingual audio pronunciation, and deep lexical translation history.
           </p>
 
           {/* HUGE READ BIBLE NOW BUTTON + PASSAGE SELECTOR DROPDOWNS WITH SEARCH */}
@@ -396,16 +444,7 @@ export default async function HomePage({ searchParams }: HomePageProps) {
       </main>
 
       {/* Footer */}
-      <footer className="border-t border-slate-800/80 py-12 text-center text-xs font-sans text-slate-500 bg-[#060814]/90">
-        <div className="max-w-4xl mx-auto px-6 space-y-2">
-          <p className="tracking-widest uppercase font-semibold text-slate-400">
-            Sacred Scriptures • ciyo.in official
-          </p>
-          <p className="text-slate-400">
-            Hebrew (WLC) • English (KJV, BSB, YLT) • Malayalam • Greek (TR) • Syriac Aramaic • Latin Vulgate • German • French • Spanish • Russian • Chinese • Burmese • Church Slavonic
-          </p>
-        </div>
-      </footer>
+      <SiteFooter />
     </div>
   );
 }
