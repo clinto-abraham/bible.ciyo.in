@@ -132,11 +132,13 @@ export default function ChapterReader({ data, initialVerse }: ChapterReaderProps
 
   const containerRef = useRef<HTMLDivElement>(null);
   const activePlayIndexRef = useRef<number | null>(null);
+  const consecutiveErrorsRef = useRef<number>(0);
 
   const stopChapterAudio = () => {
     stopAudio();
     setIsPlayingChapter(false);
     activePlayIndexRef.current = null;
+    consecutiveErrorsRef.current = 0;
   };
 
   const playVerseAtIndex = (index: number, versesList: Verse[]) => {
@@ -150,26 +152,30 @@ export default function ChapterReader({ data, initialVerse }: ChapterReaderProps
     activePlayIndexRef.current = index;
 
     speakText(currentV.text, data.language, {
+      onStart: () => {
+        consecutiveErrorsRef.current = 0;
+      },
       onEnd: () => {
         if (activePlayIndexRef.current === index) {
-          // Reverent 280ms pause between verses so speech synthesis pipeline resets smoothly
+          consecutiveErrorsRef.current = 0;
+          // Reverent 300ms pause between verses so speech synthesis pipeline resets smoothly
           setTimeout(() => {
             if (activePlayIndexRef.current === index) {
               playVerseAtIndex(index + 1, versesList);
             }
-          }, 280);
+          }, 300);
         }
       },
-      onError: (err) => {
-        console.warn('Speech error on verse:', currentV.verse, err);
-        // Resilient recovery: advance to next verse after short delay rather than aborting playback
-        if (activePlayIndexRef.current === index) {
-          setTimeout(() => {
-            if (activePlayIndexRef.current === index) {
-              playVerseAtIndex(index + 1, versesList);
-            }
-          }, 350);
+      onError: (err: unknown) => {
+        const speechErr = err as { error?: string } | undefined;
+        // If playback was cancelled by user (error === 'canceled' or 'interrupted'), stop cleanly without cascading
+        if (speechErr?.error === 'canceled' || speechErr?.error === 'interrupted') {
+          return;
         }
+
+        console.warn('Speech synthesis halted on verse:', currentV.verse, err);
+        // Halt audio playback immediately — NEVER cascade through all verses to the end of the chapter!
+        stopChapterAudio();
       },
     });
   };
@@ -186,12 +192,14 @@ export default function ChapterReader({ data, initialVerse }: ChapterReaderProps
       } else if (selectedVerse !== null) {
         const startIdx = data.verses.findIndex((v) => v.verse === selectedVerse);
         if (startIdx !== -1) {
+          // Read starting directly from the currently selected verse onwards
           targetVerses = data.verses.slice(startIdx);
         }
       }
 
       if (targetVerses.length > 0) {
         setIsPlayingChapter(true);
+        consecutiveErrorsRef.current = 0;
         playVerseAtIndex(0, targetVerses);
       }
     }

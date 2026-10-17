@@ -224,6 +224,48 @@ export function isNativeHebrewVoice(voice: SpeechSynthesisVoice): boolean {
   );
 }
 
+// Check if a voice natively speaks Koine/Modern Greek
+export function isNativeGreekVoice(voice: SpeechSynthesisVoice): boolean {
+  const l = voice.lang.toLowerCase().replace(/_/g, '-');
+  const n = voice.name.toLowerCase();
+  return (
+    l.startsWith('el') ||
+    n.includes('greek') ||
+    n.includes('ελληνικά') ||
+    n.includes('melina') ||
+    n.includes('nikos')
+  );
+}
+
+// Check if a voice natively speaks Syriac or Semitic Arabic
+export function isNativeAramaicVoice(voice: SpeechSynthesisVoice): boolean {
+  const l = voice.lang.toLowerCase().replace(/_/g, '-');
+  const n = voice.name.toLowerCase();
+  return (
+    l.startsWith('syr') ||
+    l.startsWith('ar') ||
+    n.includes('syriac') ||
+    n.includes('arabic') ||
+    n.includes('aramaic')
+  );
+}
+
+// Check if a voice is considered native for a given biblical language
+export function isNativeVoiceForLanguage(voice: SpeechSynthesisVoice, langId: string): boolean {
+  if (langId === 'hebrew') return isNativeHebrewVoice(voice);
+  if (langId === 'greek') return isNativeGreekVoice(voice);
+  if (langId === 'aramaic') return isNativeAramaicVoice(voice);
+
+  const mapping = LANGUAGE_LOCALES[langId];
+  if (!mapping) return false;
+
+  const vLang = voice.lang.toLowerCase().replace(/_/g, '-');
+  return mapping.bcp47.some((code) => {
+    const clean = code.toLowerCase().replace(/_/g, '-');
+    return vLang === clean || vLang.startsWith(clean.split('-')[0]);
+  });
+}
+
 // Retrieve curated, non-novelty voices available for a given language
 export function getAvailableVoicesForLang(langId: string): SpeechSynthesisVoice[] {
   const allVoices = getLoadedVoices();
@@ -236,6 +278,8 @@ export function getAvailableVoicesForLang(langId: string): SpeechSynthesisVoice[
     if (isNoveltyVoice(v)) return false;
 
     if (langId === 'hebrew' && isNativeHebrewVoice(v)) return true;
+    if (langId === 'greek' && isNativeGreekVoice(v)) return true;
+    if (langId === 'aramaic' && isNativeAramaicVoice(v)) return true;
 
     const vLang = v.lang.toLowerCase().replace(/_/g, '-');
     return mapping.bcp47.some((code) => {
@@ -410,6 +454,101 @@ export function transliterateHebrew(heb: string): string {
   return out.replace(/\s+/g, ' ').trim();
 }
 
+// Koine Greek letter mapping for devices lacking a native Greek TTS voice
+const GREEK_TRANSLIT_MAP: Record<string, string> = {
+  'α': 'a', 'ά': 'a', 'ὰ': 'a', 'ᾶ': 'a', 'ἀ': 'a', 'ἁ': 'ha', 'ἄ': 'a', 'ἅ': 'ha', 'ἆ': 'a', 'ἇ': 'ha', 'ᾳ': 'a', 'ᾴ': 'a', 'ᾷ': 'a',
+  'β': 'v',
+  'γ': 'g',
+  'δ': 'd',
+  'ε': 'e', 'έ': 'e', 'ὲ': 'e', 'ἐ': 'e', 'ἑ': 'he', 'ἔ': 'e', 'ἕ': 'he',
+  'ζ': 'z',
+  'η': 'i', 'ή': 'i', 'ὴ': 'i', 'ῆ': 'i', 'ἠ': 'i', 'ἡ': 'hi', 'ἤ': 'i', 'ἥ': 'hi', 'ἦ': 'i', 'ἧ': 'hi', 'ῃ': 'i', 'ῄ': 'i', 'ῇ': 'i',
+  'θ': 'th',
+  'ι': 'i', 'ί': 'i', 'ὶ': 'i', 'ῖ': 'i', 'ἰ': 'i', 'ἱ': 'hi', 'ἴ': 'i', 'ἵ': 'hi', 'ἶ': 'i', 'ἷ': 'hi', 'ϊ': 'i', 'ΐ': 'i',
+  'κ': 'k',
+  'λ': 'l',
+  'μ': 'm',
+  'ν': 'n',
+  'ξ': 'x',
+  'ο': 'o', 'ό': 'o', 'ὸ': 'o', 'ὀ': 'o', 'ὁ': 'ho', 'ὄ': 'o', 'ὅ': 'ho',
+  'π': 'p',
+  'ρ': 'r', 'ῤ': 'r', 'ῥ': 'rh',
+  'σ': 's', 'ς': 's',
+  'τ': 't',
+  'υ': 'y', 'ύ': 'y', 'ὺ': 'y', 'ῦ': 'y', 'ὐ': 'y', 'ὑ': 'hy', 'ὔ': 'y', 'ὕ': 'hy', 'ὖ': 'y', 'ὗ': 'hy', 'ϋ': 'y', 'ΰ': 'y',
+  'φ': 'ph',
+  'χ': 'ch',
+  'ψ': 'ps',
+  'ω': 'o', 'ώ': 'o', 'ὼ': 'o', 'ῶ': 'o', 'ὠ': 'o', 'ὡ': 'ho', 'ὤ': 'o', 'ὥ': 'ho', 'ὦ': 'o', 'ὧ': 'ho', 'ῳ': 'o', 'ῴ': 'o', 'ῷ': 'o',
+};
+
+const GREEK_DIPHTHONGS: Array<[string, string]> = [
+  ['ου', 'ou'], ['ού', 'ou'], ['οὺ', 'ou'], ['οῦ', 'ou'],
+  ['αι', 'ai'], ['αί', 'ai'], ['αὶ', 'ai'], ['αῖ', 'ai'],
+  ['ει', 'ei'], ['εί', 'ei'], ['εὶ', 'ei'], ['εῖ', 'ei'],
+  ['οι', 'oi'], ['οί', 'oi'], ['οὶ', 'oi'], ['οῖ', 'oi'],
+  ['υι', 'ui'], ['υί', 'ui'], ['υὶ', 'ui'], ['υῖ', 'ui'],
+  ['αυ', 'av'], ['αύ', 'av'], ['αὺ', 'av'], ['αῦ', 'av'],
+  ['ευ', 'ev'], ['εύ', 'ev'], ['εὺ', 'ev'], ['εῦ', 'ev'],
+  ['γγ', 'ng'], ['γκ', 'nk'], ['γχ', 'nch'], ['μπ', 'mp'], ['ντ', 'nt'],
+];
+
+export function transliterateGreek(greek: string): string {
+  let s = greek.toLowerCase();
+  for (const [diph, repl] of GREEK_DIPHTHONGS) {
+    s = s.replaceAll(diph, repl);
+  }
+  let out = '';
+  for (const ch of s) {
+    if (GREEK_TRANSLIT_MAP[ch] !== undefined) {
+      out += GREEK_TRANSLIT_MAP[ch];
+    } else if (/[a-zA-Z0-9\s.,!?;:]/.test(ch)) {
+      out += ch;
+    }
+  }
+  return out.replace(/\s+/g, ' ').trim();
+}
+
+// Syriac Aramaic letter mapping for devices lacking a native Syriac voice
+const SYRIAC_TRANSLIT_MAP: Record<string, string> = {
+  'ܐ': 'a',
+  'ܒ': 'b',
+  'ܓ': 'g',
+  'ܕ': 'd',
+  'ܗ': 'h',
+  'ܘ': 'w',
+  'ܙ': 'z',
+  'ܚ': 'kh',
+  'ܛ': 't',
+  'ܝ': 'y',
+  'ܟ': 'k',
+  'ܠ': 'l',
+  'ܡ': 'm',
+  'ܢ': 'n',
+  'ܣ': 's',
+  'ܤ': 's',
+  'ܥ': 'e',
+  'ܦ': 'p',
+  'ܧ': 'p',
+  'ܨ': 'ts',
+  'ܩ': 'q',
+  'ܪ': 'r',
+  'ܫ': 'sh',
+  'ܬ': 't',
+};
+
+export function transliterateAramaic(aramaic: string): string {
+  let out = '';
+  for (const ch of aramaic) {
+    if (SYRIAC_TRANSLIT_MAP[ch] !== undefined) {
+      out += SYRIAC_TRANSLIT_MAP[ch];
+    } else if (/[a-zA-Z0-9\s.,!?;:]/.test(ch)) {
+      out += ch;
+    }
+  }
+  return out.replace(/\s+/g, ' ').trim();
+}
+
 // Keep active utterances referenced in memory to prevent V8 Garbage Collection from cutting off speech
 const activeUtterances = new Set<SpeechSynthesisUtterance>();
 
@@ -456,8 +595,21 @@ export function sanitizeTextForSpeech(
       cleaned = cleaned.normalize('NFC');
     } else {
       // Fallback: If no Hebrew voice is installed in user browser, transliterate to phonetic text
-      // so an English/Latin voice reads every single word clearly instead of uttering 1 garbled word!
       cleaned = transliterateHebrew(cleaned);
+    }
+  } else if (langId === 'greek') {
+    if (hasNativeVoice) {
+      cleaned = cleaned.normalize('NFC');
+    } else {
+      // Fallback: If no Greek voice is installed in user browser (e.g. mobile Safari), transliterate to phonetic Latin
+      cleaned = transliterateGreek(cleaned);
+    }
+  } else if (langId === 'aramaic') {
+    if (hasNativeVoice) {
+      cleaned = cleaned.replace(/[\u0700-\u070D]/g, ' ');
+      cleaned = cleaned.normalize('NFC');
+    } else {
+      cleaned = transliterateAramaic(cleaned);
     }
   } else if (langId === 'malayalam') {
     // 1. Convert archaic Dot Reph \u0D4E to modern chillu \u0D7C (ർ) so modern Indian TTS engines don't choke
@@ -465,9 +617,6 @@ export function sanitizeTextForSpeech(
     // 2. Replace semicolons and colons with natural pause commas
     cleaned = cleaned.replace(/[;:]/g, ',');
     // 3. Normalize Unicode
-    cleaned = cleaned.normalize('NFC');
-  } else if (langId === 'aramaic') {
-    cleaned = cleaned.replace(/[\u0700-\u070D]/g, ' ');
     cleaned = cleaned.normalize('NFC');
   } else {
     cleaned = cleaned.replace(/[—–]/g, ', ');
@@ -494,7 +643,7 @@ export function speakText(text: string, langId: string, options?: SpeakOptions) 
     preferredVoiceName: effectiveVoiceName,
   });
 
-  const hasNativeVoice = voice ? isNativeHebrewVoice(voice) : false;
+  const hasNativeVoice = voice ? isNativeVoiceForLanguage(voice, langId) : false;
   const cleanText = sanitizeTextForSpeech(text, langId, hasNativeVoice);
   if (!cleanText) {
     options?.onEnd?.();
@@ -505,7 +654,13 @@ export function speakText(text: string, langId: string, options?: SpeakOptions) 
 
   if (voice) {
     utterance.voice = voice;
-    utterance.lang = voice.lang;
+    // If transliterated to phonetic Latin because no native voice exists on device (e.g. iPhone Greek/Hebrew/Aramaic),
+    // match the utterance language tag to the fallback voice (e.g. en-US) so WebKit doesn't throw language-unavailable!
+    if (!hasNativeVoice && (langId === 'hebrew' || langId === 'greek' || langId === 'aramaic')) {
+      utterance.lang = voice.lang || 'en-US';
+    } else {
+      utterance.lang = voice.lang;
+    }
   } else {
     const mapping = LANGUAGE_LOCALES[langId] || { bcp47: ['en-US'] };
     utterance.lang = mapping.bcp47[0] || 'en-US';
@@ -515,7 +670,6 @@ export function speakText(text: string, langId: string, options?: SpeakOptions) 
   utterance.rate = options?.rate || settings.rate || 0.92;
 
   // Pitch modulation:
-  // If voice is Carmit (female) and Male was chosen, pitch = 0.8 to create a deep male voice!
   if (options?.pitch) {
     utterance.pitch = options.pitch;
   } else if (effectiveGender === 'male') {
@@ -551,17 +705,20 @@ export function speakText(text: string, langId: string, options?: SpeakOptions) 
     if (activeUtterances.size === 0) {
       stopKeepAlive();
     }
+    // Ignore intentional cancel or interrupted events - do NOT treat as failure
+    if (e.error === 'canceled' || e.error === 'interrupted') {
+      return;
+    }
     options?.onError?.(e);
   };
 
-  setTimeout(() => {
-    try {
-      window.speechSynthesis.speak(utterance);
-    } catch (err) {
-      activeUtterances.delete(utterance);
-      options?.onError?.(err);
-    }
-  }, 20);
+  // Synchronous speak call to preserve mobile Safari / iOS WebKit user-activation context
+  try {
+    window.speechSynthesis.speak(utterance);
+  } catch (err) {
+    activeUtterances.delete(utterance);
+    options?.onError?.(err);
+  }
 }
 
 export function stopAudio() {
