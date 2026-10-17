@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 29,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "psalmus cantici in dedicatione domus David psalmus cantici pro dedicatione domus David"
+    },
+    {
+      "verse": 2,
+      "text": "exaltabo te Domine quoniam suscepisti me nec delectasti inimicos meos super me exaltabo te Domine quoniam salvasti me et non delectasti inimicos meos super me"
+    },
+    {
+      "verse": 3,
+      "text": "Domine Deus meus clamavi ad te et sanasti me Domine Deus meus clamavi ad te et sanasti me"
+    },
+    {
+      "verse": 4,
+      "text": "Domine eduxisti ab inferno animam meam salvasti me a descendentibus in lacum Domine eduxisti de inferno animam meam vivificasti me ne descenderem in lacum"
+    },
+    {
+      "verse": 5,
+      "text": "psallite Domino sancti eius et confitemini memoriae sanctitatis eius cantate Domino sancti eius et confitemini memoriae sanctitatis eius"
+    },
+    {
+      "verse": 6,
+      "text": "quoniam ira in indignatione eius et vita in voluntate eius ad vesperum demorabitur fletus et ad matutinum laetitia quoniam ad momentum est ira eius et vita in repropitiatione eius ad vesperum commorabitur fletus et in matutino laus"
+    },
+    {
+      "verse": 7,
+      "text": "ego autem dixi in abundantia mea non movebor in aeternum ego autem dixi in abundantia mea non commovebor in sempiternum"
+    },
+    {
+      "verse": 8,
+      "text": "Domine in voluntate tua praestitisti decori meo virtutem avertisti faciem tuam et factus sum conturbatus Domine in voluntate tua posuisti monti meo fortitudinem abscondisti faciem tuam et factus sum conturbatus"
+    },
+    {
+      "verse": 9,
+      "text": "ad te Domine clamabo et ad Deum meum deprecabor ad Dominum clamabo et Dominum deprecabor"
+    },
+    {
+      "verse": 10,
+      "text": "quae utilitas in sanguine meo dum descendo in corruptionem numquid confitebitur tibi pulvis aut adnuntiabit veritatem tuam quae est utilitas in sanguine meo cum descendero in corruptionem numquid confitebitur tibi pulvis aut adnuntiabit veritatem tuam"
+    },
+    {
+      "verse": 11,
+      "text": "audivit Dominus et misertus est mei Dominus factus est adiutor meus audi Domine et miserere mei Domine esto adiutor"
+    },
+    {
+      "verse": 12,
+      "text": "convertisti planctum meum in gaudium mihi conscidisti saccum meum et circumdedisti me laetitia convertisti planctum meum in chorum mihi solvisti saccum meum et accinxisti me laetitia"
+    },
+    {
+      "verse": 13,
+      "text": "ut cantet tibi gloria mea et non conpungar Domine Deus meus in aeternum confitebor tibi ut laudet te gloria et non taceat Domine Deus meus in sempiternum confitebor tibi"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Job",
+  "bookSlug": "job",
+  "nativeName": "Job",
+  "chapterNumber": 25,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Y RESPONDIÓ Bildad Suhita, y dijo:"
+    },
+    {
+      "verse": 2,
+      "text": "El señorío y el temor están con él: él hace paz en sus alturas."
+    },
+    {
+      "verse": 3,
+      "text": "¿Tienen sus ejércitos número? ¿y sobre quién no está su luz?"
+    },
+    {
+      "verse": 4,
+      "text": "¿Cómo pues se justificará el hombre con Dios? ¿y cómo será limpio el que nace de mujer?"
+    },
+    {
+      "verse": 5,
+      "text": "He aquí que ni aun la misma luna será resplandeciente, ni las estrellas son limpias delante de sus ojos:"
+    },
+    {
+      "verse": 6,
+      "text": "¿Cuánto menos el hombre que es un gusano, y el hijo de hombre, también gusano?"
+    }
+  ]
+}

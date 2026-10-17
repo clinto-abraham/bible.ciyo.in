@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Numbers",
+  "bookSlug": "numbers",
+  "nativeName": "Numeri",
+  "chapterNumber": 36,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "accesserunt autem et principes familiarum Galaad filii Machir filii Manasse de stirpe filiorum Ioseph locutique sunt Mosi coram principibus Israhel atque dixerunt"
+    },
+    {
+      "verse": 2,
+      "text": "tibi domino nostro praecepit Dominus ut terram sorte divideres filiis Israhel et ut filiabus Salphaad fratris nostri dares possessionem debitam patri"
+    },
+    {
+      "verse": 3,
+      "text": "quas si alterius tribus homines uxores acceperint sequetur possessio sua et translata ad aliam tribum de nostra hereditate minuetur"
+    },
+    {
+      "verse": 4,
+      "text": "atque ita fiet ut cum iobeleus id est quinquagesimus annus remissionis advenerit confundatur sortium distributio et aliorum possessio ad alios transeat"
+    },
+    {
+      "verse": 5,
+      "text": "respondit Moses filiis Israhel et Domino praecipiente ait recte tribus filiorum Ioseph locuta est"
+    },
+    {
+      "verse": 6,
+      "text": "et haec lex super filiabus Salphaad a Domino promulgata est nubant quibus volunt tantum ut suae tribus hominibus"
+    },
+    {
+      "verse": 7,
+      "text": "ne commisceatur possessio filiorum Israhel de tribu in tribum omnes enim viri ducent uxores de tribu et cognatione sua"
+    },
+    {
+      "verse": 8,
+      "text": "et cunctae feminae maritos de eadem tribu accipient ut hereditas permaneat in familiis"
+    },
+    {
+      "verse": 9,
+      "text": "nec sibi misceantur tribus sed ita maneant"
+    },
+    {
+      "verse": 10,
+      "text": "ut a Domino separatae sunt feceruntque filiae Salphaad ut fuerat imperatum"
+    },
+    {
+      "verse": 11,
+      "text": "et nupserunt Maala et Thersa et Egla et Melcha et Noa filiis patrui sui"
+    },
+    {
+      "verse": 12,
+      "text": "de familia Manasse qui fuit filius Ioseph et possessio quae illis fuerat adtributa mansit in tribu et familia patris earum"
+    },
+    {
+      "verse": 13,
+      "text": "haec sunt mandata atque iudicia quae praecepit Dominus per manum Mosi ad filios Israhel in campestribus Moab super Iordanem contra Hiericho"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Jonah",
+  "bookSlug": "jonah",
+  "nativeName": "Jonah",
+  "chapterNumber": 2,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "et praeparavit Dominus piscem grandem ut degluttiret Ionam et erat Iona in ventre piscis tribus diebus et tribus noctibus"
+    },
+    {
+      "verse": 2,
+      "text": "et oravit Iona ad Dominum Deum suum de utero piscis"
+    },
+    {
+      "verse": 3,
+      "text": "et dixit clamavi de tribulatione mea ad Dominum et exaudivit me de ventre inferni clamavi et exaudisti vocem meam"
+    },
+    {
+      "verse": 4,
+      "text": "et proiecisti me in profundum in corde maris et flumen circumdedit me omnes gurgites tui et fluctus tui super me transierunt"
+    },
+    {
+      "verse": 5,
+      "text": "et ego dixi abiectus sum a conspectu oculorum tuorum verumtamen rursus videbo templum sanctum tuum"
+    },
+    {
+      "verse": 6,
+      "text": "circumdederunt me aquae usque ad animam abyssus vallavit me pelagus operuit caput meum"
+    },
+    {
+      "verse": 7,
+      "text": "ad extrema montium descendi terrae vectes concluserunt me in aeternum et sublevabis de corruptione vitam meam Domine Deus meus"
+    },
+    {
+      "verse": 8,
+      "text": "cum angustiaretur in me anima mea Domini recordatus sum ut veniat ad te oratio mea ad templum sanctum tuum"
+    },
+    {
+      "verse": 9,
+      "text": "qui custodiunt vanitates frustra misericordiam suam derelinquunt"
+    },
+    {
+      "verse": 10,
+      "text": "ego autem in voce laudis immolabo tibi quaecumque vovi reddam pro salute Domino"
+    },
+    {
+      "verse": 11,
+      "text": "et dixit Dominus pisci et evomuit Ionam in aridam"
+    }
+  ]
+}

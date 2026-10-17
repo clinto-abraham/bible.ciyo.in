@@ -1,0 +1,40 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 110,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Salmo de David. JEHOVÁ dijo á mi Señor: Siéntate á mi diestra, en tanto que pongo tus enemigos por estrado de tus pies."
+    },
+    {
+      "verse": 2,
+      "text": "La vara de tu fortaleza enviará Jehová desde Sión: domina en medio de tus enemigos."
+    },
+    {
+      "verse": 3,
+      "text": "Tu pueblo serálo de buena voluntad en el día de tu poder, en la hermosura de la santidad: desde el seno de la aurora, tienes tú el rocío de tu juventud."
+    },
+    {
+      "verse": 4,
+      "text": "Juró Jehová, y no se arrepentirá: Tú eres sacerdote para siempre según el orden de Melchîsedech."
+    },
+    {
+      "verse": 5,
+      "text": "El Señor á tu diestra herirá á los reyes en el día de su furor."
+    },
+    {
+      "verse": 6,
+      "text": "Juzgará en las gentes, llenará las de cadáveres: herirá las cabezas en muchas tierras."
+    },
+    {
+      "verse": 7,
+      "text": "Del arroyo beberá en el camino: por lo cual levantará cabeza."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Numbers",
+  "bookSlug": "numbers",
+  "nativeName": "Numeri",
+  "chapterNumber": 17,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "et locutus est Dominus ad Mosen dicens"
+    },
+    {
+      "verse": 2,
+      "text": "loquere ad filios Israhel et accipe ab eis virgas singulas per cognationes suas a cunctis principibus tribuum virgas duodecim et uniuscuiusque nomen superscribes virgae suae"
+    },
+    {
+      "verse": 3,
+      "text": "nomen autem Aaron erit in tribu Levi et una virga cunctas eorum familias continebit"
+    },
+    {
+      "verse": 4,
+      "text": "ponesque eas in tabernaculo foederis coram testimonio ubi loquar ad te"
+    },
+    {
+      "verse": 5,
+      "text": "quem ex his elegero germinabit virga eius et cohibebo a me querimonias filiorum Israhel quibus contra vos murmurant"
+    },
+    {
+      "verse": 6,
+      "text": "locutusque est Moses ad filios Israhel et dederunt ei omnes principes virgas per singulas tribus fueruntque virgae duodecim absque virga Aaron"
+    },
+    {
+      "verse": 7,
+      "text": "quas cum posuisset Moses coram Domino in tabernaculo testimonii"
+    },
+    {
+      "verse": 8,
+      "text": "sequenti die regressus invenit germinasse virgam Aaron in domo Levi et turgentibus gemmis eruperant flores qui foliis dilatatis in amigdalas deformati sunt"
+    },
+    {
+      "verse": 9,
+      "text": "protulit ergo Moses omnes virgas de conspectu Domini ad cunctos filios Israhel videruntque et receperunt singuli virgas suas"
+    },
+    {
+      "verse": 10,
+      "text": "dixitque Dominus ad Mosen refer virgam Aaron in tabernaculum testimonii ut servetur ibi in signum rebellium filiorum et quiescant querellae eorum a me ne moriantur"
+    },
+    {
+      "verse": 11,
+      "text": "fecitque Moses sicut praeceperat Dominus"
+    },
+    {
+      "verse": 12,
+      "text": "dixerunt autem filii Israhel ad Mosen ecce consumpti sumus omnes perivimus"
+    },
+    {
+      "verse": 13,
+      "text": "quicumque accedit ad tabernaculum Domini moritur num usque ad internicionem cuncti delendi sumus"
+    }
+  ]
+}

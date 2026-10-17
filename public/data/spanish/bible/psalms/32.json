@@ -1,0 +1,56 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 32,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Salmo de David: Masquil. BIENAVENTURADO aquel cuyas iniquidades son perdonadas, y borrados sus pecados."
+    },
+    {
+      "verse": 2,
+      "text": "Bienaventurado el hombre á quien no imputa Jehová la iniquidad, y en cuyo espíritu no hay superchería."
+    },
+    {
+      "verse": 3,
+      "text": "Mientras callé, envejeciéronse mis huesos en mi gemir todo el día."
+    },
+    {
+      "verse": 4,
+      "text": "Porque de día y de noche se agravó sobre mí tu mano; volvióse mi verdor en sequedades de estío. (Selah.)"
+    },
+    {
+      "verse": 5,
+      "text": "Mi pecado te declaré, y no encubrí mi iniquidad. Confesaré, dije, contra mí mis rebeliones á Jehová; y tú perdonaste la maldad de mi pecado. (Selah.)"
+    },
+    {
+      "verse": 6,
+      "text": "Por esto orará á ti todo santo en el tiempo de poder hallarte: ciertamente en la inundación de muchas aguas no llegarán éstas á él."
+    },
+    {
+      "verse": 7,
+      "text": "Tú eres mi refugio; me guardarás de angustia; con cánticos de liberación me rodearás. (Selah.)"
+    },
+    {
+      "verse": 8,
+      "text": "Te haré entender, y te enseñaré el camino en que debes andar: sobre ti fijaré mis ojos."
+    },
+    {
+      "verse": 9,
+      "text": "No seáis como el caballo, ó como el mulo, sin entendimiento: con cabestro y con freno su boca ha de ser reprimida, para que no lleguen á ti."
+    },
+    {
+      "verse": 10,
+      "text": "Muchos dolores para el impío; mas el que espera en Jehová, lo cercará misericordia."
+    },
+    {
+      "verse": 11,
+      "text": "Alegraos en Jehová, y gozaos, justos: y cantad todos vosotros los rectos de corazón."
+    }
+  ]
+}

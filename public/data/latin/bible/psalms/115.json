@@ -1,0 +1,52 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 115,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "alleluia credidi propter quod locutus sum ego autem humiliatus sum nimis credidi propter quod locutus sum ego adflictus sum nimis"
+    },
+    {
+      "verse": 2,
+      "text": "ego dixi in excessu meo omnis homo mendax ego dixi in stupore meo omnis homo mendacium"
+    },
+    {
+      "verse": 3,
+      "text": "quid retribuam Domino pro omnibus quae retribuit mihi quid reddam Domino pro omnibus quae tribuit mihi"
+    },
+    {
+      "verse": 4,
+      "text": "calicem salutaris accipiam et nomen Domini invocabo calicem salutis accipiam et nomen Domini invocabo"
+    },
+    {
+      "verse": 5,
+      "text": "vota mea Domino reddam coram omni populo eius vota mea Domino reddam coram omni populo eius"
+    },
+    {
+      "verse": 6,
+      "text": "pretiosa in conspectu Domini mors sanctorum eius gloriosa in conspectu Domini mors sanctorum eius"
+    },
+    {
+      "verse": 7,
+      "text": "o Domine quia ego servus tuus ego servus tuus et filius ancillae tuae disrupisti vincula mea obsecro Domine quia ego servus tuus ego servus tuus filius ancillae tuae dissolvisti vincula mea"
+    },
+    {
+      "verse": 8,
+      "text": "tibi sacrificabo hostiam laudis et in nomine Domini invocabo tibi immolabo hostiam laudis et in nomine Domini invocabo"
+    },
+    {
+      "verse": 9,
+      "text": "vota mea Domino reddam in conspectu omnis populi eius vota mea Domino reddam in conspectu omnis populi eius"
+    },
+    {
+      "verse": 10,
+      "text": "in atriis domus Domini in medio tui Hierusalem in atriis domus Domini in medio tui Hierusalem alleluia"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "translation": "CSlElizabeth: 1757 Church Slavonic Elizabeth Bible",
+  "language": "slavic",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 130,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Господи, не вознесеся сердце мое, ниже вознесостеся очи мои: ниже ходих в великих, ниже в дивных паче мене."
+    },
+    {
+      "verse": 2,
+      "text": "Аще не смиреномудрствовах, но вознесох душу мою, яко отдоеное на матерь свою, тако воздаси на душу мою."
+    },
+    {
+      "verse": 3,
+      "text": "Да уповает Израиль на Господа отныне и до века."
+    }
+  ]
+}

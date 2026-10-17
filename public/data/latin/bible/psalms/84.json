@@ -1,0 +1,68 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 84,
+  "totalVerses": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem filiis Core psalmus victori filiorum Core canticum"
+    },
+    {
+      "verse": 2,
+      "text": "benedixisti Domine terram tuam avertisti captivitatem Iacob placatus es Domine terrae tuae reduxisti captivitatem Iacob"
+    },
+    {
+      "verse": 3,
+      "text": "remisisti iniquitates plebis tuae operuisti omnia peccata eorum diapsalma dimisisti iniquitatem populo tuo operuisti omnes iniquitates eorum semper"
+    },
+    {
+      "verse": 4,
+      "text": "mitigasti omnem iram tuam avertisti ab ira indignationis tuae continuisti omnem indignationem tuam conversus es ab ira furoris tui"
+    },
+    {
+      "verse": 5,
+      "text": "converte nos Deus salutum nostrarum et averte iram tuam a nobis converte nos Deus Iesus noster et solve iram tuam adversum nos"
+    },
+    {
+      "verse": 6,
+      "text": "numquid in aeternum irasceris nobis aut extendes iram tuam a generatione in generationem noli in aeternum irasci nobis extendens iram tuam in generationem et generationem"
+    },
+    {
+      "verse": 7,
+      "text": "Deus tu conversus vivificabis nos et plebs tua laetabitur in te nonne tu revertens vivificabis nos et populus tuus laetabitur in te"
+    },
+    {
+      "verse": 8,
+      "text": "ostende nobis Domine misericordiam tuam et salutare tuum da nobis ostende nobis Domine misericordiam tuam et salutare tuum da nobis"
+    },
+    {
+      "verse": 9,
+      "text": "audiam quid loquatur in me Dominus Deus quoniam loquetur pacem in plebem suam et super sanctos suos et in eos qui convertuntur ad cor audiam quid loquatur Dominus Deus loquetur enim pacem ad populum suum et ad sanctos suos ut non convertantur ad stultitiam"
+    },
+    {
+      "verse": 10,
+      "text": "verumtamen prope timentes eum salutare ipsius ut inhabitet gloria in terra nostra verumtamen prope est his qui timent eum salutare eius ut habitet gloria in terra nostra"
+    },
+    {
+      "verse": 11,
+      "text": "misericordia et veritas obviaverunt sibi iustitia et pax osculatae sunt misericordia et veritas occurrerunt iustitia et pax deosculatae sunt"
+    },
+    {
+      "verse": 12,
+      "text": "veritas de terra orta est et iustitia de caelo prospexit veritas de terra orta est et iustitia de caelo prospexit"
+    },
+    {
+      "verse": 13,
+      "text": "etenim Dominus dabit benignitatem et terra nostra dabit fructum suum sed et Dominus dabit bonum et terra nostra dabit germen suum"
+    },
+    {
+      "verse": 14,
+      "text": "iustitia ante eum ambulabit et ponet in via gressus suos iustitia ante eum ibit et ponet in via gressus suos"
+    }
+  ]
+}

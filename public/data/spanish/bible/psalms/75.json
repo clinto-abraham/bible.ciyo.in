@@ -1,0 +1,52 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 75,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Al Músico principal: sobre No destruyas: Salmo de Asaph: Cántico. ALABARÉMOSTE, oh Dios, alabaremos; que cercano está tu nombre: cuenten tus maravillas."
+    },
+    {
+      "verse": 2,
+      "text": "Cuando yo tuviere tiempo, yo juzgaré rectamente."
+    },
+    {
+      "verse": 3,
+      "text": "Arruinábase la tierra y sus moradores: yo sostengo sus columnas. (Selah.)"
+    },
+    {
+      "verse": 4,
+      "text": "Dije á los insensatos: No os infatuéis; y á los impíos: No levantéis el cuerno:"
+    },
+    {
+      "verse": 5,
+      "text": "No levantéis en alto vuestro cuerno; no habléis con cerviz erguida."
+    },
+    {
+      "verse": 6,
+      "text": "Porque ni de oriente, ni de occidente, ni del desierto viene el ensalzamiento."
+    },
+    {
+      "verse": 7,
+      "text": "Mas Dios es el juez: á éste abate, y á aquél ensalza."
+    },
+    {
+      "verse": 8,
+      "text": "Porque el cáliz está en la mano de Jehová, y el vino es tinto, lleno de mistura; y él derrama del mismo: ciertamente sus heces chuparán y beberán todos los impíos de la tierra."
+    },
+    {
+      "verse": 9,
+      "text": "Mas yo anunciaré siempre, cantaré alabanzas al Dios de Jacob."
+    },
+    {
+      "verse": 10,
+      "text": "Y quebraré todos los cuernos de los pecadores: los cuernos del justo serán ensalzados."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Job",
+  "bookSlug": "job",
+  "nativeName": "Job",
+  "chapterNumber": 16,
+  "totalVerses": 22,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Y RESPONDIÓ Job, y dijo:"
+    },
+    {
+      "verse": 2,
+      "text": "Muchas veces he oído cosas como estas: consoladores molestos sois todos vosotros."
+    },
+    {
+      "verse": 3,
+      "text": "¿Tendrán fin las palabras ventosas? ó ¿qué te animará á responder?"
+    },
+    {
+      "verse": 4,
+      "text": "También yo hablaría como vosotros. Ojalá vuestra alma estuviera en lugar de la mía, que yo os tendría compañía en las palabras, y sobre vosotros movería mi cabeza."
+    },
+    {
+      "verse": 5,
+      "text": "Mas yo os alentaría con mis palabras, y la consolación de mis labios apaciguaría el dolor vuestro."
+    },
+    {
+      "verse": 6,
+      "text": "Si hablo, mi dolor no cesa; y si dejo de hablar, no se aparta de mí."
+    },
+    {
+      "verse": 7,
+      "text": "Empero ahora me ha fatigado: has tú asolado toda mi compañía."
+    },
+    {
+      "verse": 8,
+      "text": "Tú me has arrugado; testigo es mi flacura, que se levanta contra mí para testificar en mi rostro."
+    },
+    {
+      "verse": 9,
+      "text": "Su furor me destrizó, y me ha sido contrario: crujió sus dientes contra mí; contra mí aguzó sus ojos mi enemigo."
+    },
+    {
+      "verse": 10,
+      "text": "Abrieron contra mí su boca; hirieron mis mejillas con afrenta; contra mí se juntaron todos."
+    },
+    {
+      "verse": 11,
+      "text": "Hame entregado Dios al mentiroso, y en las manos de los impíos me hizo estremecer"
+    },
+    {
+      "verse": 12,
+      "text": "Próspero estaba, y desmenuzóme: y arrebatóme por la cerviz, y despedazóme, y púsome por blanco suyo."
+    },
+    {
+      "verse": 13,
+      "text": "Cercáronme sus flecheros, partió mis riñones, y no perdonó: mi hiel derramó por tierra."
+    },
+    {
+      "verse": 14,
+      "text": "Quebrantóme de quebranto sobre quebranto; corrió contra mí como un gigante."
+    },
+    {
+      "verse": 15,
+      "text": "Yo cosí saco sobre mi piel, y cargué mi cabeza de polvo."
+    },
+    {
+      "verse": 16,
+      "text": "Mi rostro está enlodado con lloro, y mis párpados entenebrecidos:"
+    },
+    {
+      "verse": 17,
+      "text": "A pesar de no haber iniquidad en mis manos, y de haber sido mi oración pura."
+    },
+    {
+      "verse": 18,
+      "text": "¡Oh tierra! no cubras mi sangre, y no haya lugar á mi clamor."
+    },
+    {
+      "verse": 19,
+      "text": "Mas he aquí que en los cielos está mi testigo, y mi testimonio en las alturas."
+    },
+    {
+      "verse": 20,
+      "text": "Disputadores son mis amigos: mas á Dios destilarán mis ojos."
+    },
+    {
+      "verse": 21,
+      "text": "¡Ojalá pudiese disputar el hombre con Dios, como con su prójimo!"
+    },
+    {
+      "verse": 22,
+      "text": "Mas los años contados vendrán, y yo iré el camino por donde no volveré."
+    }
+  ]
+}

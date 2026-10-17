@@ -1,0 +1,530 @@
+[
+  {
+    "name": "Genesis",
+    "slug": "genesis",
+    "nativeName": "ഉല്പത്തി",
+    "chapterCount": 50,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Exodus",
+    "slug": "exodus",
+    "nativeName": "പുറപ്പാട്",
+    "chapterCount": 40,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Leviticus",
+    "slug": "leviticus",
+    "nativeName": "ലേവ്യപുസ്തകം",
+    "chapterCount": 27,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Numbers",
+    "slug": "numbers",
+    "nativeName": "സംഖ്യാപുസ്തകം",
+    "chapterCount": 36,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Deuteronomy",
+    "slug": "deuteronomy",
+    "nativeName": "ആവർത്തനം",
+    "chapterCount": 34,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Joshua",
+    "slug": "joshua",
+    "nativeName": "യോശുവ",
+    "chapterCount": 24,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Judges",
+    "slug": "judges",
+    "nativeName": "ന്യായാധിപന്മാർ",
+    "chapterCount": 21,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Ruth",
+    "slug": "ruth",
+    "nativeName": "രൂത്ത്",
+    "chapterCount": 4,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Samuel",
+    "slug": "1-samuel",
+    "nativeName": "1 ശമുവേൽ",
+    "chapterCount": 31,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Samuel",
+    "slug": "2-samuel",
+    "nativeName": "2 ശമുവേൽ",
+    "chapterCount": 24,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Kings",
+    "slug": "1-kings",
+    "nativeName": "1 രാജാക്കന്മാർ",
+    "chapterCount": 22,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Kings",
+    "slug": "2-kings",
+    "nativeName": "2 രാജാക്കന്മാർ",
+    "chapterCount": 25,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Chronicles",
+    "slug": "1-chronicles",
+    "nativeName": "1 ദിനവൃത്താന്തം",
+    "chapterCount": 29,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Chronicles",
+    "slug": "2-chronicles",
+    "nativeName": "2 ദിനവൃത്താന്തം",
+    "chapterCount": 36,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Ezra",
+    "slug": "ezra",
+    "nativeName": "എസ്രാ",
+    "chapterCount": 10,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Nehemiah",
+    "slug": "nehemiah",
+    "nativeName": "നെഹെമ്യാവു",
+    "chapterCount": 13,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Esther",
+    "slug": "esther",
+    "nativeName": "എസ്ഥേർ",
+    "chapterCount": 10,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Job",
+    "slug": "job",
+    "nativeName": "ഇയ്യോബ്",
+    "chapterCount": 42,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Psalms",
+    "slug": "psalms",
+    "nativeName": "സങ്കീർത്തനങ്ങൾ",
+    "chapterCount": 150,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Proverbs",
+    "slug": "proverbs",
+    "nativeName": "സദൃശവാക്യങ്ങൾ",
+    "chapterCount": 31,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Ecclesiastes",
+    "slug": "ecclesiastes",
+    "nativeName": "സഭാപ്രസംഗി",
+    "chapterCount": 12,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Song of Solomon",
+    "slug": "song-of-solomon",
+    "nativeName": "ഉത്തമഗീതം",
+    "chapterCount": 8,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Isaiah",
+    "slug": "isaiah",
+    "nativeName": "യെശയ്യാവു",
+    "chapterCount": 66,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Jeremiah",
+    "slug": "jeremiah",
+    "nativeName": "യിരെമ്യാവു",
+    "chapterCount": 52,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Lamentations",
+    "slug": "lamentations",
+    "nativeName": "വിലാപങ്ങൾ",
+    "chapterCount": 5,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Ezekiel",
+    "slug": "ezekiel",
+    "nativeName": "യെഹെസ്കേൽ",
+    "chapterCount": 48,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Daniel",
+    "slug": "daniel",
+    "nativeName": "ദാനീയേൽ",
+    "chapterCount": 12,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Hosea",
+    "slug": "hosea",
+    "nativeName": "ഹോശേയ",
+    "chapterCount": 14,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Joel",
+    "slug": "joel",
+    "nativeName": "യോവേൽ",
+    "chapterCount": 3,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Amos",
+    "slug": "amos",
+    "nativeName": "ആമോസ്",
+    "chapterCount": 9,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Obadiah",
+    "slug": "obadiah",
+    "nativeName": "ഓബദ്യാവു",
+    "chapterCount": 1,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Jonah",
+    "slug": "jonah",
+    "nativeName": "യോനാ",
+    "chapterCount": 4,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Micah",
+    "slug": "micah",
+    "nativeName": "മീഖാ",
+    "chapterCount": 7,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Nahum",
+    "slug": "nahum",
+    "nativeName": "നഹൂം",
+    "chapterCount": 3,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Habakkuk",
+    "slug": "habakkuk",
+    "nativeName": "ഹബക്കൂക്ക്",
+    "chapterCount": 3,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Zephaniah",
+    "slug": "zephaniah",
+    "nativeName": "സെഫന്യാവു",
+    "chapterCount": 3,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Haggai",
+    "slug": "haggai",
+    "nativeName": "ഹഗ്ഗായി",
+    "chapterCount": 2,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Zechariah",
+    "slug": "zechariah",
+    "nativeName": "സെഖര്യാവു",
+    "chapterCount": 14,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Malachi",
+    "slug": "malachi",
+    "nativeName": "മലാഖി",
+    "chapterCount": 4,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Matthew",
+    "slug": "matthew",
+    "nativeName": "മത്തായി",
+    "chapterCount": 28,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Mark",
+    "slug": "mark",
+    "nativeName": "മർക്കൊസ്",
+    "chapterCount": 16,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Luke",
+    "slug": "luke",
+    "nativeName": "ലൂക്കൊസ്",
+    "chapterCount": 24,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "John",
+    "slug": "john",
+    "nativeName": "യോഹന്നാൻ",
+    "chapterCount": 21,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Acts",
+    "slug": "acts",
+    "nativeName": "അപ്പൊസ്തലന്മാരുടെ പ്രവൃത്തികൾ",
+    "chapterCount": 28,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Romans",
+    "slug": "romans",
+    "nativeName": "റോമർ",
+    "chapterCount": 16,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Corinthians",
+    "slug": "1-corinthians",
+    "nativeName": "1 കൊരിന്ത്യർ",
+    "chapterCount": 16,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Corinthians",
+    "slug": "2-corinthians",
+    "nativeName": "2 കൊരിന്ത്യർ",
+    "chapterCount": 13,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Galatians",
+    "slug": "galatians",
+    "nativeName": "ഗലാത്യർ",
+    "chapterCount": 6,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Ephesians",
+    "slug": "ephesians",
+    "nativeName": "എഫെസ്യർ",
+    "chapterCount": 6,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Philippians",
+    "slug": "philippians",
+    "nativeName": "ഫിലിപ്പിയർ",
+    "chapterCount": 4,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Colossians",
+    "slug": "colossians",
+    "nativeName": "കൊലൊസ്സ്യർ",
+    "chapterCount": 4,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Thessalonians",
+    "slug": "1-thessalonians",
+    "nativeName": "1 തെസ്സലൊനീക്യർ",
+    "chapterCount": 5,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Thessalonians",
+    "slug": "2-thessalonians",
+    "nativeName": "2 തെസ്സലൊനീക്യർ",
+    "chapterCount": 3,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Timothy",
+    "slug": "1-timothy",
+    "nativeName": "1 തിമൊഥെയൊസ്",
+    "chapterCount": 6,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Timothy",
+    "slug": "2-timothy",
+    "nativeName": "2 തിമൊഥെയൊസ്",
+    "chapterCount": 4,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Titus",
+    "slug": "titus",
+    "nativeName": "തീത്തൊസ്",
+    "chapterCount": 3,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Philemon",
+    "slug": "philemon",
+    "nativeName": "ഫിലേമോൻ",
+    "chapterCount": 1,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Hebrews",
+    "slug": "hebrews",
+    "nativeName": "എബ്രായർ",
+    "chapterCount": 13,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "James",
+    "slug": "james",
+    "nativeName": "യാക്കോബ്",
+    "chapterCount": 5,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Peter",
+    "slug": "1-peter",
+    "nativeName": "1 പത്രൊസ്",
+    "chapterCount": 5,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Peter",
+    "slug": "2-peter",
+    "nativeName": "2 പത്രൊസ്",
+    "chapterCount": 3,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "I John",
+    "slug": "1-john",
+    "nativeName": "1 യോഹന്നാൻ",
+    "chapterCount": 5,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "II John",
+    "slug": "2-john",
+    "nativeName": "2 യോഹന്നാൻ",
+    "chapterCount": 1,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "III John",
+    "slug": "3-john",
+    "nativeName": "3 യോഹന്നാൻ",
+    "chapterCount": 1,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Jude",
+    "slug": "jude",
+    "nativeName": "യൂദാ",
+    "chapterCount": 1,
+    "language": "malayalam",
+    "dir": "ltr"
+  },
+  {
+    "name": "Revelation of John",
+    "slug": "revelation",
+    "nativeName": "വെളിപ്പാടു",
+    "chapterCount": 22,
+    "language": "malayalam",
+    "dir": "ltr"
+  }
+]

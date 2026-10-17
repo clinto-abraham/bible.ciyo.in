@@ -1,0 +1,84 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "II Corinthians",
+  "bookSlug": "2-corinthians",
+  "nativeName": "II Corinthians",
+  "chapterNumber": 4,
+  "totalVerses": 18,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "ideo habentes hanc ministrationem iuxta quod misericordiam consecuti sumus non deficimus"
+    },
+    {
+      "verse": 2,
+      "text": "sed abdicamus occulta dedecoris non ambulantes in astutia neque adulterantes verbum Dei sed in manifestatione veritatis commendantes nosmet ipsos ad omnem conscientiam hominum coram Deo"
+    },
+    {
+      "verse": 3,
+      "text": "quod si etiam opertum est evangelium nostrum in his qui pereunt est opertum"
+    },
+    {
+      "verse": 4,
+      "text": "in quibus deus huius saeculi excaecavit mentes infidelium ut non fulgeat inluminatio evangelii gloriae Christi qui est imago Dei"
+    },
+    {
+      "verse": 5,
+      "text": "non enim nosmet ipsos praedicamus sed Iesum Christum Dominum nos autem servos vestros per Iesum"
+    },
+    {
+      "verse": 6,
+      "text": "quoniam Deus qui dixit de tenebris lucem splendescere qui inluxit in cordibus nostris ad inluminationem scientiae claritatis Dei in facie Christi Iesu"
+    },
+    {
+      "verse": 7,
+      "text": "habemus autem thesaurum istum in vasis fictilibus ut sublimitas sit virtutis Dei et non ex nobis"
+    },
+    {
+      "verse": 8,
+      "text": "in omnibus tribulationem patimur sed non angustiamur aporiamur sed non destituimur"
+    },
+    {
+      "verse": 9,
+      "text": "persecutionem patimur sed non derelinquimur deicimur sed non perimus"
+    },
+    {
+      "verse": 10,
+      "text": "semper mortificationem Iesu in corpore nostro circumferentes ut et vita Iesu in corporibus nostris manifestetur"
+    },
+    {
+      "verse": 11,
+      "text": "semper enim nos qui vivimus in mortem tradimur propter Iesum ut et vita Iesu manifestetur in carne nostra mortali"
+    },
+    {
+      "verse": 12,
+      "text": "ergo mors in nobis operatur vita autem in vobis"
+    },
+    {
+      "verse": 13,
+      "text": "habentes autem eundem spiritum fidei sicut scriptum est credidi propter quod locutus sum et nos credimus propter quod et loquimur"
+    },
+    {
+      "verse": 14,
+      "text": "scientes quoniam qui suscitavit Iesum et nos cum Iesu suscitabit et constituet vobiscum"
+    },
+    {
+      "verse": 15,
+      "text": "omnia enim propter vos ut gratia abundans per multos gratiarum actione abundet in gloriam Dei"
+    },
+    {
+      "verse": 16,
+      "text": "propter quod non deficimus sed licet is qui foris est noster homo corrumpitur tamen is qui intus est renovatur de die in diem"
+    },
+    {
+      "verse": 17,
+      "text": "id enim quod in praesenti est momentaneum et leve tribulationis nostrae supra modum in sublimitatem aeternum gloriae pondus operatur nobis"
+    },
+    {
+      "verse": 18,
+      "text": "non contemplantibus nobis quae videntur sed quae non videntur quae enim videntur temporalia sunt quae autem non videntur aeterna sunt"
+    }
+  ]
+}

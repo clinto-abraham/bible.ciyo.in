@@ -1,0 +1,60 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Deuteronomy",
+  "bookSlug": "deuteronomy",
+  "nativeName": "Deuteronomium",
+  "chapterNumber": 34,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "ascendit ergo Moses de campestribus Moab super montem Nebo in verticem Phasga contra Hiericho ostenditque ei Dominus omnem terram Galaad usque Dan"
+    },
+    {
+      "verse": 2,
+      "text": "et universum Nepthalim terramque Ephraim et Manasse et omnem terram usque ad mare Novissimum"
+    },
+    {
+      "verse": 3,
+      "text": "et australem partem et latitudinem campi Hiericho civitatis Palmarum usque Segor"
+    },
+    {
+      "verse": 4,
+      "text": "dixitque Dominus ad eum haec est terra pro qua iuravi Abraham Isaac et Iacob dicens semini tuo dabo eam vidisti eam oculis tuis et non transibis ad illam"
+    },
+    {
+      "verse": 5,
+      "text": "mortuusque est ibi Moses servus Domini in terra Moab iubente Domino"
+    },
+    {
+      "verse": 6,
+      "text": "et sepelivit eum in valle terrae Moab contra Phogor et non cognovit homo sepulchrum eius usque in praesentem diem"
+    },
+    {
+      "verse": 7,
+      "text": "Moses centum et viginti annorum erat quando mortuus est non caligavit oculus eius nec dentes illius moti sunt"
+    },
+    {
+      "verse": 8,
+      "text": "fleveruntque eum filii Israhel in campestribus Moab triginta diebus et conpleti sunt dies planctus lugentium Mosen"
+    },
+    {
+      "verse": 9,
+      "text": "Iosue vero filius Nun repletus est spiritu sapientiae quia Moses posuit super eum manus suas et oboedierunt ei filii Israhel feceruntque sicut praecepit Dominus Mosi"
+    },
+    {
+      "verse": 10,
+      "text": "et non surrexit propheta ultra in Israhel sicut Moses quem nosset Dominus facie ad faciem"
+    },
+    {
+      "verse": 11,
+      "text": "in omnibus signis atque portentis quae misit per eum ut faceret in terra Aegypti Pharaoni et omnibus servis eius universaeque terrae illius"
+    },
+    {
+      "verse": 12,
+      "text": "et cunctam manum robustam magnaque mirabilia quae fecit Moses coram universo Israhel"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "translation": "GerElb1905: German Darby Unrevidierte Elberfelder (1905)",
+  "language": "german",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 124,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ein Stufenlied. Von David. Wenn nicht Jehova für uns gewesen wäre, sage doch Israel,"
+    },
+    {
+      "verse": 2,
+      "text": "wenn nicht Jehova für uns gewesen wäre, als die Menschen wider uns aufstanden,"
+    },
+    {
+      "verse": 3,
+      "text": "dann würden sie uns lebendig verschlungen haben, als ihr Zorn gegen uns entbrannte;"
+    },
+    {
+      "verse": 4,
+      "text": "dann würden die Wasser uns überflutet haben, würde ein Strom über unsere Seele gegangen sein;"
+    },
+    {
+      "verse": 5,
+      "text": "dann würden über unsere Seele gegangen sein die stolzen Wasser."
+    },
+    {
+      "verse": 6,
+      "text": "Gepriesen sei Jehova, der uns nicht zum Raube gab ihren Zähnen!"
+    },
+    {
+      "verse": 7,
+      "text": "Unsere Seele ist entronnen wie ein Vogel aus der Schlinge der Vogelsteller; die Schlinge ist zerrissen, und wir sind entronnen."
+    },
+    {
+      "verse": 8,
+      "text": "Unsere Hilfe ist im Namen Jehovas, der Himmel und Erde gemacht hat."
+    }
+  ]
+}

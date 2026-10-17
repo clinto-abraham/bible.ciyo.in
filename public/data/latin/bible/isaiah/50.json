@@ -1,0 +1,56 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Isaiah",
+  "bookSlug": "isaiah",
+  "nativeName": "Isaiah",
+  "chapterNumber": 50,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "haec dicit Dominus quis est hic liber repudii matris vestrae quo dimisi eam aut quis est creditor meus cui vendidi vos ecce in iniquitatibus vestris venditi estis et in sceleribus vestris dimisi matrem vestram"
+    },
+    {
+      "verse": 2,
+      "text": "quia veni et non erat vir vocavi et non erat qui audiret numquid adbreviata et parvula facta est manus mea ut non possim redimere aut non est in me virtus ad liberandum ecce in increpatione mea desertum faciam mare ponam flumina in siccum conputrescent pisces sine aqua et morientur in siti"
+    },
+    {
+      "verse": 3,
+      "text": "induam caelos tenebris et saccum ponam operimentum eorum"
+    },
+    {
+      "verse": 4,
+      "text": "Dominus dedit mihi linguam eruditam ut sciam sustentare eum qui lassus est verbo erigit mane mane erigit mihi aurem ut audiam quasi magistrum"
+    },
+    {
+      "verse": 5,
+      "text": "Dominus Deus aperuit mihi aurem ego autem non contradico retrorsum non abii"
+    },
+    {
+      "verse": 6,
+      "text": "corpus meum dedi percutientibus et genas meas vellentibus faciem meam non averti ab increpantibus et conspuentibus"
+    },
+    {
+      "verse": 7,
+      "text": "Dominus Deus auxiliator meus ideo non sum confusus ideo posui faciem meam ut petram durissimam et scio quoniam non confundar"
+    },
+    {
+      "verse": 8,
+      "text": "iuxta est qui iustificat me quis contradicet mihi stemus simul quis est adversarius meus accedat ad me"
+    },
+    {
+      "verse": 9,
+      "text": "ecce Dominus Deus auxiliator meus quis est qui condemnet me ecce omnes quasi vestimentum conterentur tinea comedet eos"
+    },
+    {
+      "verse": 10,
+      "text": "quis ex vobis timens Dominum audiens vocem servi sui qui ambulavit in tenebris et non est lumen ei speret in nomine Domini et innitatur super Deum suum"
+    },
+    {
+      "verse": 11,
+      "text": "ecce omnes vos accendentes ignem accincti flammis ambulate in lumine ignis vestri et in flammis quas succendistis de manu mea factum est hoc vobis in doloribus dormietis"
+    }
+  ]
+}

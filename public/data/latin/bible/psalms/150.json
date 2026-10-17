@@ -1,0 +1,36 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 150,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "alleluia laudate Dominum in sanctis eius laudate eum in firmamento virtutis eius alleluia laudate Deum in sancto eius laudate eum in fortitudine potentiae eius"
+    },
+    {
+      "verse": 2,
+      "text": "laudate eum in virtutibus eius laudate eum secundum multitudinem magnitudinis eius laudate eum in fortitudinibus eius laudate eum iuxta multitudinem magnificentiae suae"
+    },
+    {
+      "verse": 3,
+      "text": "laudate eum in sono tubae laudate eum in psalterio et cithara laudate eum in clangore bucinae laudate eum in psalterio et cithara"
+    },
+    {
+      "verse": 4,
+      "text": "laudate eum in tympano et choro laudate eum in cordis et organo laudate eum in tympano et choro laudate eum in cordis et organo"
+    },
+    {
+      "verse": 5,
+      "text": "laudate eum in cymbalis bene sonantibus laudate eum in cymbalis iubilationis laudate eum in cymbalis sonantibus laudate eum in cymbalis tinnientibus"
+    },
+    {
+      "verse": 6,
+      "text": "omne quod spirat laudet Dominum alleluia omne quod spirat laudet Dominum alleluia"
+    }
+  ]
+}

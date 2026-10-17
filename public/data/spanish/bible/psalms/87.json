@@ -1,0 +1,40 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 87,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A los hijos de Coré: Salmo: Canción. SU cimiento es en montes de santidad."
+    },
+    {
+      "verse": 2,
+      "text": "Ama Jehová las puertas de Sión más que todas las moradas de Jacob."
+    },
+    {
+      "verse": 3,
+      "text": "Cosas ilustres son dichas de ti, ciudad de Dios. (Selah.)"
+    },
+    {
+      "verse": 4,
+      "text": "Yo me acordaré de Rahab y de Babilonia entre los que me conocen: he aquí Palestina, y Tiro, con Etiopía: éste nació allá."
+    },
+    {
+      "verse": 5,
+      "text": "Y de Sión se dirá: Este y aquél han nacido en ella; y fortificarála el mismo Altísimo."
+    },
+    {
+      "verse": 6,
+      "text": "Jehová contará cuando se escribieren los pueblos: Este nació allí. (Selah.)"
+    },
+    {
+      "verse": 7,
+      "text": "Y cantores y tañedores en ella dirán: Todas mis fuentes estarán en ti."
+    }
+  ]
+}

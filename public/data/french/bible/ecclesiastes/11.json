@@ -1,0 +1,52 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Ecclesiastes",
+  "bookSlug": "ecclesiastes",
+  "nativeName": "Ecclesiastes",
+  "chapterNumber": 11,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Jette ton pain sur la face des eaux, car après beaucoup de jours tu le retrouveras;"
+    },
+    {
+      "verse": 2,
+      "text": "donnes-en une part à sept, et même à huit: car tu ne sais pas quel malheur peut arriver sur la terre."
+    },
+    {
+      "verse": 3,
+      "text": "Quand les nuées sont remplies de pluie, elles se vident sur la terre; et si un arbre tombe au midi ou au nord, il reste à la place où il est tombé."
+    },
+    {
+      "verse": 4,
+      "text": "Celui qui observe le vent ne sèmera point, et celui qui interroge les nuages ne moissonnera point."
+    },
+    {
+      "verse": 5,
+      "text": "Comme tu ne sais pas quel est le chemin du vent et comment se forment les os dans le sein de la mère, ainsi tu ne connais pas l'œuvre de Dieu, qui fait toutes choses."
+    },
+    {
+      "verse": 6,
+      "text": "Dès le matin sème ta semence, et le soir ne laisse pas reposer ta main, car tu ne sais pas ce qui réussira, ceci ou cela, ou si l'un et l'autre ne sont pas également bons."
+    },
+    {
+      "verse": 7,
+      "text": "La lumière est douce, et c'est un plaisir pour l'œil de voir le soleil."
+    },
+    {
+      "verse": 8,
+      "text": "Même si l'homme vit de nombreuses années, qu'il se réjouisse pendant toutes ces années, et qu'il pense aux jours de ténèbres, car ils seront nombreux: tout ce qui arrive est vanité."
+    },
+    {
+      "verse": 9,
+      "text": "Jeune homme, réjouis-toi dans ta jeunesse; que ton cœur te donne de la joie dans les jours de ta jeunesse! Marche dans les voies de ton cœur, et selon les regards de tes yeux; mais sache que pour tout cela Dieu te fera venir en jugement."
+    },
+    {
+      "verse": 10,
+      "text": "Bannis de ton cœur le chagrin, et éloigne le mal de ta chair; la jeunesse et l'adolescence sont vanité."
+    }
+  ]
+}

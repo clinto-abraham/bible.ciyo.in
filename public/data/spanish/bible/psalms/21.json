@@ -1,0 +1,64 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 21,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Al Músico principal: Salmo de David. ALEGRARÁSE el rey en tu fortaleza, oh Jehová; y en tu salud se gozará mucho."
+    },
+    {
+      "verse": 2,
+      "text": "El deseo de su corazón le diste, y no le negaste lo que sus labios pronunciaron. (Selah.)"
+    },
+    {
+      "verse": 3,
+      "text": "Pues le has salido al encuentro con bendiciones de bien: corona de oro fino has puesto sobre su cabeza."
+    },
+    {
+      "verse": 4,
+      "text": "Vida te demandó, y dístele largura de días por siglos y siglos."
+    },
+    {
+      "verse": 5,
+      "text": "Grande es su gloria en tu salud: honra y majestad has puesto sobre él."
+    },
+    {
+      "verse": 6,
+      "text": "Porque lo has bendecido para siempre; llenástelo de alegría con tu rostro."
+    },
+    {
+      "verse": 7,
+      "text": "Por cuanto el rey confía en Jehová, y en la misericordia del Altísimo, no será conmovido."
+    },
+    {
+      "verse": 8,
+      "text": "Alcanzará tu mano á todos tus enemigos; tu diestra alcanzará á los que te aborrecen."
+    },
+    {
+      "verse": 9,
+      "text": "Ponerlos has como horno de fuego en el tiempo de tu ira: Jehová los deshará en su furor, y fuego los consumirá."
+    },
+    {
+      "verse": 10,
+      "text": "Su fruto destruirás de la tierra, y su simiente de entre los hijos de los hombres."
+    },
+    {
+      "verse": 11,
+      "text": "Porque trazaron el mal contra ti: fraguaron maquinaciones, mas no prevalecerán."
+    },
+    {
+      "verse": 12,
+      "text": "Pues tú los pondrás en fuga, cuando aparejares en tus cuerdas las saetas contra sus rostros."
+    },
+    {
+      "verse": 13,
+      "text": "Ensálzate, oh Jehová, con tu fortaleza: cantaremos y alabaremos tu poderío."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Esther",
+  "bookSlug": "esther",
+  "nativeName": "Esther",
+  "chapterNumber": 12,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Morabatur autem eo tempore in aula regis cum Bagatha et Thara eunuchis regis qui ianitores erant palatii"
+    },
+    {
+      "verse": 2,
+      "text": "Cumque intellexisset cogitationes eorum et curas diligentius pervidisset didicit quod conarentur in regem Artaxerxem manus mittere et nunciavit super eo regi"
+    },
+    {
+      "verse": 3,
+      "text": "Qui de utroque habita quaestione confessos iussit duci ad mortem"
+    },
+    {
+      "verse": 4,
+      "text": "Rex autem quod gestum erat scripsit in commentariis sed et Mardochaeus rei memoriam litteris tradidit"
+    },
+    {
+      "verse": 5,
+      "text": "Praecepitque ei rex ut in aula palatii moraretur datis ei pro delatione muneribus"
+    },
+    {
+      "verse": 6,
+      "text": "Aman vero filius Amadathi bugaeus erat gloriosissimus coram rege et voluit nocere Mardochaeo et populo eius pro duobus eunuchis regis qui fuerant interfecti"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 130,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "（上行 之詩。）耶和華啊，我從深處 向你求告！"
+    },
+    {
+      "verse": 2,
+      "text": "主啊，求你聽 我的聲音！願 你側 耳 聽我懇求 的聲音！"
+    },
+    {
+      "verse": 3,
+      "text": "主─耶和華啊，你若 究察 罪孽，誰 能站得住呢？"
+    },
+    {
+      "verse": 4,
+      "text": "但 在你 有赦免之恩，要 叫人敬畏你。"
+    },
+    {
+      "verse": 5,
+      "text": "我等候 耶和華，我的心 等候；我也仰望 他的話。"
+    },
+    {
+      "verse": 6,
+      "text": "我的心 等候主，勝於守夜的，等候天亮，勝於守夜的，等候天亮。"
+    },
+    {
+      "verse": 7,
+      "text": "以色列啊，你當仰望 耶和華！因 他 有 慈愛，有 豐盛的 救恩。"
+    },
+    {
+      "verse": 8,
+      "text": "他必 救贖 以色列 脫離一切的 罪孽。"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "I Esdras",
+  "bookSlug": "1-esdras",
+  "nativeName": "I Esdras",
+  "chapterNumber": 9,
+  "totalVerses": 56,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "et exsurgens Ezras ab ante atrium templi, abiit in pastoforium Ionathae filii Nasibi."
+    },
+    {
+      "verse": 2,
+      "text": "et hospitatus illic, non gustavit panem nec aquam bibit, lugens super iniquitates multitudinis."
+    },
+    {
+      "verse": 3,
+      "text": "et facta est praedicatio in omni Iudaea et in Hierusalem omnibus qui erant ex captivitate congregari in Hierusalem"
+    },
+    {
+      "verse": 4,
+      "text": "et quicumque non occurrerit biduo aut triduo diei secundum iudicium adsidentium seniorum, tollentur facultates eius, et ipse alienus iudicabitur a multitudine captivitatis."
+    },
+    {
+      "verse": 5,
+      "text": "et congregati sunt omnes qui erant ex tribu Iuda et Beniamin in tribus diebus in Hierusalem; hic mensis est nonus, vicesima mensis."
+    },
+    {
+      "verse": 6,
+      "text": "et adsedit omnis multitudo in area templi, trementes propter hiemem praesentem."
+    },
+    {
+      "verse": 7,
+      "text": "et exsurgens Ezras dixit illis: vos inique fecistis conlocando vobis in matrimonium uxores alienigenas, ut adderetis ad peccata Israhel."
+    },
+    {
+      "verse": 8,
+      "text": "et nunc date confessionem et magnificentiam Domino Deo patrum nostrorum,"
+    },
+    {
+      "verse": 9,
+      "text": "et perficite voluntatem ipsius et discedite a gentibus terrae et ab uxoribus alienigenis."
+    },
+    {
+      "verse": 10,
+      "text": "et clamavit omnis multitudo et dixerunt magna voce: sicut dixisti faciemus."
+    },
+    {
+      "verse": 11,
+      "text": "sed quoniam multitudo magna est, et tempus hiberni est et non possumus in subdiali parte stare, et hoc opus non est nobis unius diei neque bidui, multum in his peccavimus,"
+    },
+    {
+      "verse": 12,
+      "text": "stent praepositi multitudinis et omnes qui nobiscum inhabitant et quotquot habent apud se uxores alienigenas,"
+    },
+    {
+      "verse": 13,
+      "text": "et adsistant accepto tempore et ex omni loco presbyteri et iudices, usquequo solvant iram Domini negotii huius."
+    },
+    {
+      "verse": 14,
+      "text": "Ionatha autem filius Ezeli et Ozias Thochani susceperunt secundum haec, et Bosoramus et Levis et Sabbatheus simul cooperati sunt cum illis."
+    },
+    {
+      "verse": 15,
+      "text": "et fecerunt secundum haec omnia universi qui erant ex captivitate."
+    },
+    {
+      "verse": 16,
+      "text": "et elegit sibi viros Ezras sacerdos, principes magnos de patribus eorum secundum nomina, et consederunt novilunio mensis decimi examinare negotium istud."
+    },
+    {
+      "verse": 17,
+      "text": "et determinatum est de viris qui habebant uxores alienigenas usque ad neomenia primi mensis."
+    },
+    {
+      "verse": 18,
+      "text": "et inventi sunt ex sacerdotibus commixti qui habebant alienigenas uxores:"
+    },
+    {
+      "verse": 19,
+      "text": "ex filiis Iesu filii Iosedech et fratribus eius Maseas et Eliezerus et Ioribus et Ioadeus."
+    },
+    {
+      "verse": 20,
+      "text": "et iniecerunt manus, ut expellerent uxores suas, et ad litandum in exoratione arietem pro ignorantia sua."
+    },
+    {
+      "verse": 21,
+      "text": "et ex filiis Emmeri Masseas et Esses et Ieel et Azarias."
+    },
+    {
+      "verse": 22,
+      "text": "et ex filiis Fosor Elionia, Assias, Ismahelus et Nathanaelus, Ioceddeus et Talsas."
+    },
+    {
+      "verse": 23,
+      "text": "et ex Levitis Iozabdus et Semeis et Colius et Calitas et Fatheas et Coluas et Elionas."
+    },
+    {
+      "verse": 24,
+      "text": "ex sacris cantoribus Eliasubus Zaccurus."
+    },
+    {
+      "verse": 25,
+      "text": "ex ostiariis Sallumus et Tolbanes."
+    },
+    {
+      "verse": 26,
+      "text": "et ex Israhel: ex filiis Foroos Ieremias et Ieddias et Melchias et Mielus et Eleazarus et Iemmebias et Baninas."
+    },
+    {
+      "verse": 27,
+      "text": "et ex filiis Iolam Mamthanias et Zaccharias, Iezrelus et Iobdius et Herimoth et Helias."
+    },
+    {
+      "verse": 28,
+      "text": "et ex filiis Zathom Eliadas et Eliasimus et Othias et Larimoth et Zabdus et Zebedias."
+    },
+    {
+      "verse": 29,
+      "text": "et ex filiis Bebe Iohannes et Ananias et Zabdias et Emethis."
+    },
+    {
+      "verse": 30,
+      "text": "et ex filiis Banni Olamus et Malluchus et Ieddaeus et Iasub et Asubus et Hierimoth."
+    },
+    {
+      "verse": 31,
+      "text": "et ex filiis Addin Naathus et Moosias et Calchurus et Raanas et Baseas, Mathathias et Beseel et Bonnus et Manasses."
+    },
+    {
+      "verse": 32,
+      "text": "et ex filiis Nuae Noneas et Aseas et Melchias et Sameas et Simon, Beniamin et Malchus et Marras."
+    },
+    {
+      "verse": 33,
+      "text": "et ex filiis Asom Carianeus, Mathathias et Bannus et Elifalat et Manasses et Semei."
+    },
+    {
+      "verse": 34,
+      "text": "et ex filiis Banni Ieremias et Moodias et Abramus et Ioel et Baneas et Pelias et Ionas et Marimoth et Eliasib et Mathaneus et Eliasis et Zorisas et Diaelus et Samedius et Sambris et Iosephus."
+    },
+    {
+      "verse": 35,
+      "text": "et ex filiis Nobaei Idaelus et Mathathias et Sabadus et Zetheda Sednu et Iessei Baneas."
+    },
+    {
+      "verse": 36,
+      "text": "omnes isti coniunxerunt sibi uxores alienigenas, et dimiserunt eas cum filiis."
+    },
+    {
+      "verse": 37,
+      "text": "et inhabitaverunt sacerdotes et Levitae et qui erant ex Israhel in Hierusalem et in tota regione una novilunio mensis septimi, et erant filii Israhel in commorationibus suis."
+    },
+    {
+      "verse": 38,
+      "text": "et congregata est omnis multitudo simul in aream quae est ab oriente portae sacrae."
+    },
+    {
+      "verse": 39,
+      "text": "et dixerunt Ezrae pontifici et lectori, ut adferret legem Moysi quae tradita est a Domino Deo Israhel."
+    },
+    {
+      "verse": 40,
+      "text": "et adtulit Ezras pontifex legem omni multitudini eorum a viro usque ad mulierem et omnibus sacerdotibus, audire legem novilunio mensis septimi."
+    },
+    {
+      "verse": 41,
+      "text": "et legebat in area quae est ante sacram portam templi a prima luce usque ad vesperam coram viris et mulieribus, et dederunt omnes sensum ad legem."
+    },
+    {
+      "verse": 42,
+      "text": "et stetit Ezras sacerdos et lector legis super ligneum tribunal quod fabricatum erat."
+    },
+    {
+      "verse": 43,
+      "text": "et steterunt ad eum Mathathias, Samus, Ananias, Azarias, Urias, Ezechias, et Balsamus ad dexteram,"
+    },
+    {
+      "verse": 44,
+      "text": "et ad sinistram Faldeus, Misael, Malachias, Abustassabus, Nabadias et Zaccharias"
+    },
+    {
+      "verse": 45,
+      "text": "et adsumpsit Ezras librum coram omni multitudine praesidebat enim in gloria in conspectu omnium."
+    },
+    {
+      "verse": 46,
+      "text": "et cum absolvisset legem, omnes recti steterunt. et benedixit Ezras Dominum Deum altissimum, Deum Sabaoth omnipotentem."
+    },
+    {
+      "verse": 47,
+      "text": "et respondit omnis populus: amen. et elevatis susum manibus procidentes in terram adoraverunt Dominum."
+    },
+    {
+      "verse": 48,
+      "text": "Iesus et Banaeus et Sarabias et Iadinus et Accubus et Sabbateus et Calites et Azarias et Ioradus et Ananias et Filias, Levitae"
+    },
+    {
+      "verse": 49,
+      "text": "qui docebant legem Domini et in multitudine legebant legem Domini, et praeferebant singuli eos qui intellegebant lectionem."
+    },
+    {
+      "verse": 50,
+      "text": "et dixit Attarates Ezrae pontifici et lectori et Levitis qui docebant multitudinem"
+    },
+    {
+      "verse": 51,
+      "text": "dicens: dies hic est sanctus Domino. et omnes flebant, cum audissent legem."
+    },
+    {
+      "verse": 52,
+      "text": "digressi ergo manducate pinguissima quaeque et bibite dulcissima quaeque et mittite munera his qui non habent."
+    },
+    {
+      "verse": 53,
+      "text": "sanctus est enim dies Domini, et nolite maesti esse, Dominus enim clarificavit vos."
+    },
+    {
+      "verse": 54,
+      "text": "et Levitae denuntiabant in publico omnibus dicentes: dies hic sanctus est, nolite maesti esse."
+    },
+    {
+      "verse": 55,
+      "text": "et abierunt omnes manducare et bibere et epulari et dare munera his qui non habent ut epulentur. magnifice enim sunt exaltati verbis quibus edocti sunt."
+    },
+    {
+      "verse": 56,
+      "text": "et congregati sunt universi in Hierusalem, celebrare laetitiam secundum testamentum Domini Dei Israhel."
+    }
+  ]
+}

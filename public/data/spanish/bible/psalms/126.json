@@ -1,0 +1,36 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 126,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cántico gradual. CUANDO Jehová hiciere tornar la cautividad de Sión, seremos como los que sueñan."
+    },
+    {
+      "verse": 2,
+      "text": "Entonces nuestra boca se henchirá de risa, y nuestra lengua de alabanza; entonces dirán entre las gentes: Grandes cosas ha hecho Jehová con éstos."
+    },
+    {
+      "verse": 3,
+      "text": "Grandes cosas ha hecho Jehová con nosotros; estaremos alegres."
+    },
+    {
+      "verse": 4,
+      "text": "Haz volver nuestra cautividad, oh Jehová, como los arroyos en el austro."
+    },
+    {
+      "verse": 5,
+      "text": "Los que sembraron con lágrimas, con regocijo segarán."
+    },
+    {
+      "verse": 6,
+      "text": "Irá andando y llorando el que lleva la preciosa simiente; mas volverá á venir con regocijo, trayendo sus gavillas."
+    }
+  ]
+}

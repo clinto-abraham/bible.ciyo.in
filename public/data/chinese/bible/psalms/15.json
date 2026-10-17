@@ -1,0 +1,32 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 15,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "（大衛的 詩。）耶和華啊，誰 能寄居 你的帳幕？誰 能住 在你的聖 山？"
+    },
+    {
+      "verse": 2,
+      "text": "就是行為 正直、做事 公義、心裡 說 實話的人。"
+    },
+    {
+      "verse": 3,
+      "text": "他不 以 舌頭 讒謗人，不 惡 待 朋友，也不 隨夥毀謗 鄰里。"
+    },
+    {
+      "verse": 4,
+      "text": "他眼中 藐視 匪類，卻尊重 那敬畏 耶和華的人。他發了誓，雖然自己吃虧 也不 更改。"
+    },
+    {
+      "verse": 5,
+      "text": "他不 放 債 取利，不 受 賄賂 以害 無辜。行 這些事 的人必永 不 動搖。"
+    }
+  ]
+}

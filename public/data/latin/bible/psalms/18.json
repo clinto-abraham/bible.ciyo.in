@@ -1,0 +1,72 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 18,
+  "totalVerses": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem psalmus David victori canticum David"
+    },
+    {
+      "verse": 2,
+      "text": "caeli enarrant gloriam Dei et opera manuum eius adnuntiat firmamentum caeli enarrant gloriam Dei et opus manus eius adnuntiat firmamentum"
+    },
+    {
+      "verse": 3,
+      "text": "dies diei eructat verbum et nox nocti indicat scientiam dies diei eructat verbum et nox nocti indicat scientiam"
+    },
+    {
+      "verse": 4,
+      "text": "non sunt loquellae neque sermones quorum non audiantur voces eorum non est sermo et non sunt verba quibus non audiatur vox eorum"
+    },
+    {
+      "verse": 5,
+      "text": "in omnem terram exivit sonus eorum et in fines orbis terrae verba eorum in universam terram exivit sonus eorum et in finibus orbis verba eorum"
+    },
+    {
+      "verse": 6,
+      "text": "in sole posuit tabernaculum suum et ipse tamquam sponsus procedens de thalamo suo exultavit ut gigans ad currendam viam suam soli posuit tabernaculum in eis et ipse quasi sponsus procedens de thalamo suo exultavit ut fortis ad currendam viam"
+    },
+    {
+      "verse": 7,
+      "text": "a summo caeli egressio eius et occursus eius usque ad summum eius nec est qui se abscondat a calore eius a summitate caeli egressus eius et cursus eius usque ad summitatem illius nec est qui se abscondat a calore eius"
+    },
+    {
+      "verse": 8,
+      "text": "lex Domini inmaculata convertens animas testimonium Domini fidele sapientiam praestans parvulis lex Domini inmaculata convertens animam testimonium Domini fidele sapientiam praestans parvulis"
+    },
+    {
+      "verse": 9,
+      "text": "iustitiae Domini rectae laetificantes corda praeceptum Domini lucidum inluminans oculos praecepta Domini recta laetificantia cor mandatum Domini lucidum inluminans oculos"
+    },
+    {
+      "verse": 10,
+      "text": "timor Domini sanctus permanens in saeculum saeculi iudicia Domini vera iustificata in semet ipsa timor Domini mundus perseverans in saecula iudicia Domini vera iustificata in semet ipsis"
+    },
+    {
+      "verse": 11,
+      "text": "desiderabilia super aurum et lapidem pretiosum multum et dulciora super mel et favum desiderabilia super aurum et lapidem pretiosum multum et dulciora super mel et favum redundantem"
+    },
+    {
+      "verse": 12,
+      "text": "etenim servus tuus custodit ea in custodiendis illis retributio multa unde et servus tuus docebit ea in custodiendis eis fructus multus"
+    },
+    {
+      "verse": 13,
+      "text": "delicta quis intellegit ab occultis meis munda me errores quis intelleget ab occultis munda me"
+    },
+    {
+      "verse": 14,
+      "text": "et ab alienis parce servo tuo si mei non fuerint dominati tunc inmaculatus ero et emundabor a delicto maximo a superbis quoque libera servum tuum si non fuerint dominati mei tunc inmaculatus ero et mundabor a delicto maximo"
+    },
+    {
+      "verse": 15,
+      "text": "et erunt ut conplaceant eloquia oris mei et meditatio cordis mei in conspectu tuo semper Domine adiutor meus et redemptor meus sint placentes sermones oris mei meditatio cordis mei in conspectu tuo Domine fortitudo mea et redemptor meus"
+    }
+  ]
+}

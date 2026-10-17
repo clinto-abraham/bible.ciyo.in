@@ -1,0 +1,172 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Exodus",
+  "bookSlug": "exodus",
+  "nativeName": "Exode",
+  "chapterNumber": 25,
+  "totalVerses": 40,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Yahweh parla à Moïse, en disant:"
+    },
+    {
+      "verse": 2,
+      "text": "\" Dis aux enfants d'Israël de prélever pour moi une offrande; de tout homme qui la donnera de bon cœur vous recevrez pour moi l'offrande."
+    },
+    {
+      "verse": 3,
+      "text": "Voici l'offrande que vous recevrez d'eux: de l'or, de l'argent et de l'airain;"
+    },
+    {
+      "verse": 4,
+      "text": "de la pourpre violette, de la pourpre écarlate, du cramoisi, du fin lin et du poil de chèvre;"
+    },
+    {
+      "verse": 5,
+      "text": "des peaux de béliers teintes en rouge, des peaux de veaux marins et du bois d'acacia;"
+    },
+    {
+      "verse": 6,
+      "text": "de l'huile pour le chandelier, des aromates pour l'huile d'onction et pour le parfum d'encensement;"
+    },
+    {
+      "verse": 7,
+      "text": "des pierres d'onyx et d'autres pierres à enchâsser pour l'éphod et le pectoral."
+    },
+    {
+      "verse": 8,
+      "text": "Ils me feront un sanctuaire, et j'habiterai au milieu d'eux."
+    },
+    {
+      "verse": 9,
+      "text": "Vous vous conformerez à tout ce que je vais vous montrer, au modèle du tabernacle, et au modèle de tous ses ustensiles. \""
+    },
+    {
+      "verse": 10,
+      "text": "\" Ils feront une arche de bois d'acacia; sa longueur sera de deux coudées et demie, sa largeur d'une coudée et demie, et sa hauteur d'une coudée et demie."
+    },
+    {
+      "verse": 11,
+      "text": "Tu la revêtiras d'or pur, en dedans et en dehors, et tu y feras une guirlande d'or tout autour."
+    },
+    {
+      "verse": 12,
+      "text": "Tu fondras pour elle quatre anneaux d'or, que tu mettras à ses quatre pieds, deux anneaux d'un côté et deux anneaux de l'autre."
+    },
+    {
+      "verse": 13,
+      "text": "Tu feras des barres de bois d'acacia, et tu les revêtiras d'or."
+    },
+    {
+      "verse": 14,
+      "text": "Tu passeras les barres dans les anneaux sur les côtés de l'arche, pour qu'elles servent à porter l'arche."
+    },
+    {
+      "verse": 15,
+      "text": "Les barres resteront dans les anneaux de l'arche, et n'en seront point retirées."
+    },
+    {
+      "verse": 16,
+      "text": "Tu mettras dans l'arche le témoignage que je te donnerai."
+    },
+    {
+      "verse": 17,
+      "text": "Tu feras un propitiatoire d'or pur; sa longueur sera de deux coudées et demie, et sa largeur d'une coudée et demie."
+    },
+    {
+      "verse": 18,
+      "text": "Tu feras deux chérubins d'or; tu les feras d'or battu, aux deux extrémités du propitiatoire."
+    },
+    {
+      "verse": 19,
+      "text": "Fais un chérubin à l'une des extrémités et un chérubin à l'autre extrémité; vous ferez les chérubins sortant du propitiatoire à ses deux extrémités."
+    },
+    {
+      "verse": 20,
+      "text": "Les chérubins auront leurs ailes déployées vers le haut, couvrant de leurs ailes le propitiatoire, et se faisant face l'un à l'autre; les faces des chérubins seront tournées vers le propitiatoire."
+    },
+    {
+      "verse": 21,
+      "text": "Tu mettras le propitiatoire au-dessus de l'arche, et tu mettras dans l'arche le témoignage que je te donnerai."
+    },
+    {
+      "verse": 22,
+      "text": "Là je me rencontrerai avec toi et je te communiquerai, de dessus le propitiatoire, du milieu des deux chérubins qui sont sur l'arche du témoignage, tous les ordres que je te donnerai pour les enfants d'Israël."
+    },
+    {
+      "verse": 23,
+      "text": "Tu feras une table de bois d'acacia; sa longueur sera de deux coudées, sa largeur d'une coudée, et sa hauteur d'une coudée et demie."
+    },
+    {
+      "verse": 24,
+      "text": "Tu la revêtiras d'or pur, et tu y mettras une guirlande d'or tout autour."
+    },
+    {
+      "verse": 25,
+      "text": "Tu lui feras à l'entour un châssis d'une palme, et tu feras une guirlande d'or au châssis, tout autour."
+    },
+    {
+      "verse": 26,
+      "text": "Tu feras pour la table quatre anneaux d'or; et tu mettras les anneaux aux quatre coins, qui seront à ses quatre pieds."
+    },
+    {
+      "verse": 27,
+      "text": "Les anneaux seront près du châssis, pour recevoir les barres qui doivent porter la table."
+    },
+    {
+      "verse": 28,
+      "text": "Tu feras les barres de bois d'acacia, et tu les revêtiras d'or; elles serviront à porter la table."
+    },
+    {
+      "verse": 29,
+      "text": "Tu feras ses plats, ses cassolettes, ses coupes et ses tasses servant aux libations; tu les feras d'or pur."
+    },
+    {
+      "verse": 30,
+      "text": "Tu placeras sur la table les pains de proposition, perpétuellement devant ma face."
+    },
+    {
+      "verse": 31,
+      "text": "Tu feras un chandelier d'or pur; le chandelier, avec son pied et sa tige, sera fait d'or battu; ses calices, ses boutons et ses fleurs seront d'une même pièce."
+    },
+    {
+      "verse": 32,
+      "text": "Six branches sortiront de ses côtés; trois branches du chandelier de l'un de ses côtés, et trois branches du chandelier du second de ses côtés."
+    },
+    {
+      "verse": 33,
+      "text": "Il y aura sur la première branche trois calices en fleurs d'amandier, bouton et fleur, et sur la seconde branche trois calices en fleurs d'amandier, bouton et fleur; il en sera de même pour les six branches partant du chandelier."
+    },
+    {
+      "verse": 34,
+      "text": "A la tige du chandelier, il y aura quatre calices en fleurs d'amandier, leurs boutons et leurs fleurs."
+    },
+    {
+      "verse": 35,
+      "text": "Il y aura un bouton sous les deux premières branches partant de la tige du chandelier, un bouton sous les deux branches suivantes partant de la tige du chandelier, et un bouton sous les deux dernières branches partant de la tige du chandelier, selon les six branches sortant de la tige du chandelier."
+    },
+    {
+      "verse": 36,
+      "text": "Ces boutons et ces branches seront d'une même pièce avec le chandelier; le tout sera une masse d'or battu, d'or pur."
+    },
+    {
+      "verse": 37,
+      "text": "Tu feras ses lampes, au nombre de sept, et on placera ses lampes sur les branches, de manière à éclairer en face."
+    },
+    {
+      "verse": 38,
+      "text": "Ses mouchettes et ses vases à cendre seront en or pur."
+    },
+    {
+      "verse": 39,
+      "text": "On emploiera un talent d'or pur pour faire le chandelier avec tous ses ustensiles."
+    },
+    {
+      "verse": 40,
+      "text": "Regarde, et fais selon le modèle qui t'est montré sur la montagne. \""
+    }
+  ]
+}

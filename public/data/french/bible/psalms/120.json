@@ -1,0 +1,40 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 120,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cantique des montées. Vers Yahweh, dans ma détresse, j'ai crié, et il m'a exaucé:"
+    },
+    {
+      "verse": 2,
+      "text": "« Yahweh délivre mon âme de la lèvre de mensonge, de la langue astucieuse! »"
+    },
+    {
+      "verse": 3,
+      "text": "Que te sera-t-il donné, quel sera ton profit, langue perfide?"
+    },
+    {
+      "verse": 4,
+      "text": "Les flèches aiguës du Tout-Puissant, avec les charbons ardents du genêt."
+    },
+    {
+      "verse": 5,
+      "text": "Malheureux que je suis de séjourner dans Mések, d'habiter sous les tentes de Cédar!"
+    },
+    {
+      "verse": 6,
+      "text": "Trop longtemps j'ai demeuré avec ceux qui haïssent la paix."
+    },
+    {
+      "verse": 7,
+      "text": "Je suis un homme de paix et, quand je leur parle, ils sont pour la guerre."
+    }
+  ]
+}

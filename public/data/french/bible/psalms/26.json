@@ -1,0 +1,60 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 26,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "De David. Rends-moi justice, Yahweh, car j'ai marché dans mon innocence; je me confie en Yahweh, je ne chancellerai pas."
+    },
+    {
+      "verse": 2,
+      "text": "Eprouve-moi, Yahweh, sonde-moi, fais passer au creuset mes reins et mon cœur:"
+    },
+    {
+      "verse": 3,
+      "text": "car ta miséricorde est devant mes yeux, et je marche dans ta vérité."
+    },
+    {
+      "verse": 4,
+      "text": "Je ne me suis pas assis avec les hommes de mensonge, je ne vais pas avec les hommes dissimulés;"
+    },
+    {
+      "verse": 5,
+      "text": "Je hais l'assemblée de ceux qui font le mal, je ne siège pas avec les méchants."
+    },
+    {
+      "verse": 6,
+      "text": "Je lave mes mains dans l'innocence, et j'entoure ton autel, Yahweh,"
+    },
+    {
+      "verse": 7,
+      "text": "pour faire entendre une voix de louange; et raconter toutes tes merveilles."
+    },
+    {
+      "verse": 8,
+      "text": "Yahweh, j'aime le séjour de ta maison, le lieu où ta gloire réside."
+    },
+    {
+      "verse": 9,
+      "text": "N'enlève pas mon âme avec celle des pécheurs, ma vie avec celle des hommes de sang,"
+    },
+    {
+      "verse": 10,
+      "text": "qui ont le crime dans les mains, et dont la droite est pleine de présents."
+    },
+    {
+      "verse": 11,
+      "text": "Pour moi, je marche en mon innocence: délivre-moi et aie pitié de moi!"
+    },
+    {
+      "verse": 12,
+      "text": "Mon pied se tient sur un sol uni: je bénirai Yahweh dans les assemblées."
+    }
+  ]
+}

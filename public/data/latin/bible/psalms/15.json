@@ -1,0 +1,56 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 15,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "tituli inscriptio ipsi David conserva me Domine quoniam in te speravi humilis et simplicis David custodi me Deus quoniam speravi in te"
+    },
+    {
+      "verse": 2,
+      "text": "dixi Domino Dominus meus es tu quoniam bonorum meorum non eges dicens Deo Dominus meus es tu bene mihi non est sine te"
+    },
+    {
+      "verse": 3,
+      "text": "sanctis qui sunt in terra eius mirificavit *mihi; omnes voluntates meas in eis sanctis qui in terra sunt et magnificis omnis voluntas mea in eis"
+    },
+    {
+      "verse": 4,
+      "text": "multiplicatae sunt infirmitates eorum postea adceleraverunt non congregabo conventicula eorum de sanguinibus nec memor ero nominum eorum per labia mea multiplicabuntur idola eorum post tergum sequentium non litabo libamina eorum de sanguine neque adsumam nomina eorum in labiis meis"
+    },
+    {
+      "verse": 5,
+      "text": "Dominus pars hereditatis meae et calicis mei tu es qui restitues hereditatem meam mihi Dominus pars hereditatis meae et calicis mei tu possessor sortis meae"
+    },
+    {
+      "verse": 6,
+      "text": "funes ceciderunt mihi in praeclaris etenim hereditas mea praeclara est mihi lineae ceciderunt mihi in pulcherrimis et hereditas speciosissima mea est"
+    },
+    {
+      "verse": 7,
+      "text": "benedicam Domino qui tribuit mihi intellectum insuper et usque ad noctem increpaverunt me renes mei benedicam Domino qui dedit consilium mihi insuper et noctibus erudierunt me renes mei"
+    },
+    {
+      "verse": 8,
+      "text": "providebam Dominum in conspectu meo semper quoniam a dextris est mihi ne commovear proponebam in conspectu meo semper quia a dextris meis est ne commovear"
+    },
+    {
+      "verse": 9,
+      "text": "propter hoc laetatum est cor meum et exultavit lingua mea insuper et caro mea requiescet in spe propterea laetatum est cor meum et exultavit gloria mea et caro mea habitavit confidenter"
+    },
+    {
+      "verse": 10,
+      "text": "quoniam non derelinques animam meam in inferno non dabis sanctum tuum videre corruptionem non enim derelinques animam meam in inferno nec dabis sanctum tuum videre corruptionem ostendes mihi semitam vitae plenitudinem laetitiarum ante vultum tuum decores in dextera tua aeternos"
+    },
+    {
+      "verse": 11,
+      "text": "notas mihi fecisti vias vitae adimplebis me laetitia cum vultu tuo delectatio in dextera tua usque in finem"
+    }
+  ]
+}

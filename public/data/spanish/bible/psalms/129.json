@@ -1,0 +1,44 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 129,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cántico gradual. MUCHO me han angustiado desde mi juventud, puede decir ahora Israel;"
+    },
+    {
+      "verse": 2,
+      "text": "Mucho me han angustiado desde mi juventud; mas no prevalecieron contra mí."
+    },
+    {
+      "verse": 3,
+      "text": "Sobre mis espaldas araron los aradores: hicieron largos surcos."
+    },
+    {
+      "verse": 4,
+      "text": "Jehová es justo; cortó las coyundas de los impíos."
+    },
+    {
+      "verse": 5,
+      "text": "Serán avergonzados y vueltos atrás todos los que aborrecen á Sión."
+    },
+    {
+      "verse": 6,
+      "text": "Serán como la hierba de los tejados, que se seca antes que crezca:"
+    },
+    {
+      "verse": 7,
+      "text": "De la cual no hinchió segador su mano, ni sus brazos el que hace gavillas."
+    },
+    {
+      "verse": 8,
+      "text": "Ni dijeron los que pasaban: Bendición de Jehová sea sobre vosotros; os bendecimos en el nombre de Jehová."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "translation": "KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords",
+  "language": "english",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 150,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Praise ye the Lord. Praise God in his sanctuary: praise him in the firmament of his power."
+    },
+    {
+      "verse": 2,
+      "text": "Praise him for his mighty acts: praise him according to his excellent greatness."
+    },
+    {
+      "verse": 3,
+      "text": "Praise him with the sound of the trumpet: praise him with the psaltery and harp."
+    },
+    {
+      "verse": 4,
+      "text": "Praise him with the timbrel and dance: praise him with stringed instruments and organs."
+    },
+    {
+      "verse": 5,
+      "text": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals."
+    },
+    {
+      "verse": 6,
+      "text": "Let every thing that hath breath praise the Lord. Praise ye the Lord."
+    }
+  ]
+}

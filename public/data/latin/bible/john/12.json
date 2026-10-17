@@ -1,0 +1,212 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "John",
+  "bookSlug": "john",
+  "nativeName": "Secundum Ioannem",
+  "chapterNumber": 12,
+  "totalVerses": 50,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Iesus ergo ante sex dies paschae venit Bethaniam ubi fuerat Lazarus mortuus quem suscitavit Iesus"
+    },
+    {
+      "verse": 2,
+      "text": "fecerunt autem ei cenam ibi et Martha ministrabat Lazarus vero unus erat ex discumbentibus cum eo"
+    },
+    {
+      "verse": 3,
+      "text": "Maria ergo accepit libram unguenti nardi pistici pretiosi unxit pedes Iesu et extersit capillis suis pedes eius et domus impleta est ex odore unguenti"
+    },
+    {
+      "verse": 4,
+      "text": "dicit ergo unus ex discipulis eius Iudas Scariotis qui erat eum traditurus"
+    },
+    {
+      "verse": 5,
+      "text": "quare hoc unguentum non veniit trecentis denariis et datum est egenis"
+    },
+    {
+      "verse": 6,
+      "text": "dixit autem hoc non quia de egenis pertinebat ad eum sed quia fur erat et loculos habens ea quae mittebantur portabat"
+    },
+    {
+      "verse": 7,
+      "text": "dixit ergo Iesus sine illam ut in die sepulturae meae servet illud"
+    },
+    {
+      "verse": 8,
+      "text": "pauperes enim semper habetis vobiscum me autem non semper habetis"
+    },
+    {
+      "verse": 9,
+      "text": "cognovit ergo turba multa ex Iudaeis quia illic est et venerunt non propter Iesum tantum sed ut Lazarum viderent quem suscitavit a mortuis"
+    },
+    {
+      "verse": 10,
+      "text": "cogitaverunt autem principes sacerdotum ut et Lazarum interficerent"
+    },
+    {
+      "verse": 11,
+      "text": "quia multi propter illum abibant ex Iudaeis et credebant in Iesum"
+    },
+    {
+      "verse": 12,
+      "text": "in crastinum autem turba multa quae venerat ad diem festum cum audissent quia venit Iesus Hierosolyma"
+    },
+    {
+      "verse": 13,
+      "text": "acceperunt ramos palmarum et processerunt obviam ei et clamabant osanna benedictus qui venit in nomine Domini rex Israhel"
+    },
+    {
+      "verse": 14,
+      "text": "et invenit Iesus asellum et sedit super eum sicut scriptum est"
+    },
+    {
+      "verse": 15,
+      "text": "noli timere filia Sion ecce rex tuus venit sedens super pullum asinae"
+    },
+    {
+      "verse": 16,
+      "text": "haec non cognoverunt discipuli eius primum sed quando glorificatus est Iesus tunc recordati sunt quia haec erant scripta de eo et haec fecerunt ei"
+    },
+    {
+      "verse": 17,
+      "text": "testimonium ergo perhibebat turba quae erat cum eo quando Lazarum vocavit de monumento et suscitavit eum a mortuis"
+    },
+    {
+      "verse": 18,
+      "text": "propterea et obviam venit ei turba quia audierunt eum fecisse hoc signum"
+    },
+    {
+      "verse": 19,
+      "text": "Pharisaei ergo dixerunt ad semet ipsos videtis quia nihil proficimus ecce mundus totus post eum abiit"
+    },
+    {
+      "verse": 20,
+      "text": "erant autem gentiles quidam ex his qui ascenderant ut adorarent in die festo"
+    },
+    {
+      "verse": 21,
+      "text": "hii ergo accesserunt ad Philippum qui erat a Bethsaida Galilaeae et rogabant eum dicentes domine volumus Iesum videre"
+    },
+    {
+      "verse": 22,
+      "text": "venit Philippus et dicit Andreae Andreas rursum et Philippus dixerunt Iesu"
+    },
+    {
+      "verse": 23,
+      "text": "Iesus autem respondit eis dicens venit hora ut clarificetur Filius hominis"
+    },
+    {
+      "verse": 24,
+      "text": "amen amen dico vobis nisi granum frumenti cadens in terram mortuum fuerit"
+    },
+    {
+      "verse": 25,
+      "text": "ipsum solum manet si autem mortuum fuerit multum fructum adfert qui amat animam suam perdet eam et qui odit animam suam in hoc mundo in vitam aeternam custodit eam"
+    },
+    {
+      "verse": 26,
+      "text": "si quis mihi ministrat me sequatur et ubi sum ego illic et minister meus erit si quis mihi ministraverit honorificabit eum Pater meus"
+    },
+    {
+      "verse": 27,
+      "text": "nunc anima mea turbata est et quid dicam Pater salvifica me ex hora hac sed propterea veni in horam hanc"
+    },
+    {
+      "verse": 28,
+      "text": "Pater clarifica tuum nomen venit ergo vox de caelo et clarificavi et iterum clarificabo"
+    },
+    {
+      "verse": 29,
+      "text": "turba ergo quae stabat et audierat dicebant tonitruum factum esse alii dicebant angelus ei locutus est"
+    },
+    {
+      "verse": 30,
+      "text": "respondit Iesus et dixit non propter me vox haec venit sed propter vos"
+    },
+    {
+      "verse": 31,
+      "text": "nunc iudicium est mundi nunc princeps huius mundi eicietur foras"
+    },
+    {
+      "verse": 32,
+      "text": "et ego si exaltatus fuero a terra omnia traham ad me ipsum"
+    },
+    {
+      "verse": 33,
+      "text": "hoc autem dicebat significans qua morte esset moriturus"
+    },
+    {
+      "verse": 34,
+      "text": "respondit ei turba nos audivimus ex lege quia Christus manet in aeternum et quomodo tu dicis oportet exaltari Filium hominis quis est iste Filius hominis"
+    },
+    {
+      "verse": 35,
+      "text": "dixit ergo eis Iesus adhuc modicum lumen in vobis est ambulate dum lucem habetis ut non tenebrae vos conprehendant et qui ambulat in tenebris nescit quo vadat"
+    },
+    {
+      "verse": 36,
+      "text": "dum lucem habetis credite in lucem ut filii lucis sitis haec locutus est Iesus et abiit et abscondit se ab eis"
+    },
+    {
+      "verse": 37,
+      "text": "cum autem tanta signa fecisset coram eis non credebant in eum"
+    },
+    {
+      "verse": 38,
+      "text": "ut sermo Esaiae prophetae impleretur quem dixit Domine quis credidit auditui nostro et brachium Domini cui revelatum est"
+    },
+    {
+      "verse": 39,
+      "text": "propterea non poterant credere quia iterum dixit Esaias"
+    },
+    {
+      "verse": 40,
+      "text": "excaecavit oculos eorum et induravit eorum cor ut non videant oculis et intellegant corde et convertantur et sanem eos"
+    },
+    {
+      "verse": 41,
+      "text": "haec dixit Esaias quando vidit gloriam eius et locutus est de eo"
+    },
+    {
+      "verse": 42,
+      "text": "verumtamen et ex principibus multi crediderunt in eum sed propter Pharisaeos non confitebantur ut de synagoga non eicerentur"
+    },
+    {
+      "verse": 43,
+      "text": "dilexerunt enim gloriam hominum magis quam gloriam Dei"
+    },
+    {
+      "verse": 44,
+      "text": "Iesus autem clamavit et dixit qui credit in me non credit in me sed in eum qui misit me"
+    },
+    {
+      "verse": 45,
+      "text": "et qui videt me videt eum qui misit me"
+    },
+    {
+      "verse": 46,
+      "text": "ego lux in mundum veni ut omnis qui credit in me in tenebris non maneat"
+    },
+    {
+      "verse": 47,
+      "text": "et si quis audierit verba mea et non custodierit ego non iudico eum non enim veni ut iudicem mundum sed ut salvificem mundum"
+    },
+    {
+      "verse": 48,
+      "text": "qui spernit me et non accipit verba mea habet qui iudicet eum sermo quem locutus sum ille iudicabit eum in novissimo die"
+    },
+    {
+      "verse": 49,
+      "text": "quia ego ex me ipso non sum locutus sed qui misit me Pater ipse mihi mandatum dedit quid dicam et quid loquar"
+    },
+    {
+      "verse": 50,
+      "text": "et scio quia mandatum eius vita aeterna est quae ergo ego loquor sicut dixit mihi Pater sic loquor"
+    }
+  ]
+}

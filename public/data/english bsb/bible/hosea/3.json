@@ -1,0 +1,32 @@
+{
+  "translation": "BSB: Berean Standard Bible",
+  "language": "english-bsb",
+  "dir": "ltr",
+  "bookName": "Hosea",
+  "bookSlug": "hosea",
+  "nativeName": "Hosea",
+  "chapterNumber": 3,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then the LORD said to me, “Go show love to your wife again, though she is loved by another and is an adulteress. Love her as the LORD loves the Israelites, though they turn to other gods and offer raisin cakes to idols.”"
+    },
+    {
+      "verse": 2,
+      "text": "So I bought her for fifteen shekels of silver and a homer and a lethech of barley."
+    },
+    {
+      "verse": 3,
+      "text": "Then I said to her, “You must live with me for many days; you must not be promiscuous or belong to another, and I will do the same for you.”"
+    },
+    {
+      "verse": 4,
+      "text": "For the Israelites must live many days without king or prince, without sacrifice or sacred pillar, and without ephod or idol."
+    },
+    {
+      "verse": 5,
+      "text": "Afterward, the people of Israel will return and seek the LORD their God and David their king. They will come trembling to the LORD and to His goodness in the last days."
+    }
+  ]
+}

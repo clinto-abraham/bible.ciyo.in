@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Nahum",
+  "bookSlug": "nahum",
+  "nativeName": "Nahum",
+  "chapterNumber": 2,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "ascendit qui dispergat coram te qui custodit obsidionem contemplare viam conforta lumbos robora virtutem valde"
+    },
+    {
+      "verse": 2,
+      "text": "quia reddidit Dominus superbiam Iacob sicut superbiam Israhel quia vastatores dissipaverunt eos et propagines eorum corruperunt"
+    },
+    {
+      "verse": 3,
+      "text": "clypeus fortium eius ignitus viri exercitus in coccineis igneae habenae currus in die praeparationis eius et agitatores consopiti sunt"
+    },
+    {
+      "verse": 4,
+      "text": "in itineribus conturbati sunt quadrigae conlisae sunt in plateis aspectus eorum quasi lampades quasi fulgura discurrentia"
+    },
+    {
+      "verse": 5,
+      "text": "recordabitur fortium suorum ruent in itineribus suis velociter ascendent muros eius et praeparabitur umbraculum"
+    },
+    {
+      "verse": 6,
+      "text": "portae fluviorum apertae sunt et templum ad solum dirutum"
+    },
+    {
+      "verse": 7,
+      "text": "et miles captivus abductus est et ancillae eius minabantur gementes ut columbae murmurantes in cordibus suis"
+    },
+    {
+      "verse": 8,
+      "text": "et Nineve quasi piscina aquarum aquae eius ipsi vero fugerunt state state et non est qui revertatur"
+    },
+    {
+      "verse": 9,
+      "text": "diripite argentum diripite aurum et non est finis divitiarum ex omnibus vasis desiderabilibus"
+    },
+    {
+      "verse": 10,
+      "text": "dissipata et scissa et dilacerata et cor tabescens et dissolutio geniculorum et defectio in cunctis renibus et facies omnium sicut nigredo ollae"
+    },
+    {
+      "verse": 11,
+      "text": "ubi est habitaculum leonum et pascua catulorum leonum ad quam ivit leo ut ingrederetur illuc catulus leonis et non est qui exterreat"
+    },
+    {
+      "verse": 12,
+      "text": "leo cepit sufficienter catulis suis et necavit leaenis suis et implevit praeda speluncas suas et cubile suum rapina"
+    },
+    {
+      "verse": 13,
+      "text": "ecce ego ad te dicit Dominus exercituum et succendam usque ad fumum quadrigas eius et leunculos tuos comedet gladius et exterminabo de terra praedam tuam et non audietur ultra vox nuntiorum tuorum"
+    }
+  ]
+}

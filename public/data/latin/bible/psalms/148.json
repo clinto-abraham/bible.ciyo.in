@@ -1,0 +1,68 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 148,
+  "totalVerses": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "alleluia laudate Dominum de caelis laudate eum in excelsis alleluia laudate Dominum de caelis laudate eum in excelsis"
+    },
+    {
+      "verse": 2,
+      "text": "laudate eum omnes angeli eius laudate eum omnes virtutes eius laudate eum omnes angeli eius laudate eum omnes exercitus eius"
+    },
+    {
+      "verse": 3,
+      "text": "laudate eum sol et luna laudate eum omnes stellae et lumen laudate eum sol et luna laudate eum omnes stellae luminis"
+    },
+    {
+      "verse": 4,
+      "text": "laudate eum caeli caelorum et aqua quae super caelum est laudate eum caeli caelorum et aquae quae super caelos sunt"
+    },
+    {
+      "verse": 5,
+      "text": "laudent nomen Domini quia ipse dixit et facta sunt ipse mandavit et creata sunt laudent nomen Domini quoniam ipse mandavit et creata sunt"
+    },
+    {
+      "verse": 6,
+      "text": "statuit ea in saeculum et in saeculum saeculi praeceptum posuit et non praeteribit et statuit ea in saeculum et in saeculum praeceptum dedit et non praeteribit"
+    },
+    {
+      "verse": 7,
+      "text": "laudate Dominum de terra dracones et omnes abyssi laudate Dominum de terra dracones et omnes abyssi"
+    },
+    {
+      "verse": 8,
+      "text": "ignis grando nix glacies spiritus procellarum quae faciunt verbum eius ignis et grando nix et glacies ventus turbo quae facitis sermonem eius"
+    },
+    {
+      "verse": 9,
+      "text": "montes et omnes colles ligna fructifera et omnes cedri montes et omnes colles lignum fructiferum et universae cedri"
+    },
+    {
+      "verse": 10,
+      "text": "bestiae et universa pecora serpentes et volucres pinnatae bestiae et omnia iumenta reptilia et aves volantes"
+    },
+    {
+      "verse": 11,
+      "text": "reges terrae et omnes populi principes et omnes iudices terrae reges terrae et omnes populi principes et universi iudices terrae"
+    },
+    {
+      "verse": 12,
+      "text": "iuvenes et virgines senes cum iunioribus laudent nomen Domini iuvenes et virgines senes cum pueris laudent nomen Domini"
+    },
+    {
+      "verse": 13,
+      "text": "quia exaltatum est nomen eius solius quoniam sublime nomen eius solius"
+    },
+    {
+      "verse": 14,
+      "text": "confessio eius super caelum et terram et exaltabit cornu populi sui hymnus omnibus sanctis eius filiis Israhel populo adpropinquanti sibi gloria eius in caelo et in terra et exaltavit cornu populi sui laus omnibus sanctis eius filiis Israhel populo adpropinquanti sibi alleluia"
+    }
+  ]
+}

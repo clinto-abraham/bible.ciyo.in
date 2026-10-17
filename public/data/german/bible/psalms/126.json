@@ -1,0 +1,36 @@
+{
+  "translation": "GerElb1905: German Darby Unrevidierte Elberfelder (1905)",
+  "language": "german",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 126,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ein Stufenlied. Als Jehova die Gefangenen Zions zurückführte, waren wir wie Träumende."
+    },
+    {
+      "verse": 2,
+      "text": "Da ward unser Mund voll Lachens, und unsere Zunge voll Jubels; da sagte man unter den Nationen: Jehova hat Großes an ihnen getan!"
+    },
+    {
+      "verse": 3,
+      "text": "Jehova hat Großes an uns getan: wir waren fröhlich!"
+    },
+    {
+      "verse": 4,
+      "text": "Führe unsere Gefangenen zurück, Jehova, gleich Bächen im Mittagslande!"
+    },
+    {
+      "verse": 5,
+      "text": "Die mit Tränen säen, werden mit Jubel ernten."
+    },
+    {
+      "verse": 6,
+      "text": "Er geht hin unter Weinen und trägt den Samen zur Aussaat; er kommt heim mit Jubel und trägt seine Garben."
+    }
+  ]
+}

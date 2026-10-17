@@ -1,0 +1,24 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 133,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cantique des montées. De David. Ah! Qu'il est bon, qu'il est doux pour des frères d'habiter ensemble!"
+    },
+    {
+      "verse": 2,
+      "text": "C'est comme l'huile précieuse qui, répandue sur la tête, coule sur la barbe, sur la barbe d'Aaron, qui descend sur le bord de son vêtement."
+    },
+    {
+      "verse": 3,
+      "text": "C'est comme la rosée de l'Hermon, qui descend sur les sommets de Sion. Car c'est là que Yahweh a établi la bénédiction, la vie, pour toujours."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 62,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "psalmus David cum esset in deserto Iudaeae canticum David cum esset in deserto Iuda"
+    },
+    {
+      "verse": 2,
+      "text": "Deus Deus meus ad te de luce vigilo sitivit in te anima mea quam multipliciter tibi caro mea Deus fortitudo mea tu es de luce consurgam ad te sitivit te anima mea desideravit te caro mea"
+    },
+    {
+      "verse": 3,
+      "text": "in terra deserta et invia et inaquosa sic in sancto apparui tibi ut viderem virtutem tuam et gloriam tuam in terra invia et conficiente ac sine aqua sic in sancto apparui tibi ut videam fortitudinem tuam et gloriam tuam"
+    },
+    {
+      "verse": 4,
+      "text": "quoniam melior est misericordia tua super vitas labia mea laudabunt te melior est enim misericordia tua quam vitae labia mea laudabunt te"
+    },
+    {
+      "verse": 5,
+      "text": "sic benedicam te in vita mea in nomine tuo levabo manus meas sic benedicam tibi in vita mea in nomine tuo levabo manus meas"
+    },
+    {
+      "verse": 6,
+      "text": "sicut adipe et pinguidine repleatur anima mea et labia exultationis laudabit os meum quasi adipe et pinguidine implebitur anima mea et labiis laudantibus canet os meum"
+    },
+    {
+      "verse": 7,
+      "text": "si memor fui tui super stratum meum in matutinis meditabar in te recordans tui in cubili meo per singulas vigilias meditabor tibi"
+    },
+    {
+      "verse": 8,
+      "text": "quia fuisti adiutor meus et in velamento alarum tuarum exultabo quia fuisti auxilium meum in umbra alarum tuarum laudabo"
+    },
+    {
+      "verse": 9,
+      "text": "adhesit anima mea post te me suscepit dextera tua adhesit anima mea post te me suscepit dextera tua"
+    },
+    {
+      "verse": 10,
+      "text": "ipsi vero in vanum quaesierunt animam meam introibunt in inferiora terrae ipsi vero interficere quaerunt animam meam ingrediantur in extrema terrae"
+    },
+    {
+      "verse": 11,
+      "text": "tradentur in manus gladii partes vulpium erunt congregentur in manus gladii pars vulpium erunt"
+    },
+    {
+      "verse": 12,
+      "text": "rex vero laetabitur in Deo laudabitur omnis qui iurat in eo quia obstructum est os loquentium iniqua rex autem laetabitur in Deo laudabitur omnis qui iurat in eo quia obstruetur os loquentium mendacium"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 100,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "David psalmus misericordiam et iudicium cantabo tibi Domine psallam David canticum misericordiam et iudicium cantabo tibi Domine psallam"
+    },
+    {
+      "verse": 2,
+      "text": "et intellegam in via inmaculata quando venies ad me perambulabam in innocentia cordis mei in medio domus meae erudiar in via perfecta quando venies ad me ambulabo in simplicitate cordis mei in medio domus meae"
+    },
+    {
+      "verse": 3,
+      "text": "non proponebam ante oculos meos rem iniustam facientes praevaricationes odivi non adhesit mihi non ponam coram oculis meis verbum Belial facientem declinationes odivi nec adhesit mihi"
+    },
+    {
+      "verse": 4,
+      "text": "cor pravum declinante a me maligno non cognoscebam cor pravum recedet a me malum nesciam"
+    },
+    {
+      "verse": 5,
+      "text": "detrahentem secreto proximo suo hunc persequebar superbo oculo et insatiabili corde cum hoc non edebam loquentem in abscondito contra proximum suum hunc interficiam superbum oculis et altum corde cum hoc esse non potero"
+    },
+    {
+      "verse": 6,
+      "text": "oculi mei ad fideles terrae ut sederent mecum ambulans in via inmaculata hic mihi ministrabat oculi mei ad fideles terrae ut habitent mecum ambulans in via simpliciter hic ministrabit mihi"
+    },
+    {
+      "verse": 7,
+      "text": "non habitabat in medio domus meae qui facit superbiam qui loquitur iniqua non direxit in conspectu oculorum meorum non habitabit in medio domus meae faciens dolum loquens mendacium non placebit in conspectu oculorum meorum"
+    },
+    {
+      "verse": 8,
+      "text": "in matutino interficiebam omnes peccatores terrae ut disperderem de civitate Domini omnes operantes iniquitatem mane perdam omnes impios terrae ut interficiam de civitate Domini universos qui operantur iniquitatem"
+    }
+  ]
+}

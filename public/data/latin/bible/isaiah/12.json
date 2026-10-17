@@ -1,0 +1,36 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Isaiah",
+  "bookSlug": "isaiah",
+  "nativeName": "Isaiah",
+  "chapterNumber": 12,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "et dices in illa die confitebor tibi Domine quoniam iratus es mihi conversus est furor tuus et consolatus es me"
+    },
+    {
+      "verse": 2,
+      "text": "ecce Deus salvator meus fiducialiter agam et non timebo quia fortitudo mea et laus mea Dominus Deus et factus est mihi in salutem"
+    },
+    {
+      "verse": 3,
+      "text": "haurietis aquas in gaudio de fontibus salvatoris"
+    },
+    {
+      "verse": 4,
+      "text": "et dicetis in illa die confitemini Domino et invocate nomen eius notas facite in populis adinventiones eius mementote quoniam excelsum est nomen eius"
+    },
+    {
+      "verse": 5,
+      "text": "cantate Domino quoniam magnifice fecit adnuntiate hoc in universa terra"
+    },
+    {
+      "verse": 6,
+      "text": "exulta et lauda habitatio Sion quia magnus in medio tui Sanctus Israhel"
+    }
+  ]
+}

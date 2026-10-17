@@ -1,0 +1,40 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 120,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "（上行（或作登階，下同）之詩。）我 在急難中 求告 耶和華，他就應允我。"
+    },
+    {
+      "verse": 2,
+      "text": "耶和華啊，求你救 我 脫離說謊 的嘴唇 和詭詐 的舌頭！"
+    },
+    {
+      "verse": 3,
+      "text": "詭詐 的舌頭啊，要給 你 甚麼呢？要拿甚麼 加 給你呢？"
+    },
+    {
+      "verse": 4,
+      "text": "就是勇士 的利 箭 和 羅騰木（小樹名，松類）的炭火。"
+    },
+    {
+      "verse": 5,
+      "text": "我寄居 在米設，住 在基達 帳棚 之中，有禍了！"
+    },
+    {
+      "verse": 6,
+      "text": "我 與 那恨惡 和睦 的人許久 同住。"
+    },
+    {
+      "verse": 7,
+      "text": "我 願和睦，但 我發言，他們就要 爭戰。"
+    }
+  ]
+}

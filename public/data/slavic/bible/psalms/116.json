@@ -1,0 +1,20 @@
+{
+  "translation": "CSlElizabeth: 1757 Church Slavonic Elizabeth Bible",
+  "language": "slavic",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 116,
+  "totalVerses": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Хвалите Господа, вси языцы, похвалите Его, вси людие:"
+    },
+    {
+      "verse": 2,
+      "text": "яко утвердися милость Его на нас, и истина Господня пребывает во век."
+    }
+  ]
+}

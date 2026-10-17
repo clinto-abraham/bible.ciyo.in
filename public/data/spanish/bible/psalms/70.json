@@ -1,0 +1,32 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 70,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Al Músico principal: Salmo de David, para conmemorar. OH Dios, acude á librarme; apresúrate, oh Dios, á socorrerme."
+    },
+    {
+      "verse": 2,
+      "text": "Sean avergonzados y confusos los que buscan mi vida; sean vueltos atrás y avergonzados los que mi mal desean."
+    },
+    {
+      "verse": 3,
+      "text": "Sean vueltos, en pago de su afrenta hecha, los que dicen: ¡Ah! ¡ah!"
+    },
+    {
+      "verse": 4,
+      "text": "Gócense y alégrense en ti todos los que te buscan; y digan siempre los que aman tu salud: Engrandecido sea Dios."
+    },
+    {
+      "verse": 5,
+      "text": "Yo estoy afligido y menesteroso; apresúrate á mí, oh Dios: ayuda mía y mi libertador eres tú; oh Jehová, no te detengas."
+    }
+  ]
+}

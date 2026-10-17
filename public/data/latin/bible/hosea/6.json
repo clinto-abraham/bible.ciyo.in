@@ -1,0 +1,56 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Hosea",
+  "bookSlug": "hosea",
+  "nativeName": "Hosea",
+  "chapterNumber": 6,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in tribulatione sua mane consurgunt ad me venite et revertamur ad Dominum"
+    },
+    {
+      "verse": 2,
+      "text": "quia ipse cepit et sanabit nos percutiet et curabit nos"
+    },
+    {
+      "verse": 3,
+      "text": "vivificabit nos post duos dies in die tertia suscitabit nos et vivemus in conspectu eius sciemus sequemurque ut cognoscamus Dominum quasi diluculum praeparatus est egressus eius et veniet quasi imber nobis temporaneus et serotinus terrae"
+    },
+    {
+      "verse": 4,
+      "text": "quid faciam tibi Ephraim quid faciam tibi Iuda misericordia vestra quasi nubes matutina et quasi ros mane pertransiens"
+    },
+    {
+      "verse": 5,
+      "text": "propter hoc dolavi in prophetis occidi eos in verbis oris mei et iudicia tua quasi lux egredientur"
+    },
+    {
+      "verse": 6,
+      "text": "quia misericordiam volui et non sacrificium et scientiam Dei plus quam holocausta"
+    },
+    {
+      "verse": 7,
+      "text": "ipsi autem sicut Adam transgressi sunt pactum ibi praevaricati sunt in me"
+    },
+    {
+      "verse": 8,
+      "text": "Galaad civitas operantium idolum subplantata sanguine"
+    },
+    {
+      "verse": 9,
+      "text": "et quasi fauces virorum latronum particeps sacerdotum in via interficientium pergentes de Sychem quia scelus operati sunt"
+    },
+    {
+      "verse": 10,
+      "text": "in domo Israhel vidi horrendum ibi fornicationes Ephraim contaminatus est Israhel"
+    },
+    {
+      "verse": 11,
+      "text": "sed et Iuda pone messem tibi cum convertero captivitatem populi mei"
+    }
+  ]
+}

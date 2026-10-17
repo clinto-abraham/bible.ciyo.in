@@ -1,0 +1,56 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 16,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Michtham de David. GUÁRDAME, oh Dios, porque en ti he confiado."
+    },
+    {
+      "verse": 2,
+      "text": "Dijiste, oh alma mía, á Jehová: Tú eres el Señor: mi bien á ti no aprovecha;"
+    },
+    {
+      "verse": 3,
+      "text": "Sino á los santos que están en la tierra, y á los íntegros: toda mi afición en ellos."
+    },
+    {
+      "verse": 4,
+      "text": "Multiplicaránse los dolores de aquellos que sirven diligentes á otro dios: no ofreceré yo sus libaciones de sangre, ni en mis labios tomaré sus nombres."
+    },
+    {
+      "verse": 5,
+      "text": "Jehová es la porción de mi parte y de mi copa; tú sustentarás mi suerte."
+    },
+    {
+      "verse": 6,
+      "text": "Las cuerdas me cayeron en lugares deleitosos, y es hermosa la heredad que me ha tocado."
+    },
+    {
+      "verse": 7,
+      "text": "Bendeciré á Jehová que me aconseja: aun en las noches me enseñan mis riñones."
+    },
+    {
+      "verse": 8,
+      "text": "A Jehová he puesto siempre delante de mí: porque está á mi diestra no seré conmovido."
+    },
+    {
+      "verse": 9,
+      "text": "Alegróse por tanto mi corazón, y se gozó mi gloria: también mi carne reposará segura."
+    },
+    {
+      "verse": 10,
+      "text": "Porque no dejarás mi alma en el sepulcro; ni permitirás que tu santo vea corrupción."
+    },
+    {
+      "verse": 11,
+      "text": "Me mostrarás la senda de la vida: hartura de alegrías hay con tu rostro; deleites en tu diestra para siempre."
+    }
+  ]
+}

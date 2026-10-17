@@ -1,0 +1,304 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Nehemiah",
+  "bookSlug": "nehemiah",
+  "nativeName": "Nehemiah",
+  "chapterNumber": 7,
+  "totalVerses": 73,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "postquam autem aedificatus est murus et posui valvas et recensui ianitores et cantores et Levitas"
+    },
+    {
+      "verse": 2,
+      "text": "praecepi Aneni fratri meo et Ananiae principi domus de Hierusalem ipse enim quasi vir verax et timens Deum plus ceteris videbatur"
+    },
+    {
+      "verse": 3,
+      "text": "et dixi eis non aperiantur portae Hierusalem usque ad calorem solis cumque adhuc adsisterent clausae portae sunt et oppilatae et posui custodes de habitatoribus Hierusalem singulos per vices suas et unumquemque contra domum suam"
+    },
+    {
+      "verse": 4,
+      "text": "civitas autem erat lata nimis et grandis et populus parvus in medio eius et non erant domus aedificatae"
+    },
+    {
+      "verse": 5,
+      "text": "dedit autem Deus in corde meo et congregavi optimates et magistratus et vulgum ut recenserem eos et inveni librum census eorum qui ascenderant primum et inventum est scriptum in eo"
+    },
+    {
+      "verse": 6,
+      "text": "isti filii provinciae qui ascenderunt de captivitate migrantium quos transtulerat Nabuchodonosor rex Babylonis et reversi sunt in Hierusalem et in Iudaeam unusquisque in civitatem suam"
+    },
+    {
+      "verse": 7,
+      "text": "qui venerunt cum Zorobabel Hiesuae Neemias Azarias Raamias Naamni Mardocheus Belsar Mespharath Beggoai Naum Baana numerus virorum populi Israhel"
+    },
+    {
+      "verse": 8,
+      "text": "filii Pharos duo milia centum septuaginta duo"
+    },
+    {
+      "verse": 9,
+      "text": "filii Saphatiae trecenti septuaginta duo"
+    },
+    {
+      "verse": 10,
+      "text": "filii Area sescenti quinquaginta duo"
+    },
+    {
+      "verse": 11,
+      "text": "filii Phaethmoab filiorum Hiesuae et Ioab duo milia octingenti decem et octo"
+    },
+    {
+      "verse": 12,
+      "text": "filii Helam mille octingenti quinquaginta quattuor"
+    },
+    {
+      "verse": 13,
+      "text": "filii Zethua octingenti quadraginta quinque"
+    },
+    {
+      "verse": 14,
+      "text": "filii Zacchai septingenti sexaginta"
+    },
+    {
+      "verse": 15,
+      "text": "filii Bennui sescenti quadraginta octo"
+    },
+    {
+      "verse": 16,
+      "text": "filii Bebai sescenti viginti octo"
+    },
+    {
+      "verse": 17,
+      "text": "filii Azgad duo milia trecenti viginti duo"
+    },
+    {
+      "verse": 18,
+      "text": "filii Adonicam sescenti sexaginta septem"
+    },
+    {
+      "verse": 19,
+      "text": "filii Baggoaim duo milia sexaginta septem"
+    },
+    {
+      "verse": 20,
+      "text": "filii Adin sescenti quinquaginta quinque"
+    },
+    {
+      "verse": 21,
+      "text": "filii Ater filii Ezechiae nonaginta octo"
+    },
+    {
+      "verse": 22,
+      "text": "filii Asem trecenti viginti octo"
+    },
+    {
+      "verse": 23,
+      "text": "filii Besai trecenti viginti quattuor"
+    },
+    {
+      "verse": 24,
+      "text": "filii Areph centum duodecim"
+    },
+    {
+      "verse": 25,
+      "text": "filii Gabaon nonaginta quinque"
+    },
+    {
+      "verse": 26,
+      "text": "viri Bethleem et Netupha centum octoginta octo"
+    },
+    {
+      "verse": 27,
+      "text": "viri Anathoth centum viginti octo"
+    },
+    {
+      "verse": 28,
+      "text": "viri Bethamoth quadraginta duo"
+    },
+    {
+      "verse": 29,
+      "text": "viri Cariathiarim Cephira et Beroth septingenti quadraginta tres"
+    },
+    {
+      "verse": 30,
+      "text": "viri Rama et Geba sescenti viginti unus"
+    },
+    {
+      "verse": 31,
+      "text": "viri Machmas centum viginti duo"
+    },
+    {
+      "verse": 32,
+      "text": "viri Bethel et Hai centum viginti tres"
+    },
+    {
+      "verse": 33,
+      "text": "viri Nebo alterius quinquaginta duo"
+    },
+    {
+      "verse": 34,
+      "text": "viri Helam alterius mille ducenti quinquaginta quattuor"
+    },
+    {
+      "verse": 35,
+      "text": "filii Arem trecenti viginti"
+    },
+    {
+      "verse": 36,
+      "text": "filii Hiericho trecenti quadraginta quinque"
+    },
+    {
+      "verse": 37,
+      "text": "filii Lod Adid et Ono septingenti viginti unus"
+    },
+    {
+      "verse": 38,
+      "text": "filii Senaa tria milia nongenti triginta"
+    },
+    {
+      "verse": 39,
+      "text": "sacerdotes filii Idaia in domo Iosua nongenti septuaginta tres"
+    },
+    {
+      "verse": 40,
+      "text": "filii Emmer mille quinquaginta duo"
+    },
+    {
+      "verse": 41,
+      "text": "filii Phassur mille ducenti quadraginta septem"
+    },
+    {
+      "verse": 42,
+      "text": "filii Arem mille decem et septem Levitae"
+    },
+    {
+      "verse": 43,
+      "text": "filii Iosue et Cadmihel filiorum"
+    },
+    {
+      "verse": 44,
+      "text": "Oduia septuaginta quattuor cantores"
+    },
+    {
+      "verse": 45,
+      "text": "filii Asaph centum quadraginta octo"
+    },
+    {
+      "verse": 46,
+      "text": "ianitores filii Sellum filii Ater filii Telmon filii Accub filii Atita filii Sobai centum triginta octo"
+    },
+    {
+      "verse": 47,
+      "text": "Nathinnei filii Soa filii Asfa filii Tebaoth"
+    },
+    {
+      "verse": 48,
+      "text": "filii Ceros filii Siaa filii Fado filii Lebana filii Agaba filii Selmon"
+    },
+    {
+      "verse": 49,
+      "text": "filii Anan filii Geddel filii Gaer"
+    },
+    {
+      "verse": 50,
+      "text": "filii Raaia filii Rasim filii Necoda"
+    },
+    {
+      "verse": 51,
+      "text": "filii Gezem filii Aza filii Fasea"
+    },
+    {
+      "verse": 52,
+      "text": "filii Besai filii Munim filii Nephusim"
+    },
+    {
+      "verse": 53,
+      "text": "filii Becbuc filii Acupha filii Arur"
+    },
+    {
+      "verse": 54,
+      "text": "filii Besloth filii Meida filii Arsa"
+    },
+    {
+      "verse": 55,
+      "text": "filii Bercos filii Sisara filii Thema"
+    },
+    {
+      "verse": 56,
+      "text": "filii Nesia filii Atipha"
+    },
+    {
+      "verse": 57,
+      "text": "filii servorum Salomonis filii Sotai filii Sophereth filii Pherida"
+    },
+    {
+      "verse": 58,
+      "text": "filii Iahala filii Dercon filii Geddel"
+    },
+    {
+      "verse": 59,
+      "text": "filii Saphatia filii Athil filii Phocereth qui erat ortus ex Sabaim filio Amon"
+    },
+    {
+      "verse": 60,
+      "text": "omnes Nathinnei et filii servorum Salomonis trecenti nonaginta duo"
+    },
+    {
+      "verse": 61,
+      "text": "hii sunt autem qui ascenderunt de Thelmella Thelarsa Cherub Addon et Emmer et non potuerunt indicare domum patrum suorum et semen suum utrum ex Israhel essent"
+    },
+    {
+      "verse": 62,
+      "text": "filii Dalaia filii Tobia filii Necoda sescenti quadraginta duo"
+    },
+    {
+      "verse": 63,
+      "text": "et de sacerdotibus filii Abia filii Accos filii Berzellai qui accepit de filiabus Berzellai Galaditis uxorem et vocatus est nomine eorum"
+    },
+    {
+      "verse": 64,
+      "text": "hii quaesierunt scripturam suam in censu et non invenerunt et eiecti sunt de sacerdotio"
+    },
+    {
+      "verse": 65,
+      "text": "dixitque Athersatha eis ut non manducarent de sanctis sanctorum donec staret sacerdos doctus et eruditus"
+    },
+    {
+      "verse": 66,
+      "text": "omnis multitudo quasi unus quadraginta duo milia sescenti sexaginta"
+    },
+    {
+      "verse": 67,
+      "text": "absque servis et ancillis eorum qui erant septem milia trecenti triginta et septem et inter eos cantores et cantrices ducentae quadraginta quinque"
+    },
+    {
+      "verse": 68,
+      "text": "[]"
+    },
+    {
+      "verse": 69,
+      "text": "cameli quadringenti triginta quinque asini sex milia septingenti viginti"
+    },
+    {
+      "verse": 70,
+      "text": "nonnulli autem de principibus familiarum dederunt in opus Athersatha dedit in thesaurum auri dragmas mille fialas quinquaginta tunicas sacerdotales quingentas triginta"
+    },
+    {
+      "verse": 71,
+      "text": "et de principibus familiarum dederunt in thesaurum operis auri dragmas viginti milia et argenti minas duo milia ducentas"
+    },
+    {
+      "verse": 72,
+      "text": "et quod dedit reliquus populus auri dragmas viginti milia et argenti minas duo milia et tunicas sacerdotales sexaginta septem"
+    },
+    {
+      "verse": 73,
+      "text": "habitaverunt autem sacerdotes et Levitae et ianitores et cantores et reliquum vulgus et Nathinnei et omnis Israhel in civitatibus suis"
+    }
+  ]
+}

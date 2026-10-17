@@ -1,0 +1,60 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Isaiah",
+  "bookSlug": "isaiah",
+  "nativeName": "Isaiah",
+  "chapterNumber": 64,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "utinam disrumperes caelos et descenderes a facie tua montes defluerent"
+    },
+    {
+      "verse": 2,
+      "text": "sicut exustio ignis tabescerent aquae arderent igni ut notum fieret nomen tuum inimicis tuis a facie tua gentes turbarentur"
+    },
+    {
+      "verse": 3,
+      "text": "cum feceris mirabilia non sustinebimus descendisti et a facie tua montes defluxerunt"
+    },
+    {
+      "verse": 4,
+      "text": "a saeculo non audierunt neque auribus perceperunt oculus non vidit Deus absque te quae praeparasti expectantibus te"
+    },
+    {
+      "verse": 5,
+      "text": "occurristi laetanti et facienti iustitiam in viis tuis recordabuntur tui ecce tu iratus es et peccavimus in ipsis fuimus semper et salvabimur"
+    },
+    {
+      "verse": 6,
+      "text": "et facti sumus ut inmundus omnes nos quasi pannus menstruatae universae iustitiae nostrae et cecidimus quasi folium universi et iniquitates nostrae quasi ventus abstulerunt nos"
+    },
+    {
+      "verse": 7,
+      "text": "non est qui invocet nomen tuum qui consurgat et teneat te abscondisti faciem tuam a nobis et adlisisti nos in manu iniquitatis nostrae"
+    },
+    {
+      "verse": 8,
+      "text": "et nunc Domine pater noster es tu nos vero lutum et fictor noster et opera manuum tuarum omnes nos"
+    },
+    {
+      "verse": 9,
+      "text": "ne irascaris Domine satis et ne ultra memineris iniquitatis ecce respice populus tuus omnes nos"
+    },
+    {
+      "verse": 10,
+      "text": "civitas sancti tui facta est deserta Sion deserta facta est Hierusalem desolata"
+    },
+    {
+      "verse": 11,
+      "text": "domus sanctificationis nostrae et gloriae nostrae ubi laudaverunt te patres nostri facta est in exustionem ignis et omnia desiderabilia nostra versa sunt in ruinas"
+    },
+    {
+      "verse": 12,
+      "text": "numquid super his continebis te Domine tacebis et adfliges nos vehementer"
+    }
+  ]
+}

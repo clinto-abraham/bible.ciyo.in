@@ -1,0 +1,20 @@
+{
+  "translation": "BSB: Berean Standard Bible",
+  "language": "english-bsb",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 117,
+  "totalVerses": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Praise the LORD, all you nations! Extol Him, all you peoples!"
+    },
+    {
+      "verse": 2,
+      "text": "For great is His loving devotion toward us, and the faithfulness of the LORD endures forever. Hallelujah!"
+    }
+  ]
+}

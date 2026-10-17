@@ -1,0 +1,36 @@
+{
+  "translation": "GerElb1905: German Darby Unrevidierte Elberfelder (1905)",
+  "language": "german",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 13,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Dem Vorsänger. Ein Psalm von David. Bis wann, Jehova, willst du meiner vergessen immerdar? Bis wann willst du dein Angesicht vor mir verbergen?"
+    },
+    {
+      "verse": 2,
+      "text": "Bis wann soll ich Ratschläge hegen in meiner Seele, Kummer in meinem Herzen bei Tage? Bis wann soll sich mein Feind über mich erheben?"
+    },
+    {
+      "verse": 3,
+      "text": "Schaue her, antworte mir, Jehova, mein Gott! Erleuchte meine Augen, daß ich nicht entschlafe zum Tode,"
+    },
+    {
+      "verse": 4,
+      "text": "daß mein Feind nicht sage: Ich habe ihn übermocht! meine Bedränger nicht frohlocken, wenn ich wanke."
+    },
+    {
+      "verse": 5,
+      "text": "Ich aber, ich habe auf deine Güte vertraut; mein Herz soll frohlocken über deine Rettung."
+    },
+    {
+      "verse": 6,
+      "text": "(H13:5) Ich will Jehova singen, denn er hat wohlgetan an mir."
+    }
+  ]
+}

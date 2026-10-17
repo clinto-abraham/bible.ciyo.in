@@ -1,0 +1,60 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "II Thessalonians",
+  "bookSlug": "2-thessalonians",
+  "nativeName": "II Thessalonians",
+  "chapterNumber": 1,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Paulus et Silvanus et Timotheus ecclesiae Thessalonicensium in Deo Patre nostro et Domino Iesu Christo"
+    },
+    {
+      "verse": 2,
+      "text": "gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo"
+    },
+    {
+      "verse": 3,
+      "text": "gratias agere debemus Deo semper pro vobis fratres ita ut dignum est quoniam supercrescit fides vestra et abundat caritas uniuscuiusque omnium vestrum in invicem"
+    },
+    {
+      "verse": 4,
+      "text": "ita ut et nos ipsi in vobis gloriemur in ecclesiis Dei pro patientia vestra et fide in omnibus persecutionibus vestris et tribulationibus quas sustinetis"
+    },
+    {
+      "verse": 5,
+      "text": "in exemplum iusti iudicii Dei ut digni habeamini regno Dei pro quo et patimini"
+    },
+    {
+      "verse": 6,
+      "text": "si tamen iustum est apud Deum retribuere tribulationem his qui vos tribulant"
+    },
+    {
+      "verse": 7,
+      "text": "et vobis qui tribulamini requiem nobiscum in revelatione Domini Iesu de caelo cum angelis virtutis eius"
+    },
+    {
+      "verse": 8,
+      "text": "in flamma ignis dantis vindictam his qui non noverunt Deum et qui non oboediunt evangelio Domini nostri Iesu"
+    },
+    {
+      "verse": 9,
+      "text": "qui poenas dabunt in interitu aeternas a facie Domini et a gloria virtutis eius"
+    },
+    {
+      "verse": 10,
+      "text": "cum venerit glorificari in sanctis suis et admirabilis fieri in omnibus qui crediderunt quia creditum est testimonium nostrum super vos in die illo"
+    },
+    {
+      "verse": 11,
+      "text": "in quo etiam oramus semper pro vobis ut dignetur vos vocatione sua Deus et impleat omnem voluntatem bonitatis et opus fidei in virtute"
+    },
+    {
+      "verse": 12,
+      "text": "ut clarificetur nomen Domini nostri Iesu Christi in vobis et vos in illo secundum gratiam Dei nostri et Domini Iesu Christi"
+    }
+  ]
+}

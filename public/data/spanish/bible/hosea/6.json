@@ -1,0 +1,56 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Hosea",
+  "bookSlug": "hosea",
+  "nativeName": "Hosea",
+  "chapterNumber": 6,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "VENID y volvámonos á Jehová: que él arrebató, y nos curará; hirió, y nos vendará."
+    },
+    {
+      "verse": 2,
+      "text": "Darános vida después de dos días: al tercer día nos resucitará, y viviremos delante de él."
+    },
+    {
+      "verse": 3,
+      "text": "Y conoceremos, y proseguiremos en conocer á Jehová: como el alba está aparejada su salida, y vendrá á nosotros como la lluvia, como la lluvia tardía y temprana á la tierra."
+    },
+    {
+      "verse": 4,
+      "text": "¿Qué haré á ti, Ephraim? ¿Qué haré á ti, oh Judá? La piedad vuestra es como la nube de la mañana, y como el rocío que de madrugada viene."
+    },
+    {
+      "verse": 5,
+      "text": "Por esta causa corté con los profetas, con las palabras de mi boca los maté; y tus juicios serán como luz que sale."
+    },
+    {
+      "verse": 6,
+      "text": "Porque misericordia quise, y no sacrificio; y conocimiento de Dios más que holocaustos."
+    },
+    {
+      "verse": 7,
+      "text": "Mas ellos, cual Adam, traspasaron el pacto: allí prevaricaron contra mí."
+    },
+    {
+      "verse": 8,
+      "text": "Galaad, ciudad de obradores de iniquidad, ensuciada de sangre."
+    },
+    {
+      "verse": 9,
+      "text": "Y como ladrones que esperan á algún hombre, así junta de sacerdotes mancomunadamente mata en el camino: porque ponen en efecto la abominación."
+    },
+    {
+      "verse": 10,
+      "text": "En la casa de Israel he visto suciedad: allí fornicó Ephraim, se contaminó Israel:"
+    },
+    {
+      "verse": 11,
+      "text": "También Judá puso en ti una planta, habiendo yo vuelto la cautividad de mi pueblo."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Job",
+  "bookSlug": "job",
+  "nativeName": "Job",
+  "chapterNumber": 35,
+  "totalVerses": 16,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "igitur Heliu haec rursum locutus est"
+    },
+    {
+      "verse": 2,
+      "text": "numquid aequa tibi videtur tua cogitatio ut diceres iustior Deo sum"
+    },
+    {
+      "verse": 3,
+      "text": "dixisti enim non tibi placet quod rectum est vel quid tibi proderit si ego peccavero"
+    },
+    {
+      "verse": 4,
+      "text": "itaque ego respondebo sermonibus tuis et amicis tuis tecum"
+    },
+    {
+      "verse": 5,
+      "text": "suspice caelum et intuere et contemplare aethera quod altior te sit"
+    },
+    {
+      "verse": 6,
+      "text": "si peccaveris quid ei nocebis et si multiplicatae fuerint iniquitates tuae quid facies contra eum"
+    },
+    {
+      "verse": 7,
+      "text": "porro si iuste egeris quid donabis ei aut quid de manu tua accipiet"
+    },
+    {
+      "verse": 8,
+      "text": "homini qui similis tui est nocebit impietas tua et filium hominis adiuvabit iustitia tua"
+    },
+    {
+      "verse": 9,
+      "text": "propter multitudinem calumniatorum clamabunt et heiulabunt propter vim brachii tyrannorum"
+    },
+    {
+      "verse": 10,
+      "text": "et non dixit ubi est Deus qui fecit me qui dedit carmina in nocte"
+    },
+    {
+      "verse": 11,
+      "text": "qui docet nos super iumenta terrae et super volucres caeli erudit nos"
+    },
+    {
+      "verse": 12,
+      "text": "ibi clamabunt et non exaudiet propter superbiam malorum"
+    },
+    {
+      "verse": 13,
+      "text": "non ergo frustra audiet Deus et Omnipotens singulorum causas intuebitur"
+    },
+    {
+      "verse": 14,
+      "text": "etiam cum dixeris non considerat iudicare coram eo et expecta eum"
+    },
+    {
+      "verse": 15,
+      "text": "nunc enim non infert furorem suum nec ulciscitur scelus valde"
+    },
+    {
+      "verse": 16,
+      "text": "ergo Iob frustra aperit os suum et absque scientia verba multiplicat"
+    }
+  ]
+}

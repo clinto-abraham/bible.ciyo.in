@@ -1,0 +1,64 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 65,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Al Músico principal: Salmo: Cántico de David. A TI es plácida la alabanza en Sión, oh Dios: y á ti se pagarán los votos."
+    },
+    {
+      "verse": 2,
+      "text": "Tú oyes la oración: á ti vendrá toda carne."
+    },
+    {
+      "verse": 3,
+      "text": "Palabras de iniquidades me sobrepujaron: mas nuestras rebeliones tú las perdonarás."
+    },
+    {
+      "verse": 4,
+      "text": "Dichoso el que tú escogieres, é hicieres llegar á ti, para que habite en tus atrios: seremos saciados del bien de tu casa, de tu santo templo."
+    },
+    {
+      "verse": 5,
+      "text": "Con tremendas cosas, en justicia, nos responderás tú, oh Dios de nuestra salud, esperanza de todos los términos de la tierra, y de los más remotos confines de la mar."
+    },
+    {
+      "verse": 6,
+      "text": "Tú, el que afirma los montes con su potencia, ceñido de valentía:"
+    },
+    {
+      "verse": 7,
+      "text": "El que amansa el estruendo de los mares, el estruendo de sus ondas, y el alboroto de las gentes."
+    },
+    {
+      "verse": 8,
+      "text": "Por tanto los habitadores de los fines de la tierra temen de tus maravillas. Tú haces alegrar las salidas de la mañana y de la tarde."
+    },
+    {
+      "verse": 9,
+      "text": "Visitas la tierra, y la riegas: en gran manera la enriqueces con el río de Dios, lleno de aguas: preparas el grano de ellos, cuando así la dispones."
+    },
+    {
+      "verse": 10,
+      "text": "Haces se empapen sus surcos, haces descender sus canales: ablándasla con lluvias, bendices sus renuevos."
+    },
+    {
+      "verse": 11,
+      "text": "Tú coronas el año de tus bienes; y tus nubes destilan grosura."
+    },
+    {
+      "verse": 12,
+      "text": "Destilan sobre las estancias del desierto; y los collados se ciñen de alegría."
+    },
+    {
+      "verse": 13,
+      "text": "Vístense los llanos de manadas, y los valles se cubren de grano: dan voces de júbilo, y aun cantan."
+    }
+  ]
+}

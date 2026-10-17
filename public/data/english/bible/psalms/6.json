@@ -1,0 +1,52 @@
+{
+  "translation": "KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords",
+  "language": "english",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 6,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "To the chief Musician on Neginoth upon Sheminith, A Psalm of David. O Lord, rebuke me not in thine anger, neither chasten me in thy hot displeasure."
+    },
+    {
+      "verse": 2,
+      "text": "Have mercy upon me, O Lord; for I am weak: O Lord, heal me; for my bones are vexed."
+    },
+    {
+      "verse": 3,
+      "text": "My soul is also sore vexed: but thou, O Lord, how long?"
+    },
+    {
+      "verse": 4,
+      "text": "Return, O Lord, deliver my soul: oh save me for thy mercies’ sake."
+    },
+    {
+      "verse": 5,
+      "text": "For in death there is no remembrance of thee: in the grave who shall give thee thanks?"
+    },
+    {
+      "verse": 6,
+      "text": "I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears."
+    },
+    {
+      "verse": 7,
+      "text": "Mine eye is consumed because of grief; it waxeth old because of all mine enemies."
+    },
+    {
+      "verse": 8,
+      "text": "Depart from me, all ye workers of iniquity; for the Lord hath heard the voice of my weeping."
+    },
+    {
+      "verse": 9,
+      "text": "The Lord hath heard my supplication; the Lord will receive my prayer."
+    },
+    {
+      "verse": 10,
+      "text": "Let all mine enemies be ashamed and sore vexed: let them return and be ashamed suddenly."
+    }
+  ]
+}

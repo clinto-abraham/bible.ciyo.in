@@ -1,0 +1,48 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 98,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Psaume. Chantez à Yahweh un cantique nouveau, car il a fait des prodiges; sa droite et son bras saints lui ont donné la victoire."
+    },
+    {
+      "verse": 2,
+      "text": "Yahweh a manifesté son salut, il a révélé sa justice aux yeux des nations."
+    },
+    {
+      "verse": 3,
+      "text": "Il s'est souvenu de sa bonté et de sa fidélité envers la maison d'Israël; toutes les extrémités de la terre ont vu le salut de notre Dieu."
+    },
+    {
+      "verse": 4,
+      "text": "Poussez vers Yahweh des cris de joie, vous, habitants de toute la terre, faites éclater votre allégresse au son des instruments!"
+    },
+    {
+      "verse": 5,
+      "text": "Célébrez Yahweh sur la harpe, sur la harpe et au son des cantiques!"
+    },
+    {
+      "verse": 6,
+      "text": "Avec les trompettes et au son du cor, poussez des cris de joie devant le Roi Yahweh!"
+    },
+    {
+      "verse": 7,
+      "text": "Que la mer s'agite avec tout ce qu'elle renferme, que la terre et ses habitants fassent éclater leurs transports."
+    },
+    {
+      "verse": 8,
+      "text": "Que les fleuves applaudissent, qu'ensemble les montagnes poussent des cris de joie,"
+    },
+    {
+      "verse": 9,
+      "text": "devant Yahweh — car il vient pour juger la terre; il jugera le monde avec justice, et les peuples avec équité."
+    }
+  ]
+}

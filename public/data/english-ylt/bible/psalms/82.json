@@ -1,0 +1,44 @@
+{
+  "translation": "YLT: Young's Literal Translation (1898)",
+  "language": "english-ylt",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 82,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "--A Psalm of Asaph. God hath stood in the company of God, In the midst God doth judge."
+    },
+    {
+      "verse": 2,
+      "text": "Till when do ye judge perversely? And the face of the wicked lift up? Selah."
+    },
+    {
+      "verse": 3,
+      "text": "Judge ye the weak and fatherless, The afflicted and the poor declare righteous."
+    },
+    {
+      "verse": 4,
+      "text": "Let the weak and needy escape, From the hand of the wicked deliver them."
+    },
+    {
+      "verse": 5,
+      "text": "They knew not, nor do they understand, In darkness they walk habitually, Moved are all the foundations of earth."
+    },
+    {
+      "verse": 6,
+      "text": "I--I have said, `Gods ye are, And sons of the Most High--all of you,"
+    },
+    {
+      "verse": 7,
+      "text": "But as man ye die, and as one of the heads ye fall,"
+    },
+    {
+      "verse": 8,
+      "text": "Rise, O God, judge the earth, For Thou hast inheritance among all the nations!"
+    }
+  ]
+}

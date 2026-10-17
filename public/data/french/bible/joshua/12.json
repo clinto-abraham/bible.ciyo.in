@@ -1,0 +1,108 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Joshua",
+  "bookSlug": "joshua",
+  "nativeName": "Joshua",
+  "chapterNumber": 12,
+  "totalVerses": 24,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Voici les rois du pays que les enfants d'Israël battirent et dont ils occupèrent le pays de l'autre côté du Jourdain, vers le soleil levant, depuis le torrent d'Arnon jusqu'au mont Hermon, et toute l'Arabah à l'orient du fleuve:"
+    },
+    {
+      "verse": 2,
+      "text": "Séhon, roi des Amorrhéens, résidant à Hésebon. Sa domination s'étendait depuis Aroër, qui est sur le bord du torrent d'Arnon, et, à partir du milieu de la vallée, sur la moitié de Galaad, jusqu'au torrent de Jacob, frontière des enfants d'Ammon;"
+    },
+    {
+      "verse": 3,
+      "text": "sur l'Arabah, jusqu'à la mer de Cénéreth à l'orient, et sur la mer de l'Arabah, la mer Salée, à l'orient, vers Bethsimoth; et du côté du midi au pied des pentes du mont Phasga."
+    },
+    {
+      "verse": 4,
+      "text": "Puis le territoire d'Og, roi de Basan, d'entre les restes des Rephaïm, résidant à Astaroth et à Edraï."
+    },
+    {
+      "verse": 5,
+      "text": "Sa domination s'étendait sur la montagne d'Hermon, sur Salécha, sur tout Basan jusqu'à la frontière des Gesuriens et des Machatiens, et jusqu'à la moitié de Galaad, territoire de Séhon, roi d'Hésébon."
+    },
+    {
+      "verse": 6,
+      "text": "Moïse, serviteur de Yahweh, et les enfants d'Israël les battirent; et Moïse, serviteur de Yahweh, donna leur pays en propriété aux Rubénites, aux Gadites et à la moitié de la tribu de Manassé."
+    },
+    {
+      "verse": 7,
+      "text": "Voici les rois que Josué et les enfants d'Israël battirent de ce côté du Jourdain, à l'occident, depuis Baal-Gad, dans la vallée du Liban, jusqu'à la montagne nue qui s'élève vers Séïr. Josué donna ce pays en propriété aux tribus d'Israël selon leurs familles,"
+    },
+    {
+      "verse": 8,
+      "text": "dans la montagne, dans le bas pays, sur les coteaux, dans le désert et dans le Négeb: pays des Héthéens, des Amorrhéens, des Chananéens, des Phérézéens, des Hévéens et des Jébuséens."
+    },
+    {
+      "verse": 9,
+      "text": "Ce sont: le roi de Jéricho, un; le roi d'Haï, près de Béthel, un;"
+    },
+    {
+      "verse": 10,
+      "text": "le roi de Jérusalem, un; le roi d'Hébron, un;"
+    },
+    {
+      "verse": 11,
+      "text": "le roi de Jérimoth, un; le roi de Lachis, un;"
+    },
+    {
+      "verse": 12,
+      "text": "le roi d'Eglon, un; le roi de Gazer, un;"
+    },
+    {
+      "verse": 13,
+      "text": "le roi de Dabir, un; le roi de Gader, un;"
+    },
+    {
+      "verse": 14,
+      "text": "le roi de Herma, un; le roi d'Héred, un;"
+    },
+    {
+      "verse": 15,
+      "text": "le roi de Lebna, un; le roi d'Odollam, un;"
+    },
+    {
+      "verse": 16,
+      "text": "le roi de Macéda, un; le roi de Béthel, un;"
+    },
+    {
+      "verse": 17,
+      "text": "le roi de Taphna, un; le roi d'Opher, un;"
+    },
+    {
+      "verse": 18,
+      "text": "le roi d'Aphec, un; le roi de Lasaron, un;"
+    },
+    {
+      "verse": 19,
+      "text": "le roi de Madon, un; le roi d'Asor, un;"
+    },
+    {
+      "verse": 20,
+      "text": "le roi de Séméron, un; le roi d'Achsaph, un;"
+    },
+    {
+      "verse": 21,
+      "text": "le roi de Thanac, un; le roi de Mageddo, un;"
+    },
+    {
+      "verse": 22,
+      "text": "le roi de Cadès, un; le roi de Jachanan, au Carmel, un;"
+    },
+    {
+      "verse": 23,
+      "text": "le roi de Dor, sur les hauteurs de Dor, un; le roi de Gojim, à Galgal, un;"
+    },
+    {
+      "verse": 24,
+      "text": "le roi de Thersa, un. En tout, trente et un rois."
+    }
+  ]
+}

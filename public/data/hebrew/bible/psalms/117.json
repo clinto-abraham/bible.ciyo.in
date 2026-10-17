@@ -1,0 +1,18 @@
+{
+  "translation": "WLC: Westminster Leningrad Codex",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "hebrewName": "תְּהִלִּים",
+  "chapterNumber": 117,
+  "totalVerses": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "הַֽלְל֣וּ אֶת־יְ֭הוָה כָּל־גּוֹיִ֑ם שַׁ֝בְּח֗וּהוּ כָּל־הָאֻמִּֽים׃"
+    },
+    {
+      "verse": 2,
+      "text": "כִּ֥י גָ֘בַ֤ר עָלֵ֨ינוּ ׀ חַסְדּ֗וֹ וֶֽאֱמֶת־יְהוָ֥ה לְעוֹלָ֗ם הַֽלְלוּ־יָֽהּ׃"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 93,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Yahweh est roi, il est revêtu de majesté, Yahweh est revêtu, il est ceint de force: aussi le monde est ferme, il ne chancelle pas."
+    },
+    {
+      "verse": 2,
+      "text": "Ton trône est établi dès l'origine, tu es dès l'éternité."
+    },
+    {
+      "verse": 3,
+      "text": "Les fleuves élèvent, ô Yahweh, les fleuves élèvent leurs voix, les fleuves élèvent leurs flots retentissants."
+    },
+    {
+      "verse": 4,
+      "text": "Plus que la voix des grandes eaux, des vagues puissantes de la mer, Yahweh est magnifique dans les hauteurs!"
+    },
+    {
+      "verse": 5,
+      "text": "Tes témoignages sont immuables; la sainteté convient à ta maison, Yahweh, pour toute la durée des jours."
+    }
+  ]
+}

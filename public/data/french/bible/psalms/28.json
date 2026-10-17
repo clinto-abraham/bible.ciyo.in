@@ -1,0 +1,48 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 28,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "De David. C'est vers toi, Yahweh, que je crie; mon rocher, ne reste pas sourd à ma voix, de peur que, si tu gardes le silence, je ne ressemble à ceux qui descendent dans la fosse."
+    },
+    {
+      "verse": 2,
+      "text": "Ecoute la voix de mes supplications, quand je crie vers toi, quand j'élève mes mains vers ton saint sanctuaire."
+    },
+    {
+      "verse": 3,
+      "text": "Ne m'emporte pas avec les méchants et les artisans d'iniquité, qui parlent de paix à leur prochain, et qui ont la malice dans le cœur."
+    },
+    {
+      "verse": 4,
+      "text": "Rends-leur selon leurs œuvres, et selon la malice de leurs actions; rends-leur selon l'ouvrage de leurs mains, donne-leur le salaire qu'ils méritent."
+    },
+    {
+      "verse": 5,
+      "text": "Car ils ne prennent pas garde aux œuvres de Yahweh, à l'ouvrage de ses mains: il les détruira et ne les bâtira pas."
+    },
+    {
+      "verse": 6,
+      "text": "Béni soit Yahweh, car il a entendu la voix de mes supplications!"
+    },
+    {
+      "verse": 7,
+      "text": "Yahweh est ma force et mon bouclier; en lui s'est confié mon cœur. J'ai été secouru; aussi mon cœur est dans l'allégresse, et je le louerai par mes cantiques."
+    },
+    {
+      "verse": 8,
+      "text": "Yahweh est la force de son peuple, il est une forteresse de salut pour son Oint."
+    },
+    {
+      "verse": 9,
+      "text": "Sauve ton peuple et bénis ton héritage! Sois leur pasteur et porte-les à jamais!"
+    }
+  ]
+}

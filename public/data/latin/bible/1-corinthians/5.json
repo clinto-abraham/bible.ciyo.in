@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "I Corinthians",
+  "bookSlug": "1-corinthians",
+  "nativeName": "I Corinthians",
+  "chapterNumber": 5,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "omnino auditur inter vos fornicatio et talis fornicatio qualis nec inter gentes ita ut uxorem patris aliquis habeat"
+    },
+    {
+      "verse": 2,
+      "text": "et vos inflati estis et non magis luctum habuistis ut tollatur de medio vestrum qui hoc opus fecit"
+    },
+    {
+      "verse": 3,
+      "text": "ego quidem absens corpore praesens autem spiritu iam iudicavi ut praesens eum qui sic operatus est"
+    },
+    {
+      "verse": 4,
+      "text": "in nomine Domini nostri Iesu Christi congregatis vobis et meo spiritu cum virtute Domini Iesu"
+    },
+    {
+      "verse": 5,
+      "text": "tradere huiusmodi Satanae in interitum carnis ut spiritus salvus sit in die Domini Iesu"
+    },
+    {
+      "verse": 6,
+      "text": "non bona gloriatio vestra nescitis quia modicum fermentum totam massam corrumpit"
+    },
+    {
+      "verse": 7,
+      "text": "expurgate vetus fermentum ut sitis nova consparsio sicut estis azymi etenim pascha nostrum immolatus est Christus"
+    },
+    {
+      "verse": 8,
+      "text": "itaque epulemur non in fermento veteri neque in fermento malitiae et nequitiae sed in azymis sinceritatis et veritatis"
+    },
+    {
+      "verse": 9,
+      "text": "scripsi vobis in epistula ne commisceamini fornicariis"
+    },
+    {
+      "verse": 10,
+      "text": "non utique fornicariis huius mundi aut avaris aut rapacibus aut idolis servientibus alioquin debueratis de hoc mundo exisse"
+    },
+    {
+      "verse": 11,
+      "text": "nunc autem scripsi vobis non commisceri si is qui frater nominatur est fornicator aut avarus aut idolis serviens aut maledicus aut ebriosus aut rapax cum eiusmodi nec cibum sumere"
+    },
+    {
+      "verse": 12,
+      "text": "quid enim mihi de his qui foris sunt iudicare nonne de his qui intus sunt vos iudicatis"
+    },
+    {
+      "verse": 13,
+      "text": "nam eos qui foris sunt Deus iudicabit auferte malum ex vobis ipsis"
+    }
+  ]
+}

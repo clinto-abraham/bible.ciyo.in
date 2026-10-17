@@ -1,0 +1,48 @@
+{
+  "translation": "GerElb1905: German Darby Unrevidierte Elberfelder (1905)",
+  "language": "german",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 137,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "An den Flüssen Babels, da saßen wir und weinten, indem wir Zions gedachten."
+    },
+    {
+      "verse": 2,
+      "text": "An die Weiden in ihr hängten wir unsere Lauten."
+    },
+    {
+      "verse": 3,
+      "text": "Denn die uns gefangen weggeführt hatten, forderten daselbst von uns die Worte eines Liedes, und die uns wehklagen machten, Freude: \"Singet uns eines von Zions Liedern!\""
+    },
+    {
+      "verse": 4,
+      "text": "Wie sollten wir ein Lied Jehovas singen auf fremder Erde?"
+    },
+    {
+      "verse": 5,
+      "text": "Wenn ich dein vergesse, Jerusalem, so vergesse meine Rechte!"
+    },
+    {
+      "verse": 6,
+      "text": "Es klebe meine Zunge an meinem Gaumen, wenn ich deiner nicht gedenke, wenn ich Jerusalem nicht erhebe über die höchste meiner Freuden!"
+    },
+    {
+      "verse": 7,
+      "text": "Gedenke, Jehova, den Kindern Edom den Tag Jerusalems, die da sprachen: Entblößet, entblößet sie bis auf ihre Grundfeste!"
+    },
+    {
+      "verse": 8,
+      "text": "Tochter Babel, du Verwüstete! Glückselig, der dir dasselbe vergilt, was du uns getan hast!"
+    },
+    {
+      "verse": 9,
+      "text": "Glückselig, der deine Kindlein ergreift und sie hinschmettert an den Felsen!"
+    }
+  ]
+}

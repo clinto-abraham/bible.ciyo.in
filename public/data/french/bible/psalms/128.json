@@ -1,0 +1,36 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 128,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cantique des montées. Heureux l'homme qui craint Yahweh, qui marche dans ses voies!"
+    },
+    {
+      "verse": 2,
+      "text": "Tu te nourris alors du travail de tes mains; tu es heureux et comblé de biens."
+    },
+    {
+      "verse": 3,
+      "text": "Ton épouse est comme une vigne féconde, dans l'intérieur de ta maison; tes fils, comme de jeunes plants d'olivier, autour de ta table."
+    },
+    {
+      "verse": 4,
+      "text": "Voilà comment sera béni l'homme qui craint Yahweh."
+    },
+    {
+      "verse": 5,
+      "text": "Que Yahweh te bénisse de Sion! Puisse-tu voir Jérusalem florissante tous les jours de ta vie!"
+    },
+    {
+      "verse": 6,
+      "text": "Puisses-tu voir les enfants de tes enfants! Que la paix soit sur Israël!"
+    }
+  ]
+}

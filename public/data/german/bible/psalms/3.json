@@ -1,0 +1,44 @@
+{
+  "translation": "GerElb1905: German Darby Unrevidierte Elberfelder (1905)",
+  "language": "german",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 3,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ein Psalm von David, als er vor seinem Sohne Absalom floh. Jehova! wie viele sind meiner Bedränger! Viele erheben sich wider mich;"
+    },
+    {
+      "verse": 2,
+      "text": "viele sagen von meiner Seele: Es ist keine Rettung für ihn bei Gott! (Sela.)"
+    },
+    {
+      "verse": 3,
+      "text": "Du aber, Jehova, bist ein Schild um mich her, meine Herrlichkeit, und der mein Haupt emporhebt."
+    },
+    {
+      "verse": 4,
+      "text": "Mit meiner Stimme rufe ich zu Jehova, und er antwortet mir von seinem heiligen Berge. (Sela.)"
+    },
+    {
+      "verse": 5,
+      "text": "Ich legte mich nieder und schlief; ich erwachte, denn Jehova stützt mich."
+    },
+    {
+      "verse": 6,
+      "text": "Nicht fürchte ich mich vor Zehntausenden des Volkes, die sich ringsum wider mich gesetzt haben."
+    },
+    {
+      "verse": 7,
+      "text": "Stehe auf, Jehova! Rette mich, mein Gott! Denn du hast alle meine Feinde auf den Backen geschlagen; die Zähne der Gesetzlosen hast du zerschmettert."
+    },
+    {
+      "verse": 8,
+      "text": "Von Jehova ist die Rettung; dein Segen ist auf deinem Volke. (Sela.)"
+    }
+  ]
+}

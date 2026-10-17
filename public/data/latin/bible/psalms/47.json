@@ -1,0 +1,72 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 47,
+  "totalVerses": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "canticum psalmi filiis Core secunda sabbati canticum psalmi filiorum Core"
+    },
+    {
+      "verse": 2,
+      "text": "magnus Dominus et laudabilis nimis in civitate Dei nostri in monte sancto eius magnus Dominus et laudabilis nimis in civitate Dei nostri in monte sancto suo"
+    },
+    {
+      "verse": 3,
+      "text": "fundatur exultatione universae terrae montes Sion latera aquilonis civitas regis magni specioso germini gaudio universae terrae monti Sion lateribus aquilonis civitatulae regis magni"
+    },
+    {
+      "verse": 4,
+      "text": "Deus in domibus eius cognoscitur cum suscipiet eam Deus in domibus eius agnitus est in auxiliando"
+    },
+    {
+      "verse": 5,
+      "text": "quoniam ecce reges congregati sunt convenerunt in unum quia ecce reges congregati sunt venerunt simul"
+    },
+    {
+      "verse": 6,
+      "text": "ipsi videntes sic admirati sunt conturbati sunt commoti sunt ipsi videntes sic obstipuerunt conturbati sunt admirati sunt"
+    },
+    {
+      "verse": 7,
+      "text": "tremor adprehendit eos ibi dolores ut parturientis horror possedit eos ibi dolor quasi parturientis"
+    },
+    {
+      "verse": 8,
+      "text": "in spiritu vehementi conteres naves Tharsis in vento uredinis confringes naves maris"
+    },
+    {
+      "verse": 9,
+      "text": "sicut audivimus sic vidimus in civitate Domini virtutum in civitate Dei nostri Deus fundavit eam in aeternum diapsalma sicut audivimus ita vidimus in civitate Dei exercituum in civitate Dei nostri Deus fundavit eam usque in aeternum semper"
+    },
+    {
+      "verse": 10,
+      "text": "suscepimus Deus misericordiam tuam in medio templi tui aestimavimus Deus misericordiam tuam in medio templi tui"
+    },
+    {
+      "verse": 11,
+      "text": "secundum nomen tuum Deus sic et laus tua in fines terrae iustitia plena est dextera tua secundum nomen tuum Deus sic laus tua usque ad extremum terrae iustitia repleta est dextera tua"
+    },
+    {
+      "verse": 12,
+      "text": "laetetur mons Sion exultent filiae Iudaeae propter iudicia tua Domine laetetur mons Sion exultent filiae Iudae propter iudicia tua"
+    },
+    {
+      "verse": 13,
+      "text": "circumdate Sion et conplectimini eam narrate in turribus eius circumdate Sion et circumite eam numerate turres eius"
+    },
+    {
+      "verse": 14,
+      "text": "ponite corda vestra in virtute eius et distribuite domus eius ut enarretis in progeniem alteram ponite cor vestrum in moenibus separate palatia eius ut narretis in generatione novissima"
+    },
+    {
+      "verse": 15,
+      "text": "quoniam hic est Deus Deus noster in aeternum et in saeculum saeculi ipse reget nos in saecula quia ipse Deus Deus noster in saeculum et in perpetuum ipse erit dux noster in morte"
+    }
+  ]
+}

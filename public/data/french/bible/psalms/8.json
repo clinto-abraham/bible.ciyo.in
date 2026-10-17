@@ -1,0 +1,52 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 8,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Au maître de chant. Sur la Gitthienne. Chant de David."
+    },
+    {
+      "verse": 2,
+      "text": "Yahweh, notre Seigneur, que ton nom est glorieux sur toute la terre! Toi qui as revêtu les cieux de ta majesté!"
+    },
+    {
+      "verse": 3,
+      "text": "Par la bouche des enfants et de ceux qui sont à la mamelle tu t'es fondé une force pour confondre tes ennemis, pour imposer silence à l'adversaire et au blasphémateur."
+    },
+    {
+      "verse": 4,
+      "text": "Quand je contemple tes cieux, ouvrage de tes doigts, la lune et les étoiles que tu as créées, je m'écrie:"
+    },
+    {
+      "verse": 5,
+      "text": "Qu'est-ce que l'homme, pour que tu te souviennes de lui, et le fils de l'homme, pour que tu en prennes soin?"
+    },
+    {
+      "verse": 6,
+      "text": "Tu l'as fait de peu inférieur à Dieu, tu l'as couronné de gloire et d'honneur."
+    },
+    {
+      "verse": 7,
+      "text": "Tu lui as donné l'empire sur les œuvres de tes mains; tu as mis toutes choses sous ses pieds:"
+    },
+    {
+      "verse": 8,
+      "text": "Brebis et bœufs, tous ensemble, et les animaux des champs;"
+    },
+    {
+      "verse": 9,
+      "text": "oiseaux du ciel et poissons de la mer, et tout ce qui parcourt les sentiers des mers."
+    },
+    {
+      "verse": 10,
+      "text": "Yahweh, notre Seigneur, que ton nom est glorieux sur toute la terre!"
+    }
+  ]
+}

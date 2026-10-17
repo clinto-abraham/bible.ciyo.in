@@ -1,0 +1,100 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Exodus",
+  "bookSlug": "exodus",
+  "nativeName": "Exodus",
+  "chapterNumber": 1,
+  "totalVerses": 22,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "haec sunt nomina filiorum Israhel qui ingressi sunt Aegyptum cum Iacob singuli cum domibus suis introierunt"
+    },
+    {
+      "verse": 2,
+      "text": "Ruben Symeon Levi Iuda"
+    },
+    {
+      "verse": 3,
+      "text": "Isachar Zabulon et Beniamin"
+    },
+    {
+      "verse": 4,
+      "text": "Dan et Nepthalim Gad et Aser"
+    },
+    {
+      "verse": 5,
+      "text": "erant igitur omnes animae eorum qui egressi sunt de femore Iacob septuaginta Ioseph autem in Aegypto erat"
+    },
+    {
+      "verse": 6,
+      "text": "quo mortuo et universis fratribus eius omnique cognatione illa"
+    },
+    {
+      "verse": 7,
+      "text": "filii Israhel creverunt et quasi germinantes multiplicati sunt ac roborati nimis impleverunt terram"
+    },
+    {
+      "verse": 8,
+      "text": "surrexit interea rex novus super Aegyptum qui ignorabat Ioseph"
+    },
+    {
+      "verse": 9,
+      "text": "et ait ad populum suum ecce populus filiorum Israhel multus et fortior nobis"
+    },
+    {
+      "verse": 10,
+      "text": "venite sapienter opprimamus eum ne forte multiplicetur et si ingruerit contra nos bellum addatur inimicis nostris expugnatisque nobis egrediatur e terra"
+    },
+    {
+      "verse": 11,
+      "text": "praeposuit itaque eis magistros operum ut adfligerent eos oneribus aedificaveruntque urbes tabernaculorum Pharaoni Phiton et Ramesses"
+    },
+    {
+      "verse": 12,
+      "text": "quantoque opprimebant eos tanto magis multiplicabantur et crescebant"
+    },
+    {
+      "verse": 13,
+      "text": "oderantque filios Israhel Aegyptii et adfligebant inludentes eis"
+    },
+    {
+      "verse": 14,
+      "text": "atque ad amaritudinem perducebant vitam eorum operibus duris luti et lateris omnique famulatu quo in terrae operibus premebantur"
+    },
+    {
+      "verse": 15,
+      "text": "dixit autem rex Aegypti obsetricibus Hebraeorum quarum una vocabatur Sephra altera Phua"
+    },
+    {
+      "verse": 16,
+      "text": "praecipiens eis quando obsetricabitis Hebraeas et partus tempus advenerit si masculus fuerit interficite illum si femina reservate"
+    },
+    {
+      "verse": 17,
+      "text": "timuerunt autem obsetrices Deum et non fecerunt iuxta praeceptum regis Aegypti sed conservabant mares"
+    },
+    {
+      "verse": 18,
+      "text": "quibus ad se accersitis rex ait quidnam est hoc quod facere voluistis ut pueros servaretis"
+    },
+    {
+      "verse": 19,
+      "text": "quae responderunt non sunt hebraeae sicut aegyptiae mulieres ipsae enim obsetricandi habent scientiam et priusquam veniamus ad eas pariunt"
+    },
+    {
+      "verse": 20,
+      "text": "bene ergo fecit Deus obsetricibus et crevit populus confortatusque est nimis"
+    },
+    {
+      "verse": 21,
+      "text": "et quia timuerant obsetrices Deum aedificavit illis domos"
+    },
+    {
+      "verse": 22,
+      "text": "praecepit autem Pharao omni populo suo dicens quicquid masculini sexus natum fuerit in flumen proicite quicquid feminei reservate"
+    }
+  ]
+}

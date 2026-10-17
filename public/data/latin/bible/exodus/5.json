@@ -1,0 +1,104 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Exodus",
+  "bookSlug": "exodus",
+  "nativeName": "Exodus",
+  "chapterNumber": 5,
+  "totalVerses": 23,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "post haec ingressi sunt Moses et Aaron et dixerunt Pharaoni haec dicit Dominus Deus Israhel dimitte populum meum ut sacrificet mihi in deserto"
+    },
+    {
+      "verse": 2,
+      "text": "at ille respondit quis est Dominus ut audiam vocem eius et dimittam Israhel nescio Dominum et Israhel non dimittam"
+    },
+    {
+      "verse": 3,
+      "text": "dixerunt Deus Hebraeorum vocavit nos ut eamus viam trium dierum in solitudinem et sacrificemus Domino Deo nostro ne forte accidat nobis pestis aut gladius"
+    },
+    {
+      "verse": 4,
+      "text": "ait ad eos rex Aegypti quare Moses et Aaron sollicitatis populum ab operibus suis ite ad onera vestra"
+    },
+    {
+      "verse": 5,
+      "text": "dixitque Pharao multus est populus terrae videtis quod turba succreverit quanto magis si dederitis eis requiem ab operibus"
+    },
+    {
+      "verse": 6,
+      "text": "praecepit ergo in die illo praefectis operum et exactoribus populi dicens"
+    },
+    {
+      "verse": 7,
+      "text": "nequaquam ultra dabitis paleas populo ad conficiendos lateres sicut prius sed ipsi vadant et colligant stipulam"
+    },
+    {
+      "verse": 8,
+      "text": "et mensuram laterum quos prius faciebant inponetis super eos nec minuetis quicquam vacant enim et idcirco vociferantur dicentes eamus et sacrificemus Deo nostro"
+    },
+    {
+      "verse": 9,
+      "text": "opprimantur operibus et expleant ea ut non adquiescant verbis mendacibus"
+    },
+    {
+      "verse": 10,
+      "text": "igitur egressi praefecti operum et exactores ad populum dixerunt sic dicit Pharao non do vobis paleas"
+    },
+    {
+      "verse": 11,
+      "text": "ite et colligite sicubi invenire potueritis nec minuetur quicquam de opere vestro"
+    },
+    {
+      "verse": 12,
+      "text": "dispersusque est populus per omnem terram Aegypti ad colligendas paleas"
+    },
+    {
+      "verse": 13,
+      "text": "praefecti quoque operum instabant dicentes conplete opus vestrum cotidie ut prius facere solebatis quando dabantur vobis paleae"
+    },
+    {
+      "verse": 14,
+      "text": "flagellatique sunt qui praeerant operibus filiorum Israhel ab exactoribus Pharaonis dicentibus quare non impletis mensuram laterum sicut prius nec heri nec hodie"
+    },
+    {
+      "verse": 15,
+      "text": "veneruntque praepositi filiorum Israhel et vociferati sunt ad Pharaonem dicentes cur ita agis contra servos tuos"
+    },
+    {
+      "verse": 16,
+      "text": "paleae non dantur nobis et lateres similiter imperantur en famuli tui flagellis caedimur et iniuste agitur contra populum tuum"
+    },
+    {
+      "verse": 17,
+      "text": "qui ait vacatis otio et idcirco dicitis eamus et sacrificemus Domino"
+    },
+    {
+      "verse": 18,
+      "text": "ite ergo et operamini paleae non dabuntur vobis et reddetis consuetum numerum laterum"
+    },
+    {
+      "verse": 19,
+      "text": "videbantque se praepositi filiorum Israhel in malo eo quod diceretur eis non minuetur quicquam de lateribus per singulos dies"
+    },
+    {
+      "verse": 20,
+      "text": "occurreruntque Mosi et Aaron qui stabant ex adverso egredientes a Pharaone"
+    },
+    {
+      "verse": 21,
+      "text": "et dixerunt ad eos videat Dominus et iudicet quoniam fetere fecistis odorem nostrum coram Pharao et servis eius et praebuistis ei gladium ut occideret nos"
+    },
+    {
+      "verse": 22,
+      "text": "reversusque Moses ad Dominum ait Domine cur adflixisti populum istum quare misisti me"
+    },
+    {
+      "verse": 23,
+      "text": "ex eo enim quo ingressus sum ad Pharaonem ut loquerer nomine tuo adflixit populum tuum et non liberasti eos"
+    }
+  ]
+}

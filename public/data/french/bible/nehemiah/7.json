@@ -1,0 +1,304 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Nehemiah",
+  "bookSlug": "nehemiah",
+  "nativeName": "Nehemiah",
+  "chapterNumber": 7,
+  "totalVerses": 73,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Lorsque la muraille fut rebâtie et que j'eus posé les battants des portes, les portiers, les chantres et les lévites furent chargés de la surveillance."
+    },
+    {
+      "verse": 2,
+      "text": "Je donnai autorité sur Jérusalem à Hanani, mon frère, et à Ananie, commandant de la citadelle, car c'était un homme fidèle et craignant Dieu plus que beaucoup d'autres."
+    },
+    {
+      "verse": 3,
+      "text": "Et je leur dis: \" Que les portes de Jérusalem ne soient pas ouvertes avant que soit venue la chaleur du soleil; le soir, pendant que les gardes seront encore à leur poste, on fermera les portes et on mettra les barres; et, pendant la nuit, on établira des gardes pris parmi les habitants de Jérusalem, chacun à son poste, et chacun devant sa maison."
+    },
+    {
+      "verse": 4,
+      "text": "Or la ville était spacieuse et grande, mais il n'y avait que peu d'habitants au milieu d'elle, et toutes les maisons n'étaient pas rebâties."
+    },
+    {
+      "verse": 5,
+      "text": "Mon Dieu me mit au cœur d'assembler les grands, les magistrats et le peuple, pour en faire le dénombrement. Je trouvai un registre généalogique de ceux qui étaient montés les premiers, et j'y vis écrit ce qui suit:"
+    },
+    {
+      "verse": 6,
+      "text": "Voici les gens de la province qui revinrent de l'exil, — ceux que Nabuchodonosor, roi de Babylone, avait emmenés captifs, et qui retournèrent à Jérusalem et en Juda, chacun dans sa ville, —"
+    },
+    {
+      "verse": 7,
+      "text": "qui revinrent avec Zorobabel, Josué, Néhémie, Azarias, Raamias, Nahamani, Mardochée, Belsan, Mespharath, Bégoaî, Nahum, Baana: Nombre des hommes du peuple d'Israël:"
+    },
+    {
+      "verse": 8,
+      "text": "les fils de Pharsos, deux mille cent soixante-douze;"
+    },
+    {
+      "verse": 9,
+      "text": "les fils de Saphatias, trois cent soixante-douze;"
+    },
+    {
+      "verse": 10,
+      "text": "les fils d'Aréa, six cent cinquante-deux;"
+    },
+    {
+      "verse": 11,
+      "text": "les fils de Phahath-Moab, des fils de Josué et de Joab, deux mille huit cent dix-huit;"
+    },
+    {
+      "verse": 12,
+      "text": "les fils d'Elam, mille deux cent cinquante-quatre;"
+    },
+    {
+      "verse": 13,
+      "text": "les fils de Zethua, huit cent quarante-cinq;"
+    },
+    {
+      "verse": 14,
+      "text": "les fils de Zachaï, sept cent soixante;"
+    },
+    {
+      "verse": 15,
+      "text": "les fils de Bannui, six cent quarante-huit;"
+    },
+    {
+      "verse": 16,
+      "text": "les fils de Bébaï, six cent vingt-huit;"
+    },
+    {
+      "verse": 17,
+      "text": "les fils d'Azgad, deux mille trois cent vingt-deux;"
+    },
+    {
+      "verse": 18,
+      "text": "les fils d'Adonicam, six cent soixante-sept;"
+    },
+    {
+      "verse": 19,
+      "text": "les fils de Béguaï, deux mille soixante-sept;"
+    },
+    {
+      "verse": 20,
+      "text": "les fils d'Adin, six cent cinquante-cinq;"
+    },
+    {
+      "verse": 21,
+      "text": "les fils d'Ater, fils d'Ezéchias, quatre-vingt-dix-huit;"
+    },
+    {
+      "verse": 22,
+      "text": "les fils de Hasem, trois cent vingt-huit;"
+    },
+    {
+      "verse": 23,
+      "text": "les fils de Bésaï, trois cent vingt-quatre;"
+    },
+    {
+      "verse": 24,
+      "text": "les fils de Hareph, cent douze;"
+    },
+    {
+      "verse": 25,
+      "text": "les fils de Gabaon, quatre-vingt quinze;"
+    },
+    {
+      "verse": 26,
+      "text": "les gens de Bethléem et de Nétopha, cent quatre-vingt-huit;"
+    },
+    {
+      "verse": 27,
+      "text": "les gens d'Anathoth, cent vingt-huit;"
+    },
+    {
+      "verse": 28,
+      "text": "les gens de Beth-Azmoth, quarante-deux;"
+    },
+    {
+      "verse": 29,
+      "text": "les gens de Cariathiarim, de Céphira et de Béroth: sept cent quarante-trois;"
+    },
+    {
+      "verse": 30,
+      "text": "les gens de Rama et de Géba, six cent vingt et un;"
+    },
+    {
+      "verse": 31,
+      "text": "les gens de Machmas, cent vingt deux;"
+    },
+    {
+      "verse": 32,
+      "text": "les gens de Béthel et de Haï, cent vingt-trois;"
+    },
+    {
+      "verse": 33,
+      "text": "les gens de l'autre Nébo, cinquante-deux;"
+    },
+    {
+      "verse": 34,
+      "text": "les fils de l'autre Elam, mille deux cent cinquante-quatre;"
+    },
+    {
+      "verse": 35,
+      "text": "les fils de Harem, trois cent vingt;"
+    },
+    {
+      "verse": 36,
+      "text": "les fils de Jéricho, trois cent quarante cinq;"
+    },
+    {
+      "verse": 37,
+      "text": "les fils de Lod, de Hadid et d'Ono, sept cent vingt et un;"
+    },
+    {
+      "verse": 38,
+      "text": "les fils de Sénaa, trois mille neuf cent trente."
+    },
+    {
+      "verse": 39,
+      "text": "Prêtres: les fils d'Idaïas, de la maison de Josué, neuf cent soixante-treize;"
+    },
+    {
+      "verse": 40,
+      "text": "les fils d'Emmer, mille cinquante-deux;"
+    },
+    {
+      "verse": 41,
+      "text": "les fils de Phashur, mille deux cent quarante-sept;"
+    },
+    {
+      "verse": 42,
+      "text": "les fils d'Arem, mille dix-sept."
+    },
+    {
+      "verse": 43,
+      "text": "Lévites: les fils de Josué et de Cedmiel, des fils d'Oduïas; soixante-quatorze."
+    },
+    {
+      "verse": 44,
+      "text": "Chantres: les fils d'Asaph: cent quarante-huit."
+    },
+    {
+      "verse": 45,
+      "text": "Portiers: les fils de Sellum, les fils d'Ater, les fils de Telmon, les fils d'Accub, les fils de Hatita, les fils de Sobaï; cent trente-huit."
+    },
+    {
+      "verse": 46,
+      "text": "Nathinéens: les fils de Soha, les fils de Hasupha, les fils de Tebbaoth,"
+    },
+    {
+      "verse": 47,
+      "text": "les fils de Céros, les fils de Siaa, les fils de Phadon,"
+    },
+    {
+      "verse": 48,
+      "text": "les fils de Lébana, les fils de Hagaba, les fils de Selmaï,"
+    },
+    {
+      "verse": 49,
+      "text": "les fils de Hanan, les fils de Géddel, les fils de Gaher,"
+    },
+    {
+      "verse": 50,
+      "text": "les fils de Raaïas, les fils de Rasin, les fils de Nécoda,"
+    },
+    {
+      "verse": 51,
+      "text": "les fils de Gézem, les fils d'Aza, les fils de Phaséa,"
+    },
+    {
+      "verse": 52,
+      "text": "les fils de Bésée, les fils de Munim, les fils de Néphusim,"
+    },
+    {
+      "verse": 53,
+      "text": "les fils de Bacbuc, les fils de Hacupha, les fils de Harhur,"
+    },
+    {
+      "verse": 54,
+      "text": "les fils de Besloth, les fils de Mahida, les fils de Harsa,"
+    },
+    {
+      "verse": 55,
+      "text": "les fils de Bercos, les fils de Sisara, les fils de Théma,"
+    },
+    {
+      "verse": 56,
+      "text": "les fils de Nasia, les fils de Hatipha."
+    },
+    {
+      "verse": 57,
+      "text": "Fils des serviteurs de Salomon: les fils de Sothaï, les fils de Sophéreth, les fils de Pharida,"
+    },
+    {
+      "verse": 58,
+      "text": "les fils de Jahala, les fils de Darcon, les fils de Jeddel,"
+    },
+    {
+      "verse": 59,
+      "text": "les fils de Saphatias, les fils de Hatil, les fils de Phochéreth-Asebaïm, les fils d'Amon."
+    },
+    {
+      "verse": 60,
+      "text": "Total des Nathinéens et des fils des serviteurs de Salomon: trois cent quatre-vingt-douze."
+    },
+    {
+      "verse": 61,
+      "text": "Voici ceux qui partirent de Thel-Mêla, Thel-Harsa, Chérub, Addon et Emmer, et qui ne purent pas faire connaître leur maison paternelle et leur race, pour montrer qu'ils étaient d'Israël:"
+    },
+    {
+      "verse": 62,
+      "text": "les fils de Dalaïas, les fils de Tobie, les fils de Nécoda, six cent quarante-deux."
+    },
+    {
+      "verse": 63,
+      "text": "Et parmi les prêtres: les fils de Habia, les fils d'Accos, les fils de Berzellaï, qui avait pris pour femme une des filles de Berzellaï, le Galaadite, et fut appelé de leur nom."
+    },
+    {
+      "verse": 64,
+      "text": "Ils cherchèrent leur titre attestant leurs généalogies, mais on ne le trouva point. Ils furent déclarés impurs et exclus du sacerdoce,"
+    },
+    {
+      "verse": 65,
+      "text": "et le gouverneur leur interdit de manger des choses très saintes, jusqu'à ce que le prêtre se levât pour consulter Dieu par l'Urim et le Thummim."
+    },
+    {
+      "verse": 66,
+      "text": "L'assemblée tout entière était de quarante-deux mille trois cent soixante personnes,"
+    },
+    {
+      "verse": 67,
+      "text": "sans compter leurs serviteurs et leurs servantes, qui étaient au nombre de sept mille trois cent trente-sept; parmi eux se trouvaient deux cent quarante cinq chanteurs et chanteuses."
+    },
+    {
+      "verse": 68,
+      "text": "Ils avaient sept cent trente-six chevaux, deux cent quarante-cinq mulets,"
+    },
+    {
+      "verse": 69,
+      "text": "quatre cent trente cinq chameaux et six mille sept cent vingt ânes."
+    },
+    {
+      "verse": 70,
+      "text": "Plusieurs des chefs de famille firent des dons pour l'œuvre. Le gouverneur donna au trésor mille dariques d'or, cinquante coupes, cinq cent trente tuniques sacerdotales."
+    },
+    {
+      "verse": 71,
+      "text": "Plusieurs des chefs de famille donnèrent au trésor de l'œuvre vingt mille dariques d'or et deux mille deux cents mines d'argent."
+    },
+    {
+      "verse": 72,
+      "text": "Ce que le reste du peuple donna fut de vingt mille dariques d'or, deux mille mines d'argent et soixante-sept tuniques sacerdotales."
+    },
+    {
+      "verse": 73,
+      "text": "C'est ainsi que les prêtres et les lévites, les chantres, les portiers, des gens du peuple, les Nathinéens et tout Israël s'établirent dans leurs villes."
+    }
+  ]
+}

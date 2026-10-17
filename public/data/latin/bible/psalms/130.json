@@ -1,0 +1,24 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 130,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "canticum graduum David Domine non est exaltatum cor meum neque elati sunt oculi mei neque ambulavi in magnis neque in mirabilibus super me canticum graduum Domine non est exaltatum cor meum neque elati sunt oculi mei et non ambulavi in magnis et in mirabilibus super me"
+    },
+    {
+      "verse": 2,
+      "text": "si non humiliter sentiebam sed exaltavi animam meam sicut ablactatum super matrem suam ita retributio in anima mea si non proposui et silere feci animam meam sicut ablactatus ad matrem suam ita ablactata ad me anima mea"
+    },
+    {
+      "verse": 3,
+      "text": "speret Israhel in Domino ex hoc nunc et usque in saeculum expecta Israhel Dominum amodo et usque in aeternum"
+    }
+  ]
+}

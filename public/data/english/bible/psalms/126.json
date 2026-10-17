@@ -1,0 +1,36 @@
+{
+  "translation": "KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords",
+  "language": "english",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 126,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A Song of degrees. When the Lord turned again the captivity of Zion, we were like them that dream."
+    },
+    {
+      "verse": 2,
+      "text": "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The Lord hath done great things for them."
+    },
+    {
+      "verse": 3,
+      "text": "The Lord hath done great things for us; whereof we are glad."
+    },
+    {
+      "verse": 4,
+      "text": "Turn again our captivity, O Lord, as the streams in the south."
+    },
+    {
+      "verse": 5,
+      "text": "They that sow in tears shall reap in joy."
+    },
+    {
+      "verse": 6,
+      "text": "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Hebrews",
+  "bookSlug": "hebrews",
+  "nativeName": "Hebrews",
+  "chapterNumber": 3,
+  "totalVerses": 19,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "unde fratres sancti vocationis caelestis participes considerate apostolum et pontificem confessionis nostrae Iesum"
+    },
+    {
+      "verse": 2,
+      "text": "qui fidelis est ei qui fecit illum sicut et Moses in omni domo illius"
+    },
+    {
+      "verse": 3,
+      "text": "amplioris enim gloriae iste prae Mose dignus habitus est quanto ampliorem honorem habet domus qui fabricavit illam"
+    },
+    {
+      "verse": 4,
+      "text": "omnis namque domus fabricatur ab aliquo qui autem omnia creavit Deus"
+    },
+    {
+      "verse": 5,
+      "text": "et Moses quidem fidelis erat in tota domo eius tamquam famulus in testimonium eorum quae dicenda erant"
+    },
+    {
+      "verse": 6,
+      "text": "Christus vero tamquam filius in domo sua quae domus sumus nos si fiduciam et gloriam spei usque ad finem firmam retineamus"
+    },
+    {
+      "verse": 7,
+      "text": "quapropter sicut dicit Spiritus Sanctus hodie si vocem eius audieritis"
+    },
+    {
+      "verse": 8,
+      "text": "nolite obdurare corda vestra sicut in exacerbatione secundum diem temptationis in deserto"
+    },
+    {
+      "verse": 9,
+      "text": "ubi temptaverunt me patres vestri probaverunt et viderunt opera mea"
+    },
+    {
+      "verse": 10,
+      "text": "quadraginta annos propter quod infensus fui generationi huic et dixi semper errant corde ipsi autem non cognoverunt vias meas"
+    },
+    {
+      "verse": 11,
+      "text": "sicut iuravi in ira mea si introibunt in requiem meam"
+    },
+    {
+      "verse": 12,
+      "text": "videte fratres ne forte sit in aliquo vestrum cor malum incredulitatis discedendi a Deo vivo"
+    },
+    {
+      "verse": 13,
+      "text": "sed adhortamini vosmet ipsos per singulos dies donec hodie cognominatur ut non obduretur quis ex vobis fallacia peccati"
+    },
+    {
+      "verse": 14,
+      "text": "participes enim Christi effecti sumus si tamen initium substantiae usque ad finem firmum retineamus"
+    },
+    {
+      "verse": 15,
+      "text": "dum dicitur hodie si vocem eius audieritis nolite obdurare corda vestra quemadmodum in illa exacerbatione"
+    },
+    {
+      "verse": 16,
+      "text": "quidam enim audientes exacerbaverunt sed non universi qui profecti sunt ab Aegypto per Mosen"
+    },
+    {
+      "verse": 17,
+      "text": "quibus autem infensus est quadraginta annos nonne illis qui peccaverunt quorum cadavera prostrata sunt in deserto"
+    },
+    {
+      "verse": 18,
+      "text": "quibus autem iuravit non introire in requiem ipsius nisi illis qui increduli fuerunt"
+    },
+    {
+      "verse": 19,
+      "text": "et videmus quia non potuerunt introire propter incredulitatem"
+    }
+  ]
+}

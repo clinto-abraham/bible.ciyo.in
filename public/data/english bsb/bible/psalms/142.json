@@ -1,0 +1,40 @@
+{
+  "translation": "BSB: Berean Standard Bible",
+  "language": "english-bsb",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 142,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A Maskil of David, when he was in the cave. A prayer. I cry aloud to the LORD; I lift my voice to the LORD for mercy."
+    },
+    {
+      "verse": 2,
+      "text": "I pour out my complaint before Him; I reveal my trouble to Him."
+    },
+    {
+      "verse": 3,
+      "text": "Although my spirit grows faint within me, You know my way. Along the path I travel they have hidden a snare for me."
+    },
+    {
+      "verse": 4,
+      "text": "Look to my right and see; no one attends to me. There is no refuge for me; no one cares for my soul."
+    },
+    {
+      "verse": 5,
+      "text": "I cry to You, O LORD: “You are my refuge, my portion in the land of the living.”"
+    },
+    {
+      "verse": 6,
+      "text": "Listen to my cry, for I am brought quite low. Rescue me from my pursuers, for they are too strong for me."
+    },
+    {
+      "verse": 7,
+      "text": "Free my soul from prison, that I may praise Your name. The righteous will gather around me because of Your goodness to me."
+    }
+  ]
+}

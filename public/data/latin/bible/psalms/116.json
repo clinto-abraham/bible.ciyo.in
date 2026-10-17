@@ -1,0 +1,20 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 116,
+  "totalVerses": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "alleluia laudate Dominum omnes gentes laudate eum omnes populi laudate Dominum omnes gentes conlaudate eum universi populi"
+    },
+    {
+      "verse": 2,
+      "text": "quoniam confirmata est super nos misericordia eius et veritas Domini manet in saeculum quia confortata est super nos misericordia eius et veritas Domini in aeternum alleluia"
+    }
+  ]
+}

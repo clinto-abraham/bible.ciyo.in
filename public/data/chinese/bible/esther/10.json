@@ -1,0 +1,24 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Esther",
+  "bookSlug": "esther",
+  "nativeName": "以斯帖記",
+  "chapterNumber": 10,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "亞哈隨魯 王 使 旱地 和海 島 的人民都進貢。"
+    },
+    {
+      "verse": 2,
+      "text": "他以權柄 能力所 行的，並他 抬舉 末底改 使他高升 的事，豈不 都 寫 在 米底亞 和波斯 王 的歷史上嗎？"
+    },
+    {
+      "verse": 3,
+      "text": "猶大人 末底改 作亞哈隨魯 王 的宰相，在猶大人 中為大，得他眾 弟兄 的喜悅，為本族的人 求 好處，向 他們 說 和平的話。"
+    }
+  ]
+}

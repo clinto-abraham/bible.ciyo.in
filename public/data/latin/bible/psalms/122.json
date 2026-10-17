@@ -1,0 +1,28 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 122,
+  "totalVerses": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "canticum graduum ad te levavi oculos meos qui habitas in caelo canticum graduum ad te levavi oculos meos qui habitas in caelis"
+    },
+    {
+      "verse": 2,
+      "text": "ecce sicut oculi servorum in manibus dominorum suorum sicut oculi ancillae in manibus dominae eius ita oculi nostri ad Dominum Deum nostrum donec misereatur nostri ecce sicut oculi servorum ad manum dominorum suorum sicut oculi ancillae ad manum dominae suae sic oculi nostri ad Dominum Deum nostrum donec misereatur nostri"
+    },
+    {
+      "verse": 3,
+      "text": "miserere nostri Domine miserere nostri quia multum repleti sumus despectione miserere nostri Domine miserere nostri quoniam multum repleti sumus despectione"
+    },
+    {
+      "verse": 4,
+      "text": "quia multum repleta est anima nostra obprobrium abundantibus et despectio superbis multum repleta est anima nostra obprobrii abundantium et despectionis superborum"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Proverbs",
+  "bookSlug": "proverbs",
+  "nativeName": "Proverbs",
+  "chapterNumber": 2,
+  "totalVerses": 22,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "fili mi si susceperis sermones meos et mandata mea absconderis penes te"
+    },
+    {
+      "verse": 2,
+      "text": "ut audiat sapientiam auris tua inclina cor tuum ad noscendam prudentiam"
+    },
+    {
+      "verse": 3,
+      "text": "si enim sapientiam invocaveris et inclinaveris cor tuum prudentiae"
+    },
+    {
+      "verse": 4,
+      "text": "si quaesieris eam quasi pecuniam et sicut thesauros effoderis illam"
+    },
+    {
+      "verse": 5,
+      "text": "tunc intelleges timorem Domini et scientiam Dei invenies"
+    },
+    {
+      "verse": 6,
+      "text": "quia Dominus dat sapientiam et ex ore eius scientia et prudentia"
+    },
+    {
+      "verse": 7,
+      "text": "custodiet rectorum salutem et proteget gradientes simpliciter"
+    },
+    {
+      "verse": 8,
+      "text": "servans semitas iustitiae et vias sanctorum custodiens"
+    },
+    {
+      "verse": 9,
+      "text": "tunc intelleges iustitiam et iudicium et aequitatem et omnem semitam bonam"
+    },
+    {
+      "verse": 10,
+      "text": "si intraverit sapientia cor tuum et scientia animae tuae placuerit"
+    },
+    {
+      "verse": 11,
+      "text": "consilium custodiet te prudentia servabit te"
+    },
+    {
+      "verse": 12,
+      "text": "ut eruaris de via mala ab homine qui perversa loquitur"
+    },
+    {
+      "verse": 13,
+      "text": "qui relinquunt iter rectum et ambulant per vias tenebrosas"
+    },
+    {
+      "verse": 14,
+      "text": "qui laetantur cum malefecerint et exultant in rebus pessimis"
+    },
+    {
+      "verse": 15,
+      "text": "quorum viae perversae et infames gressus eorum"
+    },
+    {
+      "verse": 16,
+      "text": "ut eruaris a muliere aliena et ab extranea quae mollit sermones suos"
+    },
+    {
+      "verse": 17,
+      "text": "et relinquit ducem pubertatis suae"
+    },
+    {
+      "verse": 18,
+      "text": "et pacti Dei sui oblita est inclinata est enim ad mortem domus eius et ad impios semitae ipsius"
+    },
+    {
+      "verse": 19,
+      "text": "omnes qui ingrediuntur ad eam non revertentur nec adprehendent semitas vitae"
+    },
+    {
+      "verse": 20,
+      "text": "ut ambules in via bona et calles iustorum custodias"
+    },
+    {
+      "verse": 21,
+      "text": "qui enim recti sunt habitabunt in terra et simplices permanebunt in ea"
+    },
+    {
+      "verse": 22,
+      "text": "impii vero de terra perdentur et qui inique agunt auferentur ex ea"
+    }
+  ]
+}

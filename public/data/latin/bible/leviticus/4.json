@@ -1,0 +1,152 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Leviticus",
+  "bookSlug": "leviticus",
+  "nativeName": "Leviticus",
+  "chapterNumber": 4,
+  "totalVerses": 35,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "locutusque est Dominus ad Mosen dicens"
+    },
+    {
+      "verse": 2,
+      "text": "loquere filiis Israhel anima cum peccaverit per ignorantiam et de universis mandatis Domini quae praecepit ut non fierent quippiam fecerit"
+    },
+    {
+      "verse": 3,
+      "text": "si sacerdos qui est unctus peccaverit delinquere faciens populum offeret pro peccato suo vitulum inmaculatum Domino"
+    },
+    {
+      "verse": 4,
+      "text": "et adducet illum ad ostium tabernaculi testimonii coram Domino ponetque manum super caput eius et immolabit eum Domino"
+    },
+    {
+      "verse": 5,
+      "text": "hauriet quoque de sanguine vituli inferens illud in tabernaculum testimonii"
+    },
+    {
+      "verse": 6,
+      "text": "cumque intinxerit digitum in sanguinem asperget eo septies coram Domino contra velum sanctuarii"
+    },
+    {
+      "verse": 7,
+      "text": "ponetque de eodem sanguine super cornua altaris thymiamatis gratissimi Domino quod est in tabernaculo testimonii omnem autem reliquum sanguinem fundet in basim altaris holocausti in introitu tabernaculi"
+    },
+    {
+      "verse": 8,
+      "text": "et adipem vituli auferet pro peccato tam eum qui operit vitalia quam omnia quae intrinsecus sunt"
+    },
+    {
+      "verse": 9,
+      "text": "duos renunculos et reticulum quod est super eos iuxta ilia et adipem iecoris cum renunculis"
+    },
+    {
+      "verse": 10,
+      "text": "sicut aufertur de vitulo hostiae pacificorum et adolebit ea super altare holocausti"
+    },
+    {
+      "verse": 11,
+      "text": "pellem vero et omnes carnes cum capite et pedibus et intestinis et fimo"
+    },
+    {
+      "verse": 12,
+      "text": "et reliquo corpore efferet extra castra in locum mundum ubi cineres effundi solent incendetque ea super lignorum struem quae in loco effusorum cinerum cremabuntur"
+    },
+    {
+      "verse": 13,
+      "text": "quod si omnis turba Israhel ignoraverit et per inperitiam fecerit quod contra mandatum Domini est"
+    },
+    {
+      "verse": 14,
+      "text": "et postea intellexerit peccatum suum offeret vitulum pro peccato adducetque eum ad ostium tabernaculi"
+    },
+    {
+      "verse": 15,
+      "text": "et ponent seniores populi manus super caput eius coram Domino immolatoque vitulo in conspectu Domini"
+    },
+    {
+      "verse": 16,
+      "text": "inferet sacerdos qui unctus est de sanguine eius in tabernaculum testimonii"
+    },
+    {
+      "verse": 17,
+      "text": "tincto digito aspergens septies contra velum"
+    },
+    {
+      "verse": 18,
+      "text": "ponetque de eodem sanguine in cornibus altaris quod est coram Domino in tabernaculo testimonii reliquum autem sanguinem fundet iuxta basim altaris holocaustorum quod est in ostio tabernaculi testimonii"
+    },
+    {
+      "verse": 19,
+      "text": "omnemque eius adipem tollet et adolebit super altare"
+    },
+    {
+      "verse": 20,
+      "text": "sic faciens et de hoc vitulo quomodo fecit et prius et rogante pro eis sacerdote propitius erit Dominus"
+    },
+    {
+      "verse": 21,
+      "text": "ipsum autem vitulum efferet extra castra atque conburet sicut et priorem vitulum quia pro peccato est multitudinis"
+    },
+    {
+      "verse": 22,
+      "text": "si peccaverit princeps et fecerit unum e pluribus per ignorantiam quod Domini lege prohibetur"
+    },
+    {
+      "verse": 23,
+      "text": "et postea intellexerit peccatum suum offeret hostiam Domino hircum de capris inmaculatum"
+    },
+    {
+      "verse": 24,
+      "text": "ponetque manum suam super caput eius cumque immolaverit eum in loco ubi solet mactari holocaustum coram Domino quia pro peccato est"
+    },
+    {
+      "verse": 25,
+      "text": "tinguet sacerdos digitum in sanguine hostiae pro peccato tangens cornua altaris holocausti et reliquum fundens ad basim eius"
+    },
+    {
+      "verse": 26,
+      "text": "adipem vero adolebit supra sicut in victimis pacificorum fieri solet rogabitque pro eo et pro peccato eius ac dimittetur ei"
+    },
+    {
+      "verse": 27,
+      "text": "quod si peccaverit anima per ignorantiam de populo terrae ut faciat quicquam ex his quae Domini lege prohibentur atque delinquat"
+    },
+    {
+      "verse": 28,
+      "text": "et cognoverit peccatum suum offeret capram inmaculatam"
+    },
+    {
+      "verse": 29,
+      "text": "ponetque manum super caput hostiae quae pro peccato est et immolabit eam in loco holocausti"
+    },
+    {
+      "verse": 30,
+      "text": "tolletque sacerdos de sanguine in digito suo et tangens cornua altaris holocausti reliquum fundet ad basim eius"
+    },
+    {
+      "verse": 31,
+      "text": "omnem autem auferens adipem sicut auferri solet de victimis pacificorum adolebit super altare in odorem suavitatis Domino rogabitque pro eo et dimittetur ei"
+    },
+    {
+      "verse": 32,
+      "text": "sin autem de pecoribus obtulerit victimam pro peccato ovem scilicet inmaculatam"
+    },
+    {
+      "verse": 33,
+      "text": "ponet manum super caput eius et immolabit eam in loco ubi solent holocaustorum caedi hostiae"
+    },
+    {
+      "verse": 34,
+      "text": "sumetque sacerdos de sanguine eius digito suo et tangens cornua altaris holocausti reliquum fundet ad basim eius"
+    },
+    {
+      "verse": 35,
+      "text": "omnem quoque auferens adipem sicut auferri solet adeps arietis qui immolatur pro pacificis et cremabit super altare in incensum Domini rogabitque pro eo et pro peccato eius et dimittetur illi"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Joshua",
+  "bookSlug": "joshua",
+  "nativeName": "Joshua",
+  "chapterNumber": 15,
+  "totalVerses": 63,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Y FUÉ la suerte de la tribu de los hijos de Judá, por sus familias, junto al término de Edom, del desierto de Zin al mediodía, al lado del sur."
+    },
+    {
+      "verse": 2,
+      "text": "Y su término de la parte del mediodía fué desde la costa del mar Salado, desde la lengua que mira hacia el mediodía;"
+    },
+    {
+      "verse": 3,
+      "text": "Y salía hacia el mediodía á la subida de Acrabim, pasando hasta Zin; y subiendo por el mediodía hasta Cades-barnea, pasaba á Hebrón, y subiendo por Addar daba vuelta á Carca;"
+    },
+    {
+      "verse": 4,
+      "text": "De allí pasaba á Azmón, y salía al arroyo de Egipto; y sale este término al occidente. Este pues os será el término del mediodía."
+    },
+    {
+      "verse": 5,
+      "text": "El término del oriente es el mar Salado hasta el fin del Jordán. Y el término de la parte del norte, desde la lengua del mar, desde el fin del Jordán:"
+    },
+    {
+      "verse": 6,
+      "text": "Y sube este término por Beth-hogla, y pasa del norte á Beth-araba, y de aquí sube este término á la piedra de Bohán, hijo de Rubén."
+    },
+    {
+      "verse": 7,
+      "text": "Y torna á subir este término á Debir desde el valle de Achôr: y al norte mira sobre Gilgal, que está delante de la subida de Adumin, la cual está al mediodía del arroyo: y pasa este término á las aguas de En-semes, y sale á la fuente de Rogel:"
+    },
+    {
+      "verse": 8,
+      "text": "Y sube este término por el valle del hijo de Hinnom al lado del Jebuseo al mediodía: esta es Jerusalem. Luego sube este término por la cumbre del monte que está delante del valle de Hinnom hacia el occidente, el cual está al cabo del valle de los gigantes al norte:"
+    },
+    {
+      "verse": 9,
+      "text": "Y rodea este término desde la cumbre del monte hasta la fuente de las aguas de Nephtoa, y sale á la ciudades del monte de Ephrón, rodeando luego el mismo término á Baala, la cual es Chîriath-jearim."
+    },
+    {
+      "verse": 10,
+      "text": "Después torna este término desde Baala hacia el occidente al monte de Seir: y pasa al lado del monte de Jearim hacia el norte, esta es Chesalón, y desciende á Beth-semes, y pasa á Timna."
+    },
+    {
+      "verse": 11,
+      "text": "Sale luego este término al lado de Ecrón hacia el norte; y rodea el mismo término á Sichêron, y pasa por el monte de Baala, y sale á Jabneel: y sale este término á la mar."
+    },
+    {
+      "verse": 12,
+      "text": "El término del occidente es la mar grande. Este pues, es el término de los hijos de Judá en derredor, por sus familias."
+    },
+    {
+      "verse": 13,
+      "text": "Mas á Caleb, hijo de Jephone, dió parte entre los hijos de Judá, conforme al mandamiento de Jehová á Josué: esto es, á Chîriath-arba, del padre de Anac, que es Hebrón."
+    },
+    {
+      "verse": 14,
+      "text": "Y Caleb echó de allí tres hijos de Anac, á Sesai, Aiman, y Talmai, hijos de Anac."
+    },
+    {
+      "verse": 15,
+      "text": "De aquí subió á los que moraban en Debir: y el nombre de Debir era antes Chîriath-sepher."
+    },
+    {
+      "verse": 16,
+      "text": "Y dijo Caleb: Al que hiriere á Chîriath-sepher, y la tomare, yo le daré á mi hija Axa por mujer."
+    },
+    {
+      "verse": 17,
+      "text": "Y tomóla Othoniel, hijo de Cenez, hermano de Caleb; y él le dió por mujer á su hija Axa."
+    },
+    {
+      "verse": 18,
+      "text": "Y aconteció que cuando la llevaba, él la persuadió que pidiese á su padre tierras para labrar. Ella entonces se apeó del asno. Y Caleb le dijo: ¿Qué tienes?"
+    },
+    {
+      "verse": 19,
+      "text": "Y ella respondió: Dame bendición: pues que me has dado tierra de secadal, dame también fuentes de aguas. El entonces le dió las fuentes de arriba, y las de abajo."
+    },
+    {
+      "verse": 20,
+      "text": "Esta pues es la herencia de la tribu de los hijos de Judá por sus familias."
+    },
+    {
+      "verse": 21,
+      "text": "Y fueron las ciudades del término de la tribu de los hijos de Judá hacia el término de Edom al mediodía: Cabseel, y Eder, y Jagur,"
+    },
+    {
+      "verse": 22,
+      "text": "Y Cina, y Dimona, y Adada,"
+    },
+    {
+      "verse": 23,
+      "text": "Y Cedes, y Asor, é Itnán,"
+    },
+    {
+      "verse": 24,
+      "text": "Ziph, y Telem, y Bealoth,"
+    },
+    {
+      "verse": 25,
+      "text": "Y Asor-hadatta, y Chêrioth-hesron, que es Asor,"
+    },
+    {
+      "verse": 26,
+      "text": "Amam, y Sema, y Molada,"
+    },
+    {
+      "verse": 27,
+      "text": "Y Asar-gadda, y Hesmón, y Beth-pelet,"
+    },
+    {
+      "verse": 28,
+      "text": "Y Hasar-sual, Beersebah, y Bizotia,"
+    },
+    {
+      "verse": 29,
+      "text": "Baala, é Iim, y Esem,"
+    },
+    {
+      "verse": 30,
+      "text": "Y Eltolad, y Cesil, y Horma,"
+    },
+    {
+      "verse": 31,
+      "text": "Y Siclag, y Madmanna, Sansana,"
+    },
+    {
+      "verse": 32,
+      "text": "Y Lebaoth, Silim, y Aín, y Rimmón; en todas veintinueve ciudades con sus aldeas."
+    },
+    {
+      "verse": 33,
+      "text": "En las llanuras, Estaol, y Sorea, y Asena,"
+    },
+    {
+      "verse": 34,
+      "text": "Y Zanoa, y Engannim, Tappua, y Enam,"
+    },
+    {
+      "verse": 35,
+      "text": "Jerimoth, y Adullam, Sochô, y Aceca,"
+    },
+    {
+      "verse": 36,
+      "text": "Y Saraim, y Adithaim, y Gedera, y Gederothaim; catorce ciudades con sus aldeas."
+    },
+    {
+      "verse": 37,
+      "text": "Senán, y Hadasa, y Migdalgad,"
+    },
+    {
+      "verse": 38,
+      "text": "Y Dilán, y Mizpa, y Jocteel,"
+    },
+    {
+      "verse": 39,
+      "text": "Lachîs, y Boscath, y Eglón,"
+    },
+    {
+      "verse": 40,
+      "text": "Y Cabón, y Lamas, y Chîtlis,"
+    },
+    {
+      "verse": 41,
+      "text": "Y Gederoh, Beth-dagón, y Naama, y Maceda; dieciséis ciudades con sus aldeas."
+    },
+    {
+      "verse": 42,
+      "text": "Libna, y Ether, y Asán,"
+    },
+    {
+      "verse": 43,
+      "text": "Y Jiphta, y Asna, y Nesib,"
+    },
+    {
+      "verse": 44,
+      "text": "Y Ceila, y Achzib, y Maresa; nueve ciudades con sus aldeas."
+    },
+    {
+      "verse": 45,
+      "text": "Ecrón con sus villas y sus aldeas:"
+    },
+    {
+      "verse": 46,
+      "text": "Desde Ecrón hasta la mar, todas las que están á la costa de Asdod con sus aldeas."
+    },
+    {
+      "verse": 47,
+      "text": "Asdod con sus villas y sus aldeas: Gaza con sus villas y sus aldeas hasta el río de Egipto, y la gran mar con sus términos."
+    },
+    {
+      "verse": 48,
+      "text": "Y en las montañas, Samir, y Jattir, y Succoth,"
+    },
+    {
+      "verse": 49,
+      "text": "Y Danna, y Chîriath-sanna, que es Debir,"
+    },
+    {
+      "verse": 50,
+      "text": "Y Anab, y Estemo, y Anim,"
+    },
+    {
+      "verse": 51,
+      "text": "Y Gosén, y Olón, y Gilo; once ciudades con sus aldeas."
+    },
+    {
+      "verse": 52,
+      "text": "Arab, y Dumah, y Esán,"
+    },
+    {
+      "verse": 53,
+      "text": "Y Janum, y Beth-tappua, y Apheca,"
+    },
+    {
+      "verse": 54,
+      "text": "Y Humta, y Chîriath-arba, que es Hebrón, y Sior; nueve ciudades con sus aldeas."
+    },
+    {
+      "verse": 55,
+      "text": "Maón, Carmel, y Ziph, y Juta,"
+    },
+    {
+      "verse": 56,
+      "text": "E Izreel, Jocdeam, y Zanoa,"
+    },
+    {
+      "verse": 57,
+      "text": "Caín, Gibea, y Timna; diez ciudades con sus aldeas."
+    },
+    {
+      "verse": 58,
+      "text": "Halhul, y Bethfur, y Gedor,"
+    },
+    {
+      "verse": 59,
+      "text": "Y Maarath, y Beth-anoth, y Eltecón; seis ciudades con sus aldeas."
+    },
+    {
+      "verse": 60,
+      "text": "Chîriath-baal, que es Chîriath-jearim, y Rabba; dos ciudades con sus aldeas."
+    },
+    {
+      "verse": 61,
+      "text": "En el desierto, Beth-araba, Middín, y Sechâchâ,"
+    },
+    {
+      "verse": 62,
+      "text": "Y Nibsan, y la ciudad de la sal, y Engedi; seis ciudades con sus aldeas."
+    },
+    {
+      "verse": 63,
+      "text": "Mas á los Jebuseos que habitaban en Jerusalem, los hijos de Judá no los pudieron desarraigar; antes quedó el Jebuseo en Jerusalem con los hijos de Judá, hasta hoy."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 47,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Au maître de chant. Des fils de Coré. Psaume."
+    },
+    {
+      "verse": 2,
+      "text": "Vous tous, peuples, battez des mains, célébrez Dieu par des cris d'allégresse!"
+    },
+    {
+      "verse": 3,
+      "text": "Car Yahweh est très haut, redoutable, grand roi sur toute la terre."
+    },
+    {
+      "verse": 4,
+      "text": "Il nous assujettit les peuples, il met les nations sous nos pieds."
+    },
+    {
+      "verse": 5,
+      "text": "Il nous choisit notre héritage, la gloire de Jacob, son bien-aimé. — Séla."
+    },
+    {
+      "verse": 6,
+      "text": "Dieu monte à son sanctuaire au milieu des acclamations; Yahweh, au son de la trompette."
+    },
+    {
+      "verse": 7,
+      "text": "Chantez à Dieu, chantez! chantez à notre Roi, chantez!"
+    },
+    {
+      "verse": 8,
+      "text": "Car Dieu est roi de toute la terre; chantez un cantique de louange."
+    },
+    {
+      "verse": 9,
+      "text": "Dieu règne sur les nations, il siège sur son trône saint."
+    },
+    {
+      "verse": 10,
+      "text": "Les princes des peuples se réunissent pour former aussi un peuple du Dieu d'Abraham; car à Dieu sont les boucliers de la terre; Il est souverainement élevé."
+    }
+  ]
+}

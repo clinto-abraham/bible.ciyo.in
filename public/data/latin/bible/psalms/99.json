@@ -1,0 +1,32 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 99,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "psalmus in confessione canticum in gratiarum actione"
+    },
+    {
+      "verse": 2,
+      "text": "iubilate Domino omnis terra servite Domino in laetitia introite in conspectu eius in exultatione iubilate Domino omnis terra servite Domino in laetitia ingredimini coram eo in laude"
+    },
+    {
+      "verse": 3,
+      "text": "scitote quoniam Dominus ipse est Deus ipse fecit nos et non ipsi nos populus eius et oves pascuae eius scitote quoniam Dominus ipse est Deus ipse fecit nos et ipsius sumus populus eius et grex pascuae eius"
+    },
+    {
+      "verse": 4,
+      "text": "introite portas eius in confessione atria eius in hymnis confitemini illi laudate nomen eius ingredimini portas eius in gratiarum actione atria eius in laude confitemini ei benedicite nomini eius"
+    },
+    {
+      "verse": 5,
+      "text": "quoniam suavis Dominus in aeternum misericordia eius et usque in generationem et generationem veritas eius quia bonus Dominus in sempiternum misericordia eius et usque ad generationem et generationem fides eius"
+    }
+  ]
+}

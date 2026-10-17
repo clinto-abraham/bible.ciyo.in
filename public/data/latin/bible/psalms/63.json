@@ -1,0 +1,56 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 63,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem psalmus David victori canticum David"
+    },
+    {
+      "verse": 2,
+      "text": "exaudi Deus orationem meam cum deprecor a timore inimici eripe animam meam audi Deus vocem meam loquentis a timore inimici serva vitam meam"
+    },
+    {
+      "verse": 3,
+      "text": "protexisti me a conventu malignantium a multitudine operantium iniquitatem absconde me a consilio malignorum a tumultu operantium iniquitatem"
+    },
+    {
+      "verse": 4,
+      "text": "quia exacuerunt ut gladium linguas suas intenderunt arcum rem amaram qui exacuerunt quasi gladium linguam suam tetenderunt sagittam suam verbum amarissimum"
+    },
+    {
+      "verse": 5,
+      "text": "ut sagittent in occultis inmaculatum ut sagittarent in absconditis simplicem"
+    },
+    {
+      "verse": 6,
+      "text": "subito sagittabunt eum et non timebunt firmaverunt sibi sermonem nequam narraverunt ut absconderent laqueos dixerunt quis videbit eos subito sagittabunt eum et non timebunt confortaverunt sibi sermonem pessimum narraverunt ut absconderent laqueos dixerunt quis videbit nos"
+    },
+    {
+      "verse": 7,
+      "text": "scrutati sunt iniquitates defecerunt scrutantes scrutinio accedet homo et cor altum scrutati sunt iniquitates defecerunt scrutantes scrutinio cogitationibus singulorum et corde profundo"
+    },
+    {
+      "verse": 8,
+      "text": "et exaltabitur Deus sagittae parvulorum factae sunt plagae eorum sagittabit ergo eos Deus iaculo repentino inferentur plagae eorum"
+    },
+    {
+      "verse": 9,
+      "text": "et infirmatae sunt contra eos linguae eorum conturbati sunt omnes qui videbant eos et corruent in semet ipsos linguis suis fugient omnes qui viderint eos"
+    },
+    {
+      "verse": 10,
+      "text": "et timuit omnis homo et adnuntiaverunt opera Dei et facta eius intellexerunt et timebunt omnes homines et adnuntiabunt opus Dei et opera eius intellegent"
+    },
+    {
+      "verse": 11,
+      "text": "laetabitur iustus in Domino et sperabit in eo et laudabuntur omnes recti corde laetabitur iustus in Domino et sperabit in eo et exultabunt omnes recti corde"
+    }
+  ]
+}

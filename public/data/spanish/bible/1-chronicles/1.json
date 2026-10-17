@@ -1,0 +1,228 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "I Chronicles",
+  "bookSlug": "1-chronicles",
+  "nativeName": "I Chronicles",
+  "chapterNumber": 1,
+  "totalVerses": 54,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "ADAM, Seth, Enos,"
+    },
+    {
+      "verse": 2,
+      "text": "Cainán, Mahalaleel, Jared,"
+    },
+    {
+      "verse": 3,
+      "text": "Enoch, Mathusalem, Lamech,"
+    },
+    {
+      "verse": 4,
+      "text": "Noé, Sem, Châm, y Japhet."
+    },
+    {
+      "verse": 5,
+      "text": "Los hijos de Japhet: Gomer, Magog, Dadai, Javán, Tubal, Mesec, y Thiras."
+    },
+    {
+      "verse": 6,
+      "text": "Los hijos de Gomer: Askenaz, Riphath, y Thogorma."
+    },
+    {
+      "verse": 7,
+      "text": "Los hijos de Javán: Elisa, Tharsis, Chîthim, y Dodanim."
+    },
+    {
+      "verse": 8,
+      "text": "Los hijos de Châm: Chûs, Misraim, Phuth, y Canaán."
+    },
+    {
+      "verse": 9,
+      "text": "Los hijos de Chûs: Seba, Havila, Sabtha, Raema, y Sabtechâ. Y los hijos de Raema: Seba y Dedán."
+    },
+    {
+      "verse": 10,
+      "text": "Chûs engendró á Nimrod: éste comenzó á ser poderoso en la tierra."
+    },
+    {
+      "verse": 11,
+      "text": "Misram engendró á Ludim, Ananim, Laabim, Nephtuim,"
+    },
+    {
+      "verse": 12,
+      "text": "Phetrusim y Casluim: de éstos salieron los Filisteos, y los Caphtoreos."
+    },
+    {
+      "verse": 13,
+      "text": "Canaán engendró á Sidón, su primogénito;"
+    },
+    {
+      "verse": 14,
+      "text": "Y al Hetheo, y al Jebuseo, y al Amorrheo, y al Gergeseo;"
+    },
+    {
+      "verse": 15,
+      "text": "Y al Heveo, y al Araceo, y al Sineo;"
+    },
+    {
+      "verse": 16,
+      "text": "Al Aradeo, y al Samareo, y al Hamatheo."
+    },
+    {
+      "verse": 17,
+      "text": "Los hijos de Sem: Elam, Assur, Arphaxad, Lud, Aram, Hus, Hul, Gether, y Mesec."
+    },
+    {
+      "verse": 18,
+      "text": "Arphaxad engendró á Sela, y Sela engendró á Heber."
+    },
+    {
+      "verse": 19,
+      "text": "Y á Heber nacieron dos hijos: el nombre del uno fué Peleg, por cuanto en sus días fué dividida la tierra; y el nombre de su hermano fué Joctán."
+    },
+    {
+      "verse": 20,
+      "text": "Y Joctán engendró á Elmodad, Seleph, Asarmaveth, y Jera,"
+    },
+    {
+      "verse": 21,
+      "text": "A Adoram también, á Uzal, Dicla,"
+    },
+    {
+      "verse": 22,
+      "text": "Hebal, Abimael, Seba,"
+    },
+    {
+      "verse": 23,
+      "text": "Ophir, Havila, y Jobab: todos hijos de Joctán."
+    },
+    {
+      "verse": 24,
+      "text": "Sem, Arphaxad, Sela,"
+    },
+    {
+      "verse": 25,
+      "text": "Heber, Peleg, Reu,"
+    },
+    {
+      "verse": 26,
+      "text": "Serug, Nachôr, Thare,"
+    },
+    {
+      "verse": 27,
+      "text": "Y Abram, el cual es Abraham."
+    },
+    {
+      "verse": 28,
+      "text": "Los hijos de Abraham: Isaac é Ismael."
+    },
+    {
+      "verse": 29,
+      "text": "Y estas son sus descendencias: el primogénito de Ismael, Nabajoth; después Cedar, Adbeel, Misam,"
+    },
+    {
+      "verse": 30,
+      "text": "Misma, Duma, Maasa, Hadad, Thema, Jetur, Naphis, y Cedma. Estos son los hijos de Ismael."
+    },
+    {
+      "verse": 31,
+      "text": "Y Cethura, concubina de Abraham, parió á Zimram, Jocsán, Medán, Madián, Isbac, y á Súa."
+    },
+    {
+      "verse": 32,
+      "text": "Los hijos de Jobsán: Seba y Dedán."
+    },
+    {
+      "verse": 33,
+      "text": "Los hijos de Madián: Epha, Epher, Henoch, Abida, y Eldaa; todos estos fueron hijos de Cethura."
+    },
+    {
+      "verse": 34,
+      "text": "Y Abraham engendró á Isaac: y los hijos de Isaac fueron Esaú é Israel."
+    },
+    {
+      "verse": 35,
+      "text": "Los hijos de Esaú: Eliphas, Rehuel, Jeus, Jalam, y Cora."
+    },
+    {
+      "verse": 36,
+      "text": "Los hijos de Eliphas: Themán, Omar, Sephi, Hatham, Chênas, Timna, y Amalec."
+    },
+    {
+      "verse": 37,
+      "text": "Los hijos de Rehuel: Nahath, Zera, Samma, y Mizza."
+    },
+    {
+      "verse": 38,
+      "text": "Los hijos de Seir: Lotán, Sobal, Sibeón, Ana, Disón, Eser, y Disán."
+    },
+    {
+      "verse": 39,
+      "text": "Los hijos de Lotán: Hori, y Homam: y Timna fué hermana de Lotán."
+    },
+    {
+      "verse": 40,
+      "text": "Los hijos de Sobal: Alian, Manahach, Ebal, Sephi y Oman. Los hijos de Sibehom: Aia y Ana."
+    },
+    {
+      "verse": 41,
+      "text": "Disón fué hijo de Ana: y los hijos de Disón; Hamrán, Hesbán, Ithran y Chêrán."
+    },
+    {
+      "verse": 42,
+      "text": "Los hijos de Eser: Bilham, Zaaván, y Jaacán. Los hijos de Disán: Hus y Arán."
+    },
+    {
+      "verse": 43,
+      "text": "Y estos son los reyes que reinaron en la tierra de Edom, antes que reinase rey sobre los hijos de Israel: Belah, hijo de Beor; y el nombre de su ciudad fué Dinaba."
+    },
+    {
+      "verse": 44,
+      "text": "Y muerto Belah, reinó en su lugar Jobab hijo de Zera, de Bosra."
+    },
+    {
+      "verse": 45,
+      "text": "Y muerto Jobab, reinó en su lugar Husam, de la tierra de los Themanos."
+    },
+    {
+      "verse": 46,
+      "text": "Muerto Husam, reinó en su lugar Adad hijo de Bedad, el cual hirió á Madián en la campaña de Moab: y el nombre de su ciudad fué Avith."
+    },
+    {
+      "verse": 47,
+      "text": "Muerto Adad, reinó en su lugar Samla, de Masreca."
+    },
+    {
+      "verse": 48,
+      "text": "Muerto también Samla, reinó en su lugar Saúl de Rehoboth, que está junto al río."
+    },
+    {
+      "verse": 49,
+      "text": "Y muerto Saúl, reinó en su lugar Baal-hanán hijo de Achbor."
+    },
+    {
+      "verse": 50,
+      "text": "Y muerto Baal-hanán, reinó en su lugar Adad, el nombre de cuya ciudad fué Pai; y el nombre de su mujer Meetabel, hija de Matred, y ésta de Mezaab."
+    },
+    {
+      "verse": 51,
+      "text": "Muerto Adad, sucedieron los duques en Edom: el duque Timna, el duque Alia, el duque Jetheth,"
+    },
+    {
+      "verse": 52,
+      "text": "El duque Oholibama, el duque Ela, el duque Phinón,"
+    },
+    {
+      "verse": 53,
+      "text": "El duque Chênaz, el duque Themán, el duque Mibzar,"
+    },
+    {
+      "verse": 54,
+      "text": "El duque Magdiel, el duque Iram. Estos fueron los duques de Edom."
+    }
+  ]
+}

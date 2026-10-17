@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 55,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem pro populo qui a sanctis longe factus est David in tituli inscriptione cum tenuerunt eum Allophili in Geth victori pro columba muta eo quod procul abierit David humilis et simplex quando tenuerunt eum Palestini in Geth"
+    },
+    {
+      "verse": 2,
+      "text": "miserere mei Deus quoniam conculcavit me homo tota die inpugnans tribulavit me miserere mei Deus quoniam conculcavit me homo tota die pugnans tribulavit me"
+    },
+    {
+      "verse": 3,
+      "text": "conculcaverunt me inimici mei tota die quoniam multi bellantes adversum me conculcaverunt me insidiatores mei tota die multi enim qui pugnant contra me Altissime"
+    },
+    {
+      "verse": 4,
+      "text": "ab altitudine diei timebo ego vero in te sperabo quacumque die territus fuero ego in te confidam"
+    },
+    {
+      "verse": 5,
+      "text": "in Deo laudabo sermones meos in Deo speravi non timebo quid faciat mihi caro in Deo laudavi verbum in Deo speravi non timebo quid faciat caro mihi"
+    },
+    {
+      "verse": 6,
+      "text": "tota die verba mea execrabantur adversum me omnia consilia eorum in malum tota die sermonibus me adfligebant contra me omnes cogitationes eorum in malum"
+    },
+    {
+      "verse": 7,
+      "text": "inhabitabunt et abscondent ipsi calcaneum meum observabunt sicut sustinuerunt animam meam congregabuntur abscondite plantas meas observabunt expectantes animam meam"
+    },
+    {
+      "verse": 8,
+      "text": "pro nihilo salvos facies illos in ira populos confringes Deus quia nullus est salvus in eis in furore populos detrahet Deus"
+    },
+    {
+      "verse": 9,
+      "text": "vitam meam adnuntiavi tibi posuisti lacrimas meas in conspectu tuo sicut et in promissione tua secretiora mea numerasti pone lacrimam meam in conspectu tuo sed non in narratione tua"
+    },
+    {
+      "verse": 10,
+      "text": "tunc convertentur inimici mei retrorsum in quacumque die invocavero te ecce cognovi quoniam Deus meus es tunc convertentur inimici mei retrorsum in quacumque die invocavero hoc scio quia Deus meus es"
+    },
+    {
+      "verse": 11,
+      "text": "in Deo laudabo verbum in Domino laudabo sermonem in Deo speravi non timebo quid faciat mihi homo in Deo laudabo verbum in Domino praedicabo sermonem in Deo speravi non timebo quid faciat homo mihi"
+    },
+    {
+      "verse": 12,
+      "text": "in me sunt Deus vota *tua; quae reddam laudationes tibi in me sunt Deus vota tua reddam gratiarum actiones tibi"
+    },
+    {
+      "verse": 13,
+      "text": "quoniam eripuisti animam meam de morte et pedes meos de lapsu ut placeam coram Deo in lumine viventium quia liberasti animam meam de morte et pedes meos de lapsu ut ambulem coram Deo in luce viventium"
+    }
+  ]
+}

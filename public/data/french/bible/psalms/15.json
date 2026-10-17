@@ -1,0 +1,32 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 15,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Psaume de David. Yahweh, qui habitera dans ta tente? Qui demeurera sur ta montagne sainte?"
+    },
+    {
+      "verse": 2,
+      "text": "Celui qui marche dans l'innocence, qui pratique la justice, et qui dit la vérité dans son cœur."
+    },
+    {
+      "verse": 3,
+      "text": "Il ne calomnie point avec sa langue, il ne fait point de mal à son frère, et ne jette point l'opprobre sur son prochain."
+    },
+    {
+      "verse": 4,
+      "text": "A ses yeux le réprouvé est digne de honte, mais il honore ceux qui craignent Yahweh. S'il a fait un serment à son préjudice, il n'y change rien,"
+    },
+    {
+      "verse": 5,
+      "text": "Il ne prête point son argent à usure, et il n'accepte pas de présent contre l'innocent: Celui qui se conduit ainsi ne chancellera jamais."
+    }
+  ]
+}

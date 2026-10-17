@@ -1,0 +1,44 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 12,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Al Músico principal: sobre Seminith: Salmo de David. SALVA, oh Jehová, porque se acabaron los misericordiosos: porque se han acabado los fieles de entre los hijos de los hombres."
+    },
+    {
+      "verse": 2,
+      "text": "Mentira habla cada uno con su prójimo; con labios lisonjeros, con corazón doble hablan."
+    },
+    {
+      "verse": 3,
+      "text": "Destruirá Jehová todos los labios lisonjeros, la lengua que habla grandezas;"
+    },
+    {
+      "verse": 4,
+      "text": "Que dijeron: Por nuestra lengua prevaleceremos; nuestros labios están con nosotros: ¿quién nos es señor?"
+    },
+    {
+      "verse": 5,
+      "text": "Por la opresión de los pobres, por el gemido de los menesterosos, ahora me levantaré, dice Jehová: pondrélos en salvo del que contra ellos se engríe."
+    },
+    {
+      "verse": 6,
+      "text": "Las palabras de Jehová, palabras limpias; plata refinada en horno de tierra, purificada siete veces."
+    },
+    {
+      "verse": 7,
+      "text": "Tú, Jehová, los guardarás; guárdalos para siempre de aquesta generación."
+    },
+    {
+      "verse": 8,
+      "text": "Cercando andan los malos, mientras son exaltados los más viles de los hijos de los hombres."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "translation": "Mal1910: Sathyavedapusthakam (Malayalam Bible)",
+  "language": "malayalam",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "സങ്കീർത്തനങ്ങൾ",
+  "chapterNumber": 117,
+  "totalVerses": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "സകല ജാതികളുമായുള്ളോരേ, യഹോവയെ സ്തുതിപ്പിൻ; സകല വംശങ്ങളുമായുള്ളോരേ, അവനെ പുകഴ്ത്തുവിൻ."
+    },
+    {
+      "verse": 2,
+      "text": "നമ്മോടുള്ള അവന്റെ ദയ വലുതായിരിക്കുന്നു; യഹോവയുടെ വിശ്വസ്തത എന്നേക്കും ഉള്ളതു. യഹോവയെ സ്തുതിപ്പിൻ."
+    }
+  ]
+}

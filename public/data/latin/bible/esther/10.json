@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Esther",
+  "bookSlug": "esther",
+  "nativeName": "Esther",
+  "chapterNumber": 10,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "rex vero Asuerus omnem terram et cunctas maris insulas fecit tributarias"
+    },
+    {
+      "verse": 2,
+      "text": "cuius fortitudo et imperium et dignitas atque sublimitas qua exaltavit Mardocheum scripta sunt in libris Medorum atque Persarum"
+    },
+    {
+      "verse": 3,
+      "text": "et quomodo Mardochaeus Iudaici generis secundus a rege Assuero fuerit et magnus apud Iudaeos et acceptabilis plebi fratrum suorum quaerens bona populo suo et loquens ea quae ad pacem seminis sui pertinerent"
+    },
+    {
+      "verse": 4,
+      "text": "Dixitque Mardochaeus A Deo facta sunt ista"
+    },
+    {
+      "verse": 5,
+      "text": "Recordatus sum somnii quod videram haec eadem significantis nec eorum quidquam irritum fuit"
+    },
+    {
+      "verse": 6,
+      "text": "Parvus fons qui crevit in fluvium et in lucem solemque conversus est et in aquas plurimas redundavit Esther est quam rex accepit uxorem et voluit esse reginam"
+    },
+    {
+      "verse": 7,
+      "text": "Duo autem dracones ego sum et Aman"
+    },
+    {
+      "verse": 8,
+      "text": "Gentes quae convenerant hi sunt qui conati sunt delere nomen Iudaeorum"
+    },
+    {
+      "verse": 9,
+      "text": "Gens autem mea Israel est quae clamavit ad Dominum et salvum fecit Dominus populum suum liberavitque nos ab omnibus malis et fecit signa magna atque portenta inter Gentes"
+    },
+    {
+      "verse": 10,
+      "text": "et duas sortes esse praecepit unam Populi Dei et alteram cunctarum Gentium"
+    },
+    {
+      "verse": 11,
+      "text": "Venitque utraque sors in statutum ex illo iam tempore diem coram Deo universis gentibus"
+    },
+    {
+      "verse": 12,
+      "text": "et recordatus est Dominus populi sui ac misertus est hereditatis suae"
+    },
+    {
+      "verse": 13,
+      "text": "Et observabuntur dies isti in mense Adar quartadecima et quintadecima die eiusdem mensis cum omni studio et gaudio in unum coetum populi congregati in cunctas deinceps generationes populi Israel"
+    }
+  ]
+}

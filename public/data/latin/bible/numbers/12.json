@@ -1,0 +1,72 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Numbers",
+  "bookSlug": "numbers",
+  "nativeName": "Numeri",
+  "chapterNumber": 12,
+  "totalVerses": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "locutaque est Maria et Aaron contra Mosen propter uxorem eius aethiopissam"
+    },
+    {
+      "verse": 2,
+      "text": "et dixerunt num per solum Mosen locutus est Dominus nonne et nobis similiter est locutus quod cum audisset Dominus"
+    },
+    {
+      "verse": 3,
+      "text": "erat enim Moses vir mitissimus super omnes homines qui morabantur in terra"
+    },
+    {
+      "verse": 4,
+      "text": "statim locutus est ad eum et ad Aaron et Mariam egredimini vos tantum tres ad tabernaculum foederis cumque fuissent egressi"
+    },
+    {
+      "verse": 5,
+      "text": "descendit Dominus in columna nubis et stetit in introitu tabernaculi vocans Aaron et Mariam qui cum issent"
+    },
+    {
+      "verse": 6,
+      "text": "dixit ad eos audite sermones meos si quis fuerit inter vos propheta Domini in visione apparebo ei vel per somnium loquar ad illum"
+    },
+    {
+      "verse": 7,
+      "text": "at non talis servus meus Moses qui in omni domo mea fidelissimus est"
+    },
+    {
+      "verse": 8,
+      "text": "ore enim ad os loquor ei et palam non per enigmata et figuras Dominum videt quare igitur non timuistis detrahere servo meo Mosi"
+    },
+    {
+      "verse": 9,
+      "text": "iratusque contra eos abiit"
+    },
+    {
+      "verse": 10,
+      "text": "nubes quoque recessit quae erat super tabernaculum et ecce Maria apparuit candens lepra quasi nix cumque respexisset eam Aaron et vidisset perfusam lepra"
+    },
+    {
+      "verse": 11,
+      "text": "ait ad Mosen obsecro domine mi ne inponas nobis hoc peccatum quod stulte commisimus"
+    },
+    {
+      "verse": 12,
+      "text": "ne fiat haec quasi mortua et ut abortivum quod proicitur de vulva matris suae ecce iam medium carnis eius devoratum est lepra"
+    },
+    {
+      "verse": 13,
+      "text": "clamavitque Moses ad Dominum dicens Deus obsecro sana eam"
+    },
+    {
+      "verse": 14,
+      "text": "cui respondit Dominus si pater eius spuisset in faciem illius nonne debuerat saltem septem dierum rubore suffundi separetur septem diebus extra castra et postea revocabitur"
+    },
+    {
+      "verse": 15,
+      "text": "exclusa est itaque Maria extra castra septem diebus et populus non est motus de loco illo donec revocata est Maria"
+    }
+  ]
+}

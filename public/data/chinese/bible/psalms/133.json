@@ -1,0 +1,24 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 133,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "（大衛 上行 之詩。）看哪，弟兄 和睦同 居 是何等地 善，何等地 美！"
+    },
+    {
+      "verse": 2,
+      "text": "這好比那貴重的 油 澆在 亞倫 的頭上，流 到 鬍鬚，又流 到 他的衣 襟；"
+    },
+    {
+      "verse": 3,
+      "text": "又好比黑門 的甘露 降 在 錫安 山；因為 在那裡 有耶和華 所 命定 的福，就是永遠 的生命。"
+    }
+  ]
+}

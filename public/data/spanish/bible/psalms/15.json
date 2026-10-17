@@ -1,0 +1,32 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 15,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Salmo de David. JEHOVÁ, ¿quién habitará en tu tabernáculo? ¿quién residirá en el monte de tu santidad?"
+    },
+    {
+      "verse": 2,
+      "text": "El que anda en integridad, y obra justicia, y habla verdad en su corazón."
+    },
+    {
+      "verse": 3,
+      "text": "El que no detrae con su lengua, ni hace mal á su prójimo, ni contra su prójimo acoge oprobio alguno."
+    },
+    {
+      "verse": 4,
+      "text": "Aquel á cuyos ojos es menospreciado el vil; mas honra á los que temen á Jehová: y habiendo jurado en daño suyo, no por eso muda."
+    },
+    {
+      "verse": 5,
+      "text": "Quien su dinero no dió á usura, ni contra el inocente tomó cohecho. El que hace estas cosas, no resbalará para siempre."
+    }
+  ]
+}

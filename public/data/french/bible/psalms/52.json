@@ -1,0 +1,56 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 52,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Au maître de chant. Cantique de David."
+    },
+    {
+      "verse": 2,
+      "text": "Lorsque Doëg l'Edomite vint faire à Saül ce rapport: David s'est rendu dans la maison d'Achimélech."
+    },
+    {
+      "verse": 3,
+      "text": "Pourquoi te glorifies-tu dans le mal, ô héros! — La bonté de Dieu subsiste toujours! —"
+    },
+    {
+      "verse": 4,
+      "text": "Ta langue ne médite que malice, comme une lame affilée, fourbe que tu es!"
+    },
+    {
+      "verse": 5,
+      "text": "Tu aimes le mal plutôt que le bien, le mensonge plutôt que la droiture. — Séla."
+    },
+    {
+      "verse": 6,
+      "text": "Tu aimes toutes les paroles de perdition, ô langue menteuse!"
+    },
+    {
+      "verse": 7,
+      "text": "Aussi Dieu va te renverser pour toujours, il te saisira et t'arrachera de la tente, il te déracinera de la terre des vivants. — Séla."
+    },
+    {
+      "verse": 8,
+      "text": "Les justes le verront et ils seront effrayés, et ils se riront de lui:"
+    },
+    {
+      "verse": 9,
+      "text": "\" Voilà l'homme qui ne prenait pas Dieu pour sa forteresse, mais qui se confiait dans la grandeur de ses richesses, et se faisait fort de sa malice! \""
+    },
+    {
+      "verse": 10,
+      "text": "Et moi, je suis comme un olivier verdoyant; dans la maison de Dieu, je me confie dans la bonté de Dieu à tout jamais."
+    },
+    {
+      "verse": 11,
+      "text": "Je te louerai sans cesse parce que tu as fait cela; et j'espérerai en ton nom, car il est bon, en présence de tes fidèles."
+    }
+  ]
+}

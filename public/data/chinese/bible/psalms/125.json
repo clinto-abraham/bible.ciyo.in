@@ -1,0 +1,32 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 125,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "（上行 之詩。）倚靠 耶和華 的人好像錫安 山， 永 不 動搖。"
+    },
+    {
+      "verse": 2,
+      "text": "眾山 怎樣圍繞 耶路撒冷，耶和華 也照樣圍繞 他的百姓，從今時 直到 永遠。"
+    },
+    {
+      "verse": 3,
+      "text": "惡人 的杖 不 常落 在 義人 的分上，免得 義人 伸 手 作惡。"
+    },
+    {
+      "verse": 4,
+      "text": "耶和華啊，求你善待 那些為善 和心裡 正直的人。"
+    },
+    {
+      "verse": 5,
+      "text": "至於那偏行 彎曲道路的人，耶和華 必使他和 作 惡 的人一同 出去受刑。願平安 歸於 以色列！"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "translation": "GerElb1905: German Darby Unrevidierte Elberfelder (1905)",
+  "language": "german",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 23,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ein Psalm von David. Jehova ist mein Hirte, mir wird nichts mangeln."
+    },
+    {
+      "verse": 2,
+      "text": "Er lagert mich auf grünen Auen, er führt mich zu stillen Wassern."
+    },
+    {
+      "verse": 3,
+      "text": "Er erquickt meine Seele, er leitet mich in Pfaden der Gerechtigkeit um seines Namens willen."
+    },
+    {
+      "verse": 4,
+      "text": "Auch wenn ich wanderte im Tale des Todesschattens, fürchte ich nichts Übles, denn du bist bei mir; dein Stecken und dein Stab, sie trösten mich."
+    },
+    {
+      "verse": 5,
+      "text": "Du bereitest vor mir einen Tisch angesichts meiner Feinde; du hast mein Haupt mit Öl gesalbt, mein Becher fließt über."
+    },
+    {
+      "verse": 6,
+      "text": "Fürwahr, Güte und Huld werden mir folgen alle Tage meines Lebens; und ich werde wohnen im Hause Jehovas auf immerdar."
+    }
+  ]
+}

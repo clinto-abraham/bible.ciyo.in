@@ -1,0 +1,60 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 143,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Psaume de David. Yahweh, écoute ma prière; prête l'oreille à mes supplications; exauce-moi dans ta vérité et dans ta justice."
+    },
+    {
+      "verse": 2,
+      "text": "N'entre pas en jugement avec ton serviteur, car aucun homme vivant n'est juste devant toi."
+    },
+    {
+      "verse": 3,
+      "text": "L'ennemi en veut à mon âme, il foule à terre ma vie; il me relègue dans les lieux ténébreux, comme ceux qui sont morts depuis longtemps."
+    },
+    {
+      "verse": 4,
+      "text": "Mon esprit défaille en moi, mon cœur est troublé dans mon sein."
+    },
+    {
+      "verse": 5,
+      "text": "Je pense aux jours d'autrefois, je médite sur toutes tes œuvres, je réfléchis sur l'ouvrage de tes mains."
+    },
+    {
+      "verse": 6,
+      "text": "j'étends vers toi mes mains, et mon âme, comme une terre desséchée, soupire après toi. — Séla."
+    },
+    {
+      "verse": 7,
+      "text": "Hâte-toi de m'exaucer, Yahweh, mon esprit défaille; ne me cache pas ta face, je deviens semblable à ceux qui descendent dans la fosse."
+    },
+    {
+      "verse": 8,
+      "text": "Fais-moi de bonne heure sentir ta bonté, car c'est en toi que j'espère; fais-moi connaître la voie où je dois marcher, car c'est vers toi que j'élève mon âme."
+    },
+    {
+      "verse": 9,
+      "text": "Délivre-moi de mes ennemis, Yahweh, je me réfugie auprès de toi."
+    },
+    {
+      "verse": 10,
+      "text": "Apprends-moi à faire ta volonté, car tu es mon Dieu. Que ton bon esprit me conduise dans la voie droite!"
+    },
+    {
+      "verse": 11,
+      "text": "A cause de ton nom, Yahweh, rends-moi la vie; dans ta justice, retire mon âme de la détresse."
+    },
+    {
+      "verse": 12,
+      "text": "Dans ta bonté, anéantis mes ennemis, et fais périr tous ceux qui m'oppriment, car je suis ton serviteur."
+    }
+  ]
+}

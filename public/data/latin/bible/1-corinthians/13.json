@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "I Corinthians",
+  "bookSlug": "1-corinthians",
+  "nativeName": "I Corinthians",
+  "chapterNumber": 13,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "si linguis hominum loquar et angelorum caritatem autem non habeam factus sum velut aes sonans aut cymbalum tinniens"
+    },
+    {
+      "verse": 2,
+      "text": "et si habuero prophetiam et noverim mysteria omnia et omnem scientiam et habuero omnem fidem ita ut montes transferam caritatem autem non habuero nihil sum"
+    },
+    {
+      "verse": 3,
+      "text": "et si distribuero in cibos pauperum omnes facultates meas et si tradidero corpus meum ut ardeam caritatem autem non habuero nihil mihi prodest"
+    },
+    {
+      "verse": 4,
+      "text": "caritas patiens est benigna est caritas non aemulatur non agit perperam non inflatur"
+    },
+    {
+      "verse": 5,
+      "text": "non est ambitiosa non quaerit quae sua sunt non inritatur non cogitat malum"
+    },
+    {
+      "verse": 6,
+      "text": "non gaudet super iniquitatem congaudet autem veritati"
+    },
+    {
+      "verse": 7,
+      "text": "omnia suffert omnia credit omnia sperat omnia sustinet"
+    },
+    {
+      "verse": 8,
+      "text": "caritas numquam excidit sive prophetiae evacuabuntur sive linguae cessabunt sive scientia destruetur"
+    },
+    {
+      "verse": 9,
+      "text": "ex parte enim cognoscimus et ex parte prophetamus"
+    },
+    {
+      "verse": 10,
+      "text": "cum autem venerit quod perfectum est evacuabitur quod ex parte est"
+    },
+    {
+      "verse": 11,
+      "text": "cum essem parvulus loquebar ut parvulus sapiebam ut parvulus cogitabam ut parvulus quando factus sum vir evacuavi quae erant parvuli"
+    },
+    {
+      "verse": 12,
+      "text": "videmus nunc per speculum in enigmate tunc autem facie ad faciem nunc cognosco ex parte tunc autem cognoscam sicut et cognitus sum"
+    },
+    {
+      "verse": 13,
+      "text": "nunc autem manet fides spes caritas tria haec maior autem his est caritas"
+    }
+  ]
+}

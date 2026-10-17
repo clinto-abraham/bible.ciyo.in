@@ -1,0 +1,44 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 141,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "intellectus David cum esset in spelunca oratio eruditio David cum esset in spelunca oratio"
+    },
+    {
+      "verse": 2,
+      "text": "voce mea ad Dominum clamavi voce mea ad Dominum deprecatus sum voce mea ad Dominum clamavi voce mea ad Dominum deprecatus sum"
+    },
+    {
+      "verse": 3,
+      "text": "effundo in conspectu eius deprecationem meam tribulationem meam ante ipsum pronuntio effundam in conspectu eius eloquium meum tribulationem meam coram illo adnuntiabo"
+    },
+    {
+      "verse": 4,
+      "text": "in deficiendo ex me spiritum meum et tu cognovisti semitas meas in via hac qua ambulabam absconderunt laqueum mihi cum anxius in me fuerit spiritus meus tu enim nosti semitam meam in via hac qua ambulabo absconderunt laqueum mihi"
+    },
+    {
+      "verse": 5,
+      "text": "considerabam ad dexteram et videbam et non erat qui cognosceret me periit fuga a me et non est qui requirit animam meam respice ad dexteram et vide quia non sit qui cognoscat me periit fuga a me non est qui quaerat animam meam"
+    },
+    {
+      "verse": 6,
+      "text": "clamavi ad te Domine dixi tu es spes mea portio mea in terra viventium clamavi ad te Domine dixi tu spes mea pars mea in terra viventium"
+    },
+    {
+      "verse": 7,
+      "text": "intende ad deprecationem meam quia humiliatus sum nimis libera me a persequentibus me quia confortati sunt super me ausculta deprecationem meam quoniam infirmatus sum nimis libera me a persecutoribus quoniam confortati sunt super me"
+    },
+    {
+      "verse": 8,
+      "text": "educ de custodia animam meam ad confitendum nomini tuo me expectant iusti donec retribuas mihi educ de carcere animam meam ut confiteatur nomini tuo me expectant iusti cum retribueris mihi"
+    }
+  ]
+}

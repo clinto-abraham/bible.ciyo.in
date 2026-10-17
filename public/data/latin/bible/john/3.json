@@ -1,0 +1,156 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "John",
+  "bookSlug": "john",
+  "nativeName": "Secundum Ioannem",
+  "chapterNumber": 3,
+  "totalVerses": 36,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "erat autem homo ex Pharisaeis Nicodemus nomine princeps Iudaeorum"
+    },
+    {
+      "verse": 2,
+      "text": "hic venit ad eum nocte et dixit ei rabbi scimus quia a Deo venisti magister nemo enim potest haec signa facere quae tu facis nisi fuerit Deus cum eo"
+    },
+    {
+      "verse": 3,
+      "text": "respondit Iesus et dixit ei amen amen dico tibi nisi quis natus fuerit denuo non potest videre regnum Dei"
+    },
+    {
+      "verse": 4,
+      "text": "dicit ad eum Nicodemus quomodo potest homo nasci cum senex sit numquid potest in ventrem matris suae iterato introire et nasci"
+    },
+    {
+      "verse": 5,
+      "text": "respondit Iesus amen amen dico tibi nisi quis renatus fuerit ex aqua et Spiritu non potest introire in regnum Dei"
+    },
+    {
+      "verse": 6,
+      "text": "quod natum est ex carne caro est et quod natum est ex Spiritu spiritus est"
+    },
+    {
+      "verse": 7,
+      "text": "non mireris quia dixi tibi oportet vos nasci denuo"
+    },
+    {
+      "verse": 8,
+      "text": "Spiritus ubi vult spirat et vocem eius audis sed non scis unde veniat et quo vadat sic est omnis qui natus est ex Spiritu"
+    },
+    {
+      "verse": 9,
+      "text": "respondit Nicodemus et dixit ei quomodo possunt haec fieri"
+    },
+    {
+      "verse": 10,
+      "text": "respondit Iesus et dixit ei tu es magister Israhel et haec ignoras"
+    },
+    {
+      "verse": 11,
+      "text": "amen amen dico tibi quia quod scimus loquimur et quod vidimus testamur et testimonium nostrum non accipitis"
+    },
+    {
+      "verse": 12,
+      "text": "si terrena dixi vobis et non creditis quomodo si dixero vobis caelestia credetis"
+    },
+    {
+      "verse": 13,
+      "text": "et nemo ascendit in caelum nisi qui descendit de caelo Filius hominis qui est in caelo"
+    },
+    {
+      "verse": 14,
+      "text": "et sicut Moses exaltavit serpentem in deserto ita exaltari oportet Filium hominis"
+    },
+    {
+      "verse": 15,
+      "text": "ut omnis qui credit in ipso non pereat sed habeat vitam aeternam"
+    },
+    {
+      "verse": 16,
+      "text": "sic enim dilexit Deus mundum ut Filium suum unigenitum daret ut omnis qui credit in eum non pereat sed habeat vitam aeternam"
+    },
+    {
+      "verse": 17,
+      "text": "non enim misit Deus Filium suum in mundum ut iudicet mundum sed ut salvetur mundus per ipsum"
+    },
+    {
+      "verse": 18,
+      "text": "qui credit in eum non iudicatur qui autem non credit iam iudicatus est quia non credidit in nomine unigeniti Filii Dei"
+    },
+    {
+      "verse": 19,
+      "text": "hoc est autem iudicium quia lux venit in mundum et dilexerunt homines magis tenebras quam lucem erant enim eorum mala opera"
+    },
+    {
+      "verse": 20,
+      "text": "omnis enim qui mala agit odit lucem et non venit ad lucem ut non arguantur opera eius"
+    },
+    {
+      "verse": 21,
+      "text": "qui autem facit veritatem venit ad lucem ut manifestentur eius opera quia in Deo sunt facta"
+    },
+    {
+      "verse": 22,
+      "text": "post haec venit Iesus et discipuli eius in iudaeam terram et illic demorabatur cum eis et baptizabat"
+    },
+    {
+      "verse": 23,
+      "text": "erat autem et Iohannes baptizans in Aenon iuxta Salim quia aquae multae erant illic et adveniebant et baptizabantur"
+    },
+    {
+      "verse": 24,
+      "text": "nondum enim missus fuerat in carcerem Iohannes"
+    },
+    {
+      "verse": 25,
+      "text": "facta est ergo quaestio ex discipulis Iohannis cum Iudaeis de purificatione"
+    },
+    {
+      "verse": 26,
+      "text": "et venerunt ad Iohannem et dixerunt ei rabbi qui erat tecum trans Iordanen cui tu testimonium perhibuisti ecce hic baptizat et omnes veniunt ad eum"
+    },
+    {
+      "verse": 27,
+      "text": "respondit Iohannes et dixit non potest homo accipere quicquam nisi fuerit ei datum de caelo"
+    },
+    {
+      "verse": 28,
+      "text": "ipsi vos mihi testimonium perhibetis quod dixerim ego non sum Christus sed quia missus sum ante illum"
+    },
+    {
+      "verse": 29,
+      "text": "qui habet sponsam sponsus est amicus autem sponsi qui stat et audit eum gaudio gaudet propter vocem sponsi hoc ergo gaudium meum impletum est"
+    },
+    {
+      "verse": 30,
+      "text": "illum oportet crescere me autem minui"
+    },
+    {
+      "verse": 31,
+      "text": "qui desursum venit supra omnes est qui est de terra de terra est et de terra loquitur qui de caelo venit supra omnes est"
+    },
+    {
+      "verse": 32,
+      "text": "et quod vidit et audivit hoc testatur et testimonium eius nemo accipit"
+    },
+    {
+      "verse": 33,
+      "text": "qui accipit eius testimonium signavit quia Deus verax est"
+    },
+    {
+      "verse": 34,
+      "text": "quem enim misit Deus verba Dei loquitur non enim ad mensuram dat Deus Spiritum"
+    },
+    {
+      "verse": 35,
+      "text": "Pater diligit Filium et omnia dedit in manu eius"
+    },
+    {
+      "verse": 36,
+      "text": "qui credit in Filium habet vitam aeternam qui autem incredulus est Filio non videbit vitam sed ira Dei manet super eum"
+    }
+  ]
+}

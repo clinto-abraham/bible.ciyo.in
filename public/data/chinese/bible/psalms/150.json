@@ -1,0 +1,36 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 150,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "你們要讚美 耶和華！在 神 的聖所 讚美他！在他顯能力 的穹蒼 讚美他！"
+    },
+    {
+      "verse": 2,
+      "text": "要因他大能的作為 讚美他，按著他極美 的大德 讚美他！"
+    },
+    {
+      "verse": 3,
+      "text": "要用角 聲 讚美他，鼓瑟 彈琴 讚美他！"
+    },
+    {
+      "verse": 4,
+      "text": "擊鼓 跳舞 讚美他！用絲弦的樂器 和簫 的聲音讚美他！"
+    },
+    {
+      "verse": 5,
+      "text": "用大響 的鈸 讚美他！用高聲 的鈸 讚美他！"
+    },
+    {
+      "verse": 6,
+      "text": "凡 有氣息的 都要讚美 耶和華！你們要讚美 耶和華！"
+    }
+  ]
+}

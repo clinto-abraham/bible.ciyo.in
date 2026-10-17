@@ -1,0 +1,60 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 97,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "JEHOVÁ reinó: regocíjese la tierra: alégrense las muchas islas."
+    },
+    {
+      "verse": 2,
+      "text": "Nube y oscuridad alrededor de él: justicia y juicio son el asiento de su trono."
+    },
+    {
+      "verse": 3,
+      "text": "Fuego irá delante de él, y abrasará en derredor sus enemigos."
+    },
+    {
+      "verse": 4,
+      "text": "Sus relámpagos alumbraron el mundo: la tierra vió, y estremecióse."
+    },
+    {
+      "verse": 5,
+      "text": "Los montes se derritieron como cera delante de Jehová, delante del Señor de toda la tierra."
+    },
+    {
+      "verse": 6,
+      "text": "Los cielos denunciaron su justicia, y todos los pueblos vieron su gloria."
+    },
+    {
+      "verse": 7,
+      "text": "Avergüéncense todos los que sirven á las imágenes de talla, los que se alaban de los ídolos: los dioses todos á él se encorven."
+    },
+    {
+      "verse": 8,
+      "text": "Oyó Sión, y alegróse; y las hijas de Judá, oh Jehová, se gozaron por tus juicios."
+    },
+    {
+      "verse": 9,
+      "text": "Porque tú, Jehová, eres alto sobre toda la tierra: eres muy ensalzado sobre todos los dioses."
+    },
+    {
+      "verse": 10,
+      "text": "Los que á Jehová amáis, aborreced el mal: guarda él las almas de sus santos; de mano de los impíos los libra."
+    },
+    {
+      "verse": 11,
+      "text": "Luz está sembrada para el justo, y alegría para los rectos de corazón."
+    },
+    {
+      "verse": 12,
+      "text": "Alegraos, justos, en Jehová: y alabad la memoria de su santidad."
+    }
+  ]
+}

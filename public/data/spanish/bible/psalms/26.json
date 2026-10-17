@@ -1,0 +1,60 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 26,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Salmo de David. JÚZGAME, oh Jehová, porque yo en mi integridad he andado: confiado he asimismo en Jehová, no vacilaré."
+    },
+    {
+      "verse": 2,
+      "text": "Pruébame, oh Jehová, y sondéame: examina mis riñones y mi corazón."
+    },
+    {
+      "verse": 3,
+      "text": "Porque tu misericordia está delante de mis ojos, y en tu verdad ando."
+    },
+    {
+      "verse": 4,
+      "text": "No me he sentado con hombres de falsedad; ni entré con los que andan encubiertamente."
+    },
+    {
+      "verse": 5,
+      "text": "Aborrecí la reunión de los malignos, y con los impíos nunca me senté."
+    },
+    {
+      "verse": 6,
+      "text": "Lavaré en inocencia mis manos, y andaré alrededor de tu altar, oh Jehová:"
+    },
+    {
+      "verse": 7,
+      "text": "Para exclamar con voz de acción de gracias, y para contar todas tus maravillas."
+    },
+    {
+      "verse": 8,
+      "text": "Jehová, la habitación de tu casa he amado, y el lugar del tabernáculo de tu gloria."
+    },
+    {
+      "verse": 9,
+      "text": "No juntes con los pecadores mi alma, ni con los hombres de sangres mi vida:"
+    },
+    {
+      "verse": 10,
+      "text": "En cuyas manos está el mal, y su diestra está llena de sobornos."
+    },
+    {
+      "verse": 11,
+      "text": "Yo empero andaré en mi integridad: redímeme, y ten misericordia de mí."
+    },
+    {
+      "verse": 12,
+      "text": "Mi pie ha estado en rectitud: en las congregaciones bendeciré á Jehová."
+    }
+  ]
+}

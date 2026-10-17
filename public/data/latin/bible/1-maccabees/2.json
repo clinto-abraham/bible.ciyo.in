@@ -1,0 +1,292 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "I Maccabees",
+  "bookSlug": "1-maccabees",
+  "nativeName": "I Maccabees",
+  "chapterNumber": 2,
+  "totalVerses": 70,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in illis diebus surrexit Matthathias filius Iohannis filii Simeonis sacerdos ex filiis Ioarim ab Hierusalem et consedit in monte Modin"
+    },
+    {
+      "verse": 2,
+      "text": "et habebat filios quinque Iohannan qui cognominabatur Gaddis"
+    },
+    {
+      "verse": 3,
+      "text": "et Simeon qui cognominabatur Thasi"
+    },
+    {
+      "verse": 4,
+      "text": "et Iudas qui vocabatur Macchabeus"
+    },
+    {
+      "verse": 5,
+      "text": "et Eleazarus qui cognominabatur Abaron et Ionathas qui cognominabatur Apphus"
+    },
+    {
+      "verse": 6,
+      "text": "hii viderunt mala quae fiebant in populo Iuda et in Hierusalem"
+    },
+    {
+      "verse": 7,
+      "text": "et dixit Matthathias vae mihi ut quid natus sum videre contritionem populi mei et contritionem civitatis sanctae et sedere illic cum datur in manibus inimicorum"
+    },
+    {
+      "verse": 8,
+      "text": "sancta in manu extraneorum facta sunt templum eius sicut homo ignobilis"
+    },
+    {
+      "verse": 9,
+      "text": "vasa gloriae eius captiva abducta sunt trucidati sunt iuvenes eius in plateis et iuvenes eius ceciderunt gladio inimicorum"
+    },
+    {
+      "verse": 10,
+      "text": "quae gens non hereditavit regnum eius et non obtinuit spolia eius"
+    },
+    {
+      "verse": 11,
+      "text": "omnis conpositio eius ablata est quae erat libera facta est ancilla"
+    },
+    {
+      "verse": 12,
+      "text": "et ecce sancta nostra et pulchritudo nostra et claritas nostra desolata est et coinquinaverunt eam gentes"
+    },
+    {
+      "verse": 13,
+      "text": "quo ergo nobis adhuc vivere"
+    },
+    {
+      "verse": 14,
+      "text": "et scidit Matthathias et filii eius vestimenta sua et operuerunt se ciliciis et planxerunt valde"
+    },
+    {
+      "verse": 15,
+      "text": "et venerunt illuc qui missi erant a rege Antiocho ut cogerent eos qui confugerant in civitate Modin immolare et accendere et a lege Dei discedere"
+    },
+    {
+      "verse": 16,
+      "text": "et multi de populo Israhel consentientes accesserunt ad eos sed Matthathias et filii eius constanter steterunt"
+    },
+    {
+      "verse": 17,
+      "text": "et respondentes qui missi erant ab Antiocho dixerunt Matthathiae princeps et clarissimus et magnus es in hac civitate et ornatus filiis et fratribus"
+    },
+    {
+      "verse": 18,
+      "text": "ergo accede prior et fac iussum regis sicut fecerunt omnes gentes et viri Iuda et qui remanserunt in Hierusalem et eris tu et filii tui inter amicos regis et amplificatus argento et auro et muneribus multis"
+    },
+    {
+      "verse": 19,
+      "text": "et respondit Matthathias et dixit magna voce et si omnes gentes regi Antiocho oboediunt ut discedat unusquisque a servitute patrum suorum et consentiunt mandatis eius"
+    },
+    {
+      "verse": 20,
+      "text": "ego et filii mei et fratres mei oboediemus legi patrum nostrorum"
+    },
+    {
+      "verse": 21,
+      "text": "propitius sit nobis Deus non est nobis utile relinquere legem et iustitias Dei"
+    },
+    {
+      "verse": 22,
+      "text": "non audibimus verba regis Antiochi nec sacrificabimus transgredientes legis nostrae mandata ut eamus altera via"
+    },
+    {
+      "verse": 23,
+      "text": "et ut cessavit loqui verba haec accessit quidam Iudaeus in omnium oculis sacrificare idolis super aram in civitate Modin secundum iussum regis"
+    },
+    {
+      "verse": 24,
+      "text": "et vidit Matthathias et doluit et contremuerunt renes eius et ascendit furor eius secundum iudicium legis et insiliens trucidavit eum super aram"
+    },
+    {
+      "verse": 25,
+      "text": "sed et virum quem miserat rex Antiochus qui cogebat immolari occidit in ipso tempore et aram destruxit"
+    },
+    {
+      "verse": 26,
+      "text": "et zelatus est legem sicut fecit Finees Zambri filio Salomi"
+    },
+    {
+      "verse": 27,
+      "text": "et exclamavit Matthathias voce magna dicens omnis qui zelum habet legis statuens testamentum exeat post me"
+    },
+    {
+      "verse": 28,
+      "text": "et fugit ipse et filii eius in montes et reliquerunt quaecumque habebant in civitate"
+    },
+    {
+      "verse": 29,
+      "text": "tunc descenderunt multi quaerentes iudicium et iustitiam in desertum"
+    },
+    {
+      "verse": 30,
+      "text": "ut sederent ibi ipsi et filii eorum et mulieres eorum et pecora eorum quoniam induraverunt super eos mala"
+    },
+    {
+      "verse": 31,
+      "text": "et renuntiatum est viris regis et exercitui qui erat in Hierusalem civitate David quoniam discessissent viri quidam qui dissipaverunt mandatum regis in loca occulta in deserto et abissent post illos multi"
+    },
+    {
+      "verse": 32,
+      "text": "et statim perrexerunt ad eos et constituerunt adversus eos proelium in die sabbatorum"
+    },
+    {
+      "verse": 33,
+      "text": "et dixerunt ad eos resistitis et nunc adhuc exite et facite secundum verbum regis et vivetis"
+    },
+    {
+      "verse": 34,
+      "text": "et dixerunt non exibimus neque faciemus verbum regis ut polluamus diem sabbatorum"
+    },
+    {
+      "verse": 35,
+      "text": "et concitaverunt adversus eos proelium"
+    },
+    {
+      "verse": 36,
+      "text": "et non responderunt eis nec oppilaverunt loca occulta"
+    },
+    {
+      "verse": 37,
+      "text": "dicentes moriamur omnes in simplicitate nostra et testes erunt super nos caelum et terra quod iniuste perditis nos"
+    },
+    {
+      "verse": 38,
+      "text": "et intulerunt eis bellum sabbatis et mortui sunt ipsi et uxores eorum et filii eorum et pecora eorum usque ad mille animas hominum"
+    },
+    {
+      "verse": 39,
+      "text": "et cognovit Matthathias et amici eius et luctum habuerunt super eos valde"
+    },
+    {
+      "verse": 40,
+      "text": "et dixit vir proximo suo si omnes fecerimus sicut fratres nostri fecerunt et non pugnaverimus adversus gentes pro animabus nostris et iustificationibus nostris citius disperdent nos a terra"
+    },
+    {
+      "verse": 41,
+      "text": "et cogitaverunt in illa die dicentes omnis homo quicumque venerit ad nos in bello die sabbatorum pugnemus adversus eum et non moriemur omnes sicut mortui sunt fratres nostri in occultis"
+    },
+    {
+      "verse": 42,
+      "text": "tunc congregata est ad eos synagoga Asideorum fortis viribus ex Israhel omnis voluntarius in lege"
+    },
+    {
+      "verse": 43,
+      "text": "et omnes qui fugiebant a malis additi sunt ad eos et facti sunt illis ad firmamentum"
+    },
+    {
+      "verse": 44,
+      "text": "et collegerunt exercitum et percusserunt peccatores in ira sua et viros iniquos in indignatione sua et ceteri fugerunt ad nationes ut evaderent"
+    },
+    {
+      "verse": 45,
+      "text": "et circuivit Matthathias et amici eius et destruxerunt aras"
+    },
+    {
+      "verse": 46,
+      "text": "et circumciderunt pueros incircumcisos quotquot invenerunt in finibus Israhel in fortitudine"
+    },
+    {
+      "verse": 47,
+      "text": "et persecuti sunt filios superbiae et prosperatum est opus in manu eorum"
+    },
+    {
+      "verse": 48,
+      "text": "et obtinuerunt legem de manibus gentium et de manibus regum et non dederunt cornu peccatori"
+    },
+    {
+      "verse": 49,
+      "text": "et adpropinquaverunt dies Matthathiae moriendi et dixit filiis suis nunc confortata est superbia et castigatio et tempus eversionis et ira indignationis"
+    },
+    {
+      "verse": 50,
+      "text": "nunc ergo o filii aemulatores estote legis et date animas vestras pro testamento patrum"
+    },
+    {
+      "verse": 51,
+      "text": "et mementote operum patrum quae fecerunt in generationibus suis et accipietis gloriam magnam et nomen aeternum"
+    },
+    {
+      "verse": 52,
+      "text": "Abraham nonne in temptatione inventus est fidelis et reputatum est ei ad iustitiam"
+    },
+    {
+      "verse": 53,
+      "text": "Ioseph in tempore angustiae suae custodivit mandatum et factus est dominus Aegypti"
+    },
+    {
+      "verse": 54,
+      "text": "Finees pater noster zelando zelum Dei accepit testamentum sacerdotii aeterni"
+    },
+    {
+      "verse": 55,
+      "text": "Iesus dum implet verbum factus est dux Israhel"
+    },
+    {
+      "verse": 56,
+      "text": "Chaleb dum testificatur in ecclesia accepit hereditatem"
+    },
+    {
+      "verse": 57,
+      "text": "David in sua misericordia consecutus est sedem regni in saecula"
+    },
+    {
+      "verse": 58,
+      "text": "Helias dum zelat zelum legis receptus est in caelum"
+    },
+    {
+      "verse": 59,
+      "text": "Ananias Azarias Misahel credentes liberati sunt de flamma"
+    },
+    {
+      "verse": 60,
+      "text": "Danihel in sua simplicitate liberatus est de ore leonum"
+    },
+    {
+      "verse": 61,
+      "text": "et ita cogitate per generationem et generationem quia omnes qui sperant in eum non infirmantur"
+    },
+    {
+      "verse": 62,
+      "text": "et a verbis viri peccatoris non timueritis quia gloria eius stercus et vermis est"
+    },
+    {
+      "verse": 63,
+      "text": "hodie extollitur et cras non invenietur quia conversus est in terram suam et cogitatio eius periet"
+    },
+    {
+      "verse": 64,
+      "text": "vos ergo filii confortamini et viriliter agite in lege quia in ipsa gloriosi eritis"
+    },
+    {
+      "verse": 65,
+      "text": "et ecce Simeon frater vester scio quod vir consilii est ipsum audite semper et ipse vobis erit pater"
+    },
+    {
+      "verse": 66,
+      "text": "et Iudas Macchabeus fortis viribus a iuventute sua sit vobis princeps militiae et ipse aget bellum populi"
+    },
+    {
+      "verse": 67,
+      "text": "et vos adducetis ad vos omnes factores legis et vindicate vindictam populi vestri"
+    },
+    {
+      "verse": 68,
+      "text": "et retribuite retributionem gentibus et intendite in praeceptum legis"
+    },
+    {
+      "verse": 69,
+      "text": "et benedixit eos et adpositus est ad patres suos"
+    },
+    {
+      "verse": 70,
+      "text": "et defunctus est centesimo et quadragesimo et sexto anno et sepultus est a filiis suis in sepulchris patrum suorum in Modin et planxerunt eum omnis Israhel planctu magno"
+    }
+  ]
+}

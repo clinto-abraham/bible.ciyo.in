@@ -1,0 +1,48 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 53,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem in carminibus intellectus David victori in psalmis eruditi David"
+    },
+    {
+      "verse": 2,
+      "text": "cum venissent Ziphei et dixissent ad Saul nonne David absconditus est apud nos quando venerunt Ziphei et dixerunt Saul nonne David absconditus est apud nos"
+    },
+    {
+      "verse": 3,
+      "text": "Deus in nomine tuo salvum me fac et in virtute tua iudica me Deus in nomine tuo salva me et in fortitudine tua ulciscere me"
+    },
+    {
+      "verse": 4,
+      "text": "Deus exaudi orationem meam auribus percipe verba oris mei Deus exaudi orationem meam auribus percipe verba oris mei"
+    },
+    {
+      "verse": 5,
+      "text": "quoniam alieni insurrexerunt adversum me et fortes quaesierunt animam meam non proposuerunt Deum ante conspectum suum diapsalma quia alieni insurrexerunt adversus me et fortes quaesierunt animam meam et non posuerunt Deum in conspectu suo semper"
+    },
+    {
+      "verse": 6,
+      "text": "ecce enim Deus adiuvat me Dominus susceptor animae meae ecce Deus auxiliatur mihi Dominus sustentans animam meam"
+    },
+    {
+      "verse": 7,
+      "text": "avertet mala inimicis meis in veritate tua disperde illos reddet malum insidiatoribus meis in veritate tua disperde eos"
+    },
+    {
+      "verse": 8,
+      "text": "voluntarie sacrificabo tibi confitebor nomini tuo Domine quoniam bonum voluntarie sacrificabo tibi confitebor nomini tuo Domine quoniam bonum est"
+    },
+    {
+      "verse": 9,
+      "text": "quoniam ex omni tribulatione eripuisti me et super inimicos meos despexit oculus meus quoniam ex omni tribulatione liberavit me et inimicos meos dispexit oculus meus"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 64,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Au maître de Chant. Psaume de David."
+    },
+    {
+      "verse": 2,
+      "text": "O Dieu, écoute ma voix, quand je fais entendre mes plaintes; défends ma vie contre un ennemi qui m'épouvante;"
+    },
+    {
+      "verse": 3,
+      "text": "protège-moi contre les complots des malfaiteurs, contre la troupe soulevée des hommes iniques,"
+    },
+    {
+      "verse": 4,
+      "text": "qui aiguisent leurs langues comme un glaive, qui préparent leurs flèches — leur parole amère! —"
+    },
+    {
+      "verse": 5,
+      "text": "pour les décocher dans l'ombre contre l'innocent; ils les décochent contre lui à l'improviste, sans rien craindre."
+    },
+    {
+      "verse": 6,
+      "text": "Ils s'affermissent dans leurs desseins pervers, ils se concertent pour tendre leurs pièges; ils disent: \" Qui les verra? \""
+    },
+    {
+      "verse": 7,
+      "text": "Ils ne méditent que forfaits: \" Nous sommes prêts, disent-ils, notre plan est bien dressé. \" L'intérieur de l'homme et son cœur sont un abîme!"
+    },
+    {
+      "verse": 8,
+      "text": "Mais Dieu a lancé sur eux ses traits: soudain les voilà blessés!"
+    },
+    {
+      "verse": 9,
+      "text": "On les jette par terre; les traits de leur langue retombent sur eux! Tous ceux qui les voient branlent la tête!"
+    },
+    {
+      "verse": 10,
+      "text": "Tous les hommes sont saisis de crainte, ils publient l'œuvre de Dieu, ils comprennent ce qu'il a fait."
+    },
+    {
+      "verse": 11,
+      "text": "Le juste se réjouit en Yahweh et se confie en lui, tous ceux qui ont le cœur droit se glorifient."
+    }
+  ]
+}

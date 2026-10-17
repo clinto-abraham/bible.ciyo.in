@@ -1,0 +1,40 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 110,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Psaume de David. Yahweh a dit à mon Seigneur: \" Assieds-toi à ma droite, jusqu'à ce que je fasse de tes ennemis l'escabeau de tes pieds. \""
+    },
+    {
+      "verse": 2,
+      "text": "Yahweh étendra de Sion le sceptre de ta puissance: Règne en maître au milieu de tes ennemis!"
+    },
+    {
+      "verse": 3,
+      "text": "Ton peuple accourt à toi au jour où tu rassembles ton armée, avec des ornements sacrés; du sein de l'aurore vient à toi la rosée de tes jeunes guerriers."
+    },
+    {
+      "verse": 4,
+      "text": "Le Seigneur l'a juré, il ne s'en repentira point: \" Tu es prêtre pour toujours à la manière de Melchisédech. \""
+    },
+    {
+      "verse": 5,
+      "text": "Le Seigneur, est à droite, Il brisera les rois au jour de sa colère."
+    },
+    {
+      "verse": 6,
+      "text": "Il exerce son jugement parmi les nations: tout est rempli de cadavres; il brise les têtes de la terre entière."
+    },
+    {
+      "verse": 7,
+      "text": "Il boit au torrent sur le chemin, c'est pourquoi il relève la tête."
+    }
+  ]
+}

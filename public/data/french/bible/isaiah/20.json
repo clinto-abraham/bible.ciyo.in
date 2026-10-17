@@ -1,0 +1,36 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Isaiah",
+  "bookSlug": "isaiah",
+  "nativeName": "Isaiah",
+  "chapterNumber": 20,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "L'année où Thartan vint à Azoth, envoyé par Sargon, roi d'Assyrie, assiégea Azoth et la prit,"
+    },
+    {
+      "verse": 2,
+      "text": "en ce temps-là, Yahweh parla par le ministère d'Isaïe, fils d'Amos, en disant: \" Va, détache le sac qui couvre tes reins, et ôte les sandales de tes pieds. \" Et il fit ainsi, marchant nu et déchaussé."
+    },
+    {
+      "verse": 3,
+      "text": "Et Yahweh dit: \" De même que mon serviteur Isaïe a marché nu et déchaussé; étant pendant trois ans un signe et un présage, pour l'Egypte et pour l'Ethiopie;"
+    },
+    {
+      "verse": 4,
+      "text": "ainsi le roi d'Assyrie emmènera les captifs de l'Egypte, et les déportés de l'Ethiopie, jeunes gens et vieillards, nus et déchaussés, et les reins découverts, à la honte de l'Egypte."
+    },
+    {
+      "verse": 5,
+      "text": "Alors ils seront consternés et confus, à cause de l'Ethiopie, qui était leur espoir, et de l'Egypte qui était leur sujet de gloire."
+    },
+    {
+      "verse": 6,
+      "text": "Et l'habitant de ce rivage dira en ce jour-là: Voilà ce qu'est devenu celui en qui nous espérions; celui auprès de qui nous voulions fuir pour chercher du secours, pour être délivrés, des mains du roi d'Assyrie! Et nous, comment échapperons-nous? \""
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "translation": "KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords",
+  "language": "english",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 133,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A Song of degrees of David. Behold, how good and how pleasant it is for brethren to dwell together in unity!"
+    },
+    {
+      "verse": 2,
+      "text": "It is like the precious ointment upon the head, that ran down upon the beard, even Aaron’s beard: that went down to the skirts of his garments;"
+    },
+    {
+      "verse": 3,
+      "text": "As the dew of Hermon, and as the dew that descended upon the mountains of Zion: for there the Lord commanded the blessing, even life for evermore."
+    }
+  ]
+}

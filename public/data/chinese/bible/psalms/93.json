@@ -1,0 +1,32 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 93,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "耶和華 作王！他以威嚴 為衣穿上；耶和華 以能力 為衣，以能力束腰，世界 就 堅定，不得 動搖。"
+    },
+    {
+      "verse": 2,
+      "text": "你的寶座 從太初 立定；你 從亙古就有。"
+    },
+    {
+      "verse": 3,
+      "text": "耶和華啊，大水 揚起，大水 發 聲，波浪 澎湃。"
+    },
+    {
+      "verse": 4,
+      "text": "耶和華 在高處 大有能力，勝過 諸水 的響聲，洋海 的大 浪。"
+    },
+    {
+      "verse": 5,
+      "text": "耶和華啊，你的法度 最 的確；你的殿 永 稱為聖，是合宜的。"
+    }
+  ]
+}

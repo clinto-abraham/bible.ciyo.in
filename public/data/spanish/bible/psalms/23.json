@@ -1,0 +1,36 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 23,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Salmo de David. JEHOVÁ es mi pastor; nada me faltará."
+    },
+    {
+      "verse": 2,
+      "text": "En lugares de delicados pastos me hará yacer: junto á aguas de reposo me pastoreará."
+    },
+    {
+      "verse": 3,
+      "text": "Confortará mi alma; guiaráme por sendas de justicia por amor de su nombre."
+    },
+    {
+      "verse": 4,
+      "text": "Aunque ande en valle de sombra de muerte, no temeré mal alguno; porque tú estarás conmigo: tu vara y tu cayado me infundirán aliento."
+    },
+    {
+      "verse": 5,
+      "text": "Aderezarás mesa delante de mí, en presencia de mis angustiadores: ungiste mi cabeza con aceite: mi copa está rebosando."
+    },
+    {
+      "verse": 6,
+      "text": "Ciertamente el bien y la misericordia me seguirán todos los días de mi vida: y en la casa de Jehová moraré por largos días."
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Matthew",
+  "bookSlug": "matthew",
+  "nativeName": "Secundum Matthaeum",
+  "chapterNumber": 14,
+  "totalVerses": 36,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in illo tempore audiit Herodes tetrarcha famam Iesu"
+    },
+    {
+      "verse": 2,
+      "text": "et ait pueris suis hic est Iohannes Baptista ipse surrexit a mortuis et ideo virtutes inoperantur in eo"
+    },
+    {
+      "verse": 3,
+      "text": "Herodes enim tenuit Iohannem et alligavit eum et posuit in carcere propter Herodiadem uxorem fratris sui"
+    },
+    {
+      "verse": 4,
+      "text": "dicebat enim illi Iohannes non licet tibi habere eam"
+    },
+    {
+      "verse": 5,
+      "text": "et volens illum occidere timuit populum quia sicut prophetam eum habebant"
+    },
+    {
+      "verse": 6,
+      "text": "die autem natalis Herodis saltavit filia Herodiadis in medio et placuit Herodi"
+    },
+    {
+      "verse": 7,
+      "text": "unde cum iuramento pollicitus est ei dare quodcumque postulasset ab eo"
+    },
+    {
+      "verse": 8,
+      "text": "at illa praemonita a matre sua da mihi inquit hic in disco caput Iohannis Baptistae"
+    },
+    {
+      "verse": 9,
+      "text": "et contristatus est rex propter iuramentum autem et eos qui pariter recumbebant iussit dari"
+    },
+    {
+      "verse": 10,
+      "text": "misitque et decollavit Iohannem in carcere"
+    },
+    {
+      "verse": 11,
+      "text": "et adlatum est caput eius in disco et datum est puellae et tulit matri suae"
+    },
+    {
+      "verse": 12,
+      "text": "et accedentes discipuli eius tulerunt corpus et sepelierunt illud et venientes nuntiaverunt Iesu"
+    },
+    {
+      "verse": 13,
+      "text": "quod cum audisset Iesus secessit inde in navicula in locum desertum seorsum et cum audissent turbae secutae sunt eum pedestres de civitatibus"
+    },
+    {
+      "verse": 14,
+      "text": "et exiens vidit turbam multam et misertus est eius et curavit languidos eorum"
+    },
+    {
+      "verse": 15,
+      "text": "vespere autem facto accesserunt ad eum discipuli eius dicentes desertus est locus et hora iam praeteriit dimitte turbas ut euntes in castella emant sibi escas"
+    },
+    {
+      "verse": 16,
+      "text": "Iesus autem dixit eis non habent necesse ire date illis vos manducare"
+    },
+    {
+      "verse": 17,
+      "text": "responderunt ei non habemus hic nisi quinque panes et duos pisces"
+    },
+    {
+      "verse": 18,
+      "text": "qui ait eis adferte illos mihi huc"
+    },
+    {
+      "verse": 19,
+      "text": "et cum iussisset turbam discumbere supra faenum acceptis quinque panibus et duobus piscibus aspiciens in caelum benedixit et fregit et dedit discipulis panes discipuli autem turbis"
+    },
+    {
+      "verse": 20,
+      "text": "et manducaverunt omnes et saturati sunt et tulerunt reliquias duodecim cofinos fragmentorum plenos"
+    },
+    {
+      "verse": 21,
+      "text": "manducantium autem fuit numerus quinque milia virorum exceptis mulieribus et parvulis"
+    },
+    {
+      "verse": 22,
+      "text": "et statim iussit discipulos ascendere in navicula et praecedere eum trans fretum donec dimitteret turbas"
+    },
+    {
+      "verse": 23,
+      "text": "et dimissa turba ascendit in montem solus orare vespere autem facto solus erat ibi"
+    },
+    {
+      "verse": 24,
+      "text": "navicula autem in medio mari iactabatur fluctibus erat enim contrarius ventus"
+    },
+    {
+      "verse": 25,
+      "text": "quarta autem vigilia noctis venit ad eos ambulans supra mare"
+    },
+    {
+      "verse": 26,
+      "text": "et videntes eum supra mare ambulantem turbati sunt dicentes quia fantasma est et prae timore clamaverunt"
+    },
+    {
+      "verse": 27,
+      "text": "statimque Iesus locutus est eis dicens habete fiduciam ego sum nolite timere"
+    },
+    {
+      "verse": 28,
+      "text": "respondens autem Petrus dixit Domine si tu es iube me venire ad te super aquas"
+    },
+    {
+      "verse": 29,
+      "text": "at ipse ait veni et descendens Petrus de navicula ambulabat super aquam ut veniret ad Iesum"
+    },
+    {
+      "verse": 30,
+      "text": "videns vero ventum validum timuit et cum coepisset mergi clamavit dicens Domine salvum me fac"
+    },
+    {
+      "verse": 31,
+      "text": "et continuo Iesus extendens manum adprehendit eum et ait illi modicae fidei quare dubitasti"
+    },
+    {
+      "verse": 32,
+      "text": "et cum ascendissent in naviculam cessavit ventus"
+    },
+    {
+      "verse": 33,
+      "text": "qui autem in navicula erant venerunt et adoraverunt eum dicentes vere Filius Dei es"
+    },
+    {
+      "verse": 34,
+      "text": "et cum transfretassent venerunt in terram Gennesar"
+    },
+    {
+      "verse": 35,
+      "text": "et cum cognovissent eum viri loci illius miserunt in universam regionem illam et obtulerunt ei omnes male habentes"
+    },
+    {
+      "verse": 36,
+      "text": "et rogabant eum ut vel fimbriam vestimenti eius tangerent et quicumque tetigerunt salvi facti sunt"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 13,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem psalmus David dixit insipiens in corde suo non est Deus corrupti sunt et abominabiles facti sunt in studiis suis non est qui faciat bonum non est usque ad unum victori David dixit stultus in corde suo non est Deus corrupti sunt et abominabiles facti sunt studiose non est qui faciat bonum"
+    },
+    {
+      "verse": 2,
+      "text": "Dominus de caelo prospexit super filios hominum ut videat si est intellegens aut requirens Deum Dominus de caelo prospexit super filios hominum ut videret si esset intellegens requirens Deum"
+    },
+    {
+      "verse": 3,
+      "text": "omnes declinaverunt simul inutiles facti sunt non est qui faciat bonum non est usque ad unum sepulchrum patens est guttur eorum linguis suis dolose agebant venenum aspidum sub labiis eorum quorum os maledictione et amaritudine plenum est veloces pedes eorum ad effundendum sanguinem contritio et infelicitas in viis eorum et viam pacis non cognoverunt non est timor Dei ante oculos eorum omnes recesserunt simul conglutinati sunt non est qui faciat bonum non est usque ad unum"
+    },
+    {
+      "verse": 4,
+      "text": "nonne cognoscent omnes qui operantur iniquitatem qui devorant plebem meam sicut escam panis nonne cognoscent omnes qui operantur iniquitatem qui devorant populum meum ut cibum panis"
+    },
+    {
+      "verse": 5,
+      "text": "Dominum non invocaverunt illic trepidaverunt timore ubi non erat timor Dominum non invocaverunt ibi timebunt formidine"
+    },
+    {
+      "verse": 6,
+      "text": "quoniam Deus in generatione iusta consilium inopis confudistis quoniam Dominus spes eius est quoniam Deus in generatione iusta est consilium pauperum confudistis quoniam Dominus spes eius est"
+    },
+    {
+      "verse": 7,
+      "text": "quis dabit ex Sion salutare Israhel cum averterit Dominus captivitatem plebis suae exultabit Iacob et laetabitur Israhel quis dabit de Sion salutem Israhel quando reduxerit Dominus captivitatem populi sui exultabit Iacob et laetabitur Israhel"
+    }
+  ]
+}

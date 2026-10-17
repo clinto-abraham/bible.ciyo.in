@@ -1,0 +1,52 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "I Thessalonians",
+  "bookSlug": "1-thessalonians",
+  "nativeName": "I Thessalonians",
+  "chapterNumber": 1,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Paulus et Silvanus et Timotheus ecclesiae Thessalonicensium in Deo Patre et Domino Iesu Christo gratia vobis et pax"
+    },
+    {
+      "verse": 2,
+      "text": "gratias agimus Deo semper pro omnibus vobis memoriam facientes in orationibus nostris sine intermissione"
+    },
+    {
+      "verse": 3,
+      "text": "memores operis fidei vestrae et laboris et caritatis et sustinentiae spei Domini nostri Iesu Christi ante Deum et Patrem nostrum"
+    },
+    {
+      "verse": 4,
+      "text": "scientes fratres dilecti a Deo electionem vestram"
+    },
+    {
+      "verse": 5,
+      "text": "quia evangelium nostrum non fuit ad vos in sermone tantum sed et in virtute et in Spiritu Sancto et in plenitudine multa sicut scitis quales fuerimus vobis propter vos"
+    },
+    {
+      "verse": 6,
+      "text": "et vos imitatores nostri facti estis et Domini excipientes verbum in tribulatione multa cum gaudio Spiritus Sancti"
+    },
+    {
+      "verse": 7,
+      "text": "ita ut facti sitis forma omnibus credentibus in Macedonia et in Achaia"
+    },
+    {
+      "verse": 8,
+      "text": "a vobis enim diffamatus est sermo Domini non solum in Macedonia et in Achaia sed in omni loco fides vestra quae est ad Deum profecta est ita ut non sit nobis necesse quicquam loqui"
+    },
+    {
+      "verse": 9,
+      "text": "ipsi enim de nobis adnuntiant qualem introitum habuerimus ad vos et quomodo conversi estis ad Deum a simulacris servire Deo vivo et vero"
+    },
+    {
+      "verse": 10,
+      "text": "et expectare Filium eius de caelis quem suscitavit ex mortuis Iesum qui eripuit nos ab ira ventura"
+    }
+  ]
+}

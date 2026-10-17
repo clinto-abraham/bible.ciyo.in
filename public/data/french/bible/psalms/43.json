@@ -1,0 +1,32 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 43,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Rends-moi justice, ô Dieu, défends ma cause contre une nation infidèle; délivre-moi de l'homme de fraude et d'iniquité!"
+    },
+    {
+      "verse": 2,
+      "text": "Car tu es le Dieu de ma défense: pourquoi me repousses-tu? Pourquoi me faut-il marcher dans la tristesse, sous l'oppression de l'ennemi?"
+    },
+    {
+      "verse": 3,
+      "text": "Envoie ta lumière et ta fidélité; qu'elles me guident, qu'elles me conduisent à ta montagne sainte et à tes tabernacles!"
+    },
+    {
+      "verse": 4,
+      "text": "J'irai à l'autel de Dieu, au Dieu qui est ma joie et mon allégresse, et je te célébrerai sur la harpe, ô Dieu, mon Dieu! —"
+    },
+    {
+      "verse": 5,
+      "text": "Pourquoi es-tu abattue, ô mon âme, et t'agites-tu en moi? Espère en Dieu, car je le louerai encore, lui, le salut de ma face et mon Dieu!"
+    }
+  ]
+}

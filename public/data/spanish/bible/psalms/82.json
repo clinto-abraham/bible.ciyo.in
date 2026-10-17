@@ -1,0 +1,44 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 82,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Salmo de Asaph. DIOS está en la reunión de los dioses; en medio de los dioses juzga."
+    },
+    {
+      "verse": 2,
+      "text": "¿Hasta cuándo juzgaréis injustamente, y aceptaréis las personas de los impíos? (Selah.)"
+    },
+    {
+      "verse": 3,
+      "text": "Defended al pobre y al huérfano: haced justicia al afligido y al menesteroso."
+    },
+    {
+      "verse": 4,
+      "text": "Librad al afligido y al necesitado: libradlo de mano de los impíos."
+    },
+    {
+      "verse": 5,
+      "text": "No saben, no entienden, andan en tinieblas: vacilan todos los cimientos de la tierra."
+    },
+    {
+      "verse": 6,
+      "text": "Yo dije: Vosotros sois dioses, é hijos todos vosotros del Altísimo."
+    },
+    {
+      "verse": 7,
+      "text": "Empero como hombres moriréis, y caeréis como cualquiera de los tiranos."
+    },
+    {
+      "verse": 8,
+      "text": "Levántate, oh Dios, juzga la tierra: porque tú heredarás en todas las gentes."
+    }
+  ]
+}

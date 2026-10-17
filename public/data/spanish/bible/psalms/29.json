@@ -1,0 +1,56 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 29,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Salmo de David. DAD á Jehová, oh hijos de fuertes, dad á Jehová la gloria y la fortaleza."
+    },
+    {
+      "verse": 2,
+      "text": "Dad á Jehová la gloria debida á su nombre: humillaos á Jehová en el glorioso santuario."
+    },
+    {
+      "verse": 3,
+      "text": "Voz de Jehová sobre las aguas: hizo tronar el Dios de gloria: Jehová sobre las muchas aguas."
+    },
+    {
+      "verse": 4,
+      "text": "Voz de Jehová con potencia; voz de Jehová con gloria."
+    },
+    {
+      "verse": 5,
+      "text": "Voz de Jehová que quebranta los cedros; y quebrantó Jehová los cedros del Líbano."
+    },
+    {
+      "verse": 6,
+      "text": "E hízolos saltar como becerros; al Líbano y al Sirión como hijos de unicornios."
+    },
+    {
+      "verse": 7,
+      "text": "Voz de Jehová que derrama llamas de fuego."
+    },
+    {
+      "verse": 8,
+      "text": "Voz de Jehová que hará temblar el desierto; hará temblar Jehová el desierto de Cades."
+    },
+    {
+      "verse": 9,
+      "text": "Voz de Jehová que hará estar de parto á las ciervas, y desnudará las breñas: y en su templo todos los suyos le dicen gloria."
+    },
+    {
+      "verse": 10,
+      "text": "Jehová preside en el diluvio, y asentóse Jehová por rey para siempre."
+    },
+    {
+      "verse": 11,
+      "text": "Jehová dará fortaleza á su pueblo: Jehová bendecirá á su pueblo en paz."
+    }
+  ]
+}

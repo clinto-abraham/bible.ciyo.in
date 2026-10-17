@@ -1,0 +1,56 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Jonah",
+  "bookSlug": "jonah",
+  "nativeName": "Jonah",
+  "chapterNumber": 4,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "et adflictus est Iona adflictione magna et iratus est"
+    },
+    {
+      "verse": 2,
+      "text": "et oravit ad Dominum et dixit obsecro Domine numquid non hoc est verbum meum cum adhuc essem in terra mea propter hoc praeoccupavi ut fugerem in Tharsis scio enim quia tu Deus clemens et misericors es patiens et multae miserationis et ignoscens super malitia"
+    },
+    {
+      "verse": 3,
+      "text": "et nunc Domine tolle quaeso animam meam a me quia melior est mihi mors quam vita"
+    },
+    {
+      "verse": 4,
+      "text": "et dixit Dominus putasne bene irasceris tu"
+    },
+    {
+      "verse": 5,
+      "text": "et egressus est Iona de civitate et sedit contra orientem civitatis et fecit sibimet ibi umbraculum et sedebat subter eum in umbra donec videret quid accideret civitati"
+    },
+    {
+      "verse": 6,
+      "text": "et praeparavit Dominus Deus hederam et ascendit super caput Ionae ut esset umbra super caput eius et protegeret eum laboraverat enim et laetatus est Iona super hedera laetitia magna"
+    },
+    {
+      "verse": 7,
+      "text": "et paravit Deus vermem ascensu diluculo in crastinum et percussit hederam et exaruit"
+    },
+    {
+      "verse": 8,
+      "text": "et cum ortus fuisset sol praecepit Dominus vento calido et urenti et percussit sol super caput Ionae et aestuabat et petivit animae suae ut moreretur et dixit melius est mihi mori quam vivere"
+    },
+    {
+      "verse": 9,
+      "text": "et dixit Dominus ad Ionam putasne bene irasceris tu super hederam et dixit bene irascor ego usque ad mortem"
+    },
+    {
+      "verse": 10,
+      "text": "et dixit Dominus tu doles super hederam in qua non laborasti neque fecisti ut cresceret quae sub una nocte nata est et una nocte periit"
+    },
+    {
+      "verse": 11,
+      "text": "et ego non parcam Nineve civitati magnae in qua sunt plus quam centum viginti milia hominum qui nesciunt quid sit inter dexteram et sinistram suam et iumenta multa"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "translation": "YLT: Young's Literal Translation (1898)",
+  "language": "english-ylt",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 117,
+  "totalVerses": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Praise Jehovah, all ye nations, Glorify Him, all ye peoples."
+    },
+    {
+      "verse": 2,
+      "text": "For mighty to us hath been His kindness, And the truth of Jehovah is to the age. Praise ye Jah!"
+    }
+  ]
+}

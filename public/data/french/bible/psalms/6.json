@@ -1,0 +1,56 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 6,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Au maître de chant. Sur les instruments à cordes. A l'octave. Psaume de David."
+    },
+    {
+      "verse": 2,
+      "text": "Yahweh, ne me punis pas dans ta colère, et ne me châtie pas dans ta fureur."
+    },
+    {
+      "verse": 3,
+      "text": "Aie pitié de moi, Yahweh, car je suis sans force; guéris-moi, Yahweh, car mes os sont tremblants."
+    },
+    {
+      "verse": 4,
+      "text": "Mon âme est dans un trouble extrême; et toi, Yahweh, jusques à quand...?"
+    },
+    {
+      "verse": 5,
+      "text": "Reviens, Yahweh, délivre mon âme; sauve-moi à cause de ta miséricorde."
+    },
+    {
+      "verse": 6,
+      "text": "Car celui qui meurt n'a plus souvenir de toi; qui te louera dans le schéol?"
+    },
+    {
+      "verse": 7,
+      "text": "Je suis épuisé à force de gémir; chaque nuit ma couche est baignée de mes larmes, mon lit est arrosé de mes pleurs."
+    },
+    {
+      "verse": 8,
+      "text": "mon œil est consumé par le chagrin; il a vieilli à cause de tous ceux qui me persécutent."
+    },
+    {
+      "verse": 9,
+      "text": "Eloignez-vous de moi, vous tous qui faites le mal! Car Yahweh a entendu la voix de mes larmes."
+    },
+    {
+      "verse": 10,
+      "text": "Yahweh a entendu ma supplication, Yahweh accueille ma prière."
+    },
+    {
+      "verse": 11,
+      "text": "Tous mes ennemis seront confondus et saisis d'épouvante; ils reculeront, soudain couverts de honte."
+    }
+  ]
+}

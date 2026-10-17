@@ -1,0 +1,96 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 50,
+  "totalVerses": 21,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem psalmus David victori canticum David"
+    },
+    {
+      "verse": 2,
+      "text": "cum venit ad eum Nathan propheta quando intravit ad Bethsabee cum venisset ad eum Nathan propheta quando ingressus est ad Bethsabee"
+    },
+    {
+      "verse": 3,
+      "text": "miserere mei Deus secundum magnam misericordiam tuam et secundum multitudinem miserationum tuarum dele iniquitatem meam miserere mei Deus secundum misericordiam tuam iuxta multitudinem miserationum tuarum dele iniquitates meas"
+    },
+    {
+      "verse": 4,
+      "text": "amplius lava me ab iniquitate mea et a peccato meo munda me multum lava me ab iniquitate mea et a peccato meo munda me"
+    },
+    {
+      "verse": 5,
+      "text": "quoniam iniquitatem meam ego cognosco et peccatum meum contra me est semper quoniam iniquitates meas ego novi et peccatum meum contra me est semper"
+    },
+    {
+      "verse": 6,
+      "text": "tibi soli peccavi et malum coram te feci ut iustificeris in sermonibus tuis et vincas cum iudicaris tibi soli peccavi et malum coram te feci ut iustificeris in sermonibus tuis et vincas cum iudicaveris"
+    },
+    {
+      "verse": 7,
+      "text": "ecce enim in iniquitatibus conceptus sum et in peccatis concepit me mater mea ecce in iniquitate conceptus sum et in peccato peperit me mater mea"
+    },
+    {
+      "verse": 8,
+      "text": "ecce enim veritatem dilexisti incerta et occulta sapientiae tuae manifestasti mihi ecce enim veritatem diligis absconditum et arcanum sapientiae manifestasti mihi"
+    },
+    {
+      "verse": 9,
+      "text": "asparges me hysopo et mundabor lavabis me et super nivem dealbabor asparges me hysopo et mundabor lavabis me et super nivem dealbabor"
+    },
+    {
+      "verse": 10,
+      "text": "auditui meo dabis gaudium et laetitiam exultabunt ossa humiliata auditum mihi facies gaudium et laetitiam ut exultent ossa quae confregisti"
+    },
+    {
+      "verse": 11,
+      "text": "averte faciem tuam a peccatis meis et omnes iniquitates meas dele absconde faciem tuam a peccatis meis et omnes iniquitates meas dele"
+    },
+    {
+      "verse": 12,
+      "text": "cor mundum crea in me Deus et spiritum rectum innova in visceribus meis cor mundum crea mihi Deus et spiritum stabilem renova in visceribus meis"
+    },
+    {
+      "verse": 13,
+      "text": "ne proicias me a facie tua et spiritum sanctum tuum ne auferas a me ne proicias me a facie tua et spiritum sanctum tuum ne auferas a me"
+    },
+    {
+      "verse": 14,
+      "text": "redde mihi laetitiam salutaris tui et spiritu principali confirma me redde mihi laetitiam Iesu tui et spiritu potenti confirma me"
+    },
+    {
+      "verse": 15,
+      "text": "docebo iniquos vias tuas et impii ad te convertentur docebo iniquos vias tuas et peccatores ad te revertentur"
+    },
+    {
+      "verse": 16,
+      "text": "libera me de sanguinibus Deus Deus salutis meae exultabit lingua mea iustitiam tuam libera me de sanguinibus Deus Deus salutis meae laudabit lingua mea iustitiam tuam"
+    },
+    {
+      "verse": 17,
+      "text": "Domine labia mea aperies et os meum adnuntiabit laudem tuam Domine labia mea aperies et os meum adnuntiabit laudem tuam"
+    },
+    {
+      "verse": 18,
+      "text": "quoniam si voluisses sacrificium dedissem utique holocaustis non delectaberis non enim vis ut victimam feriam nec holocaustum tibi placet"
+    },
+    {
+      "verse": 19,
+      "text": "sacrificium Deo spiritus contribulatus cor contritum et humiliatum Deus non spernet sacrificium Dei spiritus contribulatus cor contritum et humiliatum Deus non dispicies"
+    },
+    {
+      "verse": 20,
+      "text": "benigne fac Domine in bona voluntate tua Sion et aedificentur muri Hierusalem benefac Domine in voluntate tua Sion et aedificentur muri Hierusalem"
+    },
+    {
+      "verse": 21,
+      "text": "tunc acceptabis sacrificium iustitiae oblationes et holocausta tunc inponent super altare tuum vitulos tunc suscipies sacrificium iustitiae oblationes et holocausta tunc inponent super altare tuum vitulos"
+    }
+  ]
+}

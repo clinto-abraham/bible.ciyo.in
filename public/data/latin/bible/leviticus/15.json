@@ -1,0 +1,144 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Leviticus",
+  "bookSlug": "leviticus",
+  "nativeName": "Leviticus",
+  "chapterNumber": 15,
+  "totalVerses": 33,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "locutusque est Dominus ad Mosen et Aaron dicens"
+    },
+    {
+      "verse": 2,
+      "text": "loquimini filiis Israhel et dicite eis vir qui patitur fluxum seminis inmundus erit"
+    },
+    {
+      "verse": 3,
+      "text": "et tunc iudicabitur huic vitio subiacere cum per momenta singula adheserit carni illius atque concreverit foedus humor"
+    },
+    {
+      "verse": 4,
+      "text": "omne stratum in quo dormierit inmundum erit et ubicumque sederit"
+    },
+    {
+      "verse": 5,
+      "text": "si quis hominum tetigerit lectum eius lavabit vestimenta sua et ipse lotus aqua inmundus erit usque ad vesperum"
+    },
+    {
+      "verse": 6,
+      "text": "si sederit ubi ille sederat et ipse lavabit vestimenta sua et lotus aqua inmundus erit usque ad vesperum"
+    },
+    {
+      "verse": 7,
+      "text": "qui tetigerit carnem eius lavabit vestimenta sua et ipse lotus aqua inmundus erit usque ad vesperum"
+    },
+    {
+      "verse": 8,
+      "text": "si salivam huiuscemodi homo iecerit super eum qui mundus est lavabit vestem suam et lotus aqua inmundus erit usque ad vesperum"
+    },
+    {
+      "verse": 9,
+      "text": "sagma super quo sederit inmundum erit"
+    },
+    {
+      "verse": 10,
+      "text": "et quicquid sub eo fuerit qui fluxum seminis patitur pollutum erit usque ad vesperum qui portaverit horum aliquid lavabit vestem suam et ipse lotus aqua inmundus erit usque ad vesperum"
+    },
+    {
+      "verse": 11,
+      "text": "omnis quem tetigerit qui talis est non lotis ante manibus lavabit vestimenta sua et lotus aqua inmundus erit usque ad vesperum"
+    },
+    {
+      "verse": 12,
+      "text": "vas fictile quod tetigerit confringetur vas autem ligneum lavabitur aqua"
+    },
+    {
+      "verse": 13,
+      "text": "si sanatus fuerit qui huiuscemodi sustinet passionem numerabit septem dies post emundationem sui et lotis vestibus ac toto corpore in aquis viventibus erit mundus"
+    },
+    {
+      "verse": 14,
+      "text": "die autem octavo sumet duos turtures aut duos pullos columbae et veniet in conspectu Domini ad ostium tabernaculi testimonii dabitque eos sacerdoti"
+    },
+    {
+      "verse": 15,
+      "text": "qui faciet unum pro peccato et alterum in holocaustum rogabitque pro eo coram Domino ut emundetur a fluxu seminis sui"
+    },
+    {
+      "verse": 16,
+      "text": "vir de quo egreditur semen coitus lavabit aqua omne corpus suum et inmundus erit usque ad vesperum"
+    },
+    {
+      "verse": 17,
+      "text": "vestem et pellem quam habuerit lavabit aqua et inmunda erit usque ad vesperum"
+    },
+    {
+      "verse": 18,
+      "text": "mulier cum qua coierit lavabitur aqua et inmunda erit usque ad vesperum"
+    },
+    {
+      "verse": 19,
+      "text": "mulier quae redeunte mense patitur fluxum sanguinis septem diebus separabitur"
+    },
+    {
+      "verse": 20,
+      "text": "omnis qui tetigerit eam inmundus erit usque ad vesperum"
+    },
+    {
+      "verse": 21,
+      "text": "et in quo dormierit vel sederit diebus separationis suae polluetur"
+    },
+    {
+      "verse": 22,
+      "text": "qui tetigerit lectum eius lavabit vestimenta sua et ipse lotus aqua inmundus erit usque ad vesperum"
+    },
+    {
+      "verse": 23,
+      "text": "omne vas super quo illa sederit quisquis adtigerit lavabit vestimenta sua et lotus aqua pollutus erit usque ad vesperum"
+    },
+    {
+      "verse": 24,
+      "text": "si coierit cum ea vir tempore sanguinis menstrualis inmundus erit septem diebus et omne stratum in quo dormierit polluetur"
+    },
+    {
+      "verse": 25,
+      "text": "mulier quae patitur multis diebus fluxum sanguinis non in tempore menstruali vel quae post menstruum sanguinem fluere non cessat quamdiu huic subiacet passioni inmunda erit quasi sit in tempore menstruo"
+    },
+    {
+      "verse": 26,
+      "text": "omne stratum in quo dormierit et vas in quo sederit pollutum erit"
+    },
+    {
+      "verse": 27,
+      "text": "quicumque tetigerit eam lavabit vestimenta sua et ipse lotus aqua inmundus erit usque ad vesperum"
+    },
+    {
+      "verse": 28,
+      "text": "si steterit sanguis et fluere cessarit numerabit septem dies purificationis suae"
+    },
+    {
+      "verse": 29,
+      "text": "et octavo die offeret pro se sacerdoti duos turtures vel duos pullos columbae ad ostium tabernaculi testimonii"
+    },
+    {
+      "verse": 30,
+      "text": "qui unum faciet pro peccato et alterum in holocaustum rogabitque pro ea coram Domino et pro fluxu inmunditiae eius"
+    },
+    {
+      "verse": 31,
+      "text": "docebitis ergo filios Israhel ut caveant inmunditiam et non moriantur in sordibus suis cum polluerint tabernaculum meum quod est inter eos"
+    },
+    {
+      "verse": 32,
+      "text": "ista est lex eius qui patitur fluxum seminis et qui polluitur coitu"
+    },
+    {
+      "verse": 33,
+      "text": "et quae menstruis temporibus separatur vel quae iugi fluit sanguine et hominis qui dormierit cum ea"
+    }
+  ]
+}

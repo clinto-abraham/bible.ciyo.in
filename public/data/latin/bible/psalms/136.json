@@ -1,0 +1,48 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 136,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "David Hieremiae super flumina Babylonis illic sedimus et flevimus cum recordaremur Sion super flumina Babylonis ibi sedimus et flevimus cum recordaremur Sion"
+    },
+    {
+      "verse": 2,
+      "text": "in salicibus in medio eius suspendimus organa nostra super salices in medio eius suspendimus citharas nostras"
+    },
+    {
+      "verse": 3,
+      "text": "quia illic interrogaverunt nos qui captivos duxerunt nos verba cantionum et qui abduxerunt nos hymnum cantate nobis de canticis Sion quoniam ibi interrogaverunt nos qui captivos duxerunt nos verba carminis et qui adfligebant nos laeti canite nobis de canticis Sion"
+    },
+    {
+      "verse": 4,
+      "text": "quomodo cantabimus canticum Domini in terra aliena quomodo cantabimus canticum Domini in terra aliena"
+    },
+    {
+      "verse": 5,
+      "text": "si oblitus fuero tui Hierusalem oblivioni detur dextera mea si oblitus fuero tui Hierusalem in oblivione sit dextera mea"
+    },
+    {
+      "verse": 6,
+      "text": "adhereat lingua mea faucibus meis si non meminero tui si non praeposuero Hierusalem in principio laetitiae meae adhereat lingua mea gutturi meo si non recordatus fuero tui si non praeposuero Hierusalem in principio laetitiae meae"
+    },
+    {
+      "verse": 7,
+      "text": "memor esto Domine filiorum Edom diem Hierusalem qui dicunt exinanite exinanite usque ad fundamentum in ea memento Domine filiorum Edom in diem Hierusalem dicentium evacuate evacuate usque ad fundamentum eius"
+    },
+    {
+      "verse": 8,
+      "text": "filia Babylonis misera beatus qui retribuet tibi retributionem tuam quam retribuisti nobis filia Babylon vastata beatus qui retribuet tibi vicissitudinem tuam quam retribuisti nobis"
+    },
+    {
+      "verse": 9,
+      "text": "beatus qui tenebit et adlidet parvulos tuos ad petram beatus qui tenebit et adlidet parvulos tuos ad petram"
+    }
+  ]
+}

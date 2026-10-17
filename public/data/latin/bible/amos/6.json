@@ -1,0 +1,72 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Amos",
+  "bookSlug": "amos",
+  "nativeName": "Amos",
+  "chapterNumber": 6,
+  "totalVerses": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "vae qui opulenti estis in Sion et confiditis in monte Samariae optimates capita populorum ingredientes pompatice domum Israhel"
+    },
+    {
+      "verse": 2,
+      "text": "transite in Chalanne et videte et ite inde in Emath magnam et descendite in Geth Palestinorum et ad optima quaeque regna horum si latior terminus eorum termino vestro est"
+    },
+    {
+      "verse": 3,
+      "text": "qui separati estis in diem malum et adpropinquatis solio iniquitatis"
+    },
+    {
+      "verse": 4,
+      "text": "qui dormitis in lectis eburneis et lascivitis in stratis vestris qui comeditis agnum de grege et vitulos de medio armenti"
+    },
+    {
+      "verse": 5,
+      "text": "qui canitis ad vocem psalterii sicut David putaverunt se habere vasa cantici"
+    },
+    {
+      "verse": 6,
+      "text": "bibentes in fialis vinum et optimo unguento delibuti et nihil patiebantur super contritione Ioseph"
+    },
+    {
+      "verse": 7,
+      "text": "quapropter nunc migrabunt in capite transmigrantium et auferetur factio lascivientium"
+    },
+    {
+      "verse": 8,
+      "text": "iuravit Dominus Deus in anima sua dicit Dominus Deus exercituum detestor ego superbiam Iacob et domos eius odi et tradam civitatem cum habitatoribus suis"
+    },
+    {
+      "verse": 9,
+      "text": "quod si reliqui fuerint decem viri in domo una et ipsi morientur"
+    },
+    {
+      "verse": 10,
+      "text": "et tollet eum propinquus suus et conburet eum ut efferat ossa de domo et dicet ei qui in penetrabilibus domus est numquid adhuc est apud te"
+    },
+    {
+      "verse": 11,
+      "text": "et respondebit finis est et dicet ei tace et non recorderis nominis Domini"
+    },
+    {
+      "verse": 12,
+      "text": "quia ecce Dominus mandabit et percutiet domum maiorem ruinis et domum minorem scissionibus"
+    },
+    {
+      "verse": 13,
+      "text": "numquid currere queunt in petris equi aut arari potest in bubalis quoniam convertistis in amaritudinem iudicium et fructum iustitiae in absinthium"
+    },
+    {
+      "verse": 14,
+      "text": "qui laetamini in nihili qui dicitis numquid non in fortitudine nostra adsumpsimus nobis cornua"
+    },
+    {
+      "verse": 15,
+      "text": "ecce enim suscitabo super vos domus Israhel dicit Dominus Deus exercituum gentem et conterent vos ab introitu Emath usque ad torrentem Deserti"
+    }
+  ]
+}

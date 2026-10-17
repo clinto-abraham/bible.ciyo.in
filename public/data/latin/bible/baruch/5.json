@@ -1,0 +1,48 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Baruch",
+  "bookSlug": "baruch",
+  "nativeName": "Baruch",
+  "chapterNumber": 5,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "exue te Hierusalem stola luctus et vexationis tuae et indue te decore et honore eius quae a Deo tibi est in sempiterna gloriae"
+    },
+    {
+      "verse": 2,
+      "text": "circumdato te deploide a Deo iustitiae et inpone mitram capiti tuo honoris Aeterni"
+    },
+    {
+      "verse": 3,
+      "text": "Deus enim ostendet splendorem suum in te omni quod sub caelo est"
+    },
+    {
+      "verse": 4,
+      "text": "nominabitur enim tibi nomen tuum a Deo in sempiternum Pax iustitiae et Honor pietatis"
+    },
+    {
+      "verse": 5,
+      "text": "exsurge Hierusalem et sta in excelso et circumspice ad orientem et vide collectos filios tuos ab oriente sole usque ad occidentem in verbo Sancti gaudentes Dei memoria"
+    },
+    {
+      "verse": 6,
+      "text": "exierunt enim abs te pedibus ducti ab inimicis adducet autem illos Dominus ad te portatos in honorem sicut filios regni"
+    },
+    {
+      "verse": 7,
+      "text": "constituit enim Deus humiliare omnem montem excelsum et rupes perennes et convalles replere in aequalitatem terrae ut ambulet Israhel diligenter in honorem Dei"
+    },
+    {
+      "verse": 8,
+      "text": "obumbraverunt autem et silvae et omne lignum suavitatis Israhel mandato Dei"
+    },
+    {
+      "verse": 9,
+      "text": "adducet enim Deus Israhel cum iucunditate in lumine maiestatis suae cum misericordia et iustitia quae est ab ipso"
+    }
+  ]
+}

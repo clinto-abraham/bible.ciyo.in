@@ -1,0 +1,68 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Romans",
+  "bookSlug": "romans",
+  "nativeName": "Ad Romanos",
+  "chapterNumber": 13,
+  "totalVerses": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "omnis anima potestatibus sublimioribus subdita sit non est enim potestas nisi a Deo quae autem sunt a Deo ordinatae sunt"
+    },
+    {
+      "verse": 2,
+      "text": "itaque qui resistit potestati Dei ordinationi resistit qui autem resistunt ipsi sibi damnationem adquirunt"
+    },
+    {
+      "verse": 3,
+      "text": "nam principes non sunt timori boni operis sed mali vis autem non timere potestatem bonum fac et habebis laudem ex illa"
+    },
+    {
+      "verse": 4,
+      "text": "Dei enim minister est tibi in bonum si autem male feceris time non enim sine causa gladium portat Dei enim minister est vindex in iram ei qui malum agit"
+    },
+    {
+      "verse": 5,
+      "text": "ideo necessitate subditi estote non solum propter iram sed et propter conscientiam"
+    },
+    {
+      "verse": 6,
+      "text": "ideo enim et tributa praestatis ministri enim Dei sunt in hoc ipsum servientes"
+    },
+    {
+      "verse": 7,
+      "text": "reddite omnibus debita cui tributum tributum cui vectigal vectigal cui timorem timorem cui honorem honorem"
+    },
+    {
+      "verse": 8,
+      "text": "nemini quicquam debeatis nisi ut invicem diligatis qui enim diligit proximum legem implevit"
+    },
+    {
+      "verse": 9,
+      "text": "nam non adulterabis non occides non furaberis non concupisces et si quod est aliud mandatum in hoc verbo instauratur diliges proximum tuum tamquam te ipsum"
+    },
+    {
+      "verse": 10,
+      "text": "dilectio proximo malum non operatur plenitudo ergo legis est dilectio"
+    },
+    {
+      "verse": 11,
+      "text": "et hoc scientes tempus quia hora est iam nos de somno surgere nunc enim propior est nostra salus quam cum credidimus"
+    },
+    {
+      "verse": 12,
+      "text": "nox praecessit dies autem adpropiavit abiciamus ergo opera tenebrarum et induamur arma lucis"
+    },
+    {
+      "verse": 13,
+      "text": "sicut in die honeste ambulemus non in comesationibus et ebrietatibus non in cubilibus et inpudicitiis non in contentione et aemulatione"
+    },
+    {
+      "verse": 14,
+      "text": "sed induite Dominum Iesum Christum et carnis curam ne feceritis in desideriis"
+    }
+  ]
+}

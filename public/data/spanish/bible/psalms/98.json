@@ -1,0 +1,48 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 98,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Salmo. CANTAD á Jehová canción nueva; porque ha hecho maravillas: su diestra lo ha salvado, y su santo brazo."
+    },
+    {
+      "verse": 2,
+      "text": "Jehová ha hecho notoria su salud: en ojos de las gentes ha descubierto su justicia."
+    },
+    {
+      "verse": 3,
+      "text": "Hase acordado de su misericordia y de su verdad para con la casa de Israel: todos los términos de la tierra han visto la salud de nuestro Dios."
+    },
+    {
+      "verse": 4,
+      "text": "Cantad alegres á Jehová, toda la tierra; levantad la voz, y aplaudid, y salmead."
+    },
+    {
+      "verse": 5,
+      "text": "Salmead á Jehová con arpa; con arpa y voz de cántico."
+    },
+    {
+      "verse": 6,
+      "text": "Aclamad con trompetas y sonidos de bocina delante del rey Jehová."
+    },
+    {
+      "verse": 7,
+      "text": "Brame la mar y su plenitud; el mundo y los que en él habitan;"
+    },
+    {
+      "verse": 8,
+      "text": "Los ríos batan las manos; los montes todos hagan regocijo,"
+    },
+    {
+      "verse": 9,
+      "text": "Delante de Jehová; porque vino á juzgar la tierra: juzgará al mundo con justicia, y á los pueblos con rectitud."
+    }
+  ]
+}

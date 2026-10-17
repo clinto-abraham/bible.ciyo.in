@@ -1,0 +1,60 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 142,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "psalmus David quando filius eum persequebatur Domine exaudi orationem meam auribus percipe obsecrationem meam in veritate tua exaudi me in tua iustitia canticum David Domine exaudi orationem meam ausculta deprecationem meam in veritate tua exaudi me in iustitia tua"
+    },
+    {
+      "verse": 2,
+      "text": "et non intres in iudicio cum servo tuo quia non iustificabitur in conspectu tuo omnis vivens et non venias ad iudicandum cum servo tuo quia non iustificabitur in conspectu tuo omnis vivens"
+    },
+    {
+      "verse": 3,
+      "text": "quia persecutus est inimicus animam meam humiliavit in terra vitam meam conlocavit me in obscuris sicut mortuos saeculi persecutus est enim inimicus animam meam confregit in terra vitam meam posuit me in tenebris quasi mortuos antiquos"
+    },
+    {
+      "verse": 4,
+      "text": "et anxiatus est super me spiritus meus in me turbatum est cor meum et anxius fuit in me spiritus meus in medio mei sollicitum fuit cor meum"
+    },
+    {
+      "verse": 5,
+      "text": "memor fui dierum antiquorum meditatus sum in omnibus operibus tuis in factis manuum tuarum meditabar recordabar dierum antiquorum meditabar omnia opera tua facta manuum tuarum loquebar"
+    },
+    {
+      "verse": 6,
+      "text": "expandi manus meas ad te anima mea sicut terra sine aqua tibi diapsalma expandi manus meas ad te anima mea quasi terra sitiens ad te semper"
+    },
+    {
+      "verse": 7,
+      "text": "velociter exaudi me Domine defecit spiritus meus non avertas faciem tuam a me et similis ero descendentibus in lacum cito exaudi me Domine defecit spiritus meus ne abscondas faciem tuam a me et conparabor descendentibus in lacum"
+    },
+    {
+      "verse": 8,
+      "text": "auditam mihi fac mane misericordiam tuam quia in te speravi notam fac mihi viam in qua ambulem quia ad te levavi animam meam fac me audire mane misericordiam tuam quoniam in te confido notam fac mihi viam in qua ambulo quoniam ad te levavi animam meam"
+    },
+    {
+      "verse": 9,
+      "text": "eripe me de inimicis meis Domine ad te confugi libera me de inimicis meis Domine a te protectus sum"
+    },
+    {
+      "verse": 10,
+      "text": "doce me facere voluntatem tuam quia Deus meus es tu spiritus tuus bonus deducet me in terra recta doce me ut faciam voluntatem tuam quia tu Deus meus spiritus tuus bonus deducet me in terra recta"
+    },
+    {
+      "verse": 11,
+      "text": "propter nomen tuum Domine vivificabis me in aequitate tua educes de tribulatione animam meam propter nomen tuum Domine vivificabis me in iustitia tua educes de angustia animam meam"
+    },
+    {
+      "verse": 12,
+      "text": "et in misericordia tua disperdes inimicos meos et perdes omnes qui tribulant animam meam quoniam ego servus tuus sum et in misericordia tua dissipabis inimicos meos et perdes omnes ligantes animam meam ego enim sum servus tuus"
+    }
+  ]
+}

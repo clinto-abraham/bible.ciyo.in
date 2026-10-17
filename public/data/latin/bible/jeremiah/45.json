@@ -1,0 +1,32 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Jeremiah",
+  "bookSlug": "jeremiah",
+  "nativeName": "Jeremiah",
+  "chapterNumber": 45,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "verbum quod locutus est Hieremias propheta ad Baruch filium Neri cum scripsisset verba haec in libro de ore Hieremiae anno quarto Ioachim filii Iosiae regis Iuda dicens"
+    },
+    {
+      "verse": 2,
+      "text": "haec dicit Dominus Deus Israhel ad te Baruch"
+    },
+    {
+      "verse": 3,
+      "text": "dixisti vae misero mihi quoniam addidit Dominus dolorem dolori meo laboravi in gemitu meo et requiem non inveni"
+    },
+    {
+      "verse": 4,
+      "text": "haec dices ad eum sic dicit Dominus ecce quos aedificavi ego destruo et quos plantavi ego evello et universam terram hanc"
+    },
+    {
+      "verse": 5,
+      "text": "et tu quaeris tibi grandia noli quaerere quia ecce ego adducam malum super omnem carnem ait Dominus et dabo tibi animam tuam in salutem in omnibus locis ad quaecumque perrexeris"
+    }
+  ]
+}

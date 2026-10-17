@@ -1,0 +1,44 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 130,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cántico gradual. DE los profundos, oh Jehová, á ti clamo."
+    },
+    {
+      "verse": 2,
+      "text": "Señor, oye mi voz; estén atentos tus oídos á la voz de mi súplica."
+    },
+    {
+      "verse": 3,
+      "text": "JAH, si mirares á los pecados, ¿quién, oh Señor, podrá mantenerse?"
+    },
+    {
+      "verse": 4,
+      "text": "Empero hay perdón cerca de ti, para que seas temido."
+    },
+    {
+      "verse": 5,
+      "text": "Esperé yo á Jehová, esperó mi alma; en su palabra he esperado."
+    },
+    {
+      "verse": 6,
+      "text": "Mi alma espera á Jehová más que los centinelas á la mañana, más que los vigilantes á la mañana."
+    },
+    {
+      "verse": 7,
+      "text": "Espere Israel á Jehová; porque en Jehová hay misericordia, y abundante redención con él."
+    },
+    {
+      "verse": 8,
+      "text": "Y él redimirá á Israel de todos sus pecados."
+    }
+  ]
+}

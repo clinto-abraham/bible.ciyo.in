@@ -1,0 +1,44 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 120,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "canticum graduum levavi oculos meos in montes unde veniet auxilium mihi canticum graduum levavi oculos meos in montes unde veniet auxilium meum"
+    },
+    {
+      "verse": 2,
+      "text": "auxilium meum a Domino qui fecit caelum et terram auxilium meum a Domino factore caeli et terrae"
+    },
+    {
+      "verse": 3,
+      "text": "non det in commotionem pedem tuum neque dormitet qui custodit te non det in commotionem pedem tuum nec dormitet qui custodit te"
+    },
+    {
+      "verse": 4,
+      "text": "ecce non dormitabit neque dormiet qui custodit Israhel ecce non dormitabit neque dormiet qui custodiet Israhel"
+    },
+    {
+      "verse": 5,
+      "text": "Dominus custodit te Dominus protectio tua super manum dexteram tuam Dominus custodiet te Dominus protectio tua super manum dexteram tuam"
+    },
+    {
+      "verse": 6,
+      "text": "per diem sol non uret te neque luna per noctem per diem sol non percutiet te neque luna per noctem"
+    },
+    {
+      "verse": 7,
+      "text": "Dominus custodit te ab omni malo custodiat animam tuam Dominus Dominus custodiet te ab omni malo custodiat animam tuam"
+    },
+    {
+      "verse": 8,
+      "text": "Dominus custodiat introitum tuum et exitum tuum ex hoc nunc et usque in saeculum Dominus custodiat exitum tuum et introitum tuum amodo et usque in aeternum"
+    }
+  ]
+}

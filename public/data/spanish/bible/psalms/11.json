@@ -1,0 +1,40 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 11,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Al Músico principal: Salmo de David. EN Jehová he confiado; ¿cómo decís á mi alma: Escapa al monte cual ave?"
+    },
+    {
+      "verse": 2,
+      "text": "Porque he aquí, los malos flecharon el arco, apercibieron sus saetas sobre la cuerda, para asaetear en oculto á los rectos de corazón."
+    },
+    {
+      "verse": 3,
+      "text": "Si fueren destruídos los fundamentos, ¿qué ha de hacer el justo?"
+    },
+    {
+      "verse": 4,
+      "text": "Jehová en el templo de su santidad: la silla de Jehová está en el cielo: sus ojos ven, sus párpados examinan á los hijos de los hombres."
+    },
+    {
+      "verse": 5,
+      "text": "Jehová prueba al justo; empero al malo y al que ama la violencia, su alma aborrece."
+    },
+    {
+      "verse": 6,
+      "text": "Sobre los malos lloverá lazos; fuego y azufre, con vientos de torbellinos, será la porción del cáliz de ellos."
+    },
+    {
+      "verse": 7,
+      "text": "Porque el justo Jehová ama la justicia: al recto mirará su rostro."
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Leviticus",
+  "bookSlug": "leviticus",
+  "nativeName": "Leviticus",
+  "chapterNumber": 19,
+  "totalVerses": 37,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "locutus est Dominus ad Mosen dicens"
+    },
+    {
+      "verse": 2,
+      "text": "loquere ad omnem coetum filiorum Israhel et dices ad eos sancti estote quia ego sanctus sum Dominus Deus vester"
+    },
+    {
+      "verse": 3,
+      "text": "unusquisque matrem et patrem suum timeat sabbata mea custodite ego Dominus Deus vester"
+    },
+    {
+      "verse": 4,
+      "text": "nolite converti ad idola nec deos conflatiles faciatis vobis ego Dominus Deus vester"
+    },
+    {
+      "verse": 5,
+      "text": "si immolaveritis hostiam pacificorum Domino ut sit placabilis"
+    },
+    {
+      "verse": 6,
+      "text": "eo die quo fuerit immolata comedetis eam et die altero quicquid autem residuum fuerit in diem tertium igne conburetis"
+    },
+    {
+      "verse": 7,
+      "text": "si quis post biduum comederit ex ea profanus erit et impietatis reus"
+    },
+    {
+      "verse": 8,
+      "text": "portabit iniquitatem suam quia sanctum Domini polluit et peribit anima illa de populo suo"
+    },
+    {
+      "verse": 9,
+      "text": "cum messueris segetes terrae tuae non tondebis usque ad solum superficiem terrae nec remanentes spicas colliges"
+    },
+    {
+      "verse": 10,
+      "text": "neque in vinea tua racemos et grana decidentia congregabis sed pauperibus et peregrinis carpenda dimittes ego Dominus Deus vester"
+    },
+    {
+      "verse": 11,
+      "text": "non facietis furtum non mentiemini nec decipiet unusquisque proximum suum"
+    },
+    {
+      "verse": 12,
+      "text": "non peierabis in nomine meo nec pollues nomen Dei tui ego Dominus"
+    },
+    {
+      "verse": 13,
+      "text": "non facies calumniam proximo tuo nec vi opprimes eum non morabitur opus mercennarii apud te usque mane"
+    },
+    {
+      "verse": 14,
+      "text": "non maledices surdo nec coram caeco pones offendiculum sed timebis Deum tuum quia ego sum Dominus"
+    },
+    {
+      "verse": 15,
+      "text": "non facies quod iniquum est nec iniuste iudicabis nec consideres personam pauperis nec honores vultum potentis iuste iudica proximo tuo"
+    },
+    {
+      "verse": 16,
+      "text": "non eris criminator et susurro in populis non stabis contra sanguinem proximi tui ego Dominus"
+    },
+    {
+      "verse": 17,
+      "text": "ne oderis fratrem tuum in corde tuo sed publice argue eum ne habeas super illo peccatum"
+    },
+    {
+      "verse": 18,
+      "text": "non quaeres ultionem nec memor eris iniuriae civium tuorum diliges amicum tuum sicut temet ipsum ego Dominus"
+    },
+    {
+      "verse": 19,
+      "text": "leges meas custodite iumenta tua non facies coire cum alterius generis animantibus agrum non seres diverso semine veste quae ex duobus texta est non indueris"
+    },
+    {
+      "verse": 20,
+      "text": "homo si dormierit cum muliere coitu seminis quae sit ancilla etiam nubilis et tamen pretio non redempta nec libertate donata vapulabunt ambo et non morientur quia non fuit libera"
+    },
+    {
+      "verse": 21,
+      "text": "pro delicto autem suo offeret Domino ad ostium tabernaculi testimonii arietem"
+    },
+    {
+      "verse": 22,
+      "text": "orabitque pro eo sacerdos et pro delicto eius coram Domino et repropitiabitur ei dimitteturque peccatum"
+    },
+    {
+      "verse": 23,
+      "text": "quando ingressi fueritis terram et plantaveritis in ea ligna pomifera auferetis praeputia eorum poma quae germinant inmunda erunt vobis nec edetis ex eis"
+    },
+    {
+      "verse": 24,
+      "text": "quarto anno omnis fructus eorum sanctificabitur laudabilis Domino"
+    },
+    {
+      "verse": 25,
+      "text": "quinto autem anno comedetis fructus congregantes poma quae proferunt ego Dominus Deus vester"
+    },
+    {
+      "verse": 26,
+      "text": "non comedetis cum sanguine non augurabimini nec observabitis somnia"
+    },
+    {
+      "verse": 27,
+      "text": "neque in rotundum adtondebitis comam nec radatis barbam"
+    },
+    {
+      "verse": 28,
+      "text": "et super mortuo non incidetis carnem vestram neque figuras aliquas et stigmata facietis vobis ego Dominus"
+    },
+    {
+      "verse": 29,
+      "text": "ne prostituas filiam tuam et contaminetur terra et impleatur piaculo"
+    },
+    {
+      "verse": 30,
+      "text": "sabbata mea custodite et sanctuarium meum metuite ego Dominus"
+    },
+    {
+      "verse": 31,
+      "text": "ne declinetis ad magos nec ab ariolis aliquid sciscitemini ut polluamini per eos ego Dominus Deus vester"
+    },
+    {
+      "verse": 32,
+      "text": "coram cano capite consurge et honora personam senis et time Deum tuum ego sum Dominus"
+    },
+    {
+      "verse": 33,
+      "text": "si habitaverit advena in terra vestra et moratus fuerit inter vos ne exprobretis ei"
+    },
+    {
+      "verse": 34,
+      "text": "sed sit inter vos quasi indigena et diligetis eum quasi vosmet ipsos fuistis enim et vos advenae in terra Aegypti ego Dominus Deus vester"
+    },
+    {
+      "verse": 35,
+      "text": "nolite facere iniquum aliquid in iudicio in regula in pondere in mensura"
+    },
+    {
+      "verse": 36,
+      "text": "statera iusta et aequa sint pondera iustus modius aequusque sextarius ego Dominus Deus vester qui eduxi vos de terra Aegypti"
+    },
+    {
+      "verse": 37,
+      "text": "custodite omnia praecepta mea et universa iudicia et facite ea ego Dominus"
+    }
+  ]
+}

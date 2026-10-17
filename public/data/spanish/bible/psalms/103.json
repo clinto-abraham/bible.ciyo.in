@@ -1,0 +1,100 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 103,
+  "totalVerses": 22,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Salmo de David. BENDICE, alma mía, á Jehová; y bendigan todas mis entrañas su santo nombre."
+    },
+    {
+      "verse": 2,
+      "text": "Bendice, alma mía á Jehová, y no olvides ninguno de sus beneficios."
+    },
+    {
+      "verse": 3,
+      "text": "El es quien perdona todas tus iniquidades, el que sana todas tus dolencias;"
+    },
+    {
+      "verse": 4,
+      "text": "El que rescata del hoyo tu vida, el que te corona de favores y misericordias;"
+    },
+    {
+      "verse": 5,
+      "text": "El que sacia de bien tu boca de modo que te rejuvenezcas como el águila."
+    },
+    {
+      "verse": 6,
+      "text": "Jehová el que hace justicia y derecho á todos los que padecen violencia."
+    },
+    {
+      "verse": 7,
+      "text": "Sus caminos notificó á Moisés, y á los hijos de Israel sus obras."
+    },
+    {
+      "verse": 8,
+      "text": "Misericordioso y clemente es Jehová; lento para la ira, y grande en misericordia."
+    },
+    {
+      "verse": 9,
+      "text": "No contenderá para siempre, ni para siempre guardará el enojo."
+    },
+    {
+      "verse": 10,
+      "text": "No ha hecho con nosotros conforme á nuestras iniquidades; ni nos ha pagado conforme á nuestros pecados."
+    },
+    {
+      "verse": 11,
+      "text": "Porque como la altura de los cielos sobre la tierra, engrandeció su misericordia sobre los que le temen."
+    },
+    {
+      "verse": 12,
+      "text": "Cuanto está lejos el oriente del occidente, hizo alejar de nosotros nuestras rebeliones."
+    },
+    {
+      "verse": 13,
+      "text": "Como el padre se compadece de los hijos, se compadece Jehová de los que le temen."
+    },
+    {
+      "verse": 14,
+      "text": "Porque él conoce nuestra condición; acuérdase que somos polvo."
+    },
+    {
+      "verse": 15,
+      "text": "El hombre, como la hierba son sus días: florece como la flor del campo."
+    },
+    {
+      "verse": 16,
+      "text": "Que pasó el viento por ella, y pereció: y su lugar no la conoce más."
+    },
+    {
+      "verse": 17,
+      "text": "Mas la misericordia de Jehová desde el siglo y hasta el siglo sobre los que le temen, y su justicia sobre los hijos de los hijos;"
+    },
+    {
+      "verse": 18,
+      "text": "Sobre los que guardan su pacto, y los que se acuerdan de sus mandamientos para ponerlos por obra."
+    },
+    {
+      "verse": 19,
+      "text": "Jehová afirmó en los cielos su trono; y su reino domina sobre todos."
+    },
+    {
+      "verse": 20,
+      "text": "Bendecid á Jehová, vosotros sus ángeles, poderosos en fortaleza, que ejecutáis su palabra, obedeciendo á la voz de su precepto."
+    },
+    {
+      "verse": 21,
+      "text": "Bendecid á Jehová, vosotros todos sus ejércitos, ministros suyos, que hacéis su voluntad."
+    },
+    {
+      "verse": 22,
+      "text": "Bendecid á Jehová, vosotras todas sus obras, en todos los lugares de su señorío. Bendice, alma mía, á Jehová."
+    }
+  ]
+}

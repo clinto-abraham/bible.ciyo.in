@@ -1,0 +1,36 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Job",
+  "bookSlug": "job",
+  "nativeName": "Job",
+  "chapterNumber": 25,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Alors Baldad de Suhé prit la parole et dit:"
+    },
+    {
+      "verse": 2,
+      "text": "A lui appartiennent la domination et la terreur; il fait régner la paix dans ses hautes demeures."
+    },
+    {
+      "verse": 3,
+      "text": "Ses légions ne sont-elles pas innombrables? Sur qui ne se lève pas sa lumière?"
+    },
+    {
+      "verse": 4,
+      "text": "Comment l'homme serait-il juste devant Dieu? Comment le fils de la femme serait-il pur?"
+    },
+    {
+      "verse": 5,
+      "text": "Voici que la lune même est sans clarté, les étoiles ne sont pas pures à ses yeux:"
+    },
+    {
+      "verse": 6,
+      "text": "combien moins l'homme, ce vermisseau, le fils de l'homme, ce vil insecte!"
+    }
+  ]
+}

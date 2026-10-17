@@ -1,0 +1,36 @@
+{
+  "translation": "KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords",
+  "language": "english",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 13,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "To the chief Musician, A Psalm of David. How long wilt thou forget me, O Lord? for ever? how long wilt thou hide thy face from me?"
+    },
+    {
+      "verse": 2,
+      "text": "How long shall I take counsel in my soul, having sorrow in my heart daily? how long shall mine enemy be exalted over me?"
+    },
+    {
+      "verse": 3,
+      "text": "Consider and hear me, O Lord my God: lighten mine eyes, lest I sleep the sleep of death;"
+    },
+    {
+      "verse": 4,
+      "text": "Lest mine enemy say, I have prevailed against him; and those that trouble me rejoice when I am moved."
+    },
+    {
+      "verse": 5,
+      "text": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation."
+    },
+    {
+      "verse": 6,
+      "text": "I will sing unto the Lord, because he hath dealt bountifully with me."
+    }
+  ]
+}

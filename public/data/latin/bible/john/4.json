@@ -1,0 +1,228 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "John",
+  "bookSlug": "john",
+  "nativeName": "Secundum Ioannem",
+  "chapterNumber": 4,
+  "totalVerses": 54,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "ut ergo cognovit Iesus quia audierunt Pharisaei quia Iesus plures discipulos facit et baptizat quam Iohannes"
+    },
+    {
+      "verse": 2,
+      "text": "quamquam Iesus non baptizaret sed discipuli eius"
+    },
+    {
+      "verse": 3,
+      "text": "reliquit Iudaeam et abiit iterum in Galilaeam"
+    },
+    {
+      "verse": 4,
+      "text": "oportebat autem eum transire per Samariam"
+    },
+    {
+      "verse": 5,
+      "text": "venit ergo in civitatem Samariae quae dicitur Sychar iuxta praedium quod dedit Iacob Ioseph filio suo"
+    },
+    {
+      "verse": 6,
+      "text": "erat autem ibi fons Iacob Iesus ergo fatigatus ex itinere sedebat sic super fontem hora erat quasi sexta"
+    },
+    {
+      "verse": 7,
+      "text": "venit mulier de Samaria haurire aquam dicit ei Iesus da mihi bibere"
+    },
+    {
+      "verse": 8,
+      "text": "discipuli enim eius abierant in civitatem ut cibos emerent"
+    },
+    {
+      "verse": 9,
+      "text": "dicit ergo ei mulier illa samaritana quomodo tu Iudaeus cum sis bibere a me poscis quae sum mulier samaritana non enim coutuntur Iudaei Samaritanis"
+    },
+    {
+      "verse": 10,
+      "text": "respondit Iesus et dixit ei si scires donum Dei et quis est qui dicit tibi da mihi bibere tu forsitan petisses ab eo et dedisset tibi aquam vivam"
+    },
+    {
+      "verse": 11,
+      "text": "dicit ei mulier Domine neque in quo haurias habes et puteus altus est unde ergo habes aquam vivam"
+    },
+    {
+      "verse": 12,
+      "text": "numquid tu maior es patre nostro Iacob qui dedit nobis puteum et ipse ex eo bibit et filii eius et pecora eius"
+    },
+    {
+      "verse": 13,
+      "text": "respondit Iesus et dixit ei omnis qui bibit ex aqua hac sitiet iterum qui autem biberit ex aqua quam ego dabo ei non sitiet in aeternum"
+    },
+    {
+      "verse": 14,
+      "text": "sed aqua quam dabo ei fiet in eo fons aquae salientis in vitam aeternam"
+    },
+    {
+      "verse": 15,
+      "text": "dicit ad eum mulier Domine da mihi hanc aquam ut non sitiam neque veniam huc haurire"
+    },
+    {
+      "verse": 16,
+      "text": "dicit ei Iesus vade voca virum tuum et veni huc"
+    },
+    {
+      "verse": 17,
+      "text": "respondit mulier et dixit non habeo virum dicit ei Iesus bene dixisti quia non habeo virum"
+    },
+    {
+      "verse": 18,
+      "text": "quinque enim viros habuisti et nunc quem habes non est tuus vir hoc vere dixisti"
+    },
+    {
+      "verse": 19,
+      "text": "dicit ei mulier Domine video quia propheta es tu"
+    },
+    {
+      "verse": 20,
+      "text": "patres nostri in monte hoc adoraverunt et vos dicitis quia Hierosolymis est locus ubi adorare oportet"
+    },
+    {
+      "verse": 21,
+      "text": "dicit ei Iesus mulier crede mihi quia veniet hora quando neque in monte hoc neque in Hierosolymis adorabitis Patrem"
+    },
+    {
+      "verse": 22,
+      "text": "vos adoratis quod nescitis nos adoramus quod scimus quia salus ex Iudaeis est"
+    },
+    {
+      "verse": 23,
+      "text": "sed venit hora et nunc est quando veri adoratores adorabunt Patrem in spiritu et veritate nam et Pater tales quaerit qui adorent eum"
+    },
+    {
+      "verse": 24,
+      "text": "spiritus est Deus et eos qui adorant eum in spiritu et veritate oportet adorare"
+    },
+    {
+      "verse": 25,
+      "text": "dicit ei mulier scio quia Messias venit qui dicitur Christus cum ergo venerit ille nobis adnuntiabit omnia"
+    },
+    {
+      "verse": 26,
+      "text": "dicit ei Iesus ego sum qui loquor tecum"
+    },
+    {
+      "verse": 27,
+      "text": "et continuo venerunt discipuli eius et mirabantur quia cum muliere loquebatur nemo tamen dixit quid quaeris aut quid loqueris cum ea"
+    },
+    {
+      "verse": 28,
+      "text": "reliquit ergo hydriam suam mulier et abiit in civitatem et dicit illis hominibus"
+    },
+    {
+      "verse": 29,
+      "text": "venite videte hominem qui dixit mihi omnia quaecumque feci numquid ipse est Christus"
+    },
+    {
+      "verse": 30,
+      "text": "exierunt de civitate et veniebant ad eum"
+    },
+    {
+      "verse": 31,
+      "text": "interea rogabant eum discipuli dicentes rabbi manduca"
+    },
+    {
+      "verse": 32,
+      "text": "ille autem dixit eis ego cibum habeo manducare quem vos nescitis"
+    },
+    {
+      "verse": 33,
+      "text": "dicebant ergo discipuli ad invicem numquid aliquis adtulit ei manducare"
+    },
+    {
+      "verse": 34,
+      "text": "dicit eis Iesus meus cibus est ut faciam voluntatem eius qui misit me ut perficiam opus eius"
+    },
+    {
+      "verse": 35,
+      "text": "nonne vos dicitis quod adhuc quattuor menses sunt et messis venit ecce dico vobis levate oculos vestros et videte regiones quia albae sunt iam ad messem"
+    },
+    {
+      "verse": 36,
+      "text": "et qui metit mercedem accipit et congregat fructum in vitam aeternam ut et qui seminat simul gaudeat et qui metit"
+    },
+    {
+      "verse": 37,
+      "text": "in hoc enim est verbum verum quia alius est qui seminat et alius est qui metit"
+    },
+    {
+      "verse": 38,
+      "text": "ego misi vos metere quod vos non laborastis alii laboraverunt et vos in laborem eorum introistis"
+    },
+    {
+      "verse": 39,
+      "text": "ex civitate autem illa multi crediderunt in eum Samaritanorum propter verbum mulieris testimonium perhibentis quia dixit mihi omnia quaecumque feci"
+    },
+    {
+      "verse": 40,
+      "text": "cum venissent ergo ad illum Samaritani rogaverunt eum ut ibi maneret et mansit ibi duos dies"
+    },
+    {
+      "verse": 41,
+      "text": "et multo plures crediderunt propter sermonem eius"
+    },
+    {
+      "verse": 42,
+      "text": "et mulieri dicebant quia iam non propter tuam loquellam credimus ipsi enim audivimus et scimus quia hic est vere salvator mundi"
+    },
+    {
+      "verse": 43,
+      "text": "post duos autem dies exiit inde et abiit in Galilaeam"
+    },
+    {
+      "verse": 44,
+      "text": "ipse enim Iesus testimonium perhibuit quia propheta in sua patria honorem non habet"
+    },
+    {
+      "verse": 45,
+      "text": "cum ergo venisset in Galilaeam exceperunt eum Galilaei cum omnia vidissent quae fecerat Hierosolymis in die festo et ipsi enim venerant in diem festum"
+    },
+    {
+      "verse": 46,
+      "text": "venit ergo iterum in Cana Galilaeae ubi fecit aquam vinum et erat quidam regulus cuius filius infirmabatur Capharnaum"
+    },
+    {
+      "verse": 47,
+      "text": "hic cum audisset quia Iesus adveniret a Iudaea in Galilaeam abiit ad eum et rogabat eum ut descenderet et sanaret filium eius incipiebat enim mori"
+    },
+    {
+      "verse": 48,
+      "text": "dixit ergo Iesus ad eum nisi signa et prodigia videritis non creditis"
+    },
+    {
+      "verse": 49,
+      "text": "dicit ad eum regulus Domine descende priusquam moriatur filius meus"
+    },
+    {
+      "verse": 50,
+      "text": "dicit ei Iesus vade filius tuus vivit credidit homo sermoni quem dixit ei Iesus et ibat"
+    },
+    {
+      "verse": 51,
+      "text": "iam autem eo descendente servi occurrerunt ei et nuntiaverunt dicentes quia filius eius viveret"
+    },
+    {
+      "verse": 52,
+      "text": "interrogabat ergo horam ab eis in qua melius habuerit et dixerunt ei quia heri hora septima reliquit eum febris"
+    },
+    {
+      "verse": 53,
+      "text": "cognovit ergo pater quia illa hora erat in qua dixit ei Iesus filius tuus vivit et credidit ipse et domus eius tota"
+    },
+    {
+      "verse": 54,
+      "text": "hoc iterum secundum signum fecit Iesus cum venisset a Iudaea in Galilaeam"
+    }
+  ]
+}

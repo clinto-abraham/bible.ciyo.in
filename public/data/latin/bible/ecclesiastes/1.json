@@ -1,0 +1,84 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Ecclesiastes",
+  "bookSlug": "ecclesiastes",
+  "nativeName": "Ecclesiastes",
+  "chapterNumber": 1,
+  "totalVerses": 18,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "verba Ecclesiastes filii David regis Hierusalem"
+    },
+    {
+      "verse": 2,
+      "text": "vanitas vanitatum dixit Ecclesiastes vanitas vanitatum omnia vanitas"
+    },
+    {
+      "verse": 3,
+      "text": "quid habet amplius homo de universo labore suo quod laborat sub sole"
+    },
+    {
+      "verse": 4,
+      "text": "generatio praeterit et generatio advenit terra vero in aeternum stat"
+    },
+    {
+      "verse": 5,
+      "text": "oritur sol et occidit et ad locum suum revertitur ibique renascens"
+    },
+    {
+      "verse": 6,
+      "text": "gyrat per meridiem et flectitur ad aquilonem lustrans universa circuitu pergit spiritus et in circulos suos regreditur"
+    },
+    {
+      "verse": 7,
+      "text": "omnia flumina intrant mare et mare non redundat ad locum unde exeunt flumina revertuntur ut iterum fluant"
+    },
+    {
+      "verse": 8,
+      "text": "cunctae res difficiles non potest eas homo explicare sermone non saturatur oculus visu nec auris impletur auditu"
+    },
+    {
+      "verse": 9,
+      "text": "quid est quod fuit ipsum quod futurum est quid est quod factum est ipsum quod fiendum est"
+    },
+    {
+      "verse": 10,
+      "text": "nihil sub sole novum nec valet quisquam dicere ecce hoc recens est iam enim praecessit in saeculis quae fuerunt ante nos"
+    },
+    {
+      "verse": 11,
+      "text": "non est priorum memoria sed nec eorum quidem quae postea futura sunt erit recordatio apud eos qui futuri sunt in novissimo"
+    },
+    {
+      "verse": 12,
+      "text": "ego Ecclesiastes fui rex Israhel in Hierusalem"
+    },
+    {
+      "verse": 13,
+      "text": "et proposui in animo meo quaerere et investigare sapienter de omnibus quae fiunt sub sole hanc occupationem pessimam dedit Deus filiis hominum ut occuparentur in ea"
+    },
+    {
+      "verse": 14,
+      "text": "vidi quae fiunt cuncta sub sole et ecce universa vanitas et adflictio spiritus"
+    },
+    {
+      "verse": 15,
+      "text": "perversi difficile corriguntur et stultorum infinitus est numerus"
+    },
+    {
+      "verse": 16,
+      "text": "locutus sum in corde meo dicens ecce magnus effectus sum et praecessi sapientia omnes qui fuerunt ante me in Hierusalem et mens mea contemplata est multa sapienter et didicit"
+    },
+    {
+      "verse": 17,
+      "text": "dedique cor meum ut scirem prudentiam atque doctrinam erroresque et stultitiam et agnovi quod in his quoque esset labor et adflictio spiritus"
+    },
+    {
+      "verse": 18,
+      "text": "eo quod in multa sapientia multa sit indignatio et qui addit scientiam addat et laborem"
+    }
+  ]
+}

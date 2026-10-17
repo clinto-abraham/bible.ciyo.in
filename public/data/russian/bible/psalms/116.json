@@ -1,0 +1,20 @@
+{
+  "translation": "RusSynodal: Синодального Перевода Библии",
+  "language": "russian",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Псалтирь",
+  "chapterNumber": 116,
+  "totalVerses": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Хвалите Господа, все народы, прославляйте Его, все племена;"
+    },
+    {
+      "verse": 2,
+      "text": "ибо велика милость Его к нам, и истина Господня [пребывает] вовек. Аллилуия."
+    }
+  ]
+}

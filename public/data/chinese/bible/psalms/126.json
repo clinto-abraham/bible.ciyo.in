@@ -1,0 +1,36 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 126,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "（上行 之詩。）當耶和華 將 那些被擄的 帶回 錫安的時候，我們 好像做夢的人。"
+    },
+    {
+      "verse": 2,
+      "text": "我們滿 口 喜笑、滿舌 歡呼的時候，外邦中 就 有人說：耶和華 為 他們 行了 大事！"
+    },
+    {
+      "verse": 3,
+      "text": "耶和華 果然為我們 行了 大事，我們就 歡喜。"
+    },
+    {
+      "verse": 4,
+      "text": "耶和華啊，求你使 我們被擄的人 歸回，好像南地的 河水復流。"
+    },
+    {
+      "verse": 5,
+      "text": "流淚 撒種的，必歡呼 收割！"
+    },
+    {
+      "verse": 6,
+      "text": "那帶 種 流淚 出 去的，必要歡歡樂樂地 帶 禾捆 回 來！"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 121,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "canticum graduum huic David laetatus sum in his quae dicta sunt mihi in domum Domini ibimus canticum graduum David laetatus sum eo quod dixerint mihi in domum Domini ibimus"
+    },
+    {
+      "verse": 2,
+      "text": "stantes erant pedes nostri in atriis tuis Hierusalem stantes erant pedes nostri in portis tuis Hierusalem"
+    },
+    {
+      "verse": 3,
+      "text": "Hierusalem quae aedificatur ut civitas cuius participatio eius in id ipsum Hierusalem quae aedificaris ut civitas cuius participatio eius simul"
+    },
+    {
+      "verse": 4,
+      "text": "illic enim ascenderunt tribus tribus Domini testimonium Israhel ad confitendum nomini Domini quia ibi ascenderunt tribus tribus Domini testimonium Israhel ad confitendum nomini Domini"
+    },
+    {
+      "verse": 5,
+      "text": "quia illic sederunt sedes in iudicium sedes super domum David quia ibi sederunt sedes in iudicio sedes domui David"
+    },
+    {
+      "verse": 6,
+      "text": "rogate quae ad pacem sunt Hierusalem et abundantia diligentibus te rogate pacem Hierusalem sit bene his qui diligunt te"
+    },
+    {
+      "verse": 7,
+      "text": "fiat pax in virtute tua et abundantia in turribus tuis sit pax in muris tuis abundantia in domibus tuis"
+    },
+    {
+      "verse": 8,
+      "text": "propter fratres meos et proximos meos loquebar pacem de te propter fratres meos et amicos meos loquar pacem tibi"
+    },
+    {
+      "verse": 9,
+      "text": "propter domum Domini Dei nostri quaesivi bona tibi propter domum Domini Dei nostri quaeram bona tibi"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Job",
+  "bookSlug": "job",
+  "nativeName": "Job",
+  "chapterNumber": 7,
+  "totalVerses": 21,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "militia est vita hominis super terram et sicut dies mercennarii dies eius"
+    },
+    {
+      "verse": 2,
+      "text": "sicut servus desiderat umbram et sicut mercennarius praestolatur finem operis sui"
+    },
+    {
+      "verse": 3,
+      "text": "sic et ego habui menses vacuos et noctes laboriosas enumeravi mihi"
+    },
+    {
+      "verse": 4,
+      "text": "si dormiero dico quando consurgam et rursum expectabo vesperam et replebor doloribus usque ad tenebras"
+    },
+    {
+      "verse": 5,
+      "text": "induta est caro mea putredine et sordibus pulveris cutis mea aruit et contracta est"
+    },
+    {
+      "verse": 6,
+      "text": "dies mei velocius transierunt quam a texente tela succiditur et consumpti sunt absque ulla spe"
+    },
+    {
+      "verse": 7,
+      "text": "memento quia ventus est vita mea et non revertetur oculus meus ut videat bona"
+    },
+    {
+      "verse": 8,
+      "text": "nec aspiciet me visus hominis oculi tui in me et non subsistam"
+    },
+    {
+      "verse": 9,
+      "text": "sicut consumitur nubes et pertransit sic qui descenderit ad inferos non ascendet"
+    },
+    {
+      "verse": 10,
+      "text": "nec revertetur ultra in domum suam neque cognoscet eum amplius locus eius"
+    },
+    {
+      "verse": 11,
+      "text": "quapropter et ego non parcam ori meo loquar in tribulatione spiritus mei confabulabor cum amaritudine animae meae"
+    },
+    {
+      "verse": 12,
+      "text": "numquid mare sum ego aut cetus quia circumdedisti me carcere"
+    },
+    {
+      "verse": 13,
+      "text": "si dixero consolabitur me lectulus meus et relevabor loquens mecum in strato meo"
+    },
+    {
+      "verse": 14,
+      "text": "terrebis me per somnia et per visiones horrore concuties"
+    },
+    {
+      "verse": 15,
+      "text": "quam ob rem elegit suspendium anima mea et mortem ossa mea"
+    },
+    {
+      "verse": 16,
+      "text": "desperavi nequaquam ultra iam vivam parce mihi nihil enim sunt dies mei"
+    },
+    {
+      "verse": 17,
+      "text": "quid est homo quia magnificas eum aut quia ponis erga eum cor tuum"
+    },
+    {
+      "verse": 18,
+      "text": "visitas eum diluculo et subito probas illum"
+    },
+    {
+      "verse": 19,
+      "text": "usquequo non parces mihi nec dimittis me ut gluttiam salivam meam"
+    },
+    {
+      "verse": 20,
+      "text": "peccavi quid faciam tibi o custos hominum quare posuisti me contrarium tibi et factus sum mihimet ipsi gravis"
+    },
+    {
+      "verse": 21,
+      "text": "cur non tolles peccatum meum et quare non auferes iniquitatem meam ecce nunc in pulvere dormiam et si mane me quaesieris non subsistam"
+    }
+  ]
+}

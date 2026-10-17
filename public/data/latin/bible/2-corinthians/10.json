@@ -1,0 +1,84 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "II Corinthians",
+  "bookSlug": "2-corinthians",
+  "nativeName": "II Corinthians",
+  "chapterNumber": 10,
+  "totalVerses": 18,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "ipse autem ego Paulus obsecro vos per mansuetudinem et modestiam Christi qui in facie quidem humilis inter vos absens autem confido in vobis"
+    },
+    {
+      "verse": 2,
+      "text": "rogo autem ne praesens audeam per eam confidentiam qua existimo audere in quosdam qui arbitrantur nos tamquam secundum carnem ambulemus"
+    },
+    {
+      "verse": 3,
+      "text": "in carne enim ambulantes non secundum carnem militamus"
+    },
+    {
+      "verse": 4,
+      "text": "nam arma militiae nostrae non carnalia sed potentia Deo ad destructionem munitionum consilia destruentes"
+    },
+    {
+      "verse": 5,
+      "text": "et omnem altitudinem extollentem se adversus scientiam Dei et in captivitatem redigentes omnem intellectum in obsequium Christi"
+    },
+    {
+      "verse": 6,
+      "text": "et in promptu habentes ulcisci omnem inoboedientiam cum impleta fuerit vestra oboedientia"
+    },
+    {
+      "verse": 7,
+      "text": "quae secundum faciem sunt videte si quis confidit sibi Christi se esse hoc cogitet iterum apud se quia sicut ipse Christi est ita et nos"
+    },
+    {
+      "verse": 8,
+      "text": "nam et si amplius aliquid gloriatus fuero de potestate nostra quam dedit Dominus in aedificationem et non in destructionem vestram non erubescam"
+    },
+    {
+      "verse": 9,
+      "text": "ut autem non existimer tamquam terrere vos per epistulas"
+    },
+    {
+      "verse": 10,
+      "text": "quoniam quidem epistulae inquiunt graves sunt et fortes praesentia autem corporis infirma et sermo contemptibilis"
+    },
+    {
+      "verse": 11,
+      "text": "hoc cogitet qui eiusmodi est quia quales sumus verbo per epistulas absentes tales et praesentes in facto"
+    },
+    {
+      "verse": 12,
+      "text": "non enim audemus inserere aut conparare nos quibusdam qui se ipsos commendant sed ipsi in nobis nosmet ipsos metientes et conparantes nosmet ipsos nobis"
+    },
+    {
+      "verse": 13,
+      "text": "nos autem non in inmensum gloriabimur sed secundum mensuram regulae quam mensus est nobis Deus mensuram pertingendi usque ad vos"
+    },
+    {
+      "verse": 14,
+      "text": "non enim quasi non pertingentes ad vos superextendimus nos usque ad vos enim pervenimus in evangelio Christi"
+    },
+    {
+      "verse": 15,
+      "text": "non in inmensum gloriantes in alienis laboribus spem autem habentes crescentis fidei vestrae in vobis magnificari secundum regulam nostram in abundantiam"
+    },
+    {
+      "verse": 16,
+      "text": "etiam in illa quae ultra vos sunt evangelizare non in aliena regula in his quae praeparata sunt gloriari"
+    },
+    {
+      "verse": 17,
+      "text": "qui autem gloriatur in Domino glorietur"
+    },
+    {
+      "verse": 18,
+      "text": "non enim qui se ipsum commendat ille probatus est sed quem Dominus commendat"
+    }
+  ]
+}

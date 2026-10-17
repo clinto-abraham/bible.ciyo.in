@@ -1,0 +1,44 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 114,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Quand Israël sortit d'Egypte, quand la maison de Jacob s'éloigna d'un peuple barbare,"
+    },
+    {
+      "verse": 2,
+      "text": "Juda devint son sanctuaire, Israël son domaine."
+    },
+    {
+      "verse": 3,
+      "text": "La mer le vit et s'enfuit, le Jourdain retourna en arrière;"
+    },
+    {
+      "verse": 4,
+      "text": "les montagnes bondirent comme des béliers, les collines comme des agneaux."
+    },
+    {
+      "verse": 5,
+      "text": "Qu'as-tu, mer, pour t'enfuir? Jourdain, pour retourner en arrière?"
+    },
+    {
+      "verse": 6,
+      "text": "Qu'avez-vous, montagnes, pour bondir comme des béliers, et vous, collines, comme des agneaux?"
+    },
+    {
+      "verse": 7,
+      "text": "Tremble, ô terre, devant la face du Seigneur, devant la face du Dieu de Jacob,"
+    },
+    {
+      "verse": 8,
+      "text": "qui change le rocher en étang, le roc en source d'eaux."
+    }
+  ]
+}

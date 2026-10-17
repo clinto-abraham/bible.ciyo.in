@@ -1,0 +1,60 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 30,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Salmo cantado en la dedicación de la Casa: Salmo de David. GLORIFICARTE he, oh Jehová; porque me has ensalzado, y no hiciste á mis enemigos alegrarse de mí."
+    },
+    {
+      "verse": 2,
+      "text": "Jehová Dios mío, á ti clamé, y me sanaste."
+    },
+    {
+      "verse": 3,
+      "text": "Oh Jehová, hiciste subir mi alma del sepulcro, dísteme vida, para que no descendiese á la sepultura."
+    },
+    {
+      "verse": 4,
+      "text": "Cantad á Jehová, vosotros sus santos, y celebrad la memoria de su santidad."
+    },
+    {
+      "verse": 5,
+      "text": "Porque un momento será su furor; mas en su voluntad está la vida: por la tarde durará el lloro, y á la mañana vendrá la alegría."
+    },
+    {
+      "verse": 6,
+      "text": "Y dije yo en mi prosperidad: no seré jamás conmovido;"
+    },
+    {
+      "verse": 7,
+      "text": "Porque tú, Jehová, por tu benevolencia has asentado mi monte con fortaleza. Escondiste tu rostro, fuí conturbado."
+    },
+    {
+      "verse": 8,
+      "text": "A ti, oh Jehová, clamaré; y al Señor suplicaré."
+    },
+    {
+      "verse": 9,
+      "text": "¿Qué provecho hay en mi muerte, cuando yo descienda al hoyo? ¿Te alabará el polvo? ¿anunciará tu verdad?"
+    },
+    {
+      "verse": 10,
+      "text": "Oye, oh Jehová, y ten misericordia de mí: Jehová, sé tú mi ayudador."
+    },
+    {
+      "verse": 11,
+      "text": "Has tornado mi endecha en baile; desataste mi saco, y ceñísteme de alegría."
+    },
+    {
+      "verse": 12,
+      "text": "Por tanto á ti cantaré, gloria mía, y no estaré callado. Jehová Dios mío, te alabaré para siempre."
+    }
+  ]
+}

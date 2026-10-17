@@ -1,0 +1,20 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 117,
+  "totalVerses": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Nations, louez toutes Yahweh; peuples, célébrez-le tous!"
+    },
+    {
+      "verse": 2,
+      "text": "Car sa bonté pour nous est grande, et la vérité de Yahweh subsiste à jamais. Alleluia!"
+    }
+  ]
+}

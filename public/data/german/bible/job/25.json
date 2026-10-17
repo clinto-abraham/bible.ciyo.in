@@ -1,0 +1,36 @@
+{
+  "translation": "GerElb1905: German Darby Unrevidierte Elberfelder (1905)",
+  "language": "german",
+  "dir": "ltr",
+  "bookName": "Job",
+  "bookSlug": "job",
+  "nativeName": "Job",
+  "chapterNumber": 25,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Und Bildad, der Schuchiter, antwortete und sprach:"
+    },
+    {
+      "verse": 2,
+      "text": "Herrschaft und Schrecken sind bei ihm; er schafft Frieden in seinen Höhen."
+    },
+    {
+      "verse": 3,
+      "text": "Sind seine Scharen zu zählen? Und über wem erhebt sich nicht sein Licht?"
+    },
+    {
+      "verse": 4,
+      "text": "Und wie könnte ein Mensch gerecht sein vor Gott, und wie könnte rein sein ein vom Weibe Geborener?"
+    },
+    {
+      "verse": 5,
+      "text": "Siehe, sogar der Mond scheint nicht hell, und die Sterne sind nicht rein in seinen Augen:"
+    },
+    {
+      "verse": 6,
+      "text": "wieviel weniger der Mensch, der Wurm, und das Menschenkind, die Made!"
+    }
+  ]
+}

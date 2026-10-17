@@ -1,0 +1,48 @@
+{
+  "translation": "KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords",
+  "language": "english",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 149,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Praise ye the Lord. Sing unto the Lord a new song, and his praise in the congregation of saints."
+    },
+    {
+      "verse": 2,
+      "text": "Let Israel rejoice in him that made him: let the children of Zion be joyful in their King."
+    },
+    {
+      "verse": 3,
+      "text": "Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp."
+    },
+    {
+      "verse": 4,
+      "text": "For the Lord taketh pleasure in his people: he will beautify the meek with salvation."
+    },
+    {
+      "verse": 5,
+      "text": "Let the saints be joyful in glory: let them sing aloud upon their beds."
+    },
+    {
+      "verse": 6,
+      "text": "Let the high praises of God be in their mouth, and a twoedged sword in their hand;"
+    },
+    {
+      "verse": 7,
+      "text": "To execute vengeance upon the heathen, and punishments upon the people;"
+    },
+    {
+      "verse": 8,
+      "text": "To bind their kings with chains, and their nobles with fetters of iron;"
+    },
+    {
+      "verse": 9,
+      "text": "To execute upon them the judgment written: this honour have all his saints. Praise ye the Lord."
+    }
+  ]
+}

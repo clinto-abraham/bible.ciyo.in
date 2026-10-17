@@ -1,0 +1,48 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 61,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Au maître de chant. Sur les instruments à cordes. De David."
+    },
+    {
+      "verse": 2,
+      "text": "O Dieu, entends mes cris, sois attentif à ma prière."
+    },
+    {
+      "verse": 3,
+      "text": "De l'extrémité de la terre je crie vers toi, dans l'angoisse de mon cœur; conduis-moi sur le rocher que je ne puis atteindre."
+    },
+    {
+      "verse": 4,
+      "text": "Car tu es pour moi un refuge, une tour puissante contre l'ennemi."
+    },
+    {
+      "verse": 5,
+      "text": "Je voudrais demeurer à jamais dans ta tente, me réfugier à l'abri de tes ailes! — Séla."
+    },
+    {
+      "verse": 6,
+      "text": "Car toi, ô Dieu, tu exauces mes vœux, tu m'as donné l'héritage de ceux qui révèrent ton nom."
+    },
+    {
+      "verse": 7,
+      "text": "Ajoute des jours aux jours du roi, que ses années se prolongent d'âge en âge!"
+    },
+    {
+      "verse": 8,
+      "text": "Qu'il demeure sur le trône éternellement devant Dieu! Ordonne à ta bonté et à ta vérité de le garder!"
+    },
+    {
+      "verse": 9,
+      "text": "Alors je célébrerai ton nom à jamais, et j'accomplirai mes vœux chaque jour."
+    }
+  ]
+}

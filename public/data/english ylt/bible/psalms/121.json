@@ -1,0 +1,44 @@
+{
+  "translation": "YLT: Young's Literal Translation (1898)",
+  "language": "english-ylt",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 121,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A Song of the Ascents. I lift up mine eyes unto the hills, Whence doth my help come?"
+    },
+    {
+      "verse": 2,
+      "text": "My help is from Jehovah, maker of heaven and earth,"
+    },
+    {
+      "verse": 3,
+      "text": "He suffereth not thy foot to be moved, Thy preserver slumbereth not."
+    },
+    {
+      "verse": 4,
+      "text": "Lo, He slumbereth not, nor sleepeth, He who is preserving Israel."
+    },
+    {
+      "verse": 5,
+      "text": "Jehovah is thy preserver, Jehovah is thy shade on thy right hand,"
+    },
+    {
+      "verse": 6,
+      "text": "By day the sun doth not smite thee, Nor the moon by night."
+    },
+    {
+      "verse": 7,
+      "text": "Jehovah preserveth thee from all evil, He doth preserve thy soul."
+    },
+    {
+      "verse": 8,
+      "text": "Jehovah preserveth thy going out and thy coming in, From henceforth even unto the age!"
+    }
+  ]
+}

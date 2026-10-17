@@ -1,0 +1,36 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 125,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "canticum graduum in convertendo Dominum captivitatem Sion facti sumus sicut consolati canticum graduum cum converteret Dominus captivitatem Sion facti sumus quasi somniantes"
+    },
+    {
+      "verse": 2,
+      "text": "tunc repletum est gaudio os nostrum et lingua nostra exultatione tunc dicent inter gentes magnificavit Dominus facere cum eis tunc implebitur risu os nostrum et lingua nostra laude tunc dicent in gentibus magnificavit Dominus facere cum istis"
+    },
+    {
+      "verse": 3,
+      "text": "magnificavit Dominus facere nobiscum facti sumus laetantes magnificavit Dominus facere nobiscum facti sumus laetantes"
+    },
+    {
+      "verse": 4,
+      "text": "converte Domine captivitatem nostram sicut torrens in austro converte Domine captivitatem nostram sicut rivum in austro"
+    },
+    {
+      "verse": 5,
+      "text": "qui seminant in lacrimis in exultatione metent qui seminant in lacrimis in exultatione metent"
+    },
+    {
+      "verse": 6,
+      "text": "euntes ibant et flebant portantes semina sua venientes autem venient in exultatione portantes manipulos suos qui ambulans ibat et flebat portans ad seminandum sementem veniens veniet in exultatione portans manipulos suos"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "translation": "KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords",
+  "language": "english",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 14,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "To the chief Musician, A Psalm of David. The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good."
+    },
+    {
+      "verse": 2,
+      "text": "The Lord looked down from heaven upon the children of men, to see if there were any that did understand, and seek God."
+    },
+    {
+      "verse": 3,
+      "text": "They are all gone aside, they are all together become filthy: there is none that doeth good, no, not one."
+    },
+    {
+      "verse": 4,
+      "text": "Have all the workers of iniquity no knowledge? who eat up my people as they eat bread, and call not upon the Lord."
+    },
+    {
+      "verse": 5,
+      "text": "There were they in great fear: for God is in the generation of the righteous."
+    },
+    {
+      "verse": 6,
+      "text": "Ye have shamed the counsel of the poor, because the Lord is his refuge."
+    },
+    {
+      "verse": 7,
+      "text": "Oh that the salvation of Israel were come out of Zion! when the Lord bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad."
+    }
+  ]
+}

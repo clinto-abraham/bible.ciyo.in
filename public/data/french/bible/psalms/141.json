@@ -1,0 +1,52 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 141,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Psaume de David. Yahweh, je t'invoque; hâte-toi de venir vers moi; prête l'oreille à ma voix, quand je t'invoque."
+    },
+    {
+      "verse": 2,
+      "text": "Que ma prière soit devant ta face comme l'encens, et l'élévation de mes mains comme l'offrande du soir!"
+    },
+    {
+      "verse": 3,
+      "text": "Yahweh, mets une garde à ma bouche, une sentinelle à la porte de mes lèvres."
+    },
+    {
+      "verse": 4,
+      "text": "N'incline pas mon cœur vers des choses mauvaises; ne l'incline pas à se livrer à des actes de méchanceté avec les hommes qui commettent l'iniquité; que je ne prenne aucune part à leurs festins!"
+    },
+    {
+      "verse": 5,
+      "text": "Que le juste me frappe, c'est une faveur; qu'il me reprenne, c'est un parfum sur ma tête; ma tête ne le refusera pas, car alors je n'opposerai que ma prière à leurs mauvais desseins."
+    },
+    {
+      "verse": 6,
+      "text": "Mais bientôt leurs chefs seront précipités le long des rochers; et l'on écoutera mes paroles, car elles sont agréables."
+    },
+    {
+      "verse": 7,
+      "text": "Comme lorsqu'on laboure et que l'on ameublit la terre, ainsi nos ossements sont semés au bord du schéol."
+    },
+    {
+      "verse": 8,
+      "text": "Car vers toi, Seigneur Yahweh, je tourne mes yeux; auprès de toi je cherche un refuge: n'abandonne pas mon âme!"
+    },
+    {
+      "verse": 9,
+      "text": "Préserve-moi des pièges qu'ils me tendent, des embûches de ceux qui font le mal!"
+    },
+    {
+      "verse": 10,
+      "text": "Que les méchants tombent dans leurs propres filets, et que j'échappe en même temps!"
+    }
+  ]
+}

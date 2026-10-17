@@ -1,0 +1,52 @@
+{
+  "translation": "BSB: Berean Standard Bible",
+  "language": "english-bsb",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 75,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "For the choirmaster: To the tune of “Do Not Destroy.” A Psalm of Asaph. A song. We give thanks to You, O God; we give thanks, for Your Name is near. The people declare Your wondrous works."
+    },
+    {
+      "verse": 2,
+      "text": "“When I choose a time, I will judge fairly."
+    },
+    {
+      "verse": 3,
+      "text": "When the earth and all its dwellers quake, it is I who bear up its pillars. Selah"
+    },
+    {
+      "verse": 4,
+      "text": "I say to the proud, ‘Do not boast,’ and to the wicked, ‘Do not lift up your horn."
+    },
+    {
+      "verse": 5,
+      "text": "Do not lift up your horn against heaven or speak with an outstretched neck.’”"
+    },
+    {
+      "verse": 6,
+      "text": "For exaltation comes neither from east nor west, nor out of the desert,"
+    },
+    {
+      "verse": 7,
+      "text": "but it is God who judges; He brings down one and exalts another."
+    },
+    {
+      "verse": 8,
+      "text": "For a cup is in the hand of the LORD, full of foaming wine mixed with spices. He pours from His cup, and all the wicked of the earth drink it down to the dregs."
+    },
+    {
+      "verse": 9,
+      "text": "But I will proclaim Him forever; I will sing praise to the God of Jacob."
+    },
+    {
+      "verse": 10,
+      "text": "“All the horns of the wicked I will cut off, but the horns of the righteous will be exalted.”"
+    }
+  ]
+}

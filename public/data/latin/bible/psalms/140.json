@@ -1,0 +1,52 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 140,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "psalmus David Domine clamavi ad te exaudi me intende voci meae cum clamavero ad te canticum David Domine clamavi ad te festina mihi exaudi vocem meam clamantis ad te"
+    },
+    {
+      "verse": 2,
+      "text": "dirigatur oratio mea sicut incensum in conspectu tuo elevatio manuum mearum sacrificium vespertinum dirigatur oratio mea sicut incensum in conspectu tuo elevatio manuum mearum sacrificium vespertinum"
+    },
+    {
+      "verse": 3,
+      "text": "pone Domine custodiam ori meo et ostium circumstantiae labiis meis pone Domine custodem ori meo serva paupertatem labiorum meorum"
+    },
+    {
+      "verse": 4,
+      "text": "non declines cor meum in verba malitiae ad excusandas excusationes in peccatis cum hominibus operantibus iniquitatem et non communicabo cum electis eorum ne declines cor meum in verbum malum volvere cogitationes impias cum viris operantibus iniquitatem neque comedere in deliciis eorum"
+    },
+    {
+      "verse": 5,
+      "text": "corripiet me iustus in misericordia et increpabit me oleum autem peccatoris non inpinguet caput meum quoniam adhuc et oratio mea in beneplacitis eorum corripiat me iustus in misericordia et arguat me oleum amaritudinis non inpinguet caput meum quia adhuc et oratio mea pro malitiis eorum"
+    },
+    {
+      "verse": 6,
+      "text": "absorti sunt iuncti petrae iudices eorum audient verba mea quoniam potuerunt sublati sunt iuxta petram iudices eorum et audient verba mea quoniam decora sunt"
+    },
+    {
+      "verse": 7,
+      "text": "sicut crassitudo terrae erupta est super terram dissipata sunt ossa nostra secus infernum sicut agricola cum scindit terram sic dissipata sunt ossa nostra in ore inferi"
+    },
+    {
+      "verse": 8,
+      "text": "quia ad te Domine Domine oculi mei in te speravi non auferas animam meam quia ad te Domine Deus oculi mei in te speravi ne evacues animam meam"
+    },
+    {
+      "verse": 9,
+      "text": "custodi me a laqueo quem statuerunt mihi et ab scandalis operantium iniquitatem custodi me de manibus laquei quod posuerunt mihi et de offendiculis operantium iniquitatem"
+    },
+    {
+      "verse": 10,
+      "text": "cadent in retiaculo eius peccatores singulariter sum ego donec transeam incident in rete eius impii simul ego autem transibo"
+    }
+  ]
+}

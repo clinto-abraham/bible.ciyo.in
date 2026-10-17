@@ -1,0 +1,168 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Numbers",
+  "bookSlug": "numbers",
+  "nativeName": "Numeri",
+  "chapterNumber": 29,
+  "totalVerses": 39,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "mensis etiam septimi prima dies venerabilis et sancta erit vobis omne opus servile non facietis in ea quia dies clangoris est et tubarum"
+    },
+    {
+      "verse": 2,
+      "text": "offeretisque holocaustum in odorem suavissimum Domino vitulum de armento unum arietem unum agnos anniculos inmaculatos septem"
+    },
+    {
+      "verse": 3,
+      "text": "et in sacrificiis eorum similae oleo conspersae tres decimas per singulos vitulos duas decimas per arietem"
+    },
+    {
+      "verse": 4,
+      "text": "unam decimam per agnum qui simul sunt agni septem"
+    },
+    {
+      "verse": 5,
+      "text": "et hircum pro peccato qui offertur in expiationem populi"
+    },
+    {
+      "verse": 6,
+      "text": "praeter holocaustum kalendarum cum sacrificiis suis et holocaustum sempiternum cum libationibus solitis hisdem caerimoniis offeretis in odorem suavissimum incensum Domino"
+    },
+    {
+      "verse": 7,
+      "text": "decima quoque dies mensis huius septimi erit vobis sancta atque venerabilis et adfligetis animas vestras omne opus servile non facietis in ea"
+    },
+    {
+      "verse": 8,
+      "text": "offeretisque holocaustum Domino in odorem suavissimum vitulum de armento unum arietem unum agnos anniculos inmaculatos septem"
+    },
+    {
+      "verse": 9,
+      "text": "et in sacrificiis eorum similae oleo conspersae tres decimas per vitulos singulos duas decimas per arietem"
+    },
+    {
+      "verse": 10,
+      "text": "decimam decimae per agnos singulos qui sunt simul septem agni"
+    },
+    {
+      "verse": 11,
+      "text": "et hircum pro peccato absque his quae offerri pro delicto solent in expiationem et holocaustum sempiternum in sacrificio et libaminibus eorum"
+    },
+    {
+      "verse": 12,
+      "text": "quintadecima vero die mensis septimi quae vobis erit sancta atque venerabilis omne opus servile non facietis in ea sed celebrabitis sollemnitatem Domino septem diebus"
+    },
+    {
+      "verse": 13,
+      "text": "offeretisque holocaustum in odorem suavissimum Domino vitulos de armento tredecim arietes duos agnos anniculos quattuordecim inmaculatos"
+    },
+    {
+      "verse": 14,
+      "text": "et in libamentis eorum similae oleo conspersae tres decimas per vitulos singulos qui sunt simul vituli tredecim et duas decimas arieti uno id est simul arietibus duobus"
+    },
+    {
+      "verse": 15,
+      "text": "et decimam decimae agnis singulis qui sunt simul agni quattuordecim"
+    },
+    {
+      "verse": 16,
+      "text": "et hircum pro peccato absque holocausto sempiterno et sacrificio et libamine eius"
+    },
+    {
+      "verse": 17,
+      "text": "in die altero offeres vitulos de armento duodecim arietes duos agnos anniculos inmaculatos quattuordecim"
+    },
+    {
+      "verse": 18,
+      "text": "sacrificiaque et libamina singulorum per vitulos et arietes et agnos rite celebrabis"
+    },
+    {
+      "verse": 19,
+      "text": "et hircum pro peccato absque holocausto sempiterno sacrificioque eius et libamine"
+    },
+    {
+      "verse": 20,
+      "text": "die tertio offeres vitulos undecim arietes duos agnos anniculos inmaculatos quattuordecim"
+    },
+    {
+      "verse": 21,
+      "text": "sacrificiaque et libamina singulorum per vitulos et arietes et agnos rite celebrabis"
+    },
+    {
+      "verse": 22,
+      "text": "et hircum pro peccato absque holocausto sempiterno et sacrificio et libamine eius"
+    },
+    {
+      "verse": 23,
+      "text": "die quarto offeres vitulos decem arietes duos agnos anniculos inmaculatos quattuordecim"
+    },
+    {
+      "verse": 24,
+      "text": "sacrificiaque eorum et libamina singulorum per vitulos et arietes et agnos rite celebrabis"
+    },
+    {
+      "verse": 25,
+      "text": "et hircum pro peccato absque holocausto sempiterno sacrificioque eius et libamine"
+    },
+    {
+      "verse": 26,
+      "text": "die quinto offeres vitulos novem arietes duos agnos anniculos inmaculatos quattuordecim"
+    },
+    {
+      "verse": 27,
+      "text": "sacrificiaque et libamina singulorum per vitulos et arietes et agnos rite celebrabis"
+    },
+    {
+      "verse": 28,
+      "text": "et hircum pro peccato absque holocausto sempiterno sacrificioque eius et libamine"
+    },
+    {
+      "verse": 29,
+      "text": "die sexto offeres vitulos octo arietes duos agnos anniculos inmaculatos quattuordecim"
+    },
+    {
+      "verse": 30,
+      "text": "sacrificiaque et libamina singulorum per vitulos et arietes et agnos rite celebrabis"
+    },
+    {
+      "verse": 31,
+      "text": "et hircum pro peccato absque holocausto sempiterno sacrificioque eius et libamine"
+    },
+    {
+      "verse": 32,
+      "text": "die septimo offeres vitulos septem arietes duos agnos anniculos inmaculatos quattuordecim"
+    },
+    {
+      "verse": 33,
+      "text": "sacrificiaque et libamina singulorum per vitulos et arietes et agnos rite celebrabis"
+    },
+    {
+      "verse": 34,
+      "text": "et hircum pro peccato absque holocausto sempiterno sacrificioque eius et libamine"
+    },
+    {
+      "verse": 35,
+      "text": "die octavo qui est celeberrimus omne opus servile non facietis"
+    },
+    {
+      "verse": 36,
+      "text": "offerentes holocaustum in odorem suavissimum Domino vitulum unum arietem unum agnos anniculos inmaculatos septem"
+    },
+    {
+      "verse": 37,
+      "text": "sacrificiaque et libamina singulorum per vitulos et arietes et agnos rite celebrabis"
+    },
+    {
+      "verse": 38,
+      "text": "et hircum pro peccato absque holocausto sempiterno sacrificioque eius et libamine"
+    },
+    {
+      "verse": 39,
+      "text": "haec offeretis Domino in sollemnitatibus vestris praeter vota et oblationes spontaneas in holocausto in sacrificio in libamine et in hostiis pacificis"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 3,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "psalmus David cum fugeret a facie Abessalon filii sui canticum David cum fugeret a facie Abessalon filii sui"
+    },
+    {
+      "verse": 2,
+      "text": "Domine quid multiplicati sunt qui tribulant me multi insurgunt adversum me Domine quare multiplicati sunt hostes mei multi consurgunt adversus me"
+    },
+    {
+      "verse": 3,
+      "text": "multi dicunt animae meae non est salus ipsi in Deo eius diapsalma multi dicunt animae meae non est salus huic in Deo semper"
+    },
+    {
+      "verse": 4,
+      "text": "tu autem Domine susceptor meus es gloria mea et exaltans caput meum tu autem Domine clipeus circa me gloria mea et exaltans caput meum"
+    },
+    {
+      "verse": 5,
+      "text": "voce mea ad Dominum clamavi et exaudivit me de monte sancto suo diapsalma voce mea ad Dominum clamabo et exaudiet me de monte sancto suo semper"
+    },
+    {
+      "verse": 6,
+      "text": "ego dormivi et soporatus sum exsurrexi quia Dominus suscipiet me ego dormivi et soporatus sum evigilavi quia Dominus sustentavit me"
+    },
+    {
+      "verse": 7,
+      "text": "non timebo milia populi circumdantis me exsurge Domine salvum me fac Deus meus non timebo milia populi quae circumdederunt me surge Domine salvum me fac Deus meus"
+    },
+    {
+      "verse": 8,
+      "text": "quoniam tu percussisti omnes adversantes mihi sine causa dentes peccatorum contrivisti quia percussisti omnium inimicorum meorum maxillam dentes impiorum confregisti"
+    },
+    {
+      "verse": 9,
+      "text": "Domini est salus et super populum tuum benedictio tua Domini est salus super populum tuum benedictio tua semper"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 24,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Psaume de David. A Yahweh est la terre et ce qu'elle renferme, le monde et tous ceux qui l'habitent."
+    },
+    {
+      "verse": 2,
+      "text": "Car c'est lui qui l'a fondée sur les mers, qui l'a affermie sur les fleuves."
+    },
+    {
+      "verse": 3,
+      "text": "Qui montera à la montagne de Yahweh? qui se tiendra dans son lieu saint? —"
+    },
+    {
+      "verse": 4,
+      "text": "Celui qui a les mains innocentes et le cœur pur; celui qui ne livre pas son âme au mensonge, et qui ne jure pas pour tromper."
+    },
+    {
+      "verse": 5,
+      "text": "Il obtiendra la bénédiction de Yahweh, la justice du Dieu de son salut."
+    },
+    {
+      "verse": 6,
+      "text": "Telle est la race de ceux qui le cherchent, de ceux qui cherchent la face du Dieu de Jacob. — Séla."
+    },
+    {
+      "verse": 7,
+      "text": "Portes, élevez vos linteaux; élevez-vous, portes antiques: que le Roi de gloire fasse son entrée! —"
+    },
+    {
+      "verse": 8,
+      "text": "Quel est ce Roi de gloire? — Yahweh fort et puissant, Yahweh puissant dans les combats."
+    },
+    {
+      "verse": 9,
+      "text": "Portes, élevez vos linteaux; élevez-vous, portes antiques: que le Roi de gloire fasse son entrée! —"
+    },
+    {
+      "verse": 10,
+      "text": "Quel est ce Roi de gloire? — Yahweh des armées, voilà le Roi de gloire! — Séla."
+    }
+  ]
+}

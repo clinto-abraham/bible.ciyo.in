@@ -1,0 +1,44 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 130,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cantique des montées. Du fond de l'abîme je crie vers toi, Yahweh."
+    },
+    {
+      "verse": 2,
+      "text": "Seigneur, écoute ma voix; que tes oreilles soient attentives aux accents de ma prière!"
+    },
+    {
+      "verse": 3,
+      "text": "Si tu gardes le souvenir de l'iniquité, Yahweh, Seigneur, qui pourra subsister?"
+    },
+    {
+      "verse": 4,
+      "text": "Mais auprès de toi est le pardon, afin qu'on te révère."
+    },
+    {
+      "verse": 5,
+      "text": "J'espère en Yahweh; mon âme espère, et j'attends sa parole."
+    },
+    {
+      "verse": 6,
+      "text": "Mon âme aspire après le Seigneur plus que les guetteurs n'aspirent après l'aurore."
+    },
+    {
+      "verse": 7,
+      "text": "Israël, mets ton espoir en Yahweh! Car avec Yahweh est la miséricorde, avec lui une surabondante délivrance."
+    },
+    {
+      "verse": 8,
+      "text": "C'est lui qui rachètera Israël de toutes ses iniquités."
+    }
+  ]
+}

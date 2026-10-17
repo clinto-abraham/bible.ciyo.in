@@ -1,0 +1,40 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 87,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Psaume des fils de Coré. Cantique. Il l'a fondée sur les saintes montagnes!"
+    },
+    {
+      "verse": 2,
+      "text": "Yahweh aime les portes de Sion, plus que toutes les demeures de Jacob."
+    },
+    {
+      "verse": 3,
+      "text": "Des choses glorieuses ont été dites sur toi, cité de Dieu! — Séla."
+    },
+    {
+      "verse": 4,
+      "text": "\" Je nommerai Rahab et Babylone parmi ceux qui me connaissent; voici les Philistins, et Tyr, avec l'Ethiopie: c'est là qu'ils sont nés. \""
+    },
+    {
+      "verse": 5,
+      "text": "Et l'on dira de Sion: Celui-ci et celui-là y est né; c'est Lui, le Très-Haut, qui l'a fondée."
+    },
+    {
+      "verse": 6,
+      "text": "Yahweh inscrira au rôle des peuples: \" Celui-ci est né là. \" — Séla."
+    },
+    {
+      "verse": 7,
+      "text": "Et chanteurs et musiciens disent: \" Toutes mes sources sont en toi. \""
+    }
+  ]
+}

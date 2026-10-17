@@ -1,0 +1,56 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 29,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Psaume de David. Donnez à Yahweh, fils de Dieu, donnez à Yahweh gloire et puissance!"
+    },
+    {
+      "verse": 2,
+      "text": "Donnez à Yahweh la gloire de son nom! Adorez Yahweh dans de saints ornements."
+    },
+    {
+      "verse": 3,
+      "text": "La voix de Yahweh gronde au-dessus des eaux, le Dieu de la gloire tonne, Yahweh est sur les grandes eaux."
+    },
+    {
+      "verse": 4,
+      "text": "La voix de Yahweh est puissante, la voix de Yahweh est majestueuse."
+    },
+    {
+      "verse": 5,
+      "text": "La voix de Yahweh brise les cèdres, Yahweh brise les cèdres du Liban;"
+    },
+    {
+      "verse": 6,
+      "text": "il les fait bondir comme un jeune taureau, le Liban et le Sirion comme le petit du buffle."
+    },
+    {
+      "verse": 7,
+      "text": "La voix de Yahweh fait jaillir des flammes de feu,"
+    },
+    {
+      "verse": 8,
+      "text": "la voix de Yahweh ébranle le désert, Yahweh ébranle le désert de Cadès."
+    },
+    {
+      "verse": 9,
+      "text": "La voix de Yahweh fait enfanter les biches, elle dépouille les forêts de leur feuillage, et dans son temple tout dit: \" Gloire! \""
+    },
+    {
+      "verse": 10,
+      "text": "Yahweh, au déluge, est assis sur son trône, Yahweh siège sur son trône, roi pour l'éternité."
+    },
+    {
+      "verse": 11,
+      "text": "Yahweh donnera la force à son peuple; Yahweh bénira son peuple en lui donnant la paix."
+    }
+  ]
+}

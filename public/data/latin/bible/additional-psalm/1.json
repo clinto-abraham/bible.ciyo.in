@@ -1,0 +1,40 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Additional Psalm",
+  "bookSlug": "additional-psalm",
+  "nativeName": "Additional Psalm",
+  "chapterNumber": 1,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "hic psalmus proprie scriptus David et extra numerum cum pugnavit cum Goliad pusillus eram inter fratres meos et adulescentior in domo patris mei pascebam oves patris mei"
+    },
+    {
+      "verse": 2,
+      "text": "manus meae fecerunt organum digiti mei aptaverunt psalterium"
+    },
+    {
+      "verse": 3,
+      "text": "et quis adnuntiabit Domino meo ipse Dominus ipse omnium exaudiet"
+    },
+    {
+      "verse": 4,
+      "text": "ipse misit angelum suum et tulit me de ovibus patris mei et unxit me in misericordia unctionis suae"
+    },
+    {
+      "verse": 5,
+      "text": "fratres mei boni et magni et non fuit beneplacitum in eis Domino"
+    },
+    {
+      "verse": 6,
+      "text": "exivi obviam alienigenae et maledixit mihi in simulacris suis"
+    },
+    {
+      "verse": 7,
+      "text": "ego autem evaginato ab eo ipsius gladio amputavi caput eius et abstuli obprobrium de filiis Israhel"
+    }
+  ]
+}

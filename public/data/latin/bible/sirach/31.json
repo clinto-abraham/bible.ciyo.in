@@ -1,0 +1,180 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Sirach",
+  "bookSlug": "sirach",
+  "nativeName": "Sirach",
+  "chapterNumber": 31,
+  "totalVerses": 42,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "vigilia honestatis tabefacit carnes et cogitatus illius auferet somnum"
+    },
+    {
+      "verse": 2,
+      "text": "cogitatus praesentiae avertit sensum et infirmitas gravis sobriam facit animam"
+    },
+    {
+      "verse": 3,
+      "text": "laboravit dives in congregatione substantiae et in requie sua replebitur bonorum suorum"
+    },
+    {
+      "verse": 4,
+      "text": "laboravit pauper in diminutione victus et in fine inops fit"
+    },
+    {
+      "verse": 5,
+      "text": "qui aurum diligit non iustificabitur et qui insequitur consumptionem replebitur ex ea"
+    },
+    {
+      "verse": 6,
+      "text": "multi dati sunt in auri casus et facta est in facie ipsius perditio illorum"
+    },
+    {
+      "verse": 7,
+      "text": "lignum offensionis est aurum sacrificantium vae illis qui sectantur illud et omnis inprudens deperiet in illo"
+    },
+    {
+      "verse": 8,
+      "text": "beatus dives qui inventus est sine macula et qui post aurum non abiit nec speravit in pecunia et thesauris"
+    },
+    {
+      "verse": 9,
+      "text": "quis est hic et laudabimus eum fecit enim mirabilia in vita sua"
+    },
+    {
+      "verse": 10,
+      "text": "quis probatus est in illo et perfectus est et erit illi in gloria aeterna qui potuit transgredi et non est transgressus et facere mala et non fecit"
+    },
+    {
+      "verse": 11,
+      "text": "ideo stabilita sunt bona illius in Deo et elemosynas illius enarrabit ecclesia sanctorum"
+    },
+    {
+      "verse": 12,
+      "text": "de continentia supra mensam magnam sedisti non aperias super illam faucem tuam prior"
+    },
+    {
+      "verse": 13,
+      "text": "non dicas simulata sunt quae super illa sunt"
+    },
+    {
+      "verse": 14,
+      "text": "memento quoniam malum oculus nequa"
+    },
+    {
+      "verse": 15,
+      "text": "nequius oculo quid creatum est ideo ab omni facie sua lacrimabitur cum viderit"
+    },
+    {
+      "verse": 16,
+      "text": "ne extendas manum tuam prior et invidia contaminatus obrubescas"
+    },
+    {
+      "verse": 17,
+      "text": "nec conprimaris in convivio"
+    },
+    {
+      "verse": 18,
+      "text": "intellege proximi tui ex te ipso"
+    },
+    {
+      "verse": 19,
+      "text": "utere quasi homo frugi quae tibi adponuntur et non cum manducas multum odio habearis"
+    },
+    {
+      "verse": 20,
+      "text": "cessa prior causa disciplinae et noli nimius esse ne forte offendas"
+    },
+    {
+      "verse": 21,
+      "text": "et si in medio multorum sedisti prior illis non extendas manum tuam nec prior poscas bibere"
+    },
+    {
+      "verse": 22,
+      "text": "quam sufficiens est homini erudito vinum exiguum et in dormiendo non laborabis ab illo et non senties dolorem"
+    },
+    {
+      "verse": 23,
+      "text": "vigilia et cholera et tortura viro infrunito"
+    },
+    {
+      "verse": 24,
+      "text": "somnus sanitatis in homine parco dormiet usque in mane et anima illius cum ipso delectabitur"
+    },
+    {
+      "verse": 25,
+      "text": "et si coactus fueris in edendo multum surge e medio et vome et refrigerabit te et non adduces corpori tuo infirmitates"
+    },
+    {
+      "verse": 26,
+      "text": "audi me fili et ne spernas me et in novissimo invenies mea verba"
+    },
+    {
+      "verse": 27,
+      "text": "in omnibus operibus tuis esto velox et omnis infirmitas non occurret tibi"
+    },
+    {
+      "verse": 28,
+      "text": "splendidum in panibus benedicent labia multorum et testimonium veritatis illius fidele"
+    },
+    {
+      "verse": 29,
+      "text": "in nequissimo pane murmurabit civitas et testimonium nequitiae illius verum est"
+    },
+    {
+      "verse": 30,
+      "text": "diligentes in vino noli provocare multos enim exterminavit vinum"
+    },
+    {
+      "verse": 31,
+      "text": "ignis probat ferrum durum sic vinum corda superborum arguet in ebrietate potatum"
+    },
+    {
+      "verse": 32,
+      "text": "aequavit in vita vinum hominibus si bibas illud moderate eris sobrius"
+    },
+    {
+      "verse": 33,
+      "text": "quae est vita quae minuitur vino"
+    },
+    {
+      "verse": 34,
+      "text": "quid defraudat vitam mors"
+    },
+    {
+      "verse": 35,
+      "text": "vinum in iucunditate creatum est non in ebrietate ab initio"
+    },
+    {
+      "verse": 36,
+      "text": "exultatio animae et cordis vinum moderate potatum"
+    },
+    {
+      "verse": 37,
+      "text": "sanitas est et corpori et animae"
+    },
+    {
+      "verse": 38,
+      "text": "vinum multum potatum inritationem et iram et ruinas multas facit"
+    },
+    {
+      "verse": 39,
+      "text": "amaritudo animae vinum multum potatum"
+    },
+    {
+      "verse": 40,
+      "text": "ebrietatis animositas inprudentis offensio minorans virtutem et faciens vulnera"
+    },
+    {
+      "verse": 41,
+      "text": "in convivio vini non arguas proximum et non despicias eum in iucunditate illius"
+    },
+    {
+      "verse": 42,
+      "text": "verba inproperii non dicas illi et non premas illum in repetendo"
+    }
+  ]
+}

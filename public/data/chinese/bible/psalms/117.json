@@ -1,0 +1,20 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 117,
+  "totalVerses": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "萬 國啊，你們都當讚美 耶和華！萬 民哪，你們都當頌讚他！"
+    },
+    {
+      "verse": 2,
+      "text": "因為 他向我們 大 施慈愛；耶和華 的誠實 存到永遠。你們要讚美 耶和華！"
+    }
+  ]
+}

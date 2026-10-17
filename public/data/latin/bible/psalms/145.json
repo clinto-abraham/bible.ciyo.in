@@ -1,0 +1,52 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 145,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "alleluia Aggei et Zacchariae alleluia"
+    },
+    {
+      "verse": 2,
+      "text": "lauda anima mea Dominum laudabo Dominum in vita mea psallam Deo meo quamdiu fuero nolite confidere in principibus lauda anima mea Dominum laudabo Dominum in vita mea cantabo Deo meo quamdiu sum nolite confidere in principibus"
+    },
+    {
+      "verse": 3,
+      "text": "in filiis hominum quibus non est salus in filio hominis cui non est salus"
+    },
+    {
+      "verse": 4,
+      "text": "exibit spiritus eius et revertetur in terram suam in illa die peribunt omnes cogitationes eorum egredietur spiritus eius et revertetur in humum suam in die illa peribunt cogitationes eius"
+    },
+    {
+      "verse": 5,
+      "text": "beatus cuius Deus Iacob adiutor eius spes eius in Domino Deo ipsius beatus cuius Deus Iacob auxiliator eius spes eius in Domino Deo suo"
+    },
+    {
+      "verse": 6,
+      "text": "qui fecit caelum et terram mare et omnia quae in eis qui fecit caelos et terram mare et omnia quae in eis sunt"
+    },
+    {
+      "verse": 7,
+      "text": "qui custodit veritatem in saeculum facit iudicium iniuriam patientibus dat escam esurientibus Dominus solvit conpeditos et custodit veritatem in sempiternum qui facit iudicium calumniam sustinentibus et dat panem esurientibus Dominus solvit vinctos"
+    },
+    {
+      "verse": 8,
+      "text": "Dominus inluminat caecos Dominus erigit adlisos Dominus diligit iustos Dominus inluminat caecos Dominus erigit adlisos Dominus diligit iustos"
+    },
+    {
+      "verse": 9,
+      "text": "Dominus custodit advenas pupillum et viduam suscipiet et viam peccatorum disperdet Dominus custodit advenas pupillum et viduam suscipiet et viam impiorum conteret"
+    },
+    {
+      "verse": 10,
+      "text": "regnabit Dominus in saecula Deus tuus Sion in generationem et generationem regnabit Dominus in aeternum Deus tuus Sion in generationem et generationem"
+    }
+  ]
+}

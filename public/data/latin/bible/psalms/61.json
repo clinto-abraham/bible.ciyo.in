@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 61,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem pro Idithun psalmus David victori per Idithun canticum David"
+    },
+    {
+      "verse": 2,
+      "text": "nonne Deo subiecta erit anima mea ab ipso enim salutare meum attamen apud Deum silebit anima mea ex eo salus mea"
+    },
+    {
+      "verse": 3,
+      "text": "nam et ipse Deus meus et salutaris meus susceptor meus non movebor amplius attamen ipse est scutum meum et salus mea fortitudo mea non commovebor amplius"
+    },
+    {
+      "verse": 4,
+      "text": "quousque inruitis in hominem interficitis universi vos tamquam parieti inclinato et maceriae depulsae usquequo insidiamini contra virum interficitis omnes quasi murus inclinus et maceria corruens"
+    },
+    {
+      "verse": 5,
+      "text": "verumtamen pretium meum cogitaverunt repellere cucurri in siti ore suo benedicebant et corde suo maledicebant diapsalma partem enim eius cogitaverunt expellere placuerunt sibi in mendacio ore suo singuli benedicunt et corde suo maledicunt semper"
+    },
+    {
+      "verse": 6,
+      "text": "verumtamen Deo subiecta esto anima mea quoniam ab ipso patientia mea verumtamen Deo retice anima mea ab ipso enim praestolatio mea"
+    },
+    {
+      "verse": 7,
+      "text": "quia ipse Deus meus et salvator meus adiutor meus non emigrabo ipse est fortitudo mea et salus mea susceptor meus non timebo"
+    },
+    {
+      "verse": 8,
+      "text": "in Deo salutare meum et gloria mea Deus auxilii mei et spes mea in Deo est in Deo salutare meum et gloria mea robur fortitudinis meae salus mea in Deo"
+    },
+    {
+      "verse": 9,
+      "text": "sperate in eo omnis congregatio populi effundite coram illo corda vestra Deus adiutor noster in aeternum sperate in eo omni tempore populi effundite coram eo cor vestrum Deus spes nostra est semper"
+    },
+    {
+      "verse": 10,
+      "text": "verumtamen vani filii hominum mendaces filii hominum in stateris ut decipiant ipsi de vanitate in id ipsum verumtamen vanitas filii Adam mendacium filii viri in stateris dolosis fraudulenter agunt simul"
+    },
+    {
+      "verse": 11,
+      "text": "nolite sperare in iniquitate et rapinas nolite concupiscere divitiae si affluant nolite cor adponere nolite confidere in calumnia et in rapina ne frustremini divitiae si fluxerint ne adponatis cor"
+    },
+    {
+      "verse": 12,
+      "text": "semel locutus est Deus duo haec audivi quia potestas Dei unum locutus est Deus duo haec audivi quia imperium Dei est"
+    },
+    {
+      "verse": 13,
+      "text": "et tibi Domine misericordia quia tu reddes unicuique iuxta opera sua et tibi Domine misericordia quia tu reddes unicuique secundum opus suum"
+    }
+  ]
+}

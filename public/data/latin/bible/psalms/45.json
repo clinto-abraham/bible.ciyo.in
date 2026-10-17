@@ -1,0 +1,60 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 45,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem pro filiis Core pro arcanis psalmus victori filiorum Core pro iuventutibus canticum"
+    },
+    {
+      "verse": 2,
+      "text": "Deus noster refugium et virtus adiutor in tribulationibus quae invenerunt nos nimis Deus nostra spes et fortitudo auxilium in tribulationibus inventus es validum"
+    },
+    {
+      "verse": 3,
+      "text": "propterea non timebimus dum turbabitur terra et transferentur montes in cor maris ideo non timebimus cum fuerit translata terra et concussi montes in corde maris"
+    },
+    {
+      "verse": 4,
+      "text": "sonaverunt et turbatae sunt aquae eorum conturbati sunt montes in fortitudine eius diapsalma sonantibus et intumescentibus gurgitibus eius et agitatis montibus in potentia eius semper"
+    },
+    {
+      "verse": 5,
+      "text": "fluminis impetus laetificat civitatem Dei sanctificavit tabernaculum suum Altissimus fluminis divisiones laetificant civitatem Dei sanctum tabernaculum Altissimi"
+    },
+    {
+      "verse": 6,
+      "text": "Deus in medio eius non commovebitur adiuvabit eam Deus mane diluculo Dominus in medio eius non commovebitur auxiliabitur ei Deus in ipso ortu matutino"
+    },
+    {
+      "verse": 7,
+      "text": "conturbatae sunt gentes inclinata sunt regna dedit vocem suam mota est terra conturbatae sunt gentes concussa sunt regna dedit vocem suam prostrata est terra"
+    },
+    {
+      "verse": 8,
+      "text": "Dominus virtutum nobiscum susceptor noster Deus Iacob diapsalma Dominus exercituum nobiscum protector noster Deus Iacob semper"
+    },
+    {
+      "verse": 9,
+      "text": "venite et videte opera Domini quae posuit prodigia super terram venite et videte opera Domini quantas posuerit solitudines in terra"
+    },
+    {
+      "verse": 10,
+      "text": "auferens bella usque ad finem terrae arcum conteret et confringet arma et scuta conburet in igne conpescuit bella usque ad extremum terrae arcum confringet et concidet hastam plaustra conburet igni"
+    },
+    {
+      "verse": 11,
+      "text": "vacate et videte quoniam ego sum Deus exaltabor in gentibus exaltabor in terra cessate et cognoscite quoniam ego sum Deus exaltabor in gentibus exaltabor in terra"
+    },
+    {
+      "verse": 12,
+      "text": "Dominus virtutum nobiscum susceptor noster Deus Iacob Dominus exercituum nobiscum fortitudo nostra Deus Iacob semper"
+    }
+  ]
+}

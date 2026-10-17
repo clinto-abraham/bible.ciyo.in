@@ -1,0 +1,44 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 114,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "以色列 出了 埃及，雅各 家 離開說異言 之民；"
+    },
+    {
+      "verse": 2,
+      "text": "那時，猶大 為 主的聖所，以色列 為他所治理的國度。"
+    },
+    {
+      "verse": 3,
+      "text": "滄海 看見 就奔逃；約旦河 也倒 流。"
+    },
+    {
+      "verse": 4,
+      "text": "大山 踴躍，如公羊；小山跳舞，如羊羔。"
+    },
+    {
+      "verse": 5,
+      "text": "滄海啊，你 為何 奔逃？約旦哪，你為何倒 流？"
+    },
+    {
+      "verse": 6,
+      "text": "大山哪，你為何踴躍，如公羊？小山哪，你為何跳舞，如羊羔？"
+    },
+    {
+      "verse": 7,
+      "text": "大地啊，你因見主 的面，就是雅各 神 的面，便要震動。"
+    },
+    {
+      "verse": 8,
+      "text": "他叫磐石 變為 水 池，叫堅石 變為泉源。"
+    }
+  ]
+}

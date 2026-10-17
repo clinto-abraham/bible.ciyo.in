@@ -1,0 +1,64 @@
+{
+  "translation": "BSB: Berean Standard Bible",
+  "language": "english-bsb",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 140,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "For the choirmaster. A Psalm of David. Rescue me, O LORD, from evil men. Protect me from men of violence,"
+    },
+    {
+      "verse": 2,
+      "text": "who devise evil in their hearts and stir up war all day long."
+    },
+    {
+      "verse": 3,
+      "text": "They sharpen their tongues like snakes; the venom of vipers is on their lips. Selah"
+    },
+    {
+      "verse": 4,
+      "text": "Guard me, O LORD, from the hands of the wicked. Keep me safe from men of violence who scheme to make me stumble."
+    },
+    {
+      "verse": 5,
+      "text": "The proud hide a snare for me; the cords of their net are spread along the path, and lures are set out for me. Selah"
+    },
+    {
+      "verse": 6,
+      "text": "I say to the LORD, “You are my God.” Hear, O LORD, my cry for help."
+    },
+    {
+      "verse": 7,
+      "text": "O GOD the Lord, the strength of my salvation, You shield my head in the day of battle."
+    },
+    {
+      "verse": 8,
+      "text": "Grant not, O LORD, the desires of the wicked; do not promote their evil plans, lest they be exalted. Selah"
+    },
+    {
+      "verse": 9,
+      "text": "May the heads of those who surround me be covered in the trouble their lips have caused."
+    },
+    {
+      "verse": 10,
+      "text": "May burning coals fall on them; may they be thrown into the fire, into the miry pits, never to rise again."
+    },
+    {
+      "verse": 11,
+      "text": "May no slanderer be established in the land; may calamity hunt down the man of violence."
+    },
+    {
+      "verse": 12,
+      "text": "I know that the LORD upholds justice for the poor and defends the cause of the needy."
+    },
+    {
+      "verse": 13,
+      "text": "Surely the righteous will praise Your name; the upright will dwell in Your presence."
+    }
+  ]
+}

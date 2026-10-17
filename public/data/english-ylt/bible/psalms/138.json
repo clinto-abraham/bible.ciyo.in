@@ -1,0 +1,44 @@
+{
+  "translation": "YLT: Young's Literal Translation (1898)",
+  "language": "english-ylt",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 138,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "By David. I confess Thee, with all my heart, Before the gods I do praise Thee."
+    },
+    {
+      "verse": 2,
+      "text": "I bow myself toward Thy holy temple, And I confess Thy name, For Thy kindness, and for Thy truth, For Thou hast made great Thy saying above all Thy name."
+    },
+    {
+      "verse": 3,
+      "text": "In the day I called, when Thou dost answer me, Thou dost strengthen me in my soul with strength."
+    },
+    {
+      "verse": 4,
+      "text": "O Jehovah, all kings of earth confess Thee, When they have heard the sayings of Thy mouth."
+    },
+    {
+      "verse": 5,
+      "text": "And they sing in the ways of Jehovah, For great is the honour of Jehovah."
+    },
+    {
+      "verse": 6,
+      "text": "For high is Jehovah, and the lowly He seeth, And the haughty from afar He knoweth."
+    },
+    {
+      "verse": 7,
+      "text": "If I walk in the midst of distress Thou quickenest me, Against the anger of mine enemies Thou sendest forth Thy hand, And Thy right hand doth save me."
+    },
+    {
+      "verse": 8,
+      "text": "Jehovah doth perfect for me, O Jehovah, Thy kindness is to the age, The works of Thy hands let not fall!"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "II Chronicles",
+  "bookSlug": "2-chronicles",
+  "nativeName": "II Chronicles",
+  "chapterNumber": 27,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "viginti quinque annorum erat Ioatham cum regnare coepisset et sedecim annis regnavit in Hierusalem nomen matris eius Hierusa filia Sadoc"
+    },
+    {
+      "verse": 2,
+      "text": "fecitque quod rectum erat coram Domino iuxta omnia quae fecerat Ozias pater suus excepto quod non est ingressus templum Domini et adhuc populus delinquebat"
+    },
+    {
+      "verse": 3,
+      "text": "ipse aedificavit portam domus Domini Excelsam et in muro Ophel multa construxit"
+    },
+    {
+      "verse": 4,
+      "text": "urbes quoque aedificavit in montibus Iuda et in saltibus castella et turres"
+    },
+    {
+      "verse": 5,
+      "text": "ipse pugnavit contra regem filiorum Ammon et vicit eos dederuntque ei filii Ammon in tempore illo centum talenta argenti et decem milia choros tritici ac totidem choros hordei haec ei praebuerunt filii Ammon in anno secundo et tertio"
+    },
+    {
+      "verse": 6,
+      "text": "corroboratusque est Ioatham eo quod direxisset vias suas coram Domino Deo suo"
+    },
+    {
+      "verse": 7,
+      "text": "reliqua autem sermonum Ioatham et omnes pugnae eius et opera scripta sunt in libro regum Israhel et Iuda"
+    },
+    {
+      "verse": 8,
+      "text": "viginti quinque annorum erat cum regnare coepisset et sedecim annis regnavit in Hierusalem"
+    },
+    {
+      "verse": 9,
+      "text": "dormivitque Ioatham cum patribus suis et sepelierunt eum in civitate David et regnavit Achaz filius eius pro eo"
+    }
+  ]
+}

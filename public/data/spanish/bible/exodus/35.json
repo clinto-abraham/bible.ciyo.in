@@ -1,0 +1,152 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Exodus",
+  "bookSlug": "exodus",
+  "nativeName": "Éxodo",
+  "chapterNumber": 35,
+  "totalVerses": 35,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Y MOISÉS hizo juntar toda la congregación de los hijos de Israel, y díjoles: Estas son las cosas que Jehová ha mandado que hagáis."
+    },
+    {
+      "verse": 2,
+      "text": "Seis días se hará obra, mas el día séptimo os será santo, sábado de reposo á Jehová: cualquiera que en él hiciere obra, morirá."
+    },
+    {
+      "verse": 3,
+      "text": "No encenderéis fuego en todas vuestras moradas en el día del sábado."
+    },
+    {
+      "verse": 4,
+      "text": "Y habló Moisés á toda la congregación de los hijos de Israel, diciendo: Esto es lo que Jehová ha mandado, diciendo:"
+    },
+    {
+      "verse": 5,
+      "text": "Tomad de entre vosotros ofrenda para Jehová: todo liberal de corazón la traerá á Jehová: oro, plata, metal;"
+    },
+    {
+      "verse": 6,
+      "text": "Y cárdeno, y púrpura, y carmesí, y lino fino, y pelo de cabras;"
+    },
+    {
+      "verse": 7,
+      "text": "Y cueros rojos de carneros, y cueros de tejones, y madera de Sittim;"
+    },
+    {
+      "verse": 8,
+      "text": "Y aceite para la luminaria, y especias aromáticas para el aceite de la unción, y para el perfume aromático;"
+    },
+    {
+      "verse": 9,
+      "text": "Y piedras de onix, y demás pedrería, para el ephod, y para el racional."
+    },
+    {
+      "verse": 10,
+      "text": "Y todo sabio de corazón entre vosotros, vendrá y hará todas las cosas que Jehová ha mandado:"
+    },
+    {
+      "verse": 11,
+      "text": "El tabernáculo, su tienda, y su cubierta, y sus anillos, y sus tablas, sus barras, sus columnas, y sus basas;"
+    },
+    {
+      "verse": 12,
+      "text": "El arca, y sus varas, la cubierta, y el velo de la tienda;"
+    },
+    {
+      "verse": 13,
+      "text": "La mesa, y sus varas, y todos sus vasos, y el pan de la proposición."
+    },
+    {
+      "verse": 14,
+      "text": "El candelero de la luminaria, y sus vasos, y sus candilejas, y el aceite para la luminaria;"
+    },
+    {
+      "verse": 15,
+      "text": "Y el altar del perfume, y sus varas, y el aceite de la unción, y el perfume aromático, y el pabellón de la puerta, para la entrada del tabernáculo;"
+    },
+    {
+      "verse": 16,
+      "text": "El altar del holocausto, y su enrejado de metal, y sus varas, y todos sus vasos, y la fuente con su basa;"
+    },
+    {
+      "verse": 17,
+      "text": "Las cortinas del atrio, sus columnas, y sus basas, y el pabellón de la puerta del atrio;"
+    },
+    {
+      "verse": 18,
+      "text": "Las estacas del tabernáculo, y las estacas del atrio, y sus cuerdas;"
+    },
+    {
+      "verse": 19,
+      "text": "Las vestiduras del servicio para ministrar en el santuario, las sagradas vestiduras de Aarón el sacerdote, y las vestiduras de sus hijos para servir en el sacerdocio."
+    },
+    {
+      "verse": 20,
+      "text": "Y salió toda la congregación de los hijos de Israel de delante de Moisés."
+    },
+    {
+      "verse": 21,
+      "text": "Y vino todo varón á quien su corazón estimuló, y todo aquel á quien su espíritu le dió voluntad, y trajeron ofrenda á Jehová para la obra del tabernáculo del testimonio, y para toda su fábrica, y para las sagradas vestiduras."
+    },
+    {
+      "verse": 22,
+      "text": "Y vinieron así hombres como mujeres, todo voluntario de corazón, y trajeron cadenas y zarcillos, sortijas y brazaletes, y toda joya de oro; y cualquiera ofrecía ofrenda de oro á Jehová."
+    },
+    {
+      "verse": 23,
+      "text": "Todo hombre que se hallaba con jacinto, ó púrpura, ó carmesí, ó lino fino, ó pelo de cabras, ó cueros rojos de carneros, ó cueros de tejones, lo traía."
+    },
+    {
+      "verse": 24,
+      "text": "Cualquiera que ofrecía ofrenda de plata ó de metal, traía á Jehová la ofrenda: y todo el que se hallaba con madera de Sittim, traíala para toda la obra del servicio."
+    },
+    {
+      "verse": 25,
+      "text": "Además todas las mujeres sabias de corazón hilaban de sus manos, y traían lo que habían hilado: cárdeno, ó púrpura, ó carmesí, ó lino fino."
+    },
+    {
+      "verse": 26,
+      "text": "Y todas las mujeres cuyo corazón las levantó en sabiduría, hilaron pelos de cabras."
+    },
+    {
+      "verse": 27,
+      "text": "Y los príncipes trajeron piedras de onix, y las piedras de los engastes para el ephod y el racional;"
+    },
+    {
+      "verse": 28,
+      "text": "Y la especia aromática y aceite, para la luminaria, y para el aceite de la unción, y para el perfume aromático."
+    },
+    {
+      "verse": 29,
+      "text": "De los hijos de Israel, así hombres como mujeres, todos los que tuvieron corazón voluntario para traer para toda la obra, que Jehová había mandado por medio de Moisés que hiciesen, trajeron ofrenda voluntaria á Jehová."
+    },
+    {
+      "verse": 30,
+      "text": "Y dijo Moisés á los hijos de Israel: Mirad, Jehová ha nombrado á Bezaleel, hijo de Uri, hijo de Hur, de la tribu de Judá;"
+    },
+    {
+      "verse": 31,
+      "text": "Y lo ha henchido de espíritu de Dios, en sabiduría, en inteligencia, y en ciencia, y en todo artificio,"
+    },
+    {
+      "verse": 32,
+      "text": "Para proyectar inventos, para trabajar en oro, y en plata, y en metal,"
+    },
+    {
+      "verse": 33,
+      "text": "Y en obra de pedrería para engastar, y en obra de madera, para trabajar en toda invención ingeniosa."
+    },
+    {
+      "verse": 34,
+      "text": "Y ha puesto en su corazón el que pueda enseñar, así él como Aholiab, hijo de Ahisamac, de la tribu de Dan:"
+    },
+    {
+      "verse": 35,
+      "text": "Y los ha henchido de sabiduría de corazón, para que hagan toda obra de artificio, y de invención, y de recamado en jacinto, y en púrpura, y en carmesí, y en lino fino, y en telar; para que hagan toda labor, é inventen todo diseño."
+    }
+  ]
+}

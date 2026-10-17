@@ -1,0 +1,40 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 109,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "David psalmus dixit Dominus Domino meo sede a dextris meis donec ponam inimicos tuos scabillum pedum tuorum David canticum dixit Dominus Domino meo sede a dextris meis donec ponam inimicos tuos scabillum pedum tuorum"
+    },
+    {
+      "verse": 2,
+      "text": "virgam virtutis tuae emittet Dominus ex Sion dominare in medio inimicorum tuorum virgam fortitudinis tuae emittet Dominus ex Sion dominare in medio inimicorum tuorum"
+    },
+    {
+      "verse": 3,
+      "text": "tecum principium in die virtutis tuae in splendoribus sanctorum ex utero ante luciferum genui te populi tui spontanei erunt in die fortitudinis tuae in montibus sanctis quasi de vulva orietur tibi ros adulescentiae tuae"
+    },
+    {
+      "verse": 4,
+      "text": "iuravit Dominus et non paenitebit eum tu es sacerdos in aeternum secundum ordinem Melchisedech iuravit Dominus et non paenitebit eum tu es sacerdos in aeternum secundum ordinem Melchisedech"
+    },
+    {
+      "verse": 5,
+      "text": "Dominus a dextris tuis confregit in die irae suae reges Dominus ad dexteram tuam percussit in die furoris sui reges"
+    },
+    {
+      "verse": 6,
+      "text": "iudicabit in nationibus implebit cadavera conquassabit capita in terra multorum iudicabit in gentibus implebit valles percutiet caput in terra multa"
+    },
+    {
+      "verse": 7,
+      "text": "de torrente in via bibet propterea exaltabit caput de torrente in via bibet propterea exaltabit caput"
+    }
+  ]
+}

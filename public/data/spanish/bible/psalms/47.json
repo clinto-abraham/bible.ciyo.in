@@ -1,0 +1,48 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 47,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Al Músico principal: de los hijos de Coré: Salmo. PUEBLOS todos, batid las manos; aclamad á Dios con voz de júbilo."
+    },
+    {
+      "verse": 2,
+      "text": "Porque Jehová el Altísimo es terrible; Rey grande sobre toda la tierra."
+    },
+    {
+      "verse": 3,
+      "text": "El sujetará á los pueblos debajo de nosotros, y á las gentes debajo de nuestros pies."
+    },
+    {
+      "verse": 4,
+      "text": "El nos elegirá nuestras heredades; la hermosura de Jacob, al cual amó. (Selah.)"
+    },
+    {
+      "verse": 5,
+      "text": "Subió Dios con júbilo, Jehová con sonido de trompeta."
+    },
+    {
+      "verse": 6,
+      "text": "Cantad á Dios, cantad: cantad á nuestro Rey, cantad."
+    },
+    {
+      "verse": 7,
+      "text": "Porque Dios es el Rey de toda la tierra: cantad con inteligencia."
+    },
+    {
+      "verse": 8,
+      "text": "Reinó Dios sobre las gentes: asentóse Dios sobre su santo trono."
+    },
+    {
+      "verse": 9,
+      "text": "Los príncipes de los pueblos se juntaron al pueblo del Dios de Abraham: porque de Dios son los escudos de la tierra; él es muy ensalzado."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 85,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Al Músico principal: Salmo para los hijos de Coré. FUISTE propicio á tu tierra, oh Jehová: volviste la cautividad de Jacob."
+    },
+    {
+      "verse": 2,
+      "text": "Perdonaste la iniquidad de tu pueblo; todos los pecados de ellos cubriste. (Selah.)"
+    },
+    {
+      "verse": 3,
+      "text": "Dejaste toda tu saña: te volviste de la ira de tu furor."
+    },
+    {
+      "verse": 4,
+      "text": "Vuélvenos, oh Dios, salud nuestra, y haz cesar tu ira de sobre nosotros."
+    },
+    {
+      "verse": 5,
+      "text": "¿Estarás enojado contra nosotros para siempre? ¿extenderás tu ira de generación en generación?"
+    },
+    {
+      "verse": 6,
+      "text": "¿No volverás tú á darnos vida, y tu pueblo se alegrará en ti?"
+    },
+    {
+      "verse": 7,
+      "text": "Muéstranos, oh Jehová, tu misericordia, y danos tu salud."
+    },
+    {
+      "verse": 8,
+      "text": "Escucharé lo que hablará el Dios Jehová: porque hablará paz á su pueblo y á sus santos, para que no se conviertan á la locura."
+    },
+    {
+      "verse": 9,
+      "text": "Ciertamente cercana está su salud á los que le temen; para que habite la gloria en nuestra tierra."
+    },
+    {
+      "verse": 10,
+      "text": "La misericordia y la verdad se encontraron: la justicia y la paz se besaron."
+    },
+    {
+      "verse": 11,
+      "text": "La verdad brotará de la tierra; y la justicia mirará desde los cielos."
+    },
+    {
+      "verse": 12,
+      "text": "Jehová dará también el bien; y nuestra tierra dará su fruto."
+    },
+    {
+      "verse": 13,
+      "text": "La justicia irá delante de él; y sus pasos pondrá en camino."
+    }
+  ]
+}

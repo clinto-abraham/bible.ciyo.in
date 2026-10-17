@@ -1,0 +1,48 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 12,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Au maître de chant. Sur l'octave. Chant de David."
+    },
+    {
+      "verse": 2,
+      "text": "Sauve, Yahweh! car les hommes pieux s'en vont, les fidèles disparaissent d'entre les enfants des hommes."
+    },
+    {
+      "verse": 3,
+      "text": "On se dit des mensonges les uns aux autres; on parle avec des lèvres flatteuses et un cœur double."
+    },
+    {
+      "verse": 4,
+      "text": "Que Yahweh retranche toutes les lèvres flatteuses, la langue qui discourt avec jactance,"
+    },
+    {
+      "verse": 5,
+      "text": "ceux qui disent: \" Par notre langue nous sommes forts; nous avons avec nous nos lèvres: qui serait notre maître? \""
+    },
+    {
+      "verse": 6,
+      "text": "\" A cause de l'oppression des affligés, du gémissement des pauvres, je veux maintenant me lever, dit Yahweh; je leur apporterai le salut après lequel ils soupirent. \""
+    },
+    {
+      "verse": 7,
+      "text": "Les paroles de Yahweh sont des paroles pures, un argent fondu dans un creuset sur la terre, sept fois purifié."
+    },
+    {
+      "verse": 8,
+      "text": "Toi, Yahweh, tu les garderas; tu les préserveras à jamais de cette génération."
+    },
+    {
+      "verse": 9,
+      "text": "Autour d'eux les méchants se promènent avec arrogance: autant ils s'élèvent, autant seront humiliés les enfants des hommes."
+    }
+  ]
+}

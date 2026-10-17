@@ -1,0 +1,108 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Wisdom",
+  "bookSlug": "wisdom",
+  "nativeName": "Wisdom",
+  "chapterNumber": 5,
+  "totalVerses": 24,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "tunc stabunt iusti in magna constantia adversus eos qui se angustaverunt et qui abstulerunt labores illorum"
+    },
+    {
+      "verse": 2,
+      "text": "videntes turbabuntur timore horribili et mirabuntur in subitatione insperatae salutis"
+    },
+    {
+      "verse": 3,
+      "text": "dicent inter se paenitentiam agentes et per angustiam spiritus gementes hi sunt quos habuimus aliquando in risu et in similitudine inproperii"
+    },
+    {
+      "verse": 4,
+      "text": "nos insensati vitam illorum aestimabamus insaniam et finem illorum sine honore"
+    },
+    {
+      "verse": 5,
+      "text": "quomodo conputati sunt inter filios Dei et inter sanctos sors illorum est"
+    },
+    {
+      "verse": 6,
+      "text": "ergo erravimus a via veritatis et iustitiae lumen non luxit nobis et sol non est ortus nobis"
+    },
+    {
+      "verse": 7,
+      "text": "lassati sumus in via iniquitatis et perditionis et ambulavimus vias difficiles viam autem Domini ignoravimus"
+    },
+    {
+      "verse": 8,
+      "text": "quid nobis profuit superbia aut quid divitiarum iactatio contulit nobis"
+    },
+    {
+      "verse": 9,
+      "text": "transierunt omnia illa tamquam umbra et tamquam nuntius percurrens"
+    },
+    {
+      "verse": 10,
+      "text": "et tamquam navis quae pertransit fluctuantem aquam cuius cum praeterierit non est vestigium invenire neque semitam carinae illius in fluctibus"
+    },
+    {
+      "verse": 11,
+      "text": "aut avis quae transvolat in aere nullum invenitur argumentum itineris illius sed tantum sonitus est alarum verberans levem ventum et scindens per vim itineris aerem commotis alis transvolavit et post hoc nullum signum invenitur itineris illius"
+    },
+    {
+      "verse": 12,
+      "text": "aut tamquam sagittae emissae in locum destinatum divisus aer continuo in se reclusus est ut ignoretur transitus illius"
+    },
+    {
+      "verse": 13,
+      "text": "sic et nos nati continuo desivimus esse et virtutis quidem signum nullum valuimus ostendere in malignitate autem nostra consumpti sumus"
+    },
+    {
+      "verse": 14,
+      "text": "talia dixerunt et peccaverunt"
+    },
+    {
+      "verse": 15,
+      "text": "quoniam spes impii tamquam lanugo est quae a vento tollitur et tamquam spuma gracilis quae a procella dispergitur et tamquam fumus qui a vento diffusus est et tamquam memoria hospitis unius diei praetereuntis"
+    },
+    {
+      "verse": 16,
+      "text": "iusti autem in perpetuum vivent et apud Dominum est merces eorum et cogitatio illorum apud Altissimum"
+    },
+    {
+      "verse": 17,
+      "text": "ideo accipient regnum decoris et diadema speciei de manu Domini quoniam dextera sua teget eos et brachio suo defendet illos"
+    },
+    {
+      "verse": 18,
+      "text": "accipiet armaturam zelus illius et armabit creaturam ad ultionem inimicorum"
+    },
+    {
+      "verse": 19,
+      "text": "induet pro torace iustitiam et accipiet pro galea iudicium certum"
+    },
+    {
+      "verse": 20,
+      "text": "sumet scutum inexpugnabilem aequitatem"
+    },
+    {
+      "verse": 21,
+      "text": "acuet autem duram iram in lanceam et pugnabit cum illo orbis terrarum contra insensatos"
+    },
+    {
+      "verse": 22,
+      "text": "ibunt directae emissiones fulgorum et tamquam a bene curvato arcu nubium exterminabuntur et ad certum locum insilient"
+    },
+    {
+      "verse": 23,
+      "text": "et a petrosa ira plenae mittentur grandines et scandescet in illos aqua maris et flumina concurrent duriter"
+    },
+    {
+      "verse": 24,
+      "text": "contra illos stabit spiritus virtutis et tamquam turbedo venti dividet illos et ad heremiam perducet omnem terram iniquitatis et malignitas evertet sedes potentium"
+    }
+  ]
+}

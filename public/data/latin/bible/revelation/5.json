@@ -1,0 +1,68 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Revelation of John",
+  "bookSlug": "revelation",
+  "nativeName": "Apocalypsis",
+  "chapterNumber": 5,
+  "totalVerses": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "et vidi in dextera sedentis super thronum librum scriptum intus et foris signatum sigillis septem"
+    },
+    {
+      "verse": 2,
+      "text": "et vidi angelum fortem praedicantem voce magna quis est dignus aperire librum et solvere signacula eius"
+    },
+    {
+      "verse": 3,
+      "text": "et nemo poterat in caelo neque in terra neque subtus terram aperire librum neque respicere illum"
+    },
+    {
+      "verse": 4,
+      "text": "et ego flebam multum quoniam nemo dignus inventus est aperire librum nec videre eum"
+    },
+    {
+      "verse": 5,
+      "text": "et unus de senioribus dicit mihi ne fleveris ecce vicit leo de tribu Iuda radix David aperire librum et septem signacula eius"
+    },
+    {
+      "verse": 6,
+      "text": "et vidi et ecce in medio throni et quattuor animalium et in medio seniorum agnum stantem tamquam occisum habentem cornua septem et oculos septem qui sunt spiritus Dei missi in omnem terram"
+    },
+    {
+      "verse": 7,
+      "text": "et venit et accepit de dextera sedentis de throno"
+    },
+    {
+      "verse": 8,
+      "text": "et cum aperuisset librum quattuor animalia et viginti quattuor seniores ceciderunt coram agno habentes singuli citharas et fialas aureas plenas odoramentorum quae sunt orationes sanctorum"
+    },
+    {
+      "verse": 9,
+      "text": "et cantant novum canticum dicentes dignus es accipere librum et aperire signacula eius quoniam occisus es et redemisti nos Deo in sanguine tuo ex omni tribu et lingua et populo et natione"
+    },
+    {
+      "verse": 10,
+      "text": "et fecisti eos Deo nostro regnum et sacerdotes et regnabunt super terram"
+    },
+    {
+      "verse": 11,
+      "text": "et vidi et audivi vocem angelorum multorum in circuitu throni et animalium et seniorum et erat numerus eorum milia milium"
+    },
+    {
+      "verse": 12,
+      "text": "dicentium voce magna dignus est agnus qui occisus est accipere virtutem et divinitatem et sapientiam et fortitudinem et honorem et gloriam et benedictionem"
+    },
+    {
+      "verse": 13,
+      "text": "et omnem creaturam quae in caelo est et super terram et sub terram et quae sunt in mari et quae in ea omnes audivi dicentes sedenti in throno et agno benedictio et honor et gloria et potestas in saecula saeculorum"
+    },
+    {
+      "verse": 14,
+      "text": "et quattuor animalia dicebant amen et seniores ceciderunt et adoraverunt"
+    }
+  ]
+}

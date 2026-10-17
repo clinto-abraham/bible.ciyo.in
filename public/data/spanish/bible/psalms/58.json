@@ -1,0 +1,56 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 58,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Al Músico principal: sobre No destruyas: Michtam de David. OH congregación, ¿pronunciáis en verdad justicia? ¿juzgáis rectamente, hijos de los hombres?"
+    },
+    {
+      "verse": 2,
+      "text": "Antes con el corazón obráis iniquidades: hacéis pesar la violencia de vuestras manos en la tierra."
+    },
+    {
+      "verse": 3,
+      "text": "Enajenáronse los impíos desde la matriz; descarriáronse desde el vientre, hablando mentira."
+    },
+    {
+      "verse": 4,
+      "text": "Veneno tienen semejante al veneno de la serpiente: son como áspide sordo que cierra su oído;"
+    },
+    {
+      "verse": 5,
+      "text": "Que no oye la voz de los que encantan, por más hábil que el encantador sea."
+    },
+    {
+      "verse": 6,
+      "text": "Oh Dios, quiebra sus dientes en sus bocas: quiebra, oh Jehová, las muelas de los leoncillos."
+    },
+    {
+      "verse": 7,
+      "text": "Córranse como aguas que se van de suyo: en entesando sus saetas, luego sean hechas pedazos."
+    },
+    {
+      "verse": 8,
+      "text": "Pasen ellos como el caracol que se deslíe: como el abortivo de mujer, no vean el sol."
+    },
+    {
+      "verse": 9,
+      "text": "Antes que vuestras ollas sientan las espinas, así vivos, así airados, los arrebatará él con tempestad."
+    },
+    {
+      "verse": 10,
+      "text": "Alegraráse el justo cuando viere la venganza: sus pies lavará en la sangre del impío."
+    },
+    {
+      "verse": 11,
+      "text": "Entonces dirá el hombre: Ciertamente hay fruto para el justo; ciertamente hay Dios que juzga en la tierra."
+    }
+  ]
+}

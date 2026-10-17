@@ -1,0 +1,48 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Isaiah",
+  "bookSlug": "isaiah",
+  "nativeName": "Isaiah",
+  "chapterNumber": 31,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "vae qui descendunt in Aegyptum ad auxilium in equis sperantes et habentes fiduciam super quadrigis quia multae sunt et super equitibus quia praevalidi nimis et non sunt confisi super Sanctum Israhel et Dominum non requisierunt"
+    },
+    {
+      "verse": 2,
+      "text": "ipse autem sapiens adduxit malum et verba sua non abstulit et consurget contra domum pessimorum et contra auxilium operantium iniquitatem"
+    },
+    {
+      "verse": 3,
+      "text": "Aegyptus homo et non deus et equi eorum caro et non spiritus et Dominus inclinabit manum suam et corruet auxiliator et cadet cui praestatur auxilium simulque omnes consumentur"
+    },
+    {
+      "verse": 4,
+      "text": "quia haec dicit Dominus ad me quomodo si rugiat leo et catulus leonis super praedam suam cum occurrerit ei multitudo pastorum a voce eorum non formidabit et a multitudine eorum non pavebit sic descendet Dominus exercituum ut proelietur super montem Sion et super collem eius"
+    },
+    {
+      "verse": 5,
+      "text": "sicut aves volantes sic proteget Dominus exercituum Hierusalem protegens et liberans transiens et salvans"
+    },
+    {
+      "verse": 6,
+      "text": "convertimini sicut in profundum recesseratis filii Israhel"
+    },
+    {
+      "verse": 7,
+      "text": "in die enim illa abiciet vir idola argenti sui et idola auri sui quae fecerunt vobis manus vestrae in peccatum"
+    },
+    {
+      "verse": 8,
+      "text": "et cadet Assur in gladio non viri et gladius non hominis vorabit eum et fugiet non a facie gladii et iuvenes eius vectigales erunt"
+    },
+    {
+      "verse": 9,
+      "text": "et fortitudo eius a terrore transibit et pavebunt fugientes principes eius dixit Dominus cuius ignis est in Sion et caminus eius in Hierusalem"
+    }
+  ]
+}

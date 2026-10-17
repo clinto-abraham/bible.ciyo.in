@@ -1,0 +1,48 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 20,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Al Músico principal: Salmo de David. OIGATE Jehová en el día de conflicto; defiéndate el nombre del Dios de Jacob."
+    },
+    {
+      "verse": 2,
+      "text": "Envíete ayuda desde el santuario, y desde Sión te sostenga."
+    },
+    {
+      "verse": 3,
+      "text": "Haga memoria de todos tus presentes, y reduzca á ceniza tu holocausto. (Selah.)"
+    },
+    {
+      "verse": 4,
+      "text": "Déte conforme á tu corazón, y cumpla todo tu consejo."
+    },
+    {
+      "verse": 5,
+      "text": "Nosotros nos alegraremos por tu salud, y alzaremos pendón en el nombre de nuestro Dios: cumpla Jehová todas tus peticiones."
+    },
+    {
+      "verse": 6,
+      "text": "Ahora echo de ver que Jehová guarda á su ungido: oirálo desde los cielos de su santidad, con la fuerza de la salvación de su diestra."
+    },
+    {
+      "verse": 7,
+      "text": "Estos confían en carros, y aquéllos en caballos: mas nosotros del nombre de Jehová nuestro Dios tendremos memoria."
+    },
+    {
+      "verse": 8,
+      "text": "Ellos arrodillaron, y cayeron; mas nosotros nos levantamos, y nos enhestamos."
+    },
+    {
+      "verse": 9,
+      "text": "Salva, Jehová: que el Rey nos oiga el día que lo invocáremos."
+    }
+  ]
+}

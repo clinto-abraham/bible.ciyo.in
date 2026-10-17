@@ -1,0 +1,52 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 110,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "alleluia reversionis Aggei et Zacchariae confitebor tibi Domine in toto corde meo in consilio iustorum et congregatione alleluia aleph confitebor Domino in toto corde beth in consilio iustorum et congregatione"
+    },
+    {
+      "verse": 2,
+      "text": "magna opera Domini exquisita in omnes voluntates eius gimel magna opera Domini deleth exquirenda in cunctis voluntatibus suis"
+    },
+    {
+      "verse": 3,
+      "text": "confessio et magnificentia opus eius et iustitia eius manet in saeculum saeculi he gloria et decor opus eius vav et iustitia eius perseverans semper"
+    },
+    {
+      "verse": 4,
+      "text": "memoriam fecit mirabilium suorum misericors et miserator Dominus zai memoriam fecit mirabilium suorum heth clemens et misericors Dominus"
+    },
+    {
+      "verse": 5,
+      "text": "escam dedit timentibus se memor erit in saeculum testamenti sui teth escam dedit timentibus se ioth memor erit in sempiternum pacti sui"
+    },
+    {
+      "verse": 6,
+      "text": "virtutem operum suorum adnuntiabit populo suo caph fortitudinem operum suorum adnuntiabit populo suo"
+    },
+    {
+      "verse": 7,
+      "text": "ut det illis hereditatem gentium opera manuum eius veritas et iudicium lameth ut det eis hereditatem gentium mem opus manuum eius veritas et iudicium"
+    },
+    {
+      "verse": 8,
+      "text": "fidelia omnia mandata eius confirmata in saeculum saeculi facta in veritate et aequitate nun fidelia omnia praecepta eius samech firmata in sempiternum iugiter ain facta in veritate et aequitate"
+    },
+    {
+      "verse": 9,
+      "text": "redemptionem misit populo suo mandavit in aeternum testamentum suum sanctum et terribile nomen eius fe redemptionem misit populo suo sade mandavit in aeternum pactum suum coph sanctum et terribile nomen eius"
+    },
+    {
+      "verse": 10,
+      "text": "initium sapientiae timor Domini intellectus bonus omnibus facientibus eum laudatio eius manet in saeculum saeculi res principium sapientiae timor Domini sen doctrina bona cunctis qui faciunt ea thau laus eius perseverans iugiter alleluia"
+    }
+  ]
+}

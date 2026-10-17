@@ -1,0 +1,68 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 64,
+  "totalVerses": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem psalmus David *canticum; Hieremiae et Aggei de verbo peregrinationis quando incipiebant proficisci victori carmen David cantici"
+    },
+    {
+      "verse": 2,
+      "text": "te decet hymnus Deus in Sion et tibi reddetur votum in Hierusalem tibi silens laus Deus in Sion et tibi reddetur votum"
+    },
+    {
+      "verse": 3,
+      "text": "exaudi orationem ad te omnis caro veniet exaudi orationem donec ad te omnis caro veniat"
+    },
+    {
+      "verse": 4,
+      "text": "verba iniquorum praevaluerunt super nos et impietatibus nostris tu propitiaberis verba iniquitatum praevaluerunt adversum me sceleribus nostris tu propitiaberis"
+    },
+    {
+      "verse": 5,
+      "text": "beatus quem elegisti et adsumpsisti inhabitabit in atriis tuis replebimur in bonis domus tuae sanctum est templum tuum beatus quem elegeris et susceperis habitabit enim in atriis tuis replebimur bonis domus tuae sanctificatione templi tui"
+    },
+    {
+      "verse": 6,
+      "text": "mirabile in aequitate exaudi nos Deus salutaris noster spes omnium finium terrae et in mari longe terribilis in iustitia exaudi nos Deus salvator noster confidentia omnium finium terrae et maris longinqui"
+    },
+    {
+      "verse": 7,
+      "text": "praeparans montes in virtute tua accinctus potentia praeparans montes in virtute tua accinctus fortitudine"
+    },
+    {
+      "verse": 8,
+      "text": "qui conturbas profundum maris sonum fluctuum eius turbabuntur gentes conpescens sonitum maris fremitum fluctuum eius et multitudinem gentium"
+    },
+    {
+      "verse": 9,
+      "text": "et timebunt qui inhabitant terminos a signis tuis exitus matutini et vespere delectabis et timebunt qui habitant in extremis a signis tuis egressus matutinos et vespere laudantes facies"
+    },
+    {
+      "verse": 10,
+      "text": "visitasti terram et inebriasti eam multiplicasti locupletare eam flumen Dei repletum est aquis parasti cibum illorum quoniam ita est praeparatio eius visita terram et inriga eam ubertate dita eam rivus Dei plenus aqua praeparabis frumentum eorum quia sic fundasti eam"
+    },
+    {
+      "verse": 11,
+      "text": "rivos eius inebria multiplica genimina eius in stillicidiis eius laetabitur germinans sulcos eius inebria multiplica fruges eius pluviis inriga eam et germini eius benedic"
+    },
+    {
+      "verse": 12,
+      "text": "benedices coronae anni benignitatis tuae et campi tui replebuntur ubertate volvetur annus in bonitate tua et vestigia tua rorabunt pinguidine"
+    },
+    {
+      "verse": 13,
+      "text": "pinguescent speciosa deserti et exultatione colles accingentur pinguescent pascua deserti et exultatione colles accingentur"
+    },
+    {
+      "verse": 14,
+      "text": "induti sunt arietes ovium et valles abundabunt frumento clamabunt etenim hymnum dicent vestientur agnis greges et valles plenae erunt frumento coaequabuntur et canent"
+    }
+  ]
+}

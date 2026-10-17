@@ -1,0 +1,276 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Lamentations",
+  "bookSlug": "lamentations",
+  "nativeName": "Lamentations",
+  "chapterNumber": 3,
+  "totalVerses": 66,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "ALEPH ego vir videns paupertatem meam in virga indignationis eius"
+    },
+    {
+      "verse": 2,
+      "text": "ALEPH me minavit et adduxit in tenebris et non in lucem"
+    },
+    {
+      "verse": 3,
+      "text": "ALEPH tantum in me vertit et convertit manum suam tota die"
+    },
+    {
+      "verse": 4,
+      "text": "BETH vetustam fecit pellem meam et carnem meam contrivit ossa mea"
+    },
+    {
+      "verse": 5,
+      "text": "BETH aedificavit in gyro meo et circumdedit me felle et labore"
+    },
+    {
+      "verse": 6,
+      "text": "BETH in tenebrosis conlocavit me quasi mortuos sempiternos"
+    },
+    {
+      "verse": 7,
+      "text": "GIMEL circumaedificavit adversum me ut non egrediar adgravavit conpedem meam"
+    },
+    {
+      "verse": 8,
+      "text": "GIMEL sed et cum clamavero et rogavero exclusit orationem meam"
+    },
+    {
+      "verse": 9,
+      "text": "GIMEL conclusit vias meas lapidibus quadris semitas meas subvertit"
+    },
+    {
+      "verse": 10,
+      "text": "DELETH ursus insidians factus est mihi leo in absconditis"
+    },
+    {
+      "verse": 11,
+      "text": "DELETH semitas meas subvertit et confregit me posuit me desolatam"
+    },
+    {
+      "verse": 12,
+      "text": "DELETH tetendit arcum suum et posuit me quasi signum ad sagittam"
+    },
+    {
+      "verse": 13,
+      "text": "HE misit in renibus meis filias faretrae suae"
+    },
+    {
+      "verse": 14,
+      "text": "HE factus sum in derisu omni populo meo canticum eorum tota die"
+    },
+    {
+      "verse": 15,
+      "text": "HE replevit me amaritudinibus inebriavit me absinthio"
+    },
+    {
+      "verse": 16,
+      "text": "VAV et fregit ad numerum dentes meos cibavit me cinere"
+    },
+    {
+      "verse": 17,
+      "text": "VAV et repulsa est anima mea oblitus sum bonorum"
+    },
+    {
+      "verse": 18,
+      "text": "VAV et dixi periit finis meus et spes mea a Domino"
+    },
+    {
+      "verse": 19,
+      "text": "ZAI recordare paupertatis et transgressionis meae absinthii et fellis"
+    },
+    {
+      "verse": 20,
+      "text": "ZAI memoria memor ero et tabescet in me anima mea"
+    },
+    {
+      "verse": 21,
+      "text": "ZAI hoc recolens in corde meo ideo sperabo"
+    },
+    {
+      "verse": 22,
+      "text": "HETH misericordiae Domini quia non sumus consumpti quia non defecerunt miserationes eius"
+    },
+    {
+      "verse": 23,
+      "text": "HETH novae diluculo multa est fides tua"
+    },
+    {
+      "verse": 24,
+      "text": "HETH pars mea Dominus dixit anima mea propterea expectabo eum"
+    },
+    {
+      "verse": 25,
+      "text": "TETH bonus est Dominus sperantibus in eum animae quaerenti illum"
+    },
+    {
+      "verse": 26,
+      "text": "TETH bonum est praestolari cum silentio salutare Domini"
+    },
+    {
+      "verse": 27,
+      "text": "TETH bonum est viro cum portaverit iugum ab adulescentia sua"
+    },
+    {
+      "verse": 28,
+      "text": "IOTH sedebit solitarius et tacebit quia levavit super se"
+    },
+    {
+      "verse": 29,
+      "text": "IOTH ponet in pulvere os suum si forte sit spes"
+    },
+    {
+      "verse": 30,
+      "text": "IOTH dabit percutienti se maxillam saturabitur obprobriis"
+    },
+    {
+      "verse": 31,
+      "text": "CAPH quia non repellet in sempiternum Dominus"
+    },
+    {
+      "verse": 32,
+      "text": "CAPH quia si abiecit et miserebitur secundum multitudinem misericordiarum suarum"
+    },
+    {
+      "verse": 33,
+      "text": "CAPH non enim humiliavit ex corde suo et abiecit filios hominis"
+    },
+    {
+      "verse": 34,
+      "text": "LAMED ut contereret sub pedibus suis omnes vinctos terrae"
+    },
+    {
+      "verse": 35,
+      "text": "LAMED ut declinaret iudicium viri in conspectu vultus Altissimi"
+    },
+    {
+      "verse": 36,
+      "text": "LAMED ut perverteret hominem in iudicio suo Dominus ignoravit"
+    },
+    {
+      "verse": 37,
+      "text": "MEM quis est iste qui dixit ut fieret Domino non iubente"
+    },
+    {
+      "verse": 38,
+      "text": "MEM ex ore Altissimi non egredientur nec mala nec bona"
+    },
+    {
+      "verse": 39,
+      "text": "MEM quid murmuravit homo vivens vir pro peccatis suis"
+    },
+    {
+      "verse": 40,
+      "text": "NUN scrutemur vias nostras et quaeramus et revertamur ad Dominum"
+    },
+    {
+      "verse": 41,
+      "text": "NUN levemus corda nostra cum manibus ad Dominum in caelos"
+    },
+    {
+      "verse": 42,
+      "text": "NUN nos inique egimus et ad iracundiam provocavimus idcirco tu inexorabilis es"
+    },
+    {
+      "verse": 43,
+      "text": "SAMECH operuisti in furore et percussisti nos occidisti nec pepercisti"
+    },
+    {
+      "verse": 44,
+      "text": "SAMECH opposuisti nubem tibi ne transeat oratio"
+    },
+    {
+      "verse": 45,
+      "text": "SAMECH eradicationem et abiectionem posuisti me in medio populorum"
+    },
+    {
+      "verse": 46,
+      "text": "FE aperuerunt super nos os suum omnes inimici"
+    },
+    {
+      "verse": 47,
+      "text": "FE formido et laqueus facta est nobis vaticinatio et contritio"
+    },
+    {
+      "verse": 48,
+      "text": "FE divisiones aquarum deduxit oculus meus in contritione filiae populi mei"
+    },
+    {
+      "verse": 49,
+      "text": "AIN oculus meus adflictus est nec tacuit eo quod non esset requies"
+    },
+    {
+      "verse": 50,
+      "text": "AIN donec respiceret et videret Dominus de caelis"
+    },
+    {
+      "verse": 51,
+      "text": "AIN oculus meus depraedatus est animam meam in cunctis filiabus urbis meae"
+    },
+    {
+      "verse": 52,
+      "text": "SADE venatione ceperunt me quasi avem inimici mei gratis"
+    },
+    {
+      "verse": 53,
+      "text": "SADE lapsa est in lacu vita mea et posuerunt lapidem super me"
+    },
+    {
+      "verse": 54,
+      "text": "SADE inundaverunt aquae super caput meum dixi perii"
+    },
+    {
+      "verse": 55,
+      "text": "COPH invocavi nomen tuum Domine de lacis novissimis"
+    },
+    {
+      "verse": 56,
+      "text": "COPH vocem meam audisti ne avertas aurem tuam a singultu meo et clamoribus"
+    },
+    {
+      "verse": 57,
+      "text": "COPH adpropinquasti in die quando invocavi te dixisti ne timeas"
+    },
+    {
+      "verse": 58,
+      "text": "RES iudicasti Domine causam animae meae redemptor vitae meae"
+    },
+    {
+      "verse": 59,
+      "text": "RES vidisti Domine iniquitatem adversum me iudica iudicium meum"
+    },
+    {
+      "verse": 60,
+      "text": "RES vidisti omnem furorem universas cogitationes eorum adversum me"
+    },
+    {
+      "verse": 61,
+      "text": "SEN audisti obprobria eorum Domine omnes cogitationes eorum adversum me"
+    },
+    {
+      "verse": 62,
+      "text": "SEN labia insurgentium mihi et meditationes eorum adversum me tota die"
+    },
+    {
+      "verse": 63,
+      "text": "SEN sessionem eorum et resurrectionem eorum vide ego sum psalmus eorum"
+    },
+    {
+      "verse": 64,
+      "text": "THAU reddes eis vicem Domine iuxta opera manuum suarum"
+    },
+    {
+      "verse": 65,
+      "text": "THAU dabis eis scutum cordis laborem tuum"
+    },
+    {
+      "verse": 66,
+      "text": "THAU persequeris in furore et conteres eos sub caelis Domine"
+    }
+  ]
+}

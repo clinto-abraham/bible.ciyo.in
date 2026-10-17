@@ -1,0 +1,104 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Job",
+  "bookSlug": "job",
+  "nativeName": "Job",
+  "chapterNumber": 27,
+  "totalVerses": 23,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "addidit quoque Iob adsumens parabolam suam et dixit"
+    },
+    {
+      "verse": 2,
+      "text": "vivit Deus qui abstulit iudicium meum et Omnipotens qui ad amaritudinem adduxit animam meam"
+    },
+    {
+      "verse": 3,
+      "text": "quia donec superest halitus in me et spiritus Dei in naribus meis"
+    },
+    {
+      "verse": 4,
+      "text": "non loquentur labia mea iniquitatem nec lingua mea meditabitur mendacium"
+    },
+    {
+      "verse": 5,
+      "text": "absit a me ut iustos vos esse iudicem donec deficiam non recedam ab innocentia mea"
+    },
+    {
+      "verse": 6,
+      "text": "iustificationem meam quam coepi tenere non deseram nec enim reprehendit me cor meum in omni vita mea"
+    },
+    {
+      "verse": 7,
+      "text": "sit ut impius inimicus meus et adversarius meus quasi iniquus"
+    },
+    {
+      "verse": 8,
+      "text": "quae enim spes est hypocritae si avare rapiat et non liberet Deus animam eius"
+    },
+    {
+      "verse": 9,
+      "text": "numquid clamorem eius Deus audiet cum venerit super illum angustia"
+    },
+    {
+      "verse": 10,
+      "text": "aut poterit in Omnipotente delectari et invocare Deum in omni tempore"
+    },
+    {
+      "verse": 11,
+      "text": "docebo vos per manum Dei quae Omnipotens habeat nec abscondam"
+    },
+    {
+      "verse": 12,
+      "text": "ecce vos omnes nostis et quid sine causa vana loquimini"
+    },
+    {
+      "verse": 13,
+      "text": "haec est pars hominis impii apud Deum et hereditas violentorum quam ab Omnipotente suscipient"
+    },
+    {
+      "verse": 14,
+      "text": "si multiplicati fuerint filii eius in gladio erunt et nepotes eius non saturabuntur pane"
+    },
+    {
+      "verse": 15,
+      "text": "qui reliqui fuerint ex eo sepelientur in interitu et viduae illius non plorabunt"
+    },
+    {
+      "verse": 16,
+      "text": "si conportaverit quasi terram argentum et sicut lutum praeparaverit vestimenta"
+    },
+    {
+      "verse": 17,
+      "text": "praeparabit quidem sed iustus vestietur illis et argentum innocens dividet"
+    },
+    {
+      "verse": 18,
+      "text": "aedificavit sicut tinea domum suam et sicut custos fecit umbraculum"
+    },
+    {
+      "verse": 19,
+      "text": "dives cum dormierit nihil secum auferet aperit oculos suos et nihil inveniet"
+    },
+    {
+      "verse": 20,
+      "text": "adprehendit eum quasi aqua inopia nocte opprimet eum tempestas"
+    },
+    {
+      "verse": 21,
+      "text": "tollet eum ventus urens et auferet et velut turbo rapiet eum de loco suo"
+    },
+    {
+      "verse": 22,
+      "text": "et mittet super eum et non parcet de manu eius fugiens fugiet"
+    },
+    {
+      "verse": 23,
+      "text": "stringet super eum manus suas et sibilabit super illum intuens locum eius"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Job",
+  "bookSlug": "job",
+  "nativeName": "Job",
+  "chapterNumber": 17,
+  "totalVerses": 16,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "spiritus meus adtenuabitur dies mei breviabuntur et solum mihi superest sepulchrum"
+    },
+    {
+      "verse": 2,
+      "text": "non peccavi et in amaritudinibus moratur oculus meus"
+    },
+    {
+      "verse": 3,
+      "text": "libera me et pone iuxta te et cuiusvis manus pugnet contra me"
+    },
+    {
+      "verse": 4,
+      "text": "cor eorum longe fecisti a disciplina et propterea non exaltabuntur"
+    },
+    {
+      "verse": 5,
+      "text": "praedam pollicetur sociis et oculi filiorum eius deficient"
+    },
+    {
+      "verse": 6,
+      "text": "posuit me quasi in proverbium vulgi et exemplum sum coram eis"
+    },
+    {
+      "verse": 7,
+      "text": "caligavit ab indignatione oculus meus et membra mea quasi in nihili redacta sunt"
+    },
+    {
+      "verse": 8,
+      "text": "stupebunt iusti super hoc et innocens contra hypocritam suscitabitur"
+    },
+    {
+      "verse": 9,
+      "text": "et tenebit iustus viam suam et mundis manibus addet fortitudinem"
+    },
+    {
+      "verse": 10,
+      "text": "igitur vos omnes convertimini et venite et non inveniam in vobis ullum sapientem"
+    },
+    {
+      "verse": 11,
+      "text": "dies mei transierunt cogitationes meae dissipatae sunt torquentes cor meum"
+    },
+    {
+      "verse": 12,
+      "text": "noctem verterunt in diem et rursum post tenebras spero lucem"
+    },
+    {
+      "verse": 13,
+      "text": "si sustinuero infernus domus mea est in tenebris stravi lectulum meum"
+    },
+    {
+      "verse": 14,
+      "text": "putredini dixi pater meus es mater mea et soror mea vermibus"
+    },
+    {
+      "verse": 15,
+      "text": "ubi est ergo nunc praestolatio mea et patientiam meam quis considerat"
+    },
+    {
+      "verse": 16,
+      "text": "in profundissimum infernum descendent omnia mea putasne saltim ibi erit requies mihi"
+    }
+  ]
+}

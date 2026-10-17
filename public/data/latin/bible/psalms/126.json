@@ -1,0 +1,32 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 126,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "canticum graduum Salomonis nisi Dominus aedificaverit domum in vanum laboraverunt qui aedificant eam nisi Dominus custodierit civitatem frustra vigilavit qui custodit canticum graduum Salomonis nisi Dominus aedificaverit domum in vanum laboraverunt qui aedificant eam nisi Dominus custodierit civitatem frustra vigilat qui custodit eam"
+    },
+    {
+      "verse": 2,
+      "text": "vanum est vobis ante lucem surgere surgere postquam sederitis qui manducatis panem doloris cum dederit dilectis suis somnum frustra vobis est de mane consurgere postquam sederitis qui manducatis panem idolorum sic dabit diligentibus se somnum"
+    },
+    {
+      "verse": 3,
+      "text": "ecce hereditas Domini filii mercis fructus ventris ecce hereditas Domini filii mercis fructus ventris"
+    },
+    {
+      "verse": 4,
+      "text": "sicut sagittae in manu potentis ita filii excussorum sicut sagittae in manu potentis ita filii iuventutis"
+    },
+    {
+      "verse": 5,
+      "text": "beatus vir qui implebit desiderium suum ex ipsis non confundentur cum loquentur inimicis suis in porta beatus vir qui implevit faretram suam ex ipsis non confundentur cum loquentur inimicis in porta"
+    }
+  ]
+}

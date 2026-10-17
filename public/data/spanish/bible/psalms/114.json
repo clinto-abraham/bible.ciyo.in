@@ -1,0 +1,44 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 114,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "CUANDO salió Israel de Egipto, la casa de Jacob del pueblo bárbaro,"
+    },
+    {
+      "verse": 2,
+      "text": "Judá fué su consagrada heredad, Israel su señorío."
+    },
+    {
+      "verse": 3,
+      "text": "La mar vió, y huyó; el Jordán se volvió atrás."
+    },
+    {
+      "verse": 4,
+      "text": "Los montes saltaron como carneros: los collados como corderitos."
+    },
+    {
+      "verse": 5,
+      "text": "¿Qué tuviste, oh mar, que huiste? ¿y tú, oh Jordán, que te volviste atrás?"
+    },
+    {
+      "verse": 6,
+      "text": "Oh montes, ¿por qué saltasteis como carneros, y vosotros, collados, como corderitos?"
+    },
+    {
+      "verse": 7,
+      "text": "A la presencia del Señor tiembla la tierra, á la presencia del Dios de Jacob;"
+    },
+    {
+      "verse": 8,
+      "text": "El cual tornó la peña en estanque de aguas, y en fuente de aguas la roca."
+    }
+  ]
+}

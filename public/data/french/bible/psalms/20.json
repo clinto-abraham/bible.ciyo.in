@@ -1,0 +1,52 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 20,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Au maître de chant. Psaume de David."
+    },
+    {
+      "verse": 2,
+      "text": "Que Yahweh t'exauce au jour de la détresse, que le nom du Dieu de Jacob te protège!"
+    },
+    {
+      "verse": 3,
+      "text": "Que du sanctuaire il t'envoie du secours, que de Sion il te soutienne!"
+    },
+    {
+      "verse": 4,
+      "text": "Qu'il se souvienne de toutes tes oblations, et qu'il ait pour agréable tes holocaustes! — Séla."
+    },
+    {
+      "verse": 5,
+      "text": "Qu'il te donne ce que ton cœur désire, et qu'il accomplisse tous tes desseins!"
+    },
+    {
+      "verse": 6,
+      "text": "Puissions-nous de nos cris joyeux saluer ta victoire, lever l'étendard au nom de notre Dieu! Que Yahweh accomplisse tous tes vœux!"
+    },
+    {
+      "verse": 7,
+      "text": "Déjà je sais que Yahweh a sauvé son Oint; il l'exaucera des cieux, sa sainte demeure, par le secours puissant de sa droite."
+    },
+    {
+      "verse": 8,
+      "text": "Ceux-ci comptent sur leurs chars, ceux-là sur leurs chevaux; nous, nous invoquons le nom de Yahweh, notre Dieu."
+    },
+    {
+      "verse": 9,
+      "text": "Eux, ils plient et ils tombent; nous, nous nous relevons et tenons ferme."
+    },
+    {
+      "verse": 10,
+      "text": "Yahweh, sauve le roi! — Qu'il nous exauce au jour où nous l'invoquons."
+    }
+  ]
+}

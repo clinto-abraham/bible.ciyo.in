@@ -1,0 +1,68 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 107,
+  "totalVerses": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "canticum psalmi David canticum psalmi David"
+    },
+    {
+      "verse": 2,
+      "text": "paratum cor meum Deus paratum cor meum cantabo et psallam in gloria mea paratum cor meum Deus cantabo et psallam sed et gloria mea"
+    },
+    {
+      "verse": 3,
+      "text": "exsurge psalterium et cithara exsurgam diluculo consurge psalterium et cithara consurgam mane"
+    },
+    {
+      "verse": 4,
+      "text": "confitebor tibi in populis Domine et psallam tibi in nationibus confitebor tibi in populis Domine et cantabo te in nationibus"
+    },
+    {
+      "verse": 5,
+      "text": "quia magna super caelos misericordia tua et usque ad nubes veritas tua quoniam magna super caelos misericordia tua et usque ad aethera veritas tua"
+    },
+    {
+      "verse": 6,
+      "text": "exaltare super caelos Deus et super omnem terram gloria tua exaltare super caelos Deus et super omnem terram gloria tua"
+    },
+    {
+      "verse": 7,
+      "text": "ut liberentur dilecti tui salvum fac dextera tua et exaudi me ut liberentur dilecti tui salva dextera tua et exaudi me"
+    },
+    {
+      "verse": 8,
+      "text": "Deus locutus est in sancto suo exaltabor et dividam Sicima et convallem tabernaculorum dimetiar Deus locutus est in sanctuario suo gaudebo dividam Sychem et vallem Socchoth dimetiar"
+    },
+    {
+      "verse": 9,
+      "text": "meus est Galaad et meus est Manasse et Effraim susceptio capitis mei Iuda rex meus meus est Galaad et meus est Manasse et Efraim hereditas capitis mei Iuda dux meus"
+    },
+    {
+      "verse": 10,
+      "text": "Moab lebes spei meae in Idumeam extendam calciamentum meum mihi alienigenae amici facti sunt Moab lebes pelvis meae super Idumeam proiciam calciamentum meum cum Philisthim foederabor"
+    },
+    {
+      "verse": 11,
+      "text": "quis deducet me in civitatem munitam quis deducet me usque in Idumeam quis deducet me in civitatem munitam quis deducet me usque in Idumeam"
+    },
+    {
+      "verse": 12,
+      "text": "nonne tu Deus qui reppulisti nos et non exibis Deus in virtutibus nostris nonne tu Deus qui proieceras nos et non exieras Deus in exercitibus nostris"
+    },
+    {
+      "verse": 13,
+      "text": "da nobis auxilium de tribulatione quia vana salus hominis da nobis auxilium in tribulatione vana est enim salus ab homine"
+    },
+    {
+      "verse": 14,
+      "text": "in Deo faciemus virtutem et ipse ad nihilum deducet inimicos nostros in Deo erimus fortes et ipse conculcabit hostes nostros"
+    }
+  ]
+}

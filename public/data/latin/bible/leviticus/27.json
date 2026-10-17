@@ -1,0 +1,148 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Leviticus",
+  "bookSlug": "leviticus",
+  "nativeName": "Leviticus",
+  "chapterNumber": 27,
+  "totalVerses": 34,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "locutusque est Dominus ad Mosen dicens"
+    },
+    {
+      "verse": 2,
+      "text": "loquere filiis Israhel et dices ad eos homo qui votum fecerit et spoponderit Deo animam suam sub aestimatione dabit pretium"
+    },
+    {
+      "verse": 3,
+      "text": "si fuerit masculus a vicesimo usque ad sexagesimum annum dabit quinquaginta siclos argenti ad mensuram sanctuarii"
+    },
+    {
+      "verse": 4,
+      "text": "si mulier triginta"
+    },
+    {
+      "verse": 5,
+      "text": "a quinto autem anno usque ad vicesimum masculus dabit viginti siclos femina decem"
+    },
+    {
+      "verse": 6,
+      "text": "ab uno mense usque ad annum quintum pro masculo dabuntur quinque sicli pro femina tres"
+    },
+    {
+      "verse": 7,
+      "text": "sexagenarius et ultra masculus dabit quindecim siclos femina decem"
+    },
+    {
+      "verse": 8,
+      "text": "si pauper fuerit et aestimationem reddere non valebit stabit coram sacerdote et quantum ille aestimaverit et viderit eum posse reddere tantum dabit"
+    },
+    {
+      "verse": 9,
+      "text": "animal autem quod immolari potest Domino si quis voverit sanctum erit"
+    },
+    {
+      "verse": 10,
+      "text": "et mutari non poterit id est nec melius malo nec peius bono quod si mutaverit et ipsum quod mutatum est et illud pro quo mutatum est consecratum erit Domino"
+    },
+    {
+      "verse": 11,
+      "text": "animal inmundum quod immolari Domino non potest si quis voverit adducetur ante sacerdotem"
+    },
+    {
+      "verse": 12,
+      "text": "qui diiudicans utrum bonum an malum sit statuet pretium"
+    },
+    {
+      "verse": 13,
+      "text": "quod si dare voluerit is qui offert addet supra aestimationis quintam partem"
+    },
+    {
+      "verse": 14,
+      "text": "homo si voverit domum suam et sanctificaverit Domino considerabit eam sacerdos utrum bona an mala sit et iuxta pretium quod ab eo fuerit constitutum venundabitur"
+    },
+    {
+      "verse": 15,
+      "text": "sin autem ille qui voverat voluerit redimere eam dabit quintam partem aestimationis supra et habebit domum"
+    },
+    {
+      "verse": 16,
+      "text": "quod si agrum possessionis suae voverit et consecraverit Domino iuxta mensuram sementis aestimabitur pretium si triginta modiis hordei seritur terra quinquaginta siclis veniet argenti"
+    },
+    {
+      "verse": 17,
+      "text": "si statim ab anno incipientis iobelei voverit agrum quanto valere potest tanto aestimabitur"
+    },
+    {
+      "verse": 18,
+      "text": "sin autem post aliquantum temporis supputabit sacerdos pecuniam iuxta annorum qui reliqui sunt numerum usque ad iobeleum et detrahetur ex pretio"
+    },
+    {
+      "verse": 19,
+      "text": "quod si voluerit redimere agrum ille qui voverat addet quintam partem aestimatae pecuniae et possidebit eum"
+    },
+    {
+      "verse": 20,
+      "text": "sin autem noluerit redimere sed alteri cuilibet fuerit venundatus ultra eum qui voverat redimere non poterit"
+    },
+    {
+      "verse": 21,
+      "text": "quia cum iobelei venerit dies sanctificatus erit Domino et possessio consecrata ad ius pertinet sacerdotum"
+    },
+    {
+      "verse": 22,
+      "text": "si ager emptus et non de possessione maiorum sanctificatus fuerit Domino"
+    },
+    {
+      "verse": 23,
+      "text": "supputabit sacerdos iuxta annorum numerum usque ad iobeleum pretium et dabit ille qui voverat eum Domino"
+    },
+    {
+      "verse": 24,
+      "text": "in iobeleo autem revertetur ad priorem dominum qui vendiderat eum et habuerat in sortem possessionis suae"
+    },
+    {
+      "verse": 25,
+      "text": "omnis aestimatio siclo sanctuarii ponderabitur siclus viginti obolos habet"
+    },
+    {
+      "verse": 26,
+      "text": "primogenita quae ad Dominum pertinent nemo sanctificare poterit et vovere sive bos sive ovis fuerit Domini sunt"
+    },
+    {
+      "verse": 27,
+      "text": "quod si inmundum est animal redimet qui obtulit iuxta aestimationem tuam et addet quintam partem pretii si redimere noluerit vendetur alteri quantocumque a te fuerit aestimatum"
+    },
+    {
+      "verse": 28,
+      "text": "omne quod Domino consecratur sive homo fuerit sive animal sive ager non veniet nec redimi poterit quicquid semel fuerit consecratum sanctum sanctorum erit Domino"
+    },
+    {
+      "verse": 29,
+      "text": "et omnis consecratio quae offertur ab homine non redimetur sed morte morietur"
+    },
+    {
+      "verse": 30,
+      "text": "omnes decimae terrae sive de frugibus sive de pomis arborum Domini sunt et illi sanctificantur"
+    },
+    {
+      "verse": 31,
+      "text": "si quis autem voluerit redimere decimas suas addet quintam partem earum"
+    },
+    {
+      "verse": 32,
+      "text": "omnium decimarum boves et oves et caprae quae sub pastoris virga transeunt quicquid decimum venerit sanctificabitur Domino"
+    },
+    {
+      "verse": 33,
+      "text": "non eligetur nec bonum nec malum nec altero commutabitur si quis mutaverit et quod mutatum est et pro quo mutatum est sanctificabitur Domino et non redimetur"
+    },
+    {
+      "verse": 34,
+      "text": "haec sunt praecepta quae mandavit Dominus Mosi ad filios Israhel in monte Sinai"
+    }
+  ]
+}

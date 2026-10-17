@@ -1,0 +1,44 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Revelation of John",
+  "bookSlug": "revelation",
+  "nativeName": "Apocalypse",
+  "chapterNumber": 15,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Puis je vis dans le ciel un autre signe, grand et étonnant: sept anges qui tenaient en main sept plaies, les dernières, car c'est par elles que doit se consommer la colère de Dieu."
+    },
+    {
+      "verse": 2,
+      "text": "Et je vis comme une mer de verre, mêlée de feu, et au bord de cette mer étaient debout les vainqueurs de la bête, de son image et du nombre de son nom, tenant les harpes sacrées."
+    },
+    {
+      "verse": 3,
+      "text": "Ils chantaient le cantique de Moïse, le serviteur de Dieu, et le cantique de l'Agneau disant: \" Grandes et admirables sont vos œuvres, Seigneur, Dieu tout-puissant! Justes et véritables sont vos voies, ô Roi des siècles!"
+    },
+    {
+      "verse": 4,
+      "text": "Qui ne craindrait, Seigneur, et ne glorifierait votre nom? Car vous seul êtes saint. Et toutes les nations viendront se prosterner devant vous, parce que vos jugements ont éclaté. \""
+    },
+    {
+      "verse": 5,
+      "text": "Après cela, je vis s'ouvrir dans le ciel le sanctuaire du tabernacle du témoignage."
+    },
+    {
+      "verse": 6,
+      "text": "Et les sept anges qui ont en main les sept plaies sortirent du sanctuaire; ils étaient vêtus d'un lin pur et éclatant, et portaient des ceintures d'or autour de la poitrine."
+    },
+    {
+      "verse": 7,
+      "text": "Alors l'un des quatre animaux donna aux sept anges sept coupes d'or, pleines de la colère du Dieu qui vit aux siècles des siècles."
+    },
+    {
+      "verse": 8,
+      "text": "Et le sanctuaire fut rempli de fumée par la gloire de Dieu et par sa puissance, et personne ne pouvait entrer dans le sanctuaire, jusqu'à ce que fussent consommées les sept plaies des sept anges."
+    }
+  ]
+}

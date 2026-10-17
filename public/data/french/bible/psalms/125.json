@@ -1,0 +1,32 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 125,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cantique des montées. Ceux qui se confient en Yahweh sont comme la montagne de Sion: elle ne chancelle point, elle est établie pour toujours."
+    },
+    {
+      "verse": 2,
+      "text": "Jérusalem a autour d'elle une ceinture de montagnes: ainsi Yahweh entoure son peuple, dès maintenant et à jamais."
+    },
+    {
+      "verse": 3,
+      "text": "Le sceptre des méchants ne restera pas sur l'héritage des justes, afin que les justes ne portent pas aussi leurs mains vers l'iniquité."
+    },
+    {
+      "verse": 4,
+      "text": "Yahweh, répands tes bontés sur les bons, et sur ceux qui ont le cœur droit."
+    },
+    {
+      "verse": 5,
+      "text": "Mais sur ceux qui se détournent en des voies tortueuses, que Yahweh les abandonne avec ceux qui font le mal! Paix sur Israël!"
+    }
+  ]
+}

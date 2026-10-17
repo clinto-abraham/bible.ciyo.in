@@ -1,0 +1,52 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 64,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Al Músico principal: Salmo de David. ESCUCHA, oh Dios, mi voz en mi oración: guarda mi vida del miedo del enemigo."
+    },
+    {
+      "verse": 2,
+      "text": "Escóndeme del secreto consejo de los malignos; de la conspiración de los que obran iniquidad:"
+    },
+    {
+      "verse": 3,
+      "text": "Que amolaron su lengua como cuchillo, y armaron por su saeta palabra amarga;"
+    },
+    {
+      "verse": 4,
+      "text": "Para asaetear á escondidas al íntegro: de improviso lo asaetean, y no temen."
+    },
+    {
+      "verse": 5,
+      "text": "Obstinados en su inicuo designio, tratan de esconder los lazos, y dicen: ¿Quién los ha de ver?"
+    },
+    {
+      "verse": 6,
+      "text": "Inquieren iniquidades, hacen una investigación exacta; y el íntimo pensamiento de cada uno de ellos, así como el corazón, es profundo."
+    },
+    {
+      "verse": 7,
+      "text": "Mas Dios los herirá con saeta; de repente serán sus plagas."
+    },
+    {
+      "verse": 8,
+      "text": "Y harán caer sobre sí sus mismas lenguas: se espantarán todos los que los vieren."
+    },
+    {
+      "verse": 9,
+      "text": "Y temerán todos los hombres, y anunciarán la obra de Dios, y entenderán su hecho."
+    },
+    {
+      "verse": 10,
+      "text": "Alegraráse el justo en Jehová, y confiaráse en él; y se gloriarán todos los rectos de corazón."
+    }
+  ]
+}

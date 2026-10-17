@@ -1,0 +1,48 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 149,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Alleluia! Chantez à Yahweh un cantique nouveau; que sa louange retentisse dans l'assemblée des saints!"
+    },
+    {
+      "verse": 2,
+      "text": "Qu'Israël se réjouisse en son Créateur, que les fils de Sion tressaillent en leur Roi!"
+    },
+    {
+      "verse": 3,
+      "text": "Qu'ils louent son nom dans leurs danses, qu'ils le chantent avec le tambourin et la harpe!"
+    },
+    {
+      "verse": 4,
+      "text": "Car Yahweh se complaît dans son peuple, il glorifie les humbles en les sauvant."
+    },
+    {
+      "verse": 5,
+      "text": "Les fidèles triomphent dans la gloire, ils tressaillent de joie sur leur couche."
+    },
+    {
+      "verse": 6,
+      "text": "Les louanges de Dieu sont dans leur bouche, et ils ont dans leurs mains un glaive à deux tranchants."
+    },
+    {
+      "verse": 7,
+      "text": "Pour exercer la vengeance sur les nations, et porter le châtiment chez les peuples;"
+    },
+    {
+      "verse": 8,
+      "text": "pour lier leurs rois avec des chaînes, et leurs grands avec des ceps de fer;"
+    },
+    {
+      "verse": 9,
+      "text": "pour exécuter contre eux l'arrêt écrit: c'est là la gloire réservée à tous ses fidèles. Alleluia!"
+    }
+  ]
+}

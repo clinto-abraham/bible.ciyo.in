@@ -1,0 +1,60 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 96,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "huic David quando terra eius restituta est Dominus regnavit exultet terra laetentur insulae multae Dominus regnavit exultabit terra laetabuntur insulae multae"
+    },
+    {
+      "verse": 2,
+      "text": "nubes et caligo in circuitu eius iustitia et iudicium correctio sedis eius nubes et caligo in circuitu eius iustitia et iudicium firmamentum solii eius"
+    },
+    {
+      "verse": 3,
+      "text": "ignis ante ipsum praecedet et inflammabit in circuitu inimicos eius ignis ante faciem eius ibit et exuret per circuitum hostes eius"
+    },
+    {
+      "verse": 4,
+      "text": "adluxerunt fulgora eius orbi terrae vidit et commota est terra apparuerunt fulgora eius orbi vidit et contremuit terra"
+    },
+    {
+      "verse": 5,
+      "text": "montes sicut cera fluxerunt *a facie Domini; a facie Domini omnis terrae montes sicut cera tabefacti sunt a facie Domini a facie dominatoris omnis terrae"
+    },
+    {
+      "verse": 6,
+      "text": "adnuntiaverunt caeli iustitiam eius et viderunt omnes populi gloriam eius adnuntiaverunt caeli iustitiam eius et viderunt omnes populi gloriam eius"
+    },
+    {
+      "verse": 7,
+      "text": "confundantur omnes qui adorant sculptilia qui gloriantur in simulacris suis adorate eum omnes angeli eius confundantur universi qui serviunt sculptili qui gloriantur in idolis adorate eum omnes dii"
+    },
+    {
+      "verse": 8,
+      "text": "audivit et laetata est Sion et exultaverunt filiae Iudaeae propter iudicia tua Domine audivit et laetata est Sion et exultaverunt filiae Iudae propter iudicia tua Domine"
+    },
+    {
+      "verse": 9,
+      "text": "quoniam tu Dominus Altissimus super omnem terram nimis superexaltatus es super omnes deos tu enim Dominus Excelsus super omnem terram vehementer elevatus es super universos deos"
+    },
+    {
+      "verse": 10,
+      "text": "qui diligitis Dominum odite malum custodit animas sanctorum suorum de manu peccatoris liberabit eos qui diligitis Dominum odite malum custodit animas sanctorum suorum de manu impiorum eruet eos"
+    },
+    {
+      "verse": 11,
+      "text": "lux orta est iusto et rectis corde laetitia lux orta est iusto et rectis corde laetitia"
+    },
+    {
+      "verse": 12,
+      "text": "laetamini iusti in Domino et confitemini memoriae sanctificationis eius laetamini iusti in Domino et confitemini memoriae sanctae eius"
+    }
+  ]
+}

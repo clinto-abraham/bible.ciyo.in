@@ -1,0 +1,52 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 4,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem in carminibus psalmus David victori in psalmis canticum David"
+    },
+    {
+      "verse": 2,
+      "text": "cum invocarem exaudivit me Deus iustitiae meae in tribulatione dilatasti mihi miserere mei et exaudi orationem meam invocante me exaudi me Deus iustitiae meae in tribulatione dilatasti mihi miserere mei et exaudi orationem meam"
+    },
+    {
+      "verse": 3,
+      "text": "filii hominum usquequo gravi corde ut quid diligitis vanitatem et quaeritis mendacium diapsalma filii viri usquequo incliti mei ignominiose diligitis vanitatem quaerentes mendacium semper"
+    },
+    {
+      "verse": 4,
+      "text": "et scitote quoniam mirificavit Dominus sanctum suum Dominus exaudiet me cum clamavero ad eum et cognoscite quoniam mirabilem reddidit Dominus sanctum suum Dominus exaudiet cum clamavero ad eum"
+    },
+    {
+      "verse": 5,
+      "text": "irascimini et nolite peccare quae dicitis in cordibus vestris in cubilibus vestris conpungimini diapsalma irascimini et nolite peccare loquimini in cordibus vestris super cubilia vestra et tacete semper"
+    },
+    {
+      "verse": 6,
+      "text": "sacrificate sacrificium iustitiae et sperate in Domino multi dicunt quis ostendet nobis bona sacrificate sacrificium iustitiae et fidite in Domino multi dicunt quis ostendit nobis bonum"
+    },
+    {
+      "verse": 7,
+      "text": "signatum est super nos lumen vultus tui Domine dedisti laetitiam in corde meo leva super nos lucem vultus tui Domine dedisti laetitiam in corde meo"
+    },
+    {
+      "verse": 8,
+      "text": "a fructu frumenti et vini et olei sui multiplicati sunt in tempore frumentum et vinum eorum multiplicata sunt"
+    },
+    {
+      "verse": 9,
+      "text": "in pace in id ipsum dormiam et requiescam in pace simul requiescam et dormiam"
+    },
+    {
+      "verse": 10,
+      "text": "quoniam tu Domine singulariter in spe constituisti me quia tu Domine specialiter securum habitare fecisti me"
+    }
+  ]
+}

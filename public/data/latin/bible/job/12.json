@@ -1,0 +1,112 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Job",
+  "bookSlug": "job",
+  "nativeName": "Job",
+  "chapterNumber": 12,
+  "totalVerses": 25,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "respondens autem Iob dixit"
+    },
+    {
+      "verse": 2,
+      "text": "ergo vos estis soli homines et vobiscum morietur sapientia"
+    },
+    {
+      "verse": 3,
+      "text": "et mihi est cor sicut et vobis nec inferior vestri sum quis enim haec quae nostis ignorat"
+    },
+    {
+      "verse": 4,
+      "text": "qui deridetur ab amico suo sicut ego invocabit Deum et exaudiet eum deridetur enim iusti simplicitas"
+    },
+    {
+      "verse": 5,
+      "text": "lampas contempta apud cogitationes divitum parata ad tempus statutum"
+    },
+    {
+      "verse": 6,
+      "text": "abundant tabernacula praedonum et audacter provocant Deum cum ipse dederit omnia in manibus eorum"
+    },
+    {
+      "verse": 7,
+      "text": "nimirum interroga iumenta et docebunt te et volatilia caeli et indicabunt tibi"
+    },
+    {
+      "verse": 8,
+      "text": "loquere terrae et respondebit tibi et narrabunt pisces maris"
+    },
+    {
+      "verse": 9,
+      "text": "quis ignorat quod omnia haec manus Domini fecerit"
+    },
+    {
+      "verse": 10,
+      "text": "in cuius manu anima omnis viventis et spiritus universae carnis hominis"
+    },
+    {
+      "verse": 11,
+      "text": "nonne auris verba diiudicat et fauces comedentis saporem"
+    },
+    {
+      "verse": 12,
+      "text": "in antiquis est sapientia et in multo tempore prudentia"
+    },
+    {
+      "verse": 13,
+      "text": "apud ipsum est sapientia et fortitudo ipse habet consilium et intellegentiam"
+    },
+    {
+      "verse": 14,
+      "text": "si destruxerit nemo est qui aedificet et si incluserit hominem nullus est qui aperiat"
+    },
+    {
+      "verse": 15,
+      "text": "si continuerit aquas omnia siccabuntur et si emiserit eas subvertent terram"
+    },
+    {
+      "verse": 16,
+      "text": "apud ipsum est fortitudo et sapientia ipse novit et decipientem et eum qui decipitur"
+    },
+    {
+      "verse": 17,
+      "text": "adducit consiliarios in stultum finem et iudices in stuporem"
+    },
+    {
+      "verse": 18,
+      "text": "balteum regum dissolvit et praecingit fune renes eorum"
+    },
+    {
+      "verse": 19,
+      "text": "ducit sacerdotes inglorios et optimates subplantat"
+    },
+    {
+      "verse": 20,
+      "text": "commutans labium veracium et doctrinam senum auferens"
+    },
+    {
+      "verse": 21,
+      "text": "effundit despectionem super principes et eos qui oppressi fuerant relevans"
+    },
+    {
+      "verse": 22,
+      "text": "qui revelat profunda de tenebris et producit in lucem umbram mortis"
+    },
+    {
+      "verse": 23,
+      "text": "qui multiplicat gentes et perdet eas et subversas in integrum restituet"
+    },
+    {
+      "verse": 24,
+      "text": "qui inmutat cor principum populi terrae et decipit eos ut frustra incedant per invium"
+    },
+    {
+      "verse": 25,
+      "text": "palpabunt quasi in tenebris et non in luce et errare eos faciet quasi ebrios"
+    }
+  ]
+}

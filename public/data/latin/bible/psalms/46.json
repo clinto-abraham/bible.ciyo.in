@@ -1,0 +1,52 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 46,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem pro filiis Core psalmus victori filiorum Core canticum"
+    },
+    {
+      "verse": 2,
+      "text": "omnes gentes plaudite manibus iubilate Deo in voce exultationis omnes populi plaudite manibus iubilate Deo in voce laudis"
+    },
+    {
+      "verse": 3,
+      "text": "quoniam Dominus excelsus terribilis rex magnus super omnem terram quoniam Dominus altissimus terribilis rex magnus super omnem terram"
+    },
+    {
+      "verse": 4,
+      "text": "subiecit populos nobis et gentes sub pedibus nostris congregavit populos subter nos et tribus sub pedibus nostris"
+    },
+    {
+      "verse": 5,
+      "text": "elegit nobis hereditatem suam speciem Iacob quam dilexit diapsalma elegit nobis hereditatem nostram gloriam Iacob quam dilexit semper"
+    },
+    {
+      "verse": 6,
+      "text": "ascendit Deus in iubilo Dominus in voce tubae ascendit Deus in iubilo Deus in voce bucinae"
+    },
+    {
+      "verse": 7,
+      "text": "psallite Deo nostro psallite psallite regi nostro psallite canite Deo canite canite regi nostro canite"
+    },
+    {
+      "verse": 8,
+      "text": "quoniam rex omnis terrae Deus psallite sapienter quia rex universae terrae Deus canite erudite"
+    },
+    {
+      "verse": 9,
+      "text": "regnavit Deus super gentes Deus sedit super sedem sanctam suam regnavit Deus super gentes Deus sedet super thronum sanctum suum"
+    },
+    {
+      "verse": 10,
+      "text": "principes populorum congregati sunt cum Deo Abraham quoniam Dei fortes terrae vehementer elevati sunt principes populorum congregati sunt populus Dei Abraham quoniam Dei scuta terrae vehementer elevata sunt"
+    }
+  ]
+}

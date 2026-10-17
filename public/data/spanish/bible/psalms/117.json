@@ -1,0 +1,20 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 117,
+  "totalVerses": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "ALABAD á Jehová, naciones todas; pueblos todos, alabadle."
+    },
+    {
+      "verse": 2,
+      "text": "Porque ha engrandecido sobre nosotros su misericordia; y la verdad de Jehová es para siempre. Aleluya."
+    }
+  ]
+}

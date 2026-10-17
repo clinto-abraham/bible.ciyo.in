@@ -1,0 +1,48 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 98,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "psalmus David Dominus regnavit irascantur populi qui sedet super cherubin moveatur terra Dominus regnavit commoveantur populi sessor cherubin concutiatur terra"
+    },
+    {
+      "verse": 2,
+      "text": "Dominus in Sion magnus et excelsus est super omnes populos Dominus in Sion magnus et excelsus est super omnes populos"
+    },
+    {
+      "verse": 3,
+      "text": "confiteantur nomini tuo magno quoniam terribile et sanctum est confiteantur nomini tuo magno et terribili sanctoque"
+    },
+    {
+      "verse": 4,
+      "text": "et honor regis iudicium diligit tu parasti directiones iudicium et iustitiam in Iacob tu fecisti imperium regis iudicium diligit tu fundasti aequitates iudicium et iustitiam in Iacob tu fecisti"
+    },
+    {
+      "verse": 5,
+      "text": "exaltate Dominum Deum nostrum et adorate scabillum pedum eius quoniam sanctum est exaltate Dominum Deum nostrum et adorate scabillum pedum eius quia sanctus est"
+    },
+    {
+      "verse": 6,
+      "text": "Moses et Aaron in sacerdotibus eius et Samuhel inter eos qui invocant nomen eius invocabant Dominum et ipse exaudiebat illos Moses et Aaron in sacerdotibus eius et Samuhel in his qui invocant nomen eius invocabant Dominum et ipse exaudivit eos"
+    },
+    {
+      "verse": 7,
+      "text": "in columna nubis loquebatur ad eos custodiebant testimonia eius et praeceptum quod dedit illis in columna nubis loquebatur ad eos custodierunt testimonia eius et praeceptum dedit eis"
+    },
+    {
+      "verse": 8,
+      "text": "Domine Deus noster tu exaudiebas illos Deus tu propitius fuisti eis et ulciscens in omnes adinventiones eorum Domine Deus noster tu exaudisti eos Domine propitius fuisti eis et ultor super commutationibus eorum"
+    },
+    {
+      "verse": 9,
+      "text": "exaltate Dominum Deum nostrum et adorate in monte sancto eius quoniam sanctus Dominus Deus noster exaltate Dominum Deum nostrum et adorate in monte sancto eius quia sanctus Dominus Deus noster"
+    }
+  ]
+}

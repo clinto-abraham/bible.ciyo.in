@@ -1,0 +1,52 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 146,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Alleluia! Mon âme, loue Yahweh!"
+    },
+    {
+      "verse": 2,
+      "text": "Toute ma vie, je veux louer Yahweh, tant que je serai, je veux chanter mon Dieu."
+    },
+    {
+      "verse": 3,
+      "text": "Ne mettez pas votre confiance dans les princes, dans le fils de l'homme, qui ne peut sauver."
+    },
+    {
+      "verse": 4,
+      "text": "Son souffle s'en va, il retourne à sa poussière, et, ce même jour, ses desseins s'évanouissent."
+    },
+    {
+      "verse": 5,
+      "text": "Heureux celui qui a pour secours le Dieu de Jacob, qui met son espoir en Yahweh, son Dieu!"
+    },
+    {
+      "verse": 6,
+      "text": "Yahweh a fait le ciel et la terre, la mer et tout ce qu'elle renferme; il garde à jamais sa fidélité."
+    },
+    {
+      "verse": 7,
+      "text": "Il rend justice aux opprimés, il donne la nourriture à ceux qui ont faim. Yahweh délivre les captifs,"
+    },
+    {
+      "verse": 8,
+      "text": "Yahweh ouvre les yeux des aveugles, Yahweh relève ceux qui sont courbés, Yahweh aime les justes."
+    },
+    {
+      "verse": 9,
+      "text": "Yahweh garde les étrangers, il soutient l'orphelin et la veuve; mais il rend tortueuse la voie des méchants."
+    },
+    {
+      "verse": 10,
+      "text": "Yahweh est roi pour l'éternité, ton Dieu, ô Sion, d'âge en âge. Alleluia!"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Job",
+  "bookSlug": "job",
+  "nativeName": "Job",
+  "chapterNumber": 14,
+  "totalVerses": 22,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "homo natus de muliere brevi vivens tempore repletus multis miseriis"
+    },
+    {
+      "verse": 2,
+      "text": "quasi flos egreditur et conteritur et fugit velut umbra et numquam in eodem statu permanet"
+    },
+    {
+      "verse": 3,
+      "text": "et dignum ducis super huiuscemodi aperire oculos tuos et adducere eum tecum in iudicium"
+    },
+    {
+      "verse": 4,
+      "text": "quis potest facere mundum de inmundo conceptum semine nonne tu qui solus es"
+    },
+    {
+      "verse": 5,
+      "text": "breves dies hominis sunt numerus mensuum eius apud te est constituisti terminos eius qui praeterire non poterunt"
+    },
+    {
+      "verse": 6,
+      "text": "recede paululum ab eo ut quiescat donec optata veniat sicut mercennarii dies eius"
+    },
+    {
+      "verse": 7,
+      "text": "lignum habet spem si praecisum fuerit rursum virescit et rami eius pullulant"
+    },
+    {
+      "verse": 8,
+      "text": "si senuerit in terra radix eius et in pulvere emortuus fuerit truncus illius"
+    },
+    {
+      "verse": 9,
+      "text": "ad odorem aquae germinabit et faciet comam quasi cum primum plantatum est"
+    },
+    {
+      "verse": 10,
+      "text": "homo vero cum mortuus fuerit et nudatus atque consumptus ubi quaeso est"
+    },
+    {
+      "verse": 11,
+      "text": "quomodo si recedant aquae de mari et fluvius vacuefactus arescat"
+    },
+    {
+      "verse": 12,
+      "text": "sic homo cum dormierit non resurget donec adteratur caelum non evigilabit nec consurget de somno suo"
+    },
+    {
+      "verse": 13,
+      "text": "quis mihi hoc tribuat ut in inferno protegas me ut abscondas me donec pertranseat furor tuus et constituas mihi tempus in quo recorderis mei"
+    },
+    {
+      "verse": 14,
+      "text": "putasne mortuus homo rursum vivet cunctis diebus quibus nunc milito expecto donec veniat inmutatio mea"
+    },
+    {
+      "verse": 15,
+      "text": "vocabis et ego respondebo tibi operi manuum tuarum porriges dexteram"
+    },
+    {
+      "verse": 16,
+      "text": "tu quidem gressus meos dinumerasti sed parces peccatis meis"
+    },
+    {
+      "verse": 17,
+      "text": "signasti quasi in sacculo delicta mea sed curasti iniquitatem meam"
+    },
+    {
+      "verse": 18,
+      "text": "mons cadens defluet et saxum transfertur de loco suo"
+    },
+    {
+      "verse": 19,
+      "text": "lapides excavant aquae et adluvione paulatim terra consumitur et homines ergo similiter perdes"
+    },
+    {
+      "verse": 20,
+      "text": "roborasti eum paululum ut in perpetuum pertransiret inmutabis faciem eius et emittes eum"
+    },
+    {
+      "verse": 21,
+      "text": "sive nobiles fuerint filii eius sive ignobiles non intelleget"
+    },
+    {
+      "verse": 22,
+      "text": "attamen caro eius dum vivet dolebit et anima illius super semet ipso lugebit"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 128,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cántico gradual. BIENAVENTURADO todo aquel que teme á Jehová, que anda en sus caminos."
+    },
+    {
+      "verse": 2,
+      "text": "Cuando comieres el trabajo de tus manos, bienaventurado tú, y tendrás bien."
+    },
+    {
+      "verse": 3,
+      "text": "Tu mujer será como parra que lleva fruto á los lados de tu casa; tus hijos como plantas de olivas alrededor de tu mesa."
+    },
+    {
+      "verse": 4,
+      "text": "He aquí que así será bendito el hombre que teme á Jehová."
+    },
+    {
+      "verse": 5,
+      "text": "Bendígate Jehová desde Sión, y veas el bien de Jerusalem todos los días de tu vida."
+    },
+    {
+      "verse": 6,
+      "text": "Y veas los hijos de tus hijos, y la paz sobre Israel."
+    }
+  ]
+}

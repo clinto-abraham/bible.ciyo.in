@@ -1,0 +1,24 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 131,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cántico gradual: de David. JEHOVÁ, no se ha envanecido mi corazón, ni mis ojos se enaltecieron; ni anduve en grandezas, ni en cosas para mí demasiado sublimes."
+    },
+    {
+      "verse": 2,
+      "text": "En verdad que me he comportado y he acallado mi alma, como un niño destetado de su madre: como un niño destetado está mi alma."
+    },
+    {
+      "verse": 3,
+      "text": "Espera, oh Israel, en Jehová desde ahora y para siempre."
+    }
+  ]
+}

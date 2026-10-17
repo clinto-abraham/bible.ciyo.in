@@ -1,0 +1,32 @@
+{
+  "translation": "KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords",
+  "language": "english",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 93,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The Lord reigneth, he is clothed with majesty; the Lord is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved."
+    },
+    {
+      "verse": 2,
+      "text": "Thy throne is established of old: thou art from everlasting."
+    },
+    {
+      "verse": 3,
+      "text": "The floods have lifted up, O Lord, the floods have lifted up their voice; the floods lift up their waves."
+    },
+    {
+      "verse": 4,
+      "text": "The Lord on high is mightier than the noise of many waters, yea, than the mighty waves of the sea."
+    },
+    {
+      "verse": 5,
+      "text": "Thy testimonies are very sure: holiness becometh thine house, O Lord, for ever."
+    }
+  ]
+}

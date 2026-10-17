@@ -1,0 +1,100 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Job",
+  "bookSlug": "job",
+  "nativeName": "Job",
+  "chapterNumber": 10,
+  "totalVerses": 22,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "taedet animam meam vitae meae dimittam adversum me eloquium meum loquar in amaritudine animae meae"
+    },
+    {
+      "verse": 2,
+      "text": "dicam Deo noli me condemnare indica mihi cur me ita iudices"
+    },
+    {
+      "verse": 3,
+      "text": "numquid bonum tibi videtur si calumnieris et opprimas me opus manuum tuarum et consilium impiorum adiuves"
+    },
+    {
+      "verse": 4,
+      "text": "numquid oculi carnei tibi sunt aut sicut videt homo et tu videbis"
+    },
+    {
+      "verse": 5,
+      "text": "numquid sicut dies hominis dies tui et anni tui sicut humana sunt tempora"
+    },
+    {
+      "verse": 6,
+      "text": "ut quaeras iniquitatem meam et peccatum meum scruteris"
+    },
+    {
+      "verse": 7,
+      "text": "et scias quia nihil impium fecerim cum sit nemo qui de manu tua possit eruere"
+    },
+    {
+      "verse": 8,
+      "text": "manus tuae plasmaverunt me et fecerunt me totum in circuitu et sic repente praecipitas me"
+    },
+    {
+      "verse": 9,
+      "text": "memento quaeso quod sicut lutum feceris me et in pulverem reduces me"
+    },
+    {
+      "verse": 10,
+      "text": "nonne sicut lac mulsisti me et sicut caseum me coagulasti"
+    },
+    {
+      "verse": 11,
+      "text": "pelle et carnibus vestisti me et ossibus et nervis conpegisti me"
+    },
+    {
+      "verse": 12,
+      "text": "vitam et misericordiam tribuisti mihi et visitatio tua custodivit spiritum meum"
+    },
+    {
+      "verse": 13,
+      "text": "licet haec celes in corde tuo tamen scio quia universorum memineris"
+    },
+    {
+      "verse": 14,
+      "text": "si peccavi et ad horam pepercisti mihi cur ab iniquitate mea mundum me esse non pateris"
+    },
+    {
+      "verse": 15,
+      "text": "et si impius fuero vae mihi est et si iustus non levabo caput saturatus adflictione et miseria"
+    },
+    {
+      "verse": 16,
+      "text": "et propter superbiam quasi leaenam capies me reversusque mirabiliter me crucias"
+    },
+    {
+      "verse": 17,
+      "text": "instauras testes tuos contra me et multiplicas iram tuam adversum me et poenae militant in me"
+    },
+    {
+      "verse": 18,
+      "text": "quare de vulva eduxisti me qui utinam consumptus essem ne oculus me videret"
+    },
+    {
+      "verse": 19,
+      "text": "fuissem quasi qui non essem de utero translatus ad tumulum"
+    },
+    {
+      "verse": 20,
+      "text": "numquid non paucitas dierum meorum finietur brevi dimitte ergo me ut plangam paululum dolorem meum"
+    },
+    {
+      "verse": 21,
+      "text": "antequam vadam et non revertar ad terram tenebrosam et opertam mortis caligine"
+    },
+    {
+      "verse": 22,
+      "text": "terram miseriae et tenebrarum ubi umbra mortis et nullus ordo et sempiternus horror inhabitans"
+    }
+  ]
+}

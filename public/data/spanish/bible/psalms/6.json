@@ -1,0 +1,52 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 6,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Al Músico principal: en Neginoth sobre Seminith: Salmo de David. JEHOVÁ, no me reprendas en tu furor, ni me castigues con tu ira."
+    },
+    {
+      "verse": 2,
+      "text": "Ten misericordia de mí, oh Jehová, porque yo estoy debilitado: sáname, oh Jehová, porque mis huesos están conmovidos."
+    },
+    {
+      "verse": 3,
+      "text": "Mi alma asimismo está muy conturbada: y tú, Jehová, ¿hasta cuándo?"
+    },
+    {
+      "verse": 4,
+      "text": "Vuelve, oh Jehová, libra mi alma; sálvame por tu misericordia."
+    },
+    {
+      "verse": 5,
+      "text": "Porque en la muerte no hay memoria de ti: ¿quién te loará en el sepulcro?"
+    },
+    {
+      "verse": 6,
+      "text": "Heme consumido á fuerza de gemir: todas las noches inundo mi lecho, riego mi estrado con mis lágrimas."
+    },
+    {
+      "verse": 7,
+      "text": "Mis ojos están carcomidos de descontento; hanse envejecido á causa de todos mis angustiadores."
+    },
+    {
+      "verse": 8,
+      "text": "Apartaos de mí, todos los obradores de iniquidad; porque Jehová ha oído la voz de mi lloro."
+    },
+    {
+      "verse": 9,
+      "text": "Jehová ha oído mi ruego; ha recibido Jehová mi oración."
+    },
+    {
+      "verse": 10,
+      "text": "Se avergonzarán, y turbaránse mucho todos mis enemigos; volveránse y serán avergonzados subitáneamente."
+    }
+  ]
+}

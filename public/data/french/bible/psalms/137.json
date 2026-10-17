@@ -1,0 +1,48 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 137,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Au bord des fleuves de Babylone nous étions assis et nous pleurions, en nous souvenant de Sion."
+    },
+    {
+      "verse": 2,
+      "text": "Aux saules de ses vallées nous avions suspendu nos harpes."
+    },
+    {
+      "verse": 3,
+      "text": "Car là, ceux qui nous tenaient captifs nous demandaient des hymnes et des cantiques, nos oppresseurs, des chants joyeux: « Chantez-nous un cantique de Sion! »"
+    },
+    {
+      "verse": 4,
+      "text": "Comment chanterions-nous le cantique de Yahweh, sur la terre de l'étranger?"
+    },
+    {
+      "verse": 5,
+      "text": "Si jamais je t'oublie, Jérusalem, que ma droite oublie de se mouvoir!..."
+    },
+    {
+      "verse": 6,
+      "text": "Que ma langue s'attache à mon palais, si je cesse de penser à toi, si je ne mets pas Jérusalem au premier rang de mes joies!"
+    },
+    {
+      "verse": 7,
+      "text": "Souviens-toi, Yahweh, des enfants d'Edom, quand au jour de Jérusalem, ils disaient: « Détruisez, détruisez-la, jusqu'en ses fondements! »"
+    },
+    {
+      "verse": 8,
+      "text": "Fille de Babylone, vouée à la ruine, heureux celui qui te rendra le mal que tu nous as fait!"
+    },
+    {
+      "verse": 9,
+      "text": "Heureux celui qui saisira et brisera tes petits enfants contre la pierre!"
+    }
+  ]
+}

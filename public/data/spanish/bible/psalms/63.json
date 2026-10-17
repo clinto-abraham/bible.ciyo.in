@@ -1,0 +1,56 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 63,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Salmo de David, estando en el desierto de Judá. DIOS, Dios mío eres tú: levantaréme á ti de mañana: mi alma tiene sed de ti, mi carne te desea, en tierra de sequedad y transida sin aguas;"
+    },
+    {
+      "verse": 2,
+      "text": "Para ver tu fortaleza y tu gloria, así como te he mirado en el santuario."
+    },
+    {
+      "verse": 3,
+      "text": "Porque mejor es tu misericordia que la vida: mis labios te alabarán."
+    },
+    {
+      "verse": 4,
+      "text": "Así te bendeciré en mi vida: en tu nombre alzaré mis manos."
+    },
+    {
+      "verse": 5,
+      "text": "Como de meollo y de grosura será saciada mi alma; y con labios de júbilo te alabará mi boca,"
+    },
+    {
+      "verse": 6,
+      "text": "Cuando me acordaré de ti en mi lecho, cuando meditaré de ti en las velas de la noche."
+    },
+    {
+      "verse": 7,
+      "text": "Porque has sido mi socorro; y así en la sombra de tus alas me regocijaré."
+    },
+    {
+      "verse": 8,
+      "text": "Está mi alma apegada á ti: tu diestra me ha sostenido."
+    },
+    {
+      "verse": 9,
+      "text": "Mas los que para destrucción buscaron mi alma, caerán en los sitios bajos de la tierra."
+    },
+    {
+      "verse": 10,
+      "text": "Destruiránlos á filo de espada; serán porción de las zorras."
+    },
+    {
+      "verse": 11,
+      "text": "Empero el rey se alegrará en Dios; será alabado cualquiera que por él jura: porque la boca de los que hablan mentira, será cerrada."
+    }
+  ]
+}

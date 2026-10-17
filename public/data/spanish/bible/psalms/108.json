@@ -1,0 +1,64 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 108,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Canción: Salmo de David. MI corazón está dispuesto, oh Dios; cantaré y salmearé todavía en mi gloria."
+    },
+    {
+      "verse": 2,
+      "text": "Despiértate, salterio y arpa: despertaré al alba."
+    },
+    {
+      "verse": 3,
+      "text": "Te alabaré, oh Jehová, entre los pueblos; á ti cantaré salmos entre las naciones."
+    },
+    {
+      "verse": 4,
+      "text": "Porque grande más que los cielos es tu misericordia, y hasta los cielos tu verdad."
+    },
+    {
+      "verse": 5,
+      "text": "Ensálzate, oh Dios, sobre los cielos; y sobre toda la tierra tu gloria."
+    },
+    {
+      "verse": 6,
+      "text": "Para que sean librados tus amados, salva con tu diestra y respóndeme."
+    },
+    {
+      "verse": 7,
+      "text": "Dios habló por su santuario: alegraréme, repartiré á Sichêm, y mediré el valle de Succoth."
+    },
+    {
+      "verse": 8,
+      "text": "Mío es Galaad, mío es Manasés; y Ephraim es la fortaleza de mi cabeza; Judá es mi legislador;"
+    },
+    {
+      "verse": 9,
+      "text": "Moab, la vasija de mi lavatorio: sobre Edom echaré mi calzado; regocijaréme sobre Palestina."
+    },
+    {
+      "verse": 10,
+      "text": "¿Quién me guiará á la ciudad fortalecida? ¿quién me guiará hasta Idumea?"
+    },
+    {
+      "verse": 11,
+      "text": "Ciertamente tú, oh Dios, que nos habías desechado; y no salías, oh Dios, con nuestros ejércitos."
+    },
+    {
+      "verse": 12,
+      "text": "Danos socorro en la angustia: porque mentirosa es la salud del hombre."
+    },
+    {
+      "verse": 13,
+      "text": "En Dios haremos proezas: y él hollará nuestros enemigos."
+    }
+  ]
+}

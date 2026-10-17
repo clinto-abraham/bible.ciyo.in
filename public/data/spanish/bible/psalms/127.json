@@ -1,0 +1,32 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 127,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cántico gradual: para Salomón. SI Jehová no edificare la casa, en vano trabajan los que la edifican: si Jehová no guardare la ciudad, en vano vela la guarda."
+    },
+    {
+      "verse": 2,
+      "text": "Por demás os es el madrugar á levantaros, el veniros tarde á reposar, el comer pan de dolores: pues que á su amado dará Dios el sueño."
+    },
+    {
+      "verse": 3,
+      "text": "He aquí, heredad de Jehová son los hijos: cosa de estima el fruto del vientre."
+    },
+    {
+      "verse": 4,
+      "text": "Como saetas en mano del valiente, así son los hijos habidos en la juventud."
+    },
+    {
+      "verse": 5,
+      "text": "Bienaventurado el hombre que hinchió su aljaba de ellos: no será avergonzado cuando hablare con los enemigos en la puerta."
+    }
+  ]
+}

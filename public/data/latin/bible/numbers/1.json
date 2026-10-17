@@ -1,0 +1,228 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Numbers",
+  "bookSlug": "numbers",
+  "nativeName": "Numeri",
+  "chapterNumber": 1,
+  "totalVerses": 54,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "locutusque est Dominus ad Mosen in deserto Sinai in tabernaculo foederis prima die mensis secundi anno altero egressionis eorum ex Aegypto dicens"
+    },
+    {
+      "verse": 2,
+      "text": "tollite summam universae congregationis filiorum Israhel per cognationes et domos suas et nomina singulorum quicquid sexus est masculini"
+    },
+    {
+      "verse": 3,
+      "text": "a vicesimo anno et supra omnium virorum fortium ex Israhel et numerabitis eos per turmas suas tu et Aaron"
+    },
+    {
+      "verse": 4,
+      "text": "eruntque vobiscum principes tribuum ac domorum in cognationibus suis"
+    },
+    {
+      "verse": 5,
+      "text": "quorum ista sunt nomina de Ruben Elisur filius Sedeur"
+    },
+    {
+      "verse": 6,
+      "text": "de Symeon Salamihel filius Surisaddai"
+    },
+    {
+      "verse": 7,
+      "text": "de Iuda Naasson filius Aminadab"
+    },
+    {
+      "verse": 8,
+      "text": "de Isachar Nathanahel filius Suar"
+    },
+    {
+      "verse": 9,
+      "text": "de Zabulon Heliab filius Helon"
+    },
+    {
+      "verse": 10,
+      "text": "filiorum autem Ioseph de Ephraim Helisama filius Ammiud de Manasse Gamalihel filius Phadassur"
+    },
+    {
+      "verse": 11,
+      "text": "de Beniamin Abidan filius Gedeonis"
+    },
+    {
+      "verse": 12,
+      "text": "de Dan Ahiezer filius Amisaddai"
+    },
+    {
+      "verse": 13,
+      "text": "de Aser Phegihel filius Ochran"
+    },
+    {
+      "verse": 14,
+      "text": "de Gad Heliasaph filius Duhel"
+    },
+    {
+      "verse": 15,
+      "text": "de Nepthali Ahira filius Henan"
+    },
+    {
+      "verse": 16,
+      "text": "hii nobilissimi principes multitudinis per tribus et cognationes suas et capita exercitus Israhel"
+    },
+    {
+      "verse": 17,
+      "text": "quos tulerunt Moses et Aaron cum omni vulgi multitudine"
+    },
+    {
+      "verse": 18,
+      "text": "et congregaverunt primo die mensis secundi recensentes eos per cognationes et domos ac familias et capita et nomina singulorum a vicesimo anno et supra"
+    },
+    {
+      "verse": 19,
+      "text": "sicut praeceperat Dominus Mosi numeratique sunt in deserto Sinai"
+    },
+    {
+      "verse": 20,
+      "text": "de Ruben primogenito Israhelis per generationes et familias ac domos suas et nomina capitum singulorum omne quod sexus est masculini a vicesimo anno et supra procedentium ad bellum"
+    },
+    {
+      "verse": 21,
+      "text": "quadraginta sex milia quingenti"
+    },
+    {
+      "verse": 22,
+      "text": "de filiis Symeon per generationes et familias ac domos cognationum suarum recensiti sunt per nomina et capita singulorum omne quod sexus est masculini a vicesimo anno et supra procedentium ad bellum"
+    },
+    {
+      "verse": 23,
+      "text": "quinquaginta novem milia trecenti"
+    },
+    {
+      "verse": 24,
+      "text": "de filiis Gad per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra omnes qui ad bella procederent"
+    },
+    {
+      "verse": 25,
+      "text": "quadraginta quinque milia sescenti quinquaginta"
+    },
+    {
+      "verse": 26,
+      "text": "de filiis Iuda per generationes et familias ac domos cognationum suarum per nomina singulorum a vicesimo anno et supra omnes qui poterant ad bella procedere"
+    },
+    {
+      "verse": 27,
+      "text": "recensiti sunt septuaginta quattuor milia sescenti"
+    },
+    {
+      "verse": 28,
+      "text": "de filiis Isachar per generationes et familias ac domos cognationum suarum per nomina singulorum a vicesimo anno et supra omnes qui ad bella procederent"
+    },
+    {
+      "verse": 29,
+      "text": "recensiti sunt quinquaginta quattuor milia quadringenti"
+    },
+    {
+      "verse": 30,
+      "text": "de filiis Zabulon per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vicesimo anno et supra omnes qui poterant ad bella procedere"
+    },
+    {
+      "verse": 31,
+      "text": "quinquaginta septem milia quadringenti"
+    },
+    {
+      "verse": 32,
+      "text": "de filiis Ioseph filiorum Ephraim per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vicesimo anno et supra omnes qui poterant ad bella procedere"
+    },
+    {
+      "verse": 33,
+      "text": "quadraginta milia quingenti"
+    },
+    {
+      "verse": 34,
+      "text": "porro filiorum Manasse per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a viginti annis et supra omnes qui poterant ad bella procedere"
+    },
+    {
+      "verse": 35,
+      "text": "triginta duo milia ducenti"
+    },
+    {
+      "verse": 36,
+      "text": "de filiis Beniamin per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vicesimo anno et supra omnes qui poterant ad bella procedere"
+    },
+    {
+      "verse": 37,
+      "text": "triginta quinque milia quadringenti"
+    },
+    {
+      "verse": 38,
+      "text": "de filiis Dan per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vicesimo anno et supra omnes qui poterant ad bella procedere"
+    },
+    {
+      "verse": 39,
+      "text": "sexaginta duo milia septingenti"
+    },
+    {
+      "verse": 40,
+      "text": "de filiis Aser per generationes et familias ac domos cognationum suarum recensiti sunt per nomina singulorum a vicesimo anno et supra omnes qui poterant ad bella procedere"
+    },
+    {
+      "verse": 41,
+      "text": "quadraginta milia et mille quingenti"
+    },
+    {
+      "verse": 42,
+      "text": "de filiis Nepthali per generationes et familias ac domos cognationum suarum recensiti sunt nominibus singulorum a vicesimo anno et supra omnes qui poterant ad bella procedere"
+    },
+    {
+      "verse": 43,
+      "text": "quinquaginta tria milia quadringenti"
+    },
+    {
+      "verse": 44,
+      "text": "hii sunt quos numeraverunt Moses et Aaron et duodecim principes Israhel singulos per domos cognationum suarum"
+    },
+    {
+      "verse": 45,
+      "text": "fueruntque omnes filiorum Israhel per domos et familias suas a vicesimo anno et supra qui poterant ad bella procedere"
+    },
+    {
+      "verse": 46,
+      "text": "sescenta tria milia virorum quingenti quinquaginta"
+    },
+    {
+      "verse": 47,
+      "text": "Levitae autem in tribu familiarum suarum non sunt numerati cum eis"
+    },
+    {
+      "verse": 48,
+      "text": "locutusque est Dominus ad Mosen dicens"
+    },
+    {
+      "verse": 49,
+      "text": "tribum Levi noli numerare neque ponas summam eorum cum filiis Israhel"
+    },
+    {
+      "verse": 50,
+      "text": "sed constitue eos super tabernaculum testimonii cuncta vasa eius et quicquid ad caerimonias pertinet ipsi portabunt tabernaculum et omnia utensilia eius et erunt in ministerio ac per gyrum tabernaculi metabuntur"
+    },
+    {
+      "verse": 51,
+      "text": "cum proficiscendum fuerit deponent Levitae tabernaculum cum castra metanda erigent quisquis externorum accesserit occidetur"
+    },
+    {
+      "verse": 52,
+      "text": "metabuntur autem castra filii Israhel unusquisque per turmas et cuneos atque exercitum suum"
+    },
+    {
+      "verse": 53,
+      "text": "porro Levitae per gyrum tabernaculi figent tentoria ne fiat indignatio super multitudinem filiorum Israhel et excubabunt in custodiis tabernaculi testimonii"
+    },
+    {
+      "verse": 54,
+      "text": "fecerunt ergo filii Israhel iuxta omnia quae praeceperat Dominus Mosi"
+    }
+  ]
+}

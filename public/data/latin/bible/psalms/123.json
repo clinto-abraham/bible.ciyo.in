@@ -1,0 +1,44 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 123,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "canticum graduum huic David nisi quia Dominus erat in nobis dicat nunc Israhel canticum graduum David nisi Dominus fuisset in nobis dicat nunc Israhel"
+    },
+    {
+      "verse": 2,
+      "text": "nisi quia Dominus erat in nobis cum exsurgerent in nos homines nisi Dominus fuisset in nobis cum exsurgerent super nos homines"
+    },
+    {
+      "verse": 3,
+      "text": "forte vivos degluttissent nos cum irasceretur furor eorum in nos forsitan vivos absorbuissent nos cum irasceretur furor eorum super nos"
+    },
+    {
+      "verse": 4,
+      "text": "forsitan aqua absorbuisset nos forsitan aquae circumdedissent nos"
+    },
+    {
+      "verse": 5,
+      "text": "torrentem pertransivit anima nostra forsitan pertransisset anima nostra aquam intolerabilem torrens transisset super animam nostram forsitan transissent super animam nostram aquae superbae"
+    },
+    {
+      "verse": 6,
+      "text": "benedictus Dominus qui non dedit nos in captionem dentibus eorum benedictus Dominus qui non dedit nos in praedam dentibus eorum"
+    },
+    {
+      "verse": 7,
+      "text": "anima nostra sicut passer erepta est de laqueo venantium laqueus contritus est et nos liberati sumus anima nostra quasi avis erepta est de laqueo venantium laqueus contritus est et nos liberati sumus"
+    },
+    {
+      "verse": 8,
+      "text": "adiutorium nostrum in nomine Domini qui fecit caelum et terram auxilium nostrum in nomine Domini qui fecit caelum et terram"
+    }
+  ]
+}

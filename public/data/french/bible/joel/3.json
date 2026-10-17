@@ -1,0 +1,32 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Joel",
+  "bookSlug": "joel",
+  "nativeName": "Joel",
+  "chapterNumber": 3,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Et il arrivera après cela que je répandrai mon Esprit sur toute chair. Et vos fils et vos filles prophétiseront, vos vieillards auront des songes, vos jeunes gens verront des visions."
+    },
+    {
+      "verse": 2,
+      "text": "Même sur les serviteurs et sur les servantes, en ces jours-là je répandrai mon esprit."
+    },
+    {
+      "verse": 3,
+      "text": "Je ferai paraître des prodiges dans les cieux et sur la terre, du sang, du feu et des colonnes de fumée."
+    },
+    {
+      "verse": 4,
+      "text": "Le soleil se changera en ténèbres, et la lune en sang, avant que vienne le jour de Yahweh, grand et terrible."
+    },
+    {
+      "verse": 5,
+      "text": "Et quiconque invoquera le nom de Yahweh sera sauvé; car sur la montagne de Sion et de Jérusalem, il y aura une réunion de sauvés, comme l'a dit Yahweh, et parmi les survivants que Yahweh appelle!"
+    }
+  ]
+}

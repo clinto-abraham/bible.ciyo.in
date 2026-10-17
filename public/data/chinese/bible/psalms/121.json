@@ -1,0 +1,44 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 121,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "（上行之 詩。）我要向 山 舉 目；我的幫助 從何 而來？"
+    },
+    {
+      "verse": 2,
+      "text": "我的幫助 從 造 天 地 的耶和華而來。"
+    },
+    {
+      "verse": 3,
+      "text": "他必不 叫 你的腳 搖動；保護你的 必不 打盹！"
+    },
+    {
+      "verse": 4,
+      "text": "保護 以色列的，也不 打盹 也不 睡覺。"
+    },
+    {
+      "verse": 5,
+      "text": "保護你的 是耶和華；耶和華 在 你右邊 蔭庇你。"
+    },
+    {
+      "verse": 6,
+      "text": "白日，太陽 必不 傷你；夜間，月亮必不害你。"
+    },
+    {
+      "verse": 7,
+      "text": "耶和華 要保護你，免受一切的 災害；他要保護 你的性命。"
+    },
+    {
+      "verse": 8,
+      "text": "你出 你入，耶和華 要保護你，從今時 直到 永遠。"
+    }
+  ]
+}

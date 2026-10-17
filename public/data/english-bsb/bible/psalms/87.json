@@ -1,0 +1,40 @@
+{
+  "translation": "BSB: Berean Standard Bible",
+  "language": "english-bsb",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 87,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A Psalm of the sons of Korah. A song. He has founded His city on the holy mountains."
+    },
+    {
+      "verse": 2,
+      "text": "The LORD loves the gates of Zion more than all the dwellings of Jacob."
+    },
+    {
+      "verse": 3,
+      "text": "Glorious things are ascribed to you, O city of God. Selah"
+    },
+    {
+      "verse": 4,
+      "text": "“I will mention Rahab and Babylon among those who know Me— along with Philistia, Tyre, and Cush— when I say, ‘This one was born in Zion.’”"
+    },
+    {
+      "verse": 5,
+      "text": "And it will be said of Zion: “This one and that one were born in her, and the Most High Himself will establish her.”"
+    },
+    {
+      "verse": 6,
+      "text": "The LORD will record in the register of the peoples: “This one was born in Zion.” Selah"
+    },
+    {
+      "verse": 7,
+      "text": "Singers and pipers will proclaim, “All my springs of joy are in You.”"
+    }
+  ]
+}

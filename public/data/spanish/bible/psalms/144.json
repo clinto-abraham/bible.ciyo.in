@@ -1,0 +1,72 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 144,
+  "totalVerses": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Salmo de David. BENDITO sea Jehová, mi roca, que enseña mis manos á la batalla, y mis dedos á la guerra:"
+    },
+    {
+      "verse": 2,
+      "text": "Misericordia mía y mi castillo, altura mía y mi libertador, escudo mío, en quien he confiado; el que allana mi pueblo delante de mí."
+    },
+    {
+      "verse": 3,
+      "text": "Oh Jehová, ¿qué es el hombre, para que de él conozcas? ¿ó el hijo del hombre, para que lo estimes?"
+    },
+    {
+      "verse": 4,
+      "text": "El hombre es semejante á la vanidad: sus días son como la sombra que pasa."
+    },
+    {
+      "verse": 5,
+      "text": "Oh Jehová, inclina tus cielos y desciende: toca los montes, y humeen."
+    },
+    {
+      "verse": 6,
+      "text": "Despide relámpagos, y disípalos; envía tus saetas, y contúrbalos."
+    },
+    {
+      "verse": 7,
+      "text": "Envía tu mano desde lo alto; redímeme, y sácame de las muchas aguas, de la mano de los hijos extraños;"
+    },
+    {
+      "verse": 8,
+      "text": "Cuya boca habla vanidad, y su diestra es diestra de mentira."
+    },
+    {
+      "verse": 9,
+      "text": "Oh Dios, á ti cantaré canción nueva: con salterio, con decacordio cantaré á ti."
+    },
+    {
+      "verse": 10,
+      "text": "Tú, el que da salud á los reyes, el que redime á David su siervo de maligna espada."
+    },
+    {
+      "verse": 11,
+      "text": "Redímeme, y sálvame de mano de los hijos extraños, cuya boca habla vanidad, y su diestra es diestra de mentira."
+    },
+    {
+      "verse": 12,
+      "text": "Que nuestros hijos sean como plantas crecidas en su juventud; nuestras hijas como las esquinas labradas á manera de las de un palacio;"
+    },
+    {
+      "verse": 13,
+      "text": "Nuestros graneros llenos, provistos de toda suerte de grano; nuestros ganados, que paran á millares y diez millares en nuestras plazas:"
+    },
+    {
+      "verse": 14,
+      "text": "Que nuestros bueyes estén fuertes para el trabajo; que no tengamos asalto, ni que hacer salida, ni grito de alarma en nuestras plazas."
+    },
+    {
+      "verse": 15,
+      "text": "Bienaventurado el pueblo que tiene esto: bienaventurado el pueblo cuyo Dios es Jehová."
+    }
+  ]
+}

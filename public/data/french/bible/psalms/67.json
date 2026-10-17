@@ -1,0 +1,44 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 67,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Au maître de chant. Avec instruments à cordes. Psaume. Cantique."
+    },
+    {
+      "verse": 2,
+      "text": "Que Dieu nous soit favorable et qu'il nous bénisse! qu'il fasse luire sur nous sa face, — Séla."
+    },
+    {
+      "verse": 3,
+      "text": "afin que l'on connaisse sur la terre ta voie, et parmi toutes les nations ton salut!"
+    },
+    {
+      "verse": 4,
+      "text": "Que les peuples te louent, ô Dieu, que les peuples te louent tous!"
+    },
+    {
+      "verse": 5,
+      "text": "Que les nations se réjouissent, qu'elles soient dans l'allégresse! car tu juges les peuples avec droiture, et tu conduis les nations sur la terre. — Séla."
+    },
+    {
+      "verse": 6,
+      "text": "Que les peuples te louent, ô Dieu, que les peuples te louent tous!"
+    },
+    {
+      "verse": 7,
+      "text": "La terre a donné ses produits; que Dieu, notre Dieu, nous bénisse!"
+    },
+    {
+      "verse": 8,
+      "text": "Que Dieu nous bénisse, et que toutes les extrémités de la terre le révèrent!"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 137,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "JUNTO á los ríos de Babilonia, allí nos sentábamos, y aun llorábamos, acordándonos de Sión."
+    },
+    {
+      "verse": 2,
+      "text": "Sobre los sauces en medio de ella colgamos nuestras arpas."
+    },
+    {
+      "verse": 3,
+      "text": "Y los que allí nos habían llevado cautivos nos pedían que cantásemos, y los que nos habían desolado nos pedían alegría, diciendo:"
+    },
+    {
+      "verse": 4,
+      "text": "Cantadnos algunos de los himnos de Sión. ¿Cómo cantaremos canción de Jehová en tierra de extraños?"
+    },
+    {
+      "verse": 5,
+      "text": "Si me olvidare de ti, oh Jerusalem, mi diestra sea olvidada."
+    },
+    {
+      "verse": 6,
+      "text": "Mi lengua se pegue á mi paladar, si de ti no me acordare; si no ensalzare á Jerusalem como preferente asunto de mi alegría."
+    },
+    {
+      "verse": 7,
+      "text": "Acuérdate, oh Jehová, de los hijos de Edom en el día de Jerusalem; quienes decían: Arrasadla, arrasadla hasta los cimientos."
+    },
+    {
+      "verse": 8,
+      "text": "Hija de Babilonia destruída, bienaventurado el que te diere el pago de lo que tú nos hiciste."
+    },
+    {
+      "verse": 9,
+      "text": "Bienaventurado el que tomará y estrellará tus niños contra las piedras."
+    }
+  ]
+}

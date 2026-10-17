@@ -1,0 +1,60 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 57,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem ne disperdas David in tituli inscriptione victori ut non disperdas David humilem et simplicem"
+    },
+    {
+      "verse": 2,
+      "text": "si vere utique iustitiam loquimini recta iudicate filii hominum si vere utique iustitiam loquimini recta iudicate filii hominum"
+    },
+    {
+      "verse": 3,
+      "text": "etenim in corde iniquitates operamini in terra iniustitiam manus vestrae concinnant etenim in corde iniquitates operamini in terra iniquitatis manus vestras adpendite"
+    },
+    {
+      "verse": 4,
+      "text": "alienati sunt peccatores a vulva erraverunt ab utero locuti sunt falsa alienati sunt peccatores a vulva erraverunt ab utero loquentes mendacium"
+    },
+    {
+      "verse": 5,
+      "text": "furor illis secundum similitudinem serpentis sicut aspidis surdae et obturantis aures suas furor eorum sicut furor serpentis sicut reguli surdi obturantis aurem suam"
+    },
+    {
+      "verse": 6,
+      "text": "quae non exaudiet vocem incantantium et venefici incantantis sapienter ut non audiat vocem murmurantium nec incantatoris incantationes callidas"
+    },
+    {
+      "verse": 7,
+      "text": "Deus conteret dentes eorum in ore ipsorum molas leonum confringet Dominus Deus excute dentes eorum ex ore eorum molares leonum confringe Domine"
+    },
+    {
+      "verse": 8,
+      "text": "ad nihilum devenient tamquam aqua decurrens intendit arcum suum donec infirmentur dissolvantur quasi aquae quae defluent intendet arcum suum donec conterantur"
+    },
+    {
+      "verse": 9,
+      "text": "sicut cera quae fluit auferentur supercecidit ignis et non viderunt solem quasi vermis tabefactus pertranseant quasi abortivum mulieris quod non vidit solem"
+    },
+    {
+      "verse": 10,
+      "text": "priusquam intellegerent spinae vestrae ramnum sicut viventes sicut in ira absorbet vos antequam crescant spinae vestrae in ramnum quasi viventes quasi in ira tempestas rapiet eas"
+    },
+    {
+      "verse": 11,
+      "text": "laetabitur iustus cum viderit vindictam manus suas lavabit in sanguine peccatoris laetabitur iustus cum viderit ultionem pedes suos lavabit in sanguinem impii"
+    },
+    {
+      "verse": 12,
+      "text": "et dicet homo si utique est fructus iusto utique est Deus iudicans eos in terra et dicet homo vere fructus est iusto vere est Deus iudicans in terra"
+    }
+  ]
+}

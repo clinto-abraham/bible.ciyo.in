@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "II Corinthians",
+  "bookSlug": "2-corinthians",
+  "nativeName": "II Corinthians",
+  "chapterNumber": 13,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "ecce tertio hoc venio ad vos in ore duorum vel trium testium stabit omne verbum"
+    },
+    {
+      "verse": 2,
+      "text": "praedixi et praedico ut praesens bis et nunc absens his qui ante peccaverunt et ceteris omnibus quoniam si venero iterum non parcam"
+    },
+    {
+      "verse": 3,
+      "text": "an experimentum quaeritis eius qui in me loquitur Christi qui in vos non infirmatur sed potens est in vobis"
+    },
+    {
+      "verse": 4,
+      "text": "nam et si crucifixus est ex infirmitate sed vivit ex virtute Dei nam et nos infirmi sumus in illo sed vivemus cum eo ex virtute Dei in vobis"
+    },
+    {
+      "verse": 5,
+      "text": "vosmet ipsos temptate si estis in fide ipsi vos probate an non cognoscitis vos ipsos quia Christus Iesus in vobis est nisi forte reprobi estis"
+    },
+    {
+      "verse": 6,
+      "text": "spero autem quod cognoscetis quia nos non sumus reprobi"
+    },
+    {
+      "verse": 7,
+      "text": "oramus autem Deum ut nihil mali faciatis non ut nos probati pareamus sed ut vos quod bonum est faciatis nos autem ut reprobi simus"
+    },
+    {
+      "verse": 8,
+      "text": "non enim possumus aliquid adversus veritatem sed pro veritate"
+    },
+    {
+      "verse": 9,
+      "text": "gaudemus enim quando nos infirmi sumus vos autem potentes estis hoc et oramus vestram consummationem"
+    },
+    {
+      "verse": 10,
+      "text": "ideo haec absens scribo ut non praesens durius agam secundum potestatem quam Dominus dedit mihi in aedificationem et non in destructionem"
+    },
+    {
+      "verse": 11,
+      "text": "de cetero fratres gaudete perfecti estote exhortamini idem sapite pacem habete et Deus dilectionis et pacis erit vobiscum"
+    },
+    {
+      "verse": 12,
+      "text": "salutate invicem in osculo sancto salutant vos sancti omnes"
+    },
+    {
+      "verse": 13,
+      "text": "gratia Domini nostri Iesu Christi et caritas Dei et communicatio Sancti Spiritus cum omnibus vobis amen"
+    }
+  ]
+}

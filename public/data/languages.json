@@ -1,0 +1,152 @@
+[
+  {
+    "id": "hebrew",
+    "name": "Biblical Hebrew",
+    "nativeName": "עִבְרִית",
+    "dir": "rtl",
+    "translation": "Westminster Leningrad Codex (WLC)",
+    "booksCount": 39,
+    "firstBook": "genesis",
+    "flag": "🇮🇱"
+  },
+  {
+    "id": "english",
+    "name": "English (KJV)",
+    "nativeName": "English",
+    "dir": "ltr",
+    "translation": "King James Version (1769)",
+    "booksCount": 66,
+    "firstBook": "genesis",
+    "flag": "🇬🇧"
+  },
+  {
+    "id": "english-bsb",
+    "name": "English (Berean Standard Bible)",
+    "nativeName": "Berean Standard Bible",
+    "dir": "ltr",
+    "translation": "Berean Standard Bible (BSB)",
+    "booksCount": 66,
+    "firstBook": "genesis",
+    "flag": "🇺🇸"
+  },
+  {
+    "id": "english-ylt",
+    "name": "English (Young's Literal Translation)",
+    "nativeName": "Young's Literal Translation",
+    "dir": "ltr",
+    "translation": "Young's Literal Translation (YLT 1898)",
+    "booksCount": 66,
+    "firstBook": "genesis",
+    "flag": "🇬🇧"
+  },
+  {
+    "id": "malayalam",
+    "name": "Malayalam (സത്യവേദപുസ്തകം)",
+    "nativeName": "മലയാളം",
+    "dir": "ltr",
+    "translation": "Sathyavedapusthakam (1910)",
+    "booksCount": 66,
+    "firstBook": "genesis",
+    "flag": "🇮🇳"
+  },
+  {
+    "id": "greek",
+    "name": "Koine Greek",
+    "nativeName": "Ἑλληνική",
+    "dir": "ltr",
+    "translation": "Textus Receptus (1550/1894)",
+    "booksCount": 27,
+    "firstBook": "matthew",
+    "flag": "🇬🇷"
+  },
+  {
+    "id": "aramaic",
+    "name": "Aramaic (Syriac Peshitta)",
+    "nativeName": "ܐܪܡܝܐ (Peshitta)",
+    "dir": "rtl",
+    "translation": "Syriac Peshitta New Testament",
+    "booksCount": 27,
+    "firstBook": "matthew",
+    "flag": "🇸🇾"
+  },
+  {
+    "id": "latin",
+    "name": "Latin (Biblia Sacra Vulgata)",
+    "nativeName": "Latina",
+    "dir": "ltr",
+    "translation": "Latin Vulgate",
+    "booksCount": 78,
+    "firstBook": "genesis",
+    "flag": "🇻🇦"
+  },
+  {
+    "id": "german",
+    "name": "German (Elberfelder 1905)",
+    "nativeName": "Deutsch",
+    "dir": "ltr",
+    "translation": "Unrevidierte Elberfelder (1905)",
+    "booksCount": 66,
+    "firstBook": "genesis",
+    "flag": "🇩🇪"
+  },
+  {
+    "id": "french",
+    "name": "French (Augustin Crampon)",
+    "nativeName": "Français",
+    "dir": "ltr",
+    "translation": "Bible Augustin Crampon (1923)",
+    "booksCount": 73,
+    "firstBook": "genesis",
+    "flag": "🇫🇷"
+  },
+  {
+    "id": "spanish",
+    "name": "Spanish (Reina-Valera 1909)",
+    "nativeName": "Español",
+    "dir": "ltr",
+    "translation": "La Santa Biblia Reina-Valera (1909)",
+    "booksCount": 66,
+    "firstBook": "genesis",
+    "flag": "🇪🇸"
+  },
+  {
+    "id": "russian",
+    "name": "Russian (Синодальный перевод)",
+    "nativeName": "Русский",
+    "dir": "ltr",
+    "translation": "Синодального Перевода Библии",
+    "booksCount": 78,
+    "firstBook": "genesis",
+    "flag": "🇷🇺"
+  },
+  {
+    "id": "chinese",
+    "name": "Chinese (和合本 繁體字)",
+    "nativeName": "中文 (和合本)",
+    "dir": "ltr",
+    "translation": "和合本 (繁體字 ChiUn)",
+    "booksCount": 66,
+    "firstBook": "genesis",
+    "flag": "🇨🇳"
+  },
+  {
+    "id": "burmese",
+    "name": "Burmese Judson",
+    "nativeName": "မြန်မာဘာသာ",
+    "dir": "ltr",
+    "translation": "1835 Judson Burmese Bible",
+    "booksCount": 66,
+    "firstBook": "genesis",
+    "flag": "🇲🇲"
+  },
+  {
+    "id": "slavic",
+    "name": "Church Slavonic",
+    "nativeName": "Церковнославя́нскій",
+    "dir": "ltr",
+    "translation": "1757 Elizabeth Bible",
+    "booksCount": 76,
+    "firstBook": "genesis",
+    "flag": "☦️"
+  }
+]

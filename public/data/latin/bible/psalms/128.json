@@ -1,0 +1,44 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 128,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "canticum graduum saepe expugnaverunt me a iuventute mea dicat nunc Israhel canticum graduum saepe expugnaverunt me ab adulescentia mea dicat nunc Israhel"
+    },
+    {
+      "verse": 2,
+      "text": "saepe expugnaverunt me a iuventute mea etenim non potuerunt mihi saepe expugnaverunt me ab adulescentia mea sed non potuerunt mihi"
+    },
+    {
+      "verse": 3,
+      "text": "supra dorsum meum fabricabantur peccatores prolongaverunt iniquitatem suam super cervicem meam arabant arantes prolongaverunt sulcum suum"
+    },
+    {
+      "verse": 4,
+      "text": "Dominus iustus concidet cervices peccatorum Dominus iustus concidet laqueos impiorum"
+    },
+    {
+      "verse": 5,
+      "text": "confundantur et convertantur retrorsum omnes qui oderunt Sion confundantur et revertantur retrorsum omnes qui oderunt Sion"
+    },
+    {
+      "verse": 6,
+      "text": "fiant sicut faenum tectorum quod priusquam evellatur exaruit fiant sicut faenum tectorum quod statim ut viruerit arescet"
+    },
+    {
+      "verse": 7,
+      "text": "de quo non implevit manum suam qui metit et sinum suum qui manipulos colligit de quo non implebit manum suam messor et sinum suum manipulos faciens"
+    },
+    {
+      "verse": 8,
+      "text": "et non dixerunt qui praeteribant benedictio Domini super vos benediximus vobis in nomine Domini de quo non dixerunt transeuntes benedictio Domini super vos benediximus vobis in nomine Domini"
+    }
+  ]
+}

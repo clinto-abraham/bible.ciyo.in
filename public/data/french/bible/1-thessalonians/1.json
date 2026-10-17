@@ -1,0 +1,52 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "I Thessalonians",
+  "bookSlug": "1-thessalonians",
+  "nativeName": "I Thessalonians",
+  "chapterNumber": 1,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Paul, Sylvain et Timothée à l'Eglise des Thessaloniciens, réunie en Dieu le Père et en Jésus-Christ le Seigneur:"
+    },
+    {
+      "verse": 2,
+      "text": "à vous, grâce et paix. Nous rendons à Dieu pour vous tous de continuelles actions de grâces, en faisant mémoire de vous dans nos prières,"
+    },
+    {
+      "verse": 3,
+      "text": "en rappelant sans cesse devant notre Dieu et Père, les œuvres de votre foi, les sacrifices de votre charité et la constance de votre espérance en Jésus-Christ,"
+    },
+    {
+      "verse": 4,
+      "text": "sachant, frères bien-aimés de Dieu, comment vous avez été élus;"
+    },
+    {
+      "verse": 5,
+      "text": "car notre prédication de l'Evangile ne vous a pas été faite en parole seulement, mais elle a été accompagnée de miracles, de l'effusion de l'Esprit-Saint et d'une pleine persuasion; vous savez aussi quels nous avons été parmi vous pour votre salut."
+    },
+    {
+      "verse": 6,
+      "text": "Et vous êtes devenus nos imitateurs et ceux du Seigneur, en recevant la parole au milieu de beaucoup de tribulations avec la joie de l'Esprit-Saint,"
+    },
+    {
+      "verse": 7,
+      "text": "au point de devenir un modèle pour tous ceux qui croient dans la Macédoine et dans l'Achaïe."
+    },
+    {
+      "verse": 8,
+      "text": "En effet, de chez vous, la parole du Seigneur a retenti non seulement dans la Macédoine et dans l'Achaïe, mais partout votre foi en Dieu s'est fait si bien connaître que nous n'avons pas besoin d'en rien dire."
+    },
+    {
+      "verse": 9,
+      "text": "Car tous en parlant de nous racontent quel accès nous avons eu auprès de vous, et comment vous vous êtes convertis des idoles au Dieu vivant et vrai, pour le servir,"
+    },
+    {
+      "verse": 10,
+      "text": "et pour attendre des cieux son Fils, qu'il a ressuscité des morts, Jésus, qui nous sauve de la colère à venir."
+    }
+  ]
+}

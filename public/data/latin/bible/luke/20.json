@@ -1,0 +1,200 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Luke",
+  "bookSlug": "luke",
+  "nativeName": "Secundum Lucam",
+  "chapterNumber": 20,
+  "totalVerses": 47,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "et factum est in una dierum docente illo populum in templo et evangelizante convenerunt principes sacerdotum et scribae cum senioribus"
+    },
+    {
+      "verse": 2,
+      "text": "et aiunt dicentes ad illum dic nobis in qua potestate haec facis aut quis est qui dedit tibi hanc potestatem"
+    },
+    {
+      "verse": 3,
+      "text": "respondens autem dixit ad illos interrogabo vos et ego verbum respondete mihi"
+    },
+    {
+      "verse": 4,
+      "text": "baptismum Iohannis de caelo erat an ex hominibus"
+    },
+    {
+      "verse": 5,
+      "text": "at illi cogitabant inter se dicentes quia si dixerimus de caelo dicet quare ergo non credidistis illi"
+    },
+    {
+      "verse": 6,
+      "text": "si autem dixerimus ex hominibus plebs universa lapidabit nos certi sunt enim Iohannem prophetam esse"
+    },
+    {
+      "verse": 7,
+      "text": "et responderunt se nescire unde esset"
+    },
+    {
+      "verse": 8,
+      "text": "et Iesus ait illis neque ego dico vobis in qua potestate haec facio"
+    },
+    {
+      "verse": 9,
+      "text": "coepit autem dicere ad plebem parabolam hanc homo plantavit vineam et locavit eam colonis et ipse peregre fuit multis temporibus"
+    },
+    {
+      "verse": 10,
+      "text": "et in tempore misit ad cultores servum ut de fructu vineae darent illi qui caesum dimiserunt eum inanem"
+    },
+    {
+      "verse": 11,
+      "text": "et addidit alterum servum mittere illi autem hunc quoque caedentes et adficientes contumelia dimiserunt inanem"
+    },
+    {
+      "verse": 12,
+      "text": "et addidit tertium mittere qui et illum vulnerantes eiecerunt"
+    },
+    {
+      "verse": 13,
+      "text": "dixit autem dominus vineae quid faciam mittam filium meum dilectum forsitan cum hunc viderint verebuntur"
+    },
+    {
+      "verse": 14,
+      "text": "quem cum vidissent coloni cogitaverunt inter se dicentes hic est heres occidamus illum ut nostra fiat hereditas"
+    },
+    {
+      "verse": 15,
+      "text": "et eiectum illum extra vineam occiderunt quid ergo faciet illis dominus vineae"
+    },
+    {
+      "verse": 16,
+      "text": "veniet et perdet colonos istos et dabit vineam aliis quo audito dixerunt illi absit"
+    },
+    {
+      "verse": 17,
+      "text": "ille autem aspiciens eos ait quid est ergo hoc quod scriptum est lapidem quem reprobaverunt aedificantes hic factus est in caput anguli"
+    },
+    {
+      "verse": 18,
+      "text": "omnis qui ceciderit supra illum lapidem conquassabitur supra quem autem ceciderit comminuet illum"
+    },
+    {
+      "verse": 19,
+      "text": "et quaerebant principes sacerdotum et scribae mittere in illum manus illa hora et timuerunt populum cognoverunt enim quod ad ipsos dixerit similitudinem istam"
+    },
+    {
+      "verse": 20,
+      "text": "et observantes miserunt insidiatores qui se iustos simularent ut caperent eum in sermone et traderent illum principatui et potestati praesidis"
+    },
+    {
+      "verse": 21,
+      "text": "et interrogaverunt illum dicentes magister scimus quia recte dicis et doces et non accipis personam sed in veritate viam Dei doces"
+    },
+    {
+      "verse": 22,
+      "text": "licet nobis dare tributum Caesari an non"
+    },
+    {
+      "verse": 23,
+      "text": "considerans autem dolum illorum dixit ad eos quid me temptatis"
+    },
+    {
+      "verse": 24,
+      "text": "ostendite mihi denarium cuius habet imaginem et inscriptionem respondentes dixerunt Caesaris"
+    },
+    {
+      "verse": 25,
+      "text": "et ait illis reddite ergo quae Caesaris sunt Caesari et quae Dei sunt Deo"
+    },
+    {
+      "verse": 26,
+      "text": "et non potuerunt verbum eius reprehendere coram plebe et mirati in responso eius tacuerunt"
+    },
+    {
+      "verse": 27,
+      "text": "accesserunt autem quidam Sadducaeorum qui negant esse resurrectionem et interrogaverunt eum"
+    },
+    {
+      "verse": 28,
+      "text": "dicentes magister Moses scripsit nobis si frater alicuius mortuus fuerit habens uxorem et hic sine filiis fuerit ut accipiat eam frater eius uxorem et suscitet semen fratri suo"
+    },
+    {
+      "verse": 29,
+      "text": "septem ergo fratres erant et primus accepit uxorem et mortuus est sine filiis"
+    },
+    {
+      "verse": 30,
+      "text": "et sequens accepit illam et ipse mortuus est sine filio"
+    },
+    {
+      "verse": 31,
+      "text": "et tertius accepit illam similiter et omnes septem et non reliquerunt semen et mortui sunt"
+    },
+    {
+      "verse": 32,
+      "text": "novissima omnium mortua est et mulier"
+    },
+    {
+      "verse": 33,
+      "text": "in resurrectione ergo cuius eorum erit uxor siquidem septem habuerunt eam uxorem"
+    },
+    {
+      "verse": 34,
+      "text": "et ait illis Iesus filii saeculi huius nubunt et traduntur ad nuptias"
+    },
+    {
+      "verse": 35,
+      "text": "illi autem qui digni habebuntur saeculo illo et resurrectione ex mortuis neque nubunt neque ducunt uxores"
+    },
+    {
+      "verse": 36,
+      "text": "neque enim ultra mori poterunt aequales enim angelis sunt et filii sunt Dei cum sint filii resurrectionis"
+    },
+    {
+      "verse": 37,
+      "text": "quia vero resurgant mortui et Moses ostendit secus rubum sicut dicit Dominum Deum Abraham et Deum Isaac et Deum Iacob"
+    },
+    {
+      "verse": 38,
+      "text": "Deus autem non est mortuorum sed vivorum omnes enim vivunt ei"
+    },
+    {
+      "verse": 39,
+      "text": "respondentes autem quidam scribarum dixerunt magister bene dixisti"
+    },
+    {
+      "verse": 40,
+      "text": "et amplius non audebant eum quicquam interrogare"
+    },
+    {
+      "verse": 41,
+      "text": "dixit autem ad illos quomodo dicunt Christum Filium David esse"
+    },
+    {
+      "verse": 42,
+      "text": "et ipse David dicit in libro Psalmorum dixit Dominus Domino meo sede a dextris meis"
+    },
+    {
+      "verse": 43,
+      "text": "donec ponam inimicos tuos scabillum pedum tuorum"
+    },
+    {
+      "verse": 44,
+      "text": "David ergo Dominum illum vocat et quomodo filius eius est"
+    },
+    {
+      "verse": 45,
+      "text": "audiente autem omni populo dixit discipulis suis"
+    },
+    {
+      "verse": 46,
+      "text": "adtendite a scribis qui volunt ambulare in stolis et amant salutationes in foro et primas cathedras in synagogis et primos discubitus in conviviis"
+    },
+    {
+      "verse": 47,
+      "text": "qui devorant domos viduarum simulantes longam orationem hii accipient damnationem maiorem"
+    }
+  ]
+}

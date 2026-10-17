@@ -1,0 +1,212 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Matthew",
+  "bookSlug": "matthew",
+  "nativeName": "Secundum Matthaeum",
+  "chapterNumber": 12,
+  "totalVerses": 50,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in illo tempore abiit Iesus sabbato per sata discipuli autem eius esurientes coeperunt vellere spicas et manducare"
+    },
+    {
+      "verse": 2,
+      "text": "Pharisaei autem videntes dixerunt ei ecce discipuli tui faciunt quod non licet eis facere sabbatis"
+    },
+    {
+      "verse": 3,
+      "text": "at ille dixit eis non legistis quid fecerit David quando esuriit et qui cum eo erant"
+    },
+    {
+      "verse": 4,
+      "text": "quomodo intravit in domum Dei et panes propositionis comedit quos non licebat ei edere neque his qui cum eo erant nisi solis sacerdotibus"
+    },
+    {
+      "verse": 5,
+      "text": "aut non legistis in lege quia sabbatis sacerdotes in templo sabbatum violant et sine crimine sunt"
+    },
+    {
+      "verse": 6,
+      "text": "dico autem vobis quia templo maior est hic"
+    },
+    {
+      "verse": 7,
+      "text": "si autem sciretis quid est misericordiam volo et non sacrificium numquam condemnassetis innocentes"
+    },
+    {
+      "verse": 8,
+      "text": "dominus est enim Filius hominis etiam sabbati"
+    },
+    {
+      "verse": 9,
+      "text": "et cum inde transisset venit in synagogam eorum"
+    },
+    {
+      "verse": 10,
+      "text": "et ecce homo manum habens aridam et interrogabant eum dicentes si licet sabbatis curare ut accusarent eum"
+    },
+    {
+      "verse": 11,
+      "text": "ipse autem dixit illis quis erit ex vobis homo qui habeat ovem unam et si ceciderit haec sabbatis in foveam nonne tenebit et levabit eam"
+    },
+    {
+      "verse": 12,
+      "text": "quanto magis melior est homo ove itaque licet sabbatis benefacere"
+    },
+    {
+      "verse": 13,
+      "text": "tunc ait homini extende manum tuam et extendit et restituta est sanitati sicut altera"
+    },
+    {
+      "verse": 14,
+      "text": "exeuntes autem Pharisaei consilium faciebant adversus eum quomodo eum perderent"
+    },
+    {
+      "verse": 15,
+      "text": "Iesus autem sciens recessit inde et secuti sunt eum multi et curavit eos omnes"
+    },
+    {
+      "verse": 16,
+      "text": "et praecepit eis ne manifestum eum facerent"
+    },
+    {
+      "verse": 17,
+      "text": "ut adimpleretur quod dictum est per Esaiam prophetam dicentem"
+    },
+    {
+      "verse": 18,
+      "text": "ecce puer meus quem elegi dilectus meus in quo bene placuit animae meae ponam spiritum meum super eum et iudicium gentibus nuntiabit"
+    },
+    {
+      "verse": 19,
+      "text": "non contendet neque clamabit neque audiet aliquis in plateis vocem eius"
+    },
+    {
+      "verse": 20,
+      "text": "harundinem quassatam non confringet et linum fumigans non extinguet donec eiciat ad victoriam iudicium"
+    },
+    {
+      "verse": 21,
+      "text": "et in nomine eius gentes sperabunt"
+    },
+    {
+      "verse": 22,
+      "text": "tunc oblatus est ei daemonium habens caecus et mutus et curavit eum ita ut loqueretur et videret"
+    },
+    {
+      "verse": 23,
+      "text": "et stupebant omnes turbae et dicebant numquid hic est Filius David"
+    },
+    {
+      "verse": 24,
+      "text": "Pharisaei autem audientes dixerunt hic non eicit daemones nisi in Beelzebub principe daemoniorum"
+    },
+    {
+      "verse": 25,
+      "text": "Iesus autem sciens cogitationes eorum dixit eis omne regnum divisum contra se desolatur et omnis civitas vel domus divisa contra se non stabit"
+    },
+    {
+      "verse": 26,
+      "text": "et si Satanas Satanan eicit adversus se divisus est quomodo ergo stabit regnum eius"
+    },
+    {
+      "verse": 27,
+      "text": "et si ego in Beelzebub eicio daemones filii vestri in quo eiciunt ideo ipsi iudices erunt vestri"
+    },
+    {
+      "verse": 28,
+      "text": "si autem ego in Spiritu Dei eicio daemones igitur pervenit in vos regnum Dei"
+    },
+    {
+      "verse": 29,
+      "text": "aut quomodo potest quisquam intrare in domum fortis et vasa eius diripere nisi prius alligaverit fortem et tunc domum illius diripiat"
+    },
+    {
+      "verse": 30,
+      "text": "qui non est mecum contra me est et qui non congregat mecum spargit"
+    },
+    {
+      "verse": 31,
+      "text": "ideo dico vobis omne peccatum et blasphemia remittetur hominibus Spiritus autem blasphemia non remittetur"
+    },
+    {
+      "verse": 32,
+      "text": "et quicumque dixerit verbum contra Filium hominis remittetur ei qui autem dixerit contra Spiritum Sanctum non remittetur ei neque in hoc saeculo neque in futuro"
+    },
+    {
+      "verse": 33,
+      "text": "aut facite arborem bonam et fructum eius bonum aut facite arborem malam et fructum eius malum siquidem ex fructu arbor agnoscitur"
+    },
+    {
+      "verse": 34,
+      "text": "progenies viperarum quomodo potestis bona loqui cum sitis mali ex abundantia enim cordis os loquitur"
+    },
+    {
+      "verse": 35,
+      "text": "bonus homo de bono thesauro profert bona et malus homo de malo thesauro profert mala"
+    },
+    {
+      "verse": 36,
+      "text": "dico autem vobis quoniam omne verbum otiosum quod locuti fuerint homines reddent rationem de eo in die iudicii"
+    },
+    {
+      "verse": 37,
+      "text": "ex verbis enim tuis iustificaberis et ex verbis tuis condemnaberis"
+    },
+    {
+      "verse": 38,
+      "text": "tunc responderunt ei quidam de scribis et Pharisaeis dicentes magister volumus a te signum videre"
+    },
+    {
+      "verse": 39,
+      "text": "qui respondens ait illis generatio mala et adultera signum quaerit et signum non dabitur ei nisi signum Ionae prophetae"
+    },
+    {
+      "verse": 40,
+      "text": "sicut enim fuit Ionas in ventre ceti tribus diebus et tribus noctibus sic erit Filius hominis in corde terrae tribus diebus et tribus noctibus"
+    },
+    {
+      "verse": 41,
+      "text": "viri ninevitae surgent in iudicio cum generatione ista et condemnabunt eam quia paenitentiam egerunt in praedicatione Ionae et ecce plus quam Iona hic"
+    },
+    {
+      "verse": 42,
+      "text": "regina austri surget in iudicio cum generatione ista et condemnabit eam quia venit a finibus terrae audire sapientiam Salomonis et ecce plus quam Salomon hic"
+    },
+    {
+      "verse": 43,
+      "text": "cum autem inmundus spiritus exierit ab homine ambulat per loca arida quaerens requiem et non invenit"
+    },
+    {
+      "verse": 44,
+      "text": "tunc dicit revertar in domum meam unde exivi et veniens invenit vacantem scopis mundatam et ornatam"
+    },
+    {
+      "verse": 45,
+      "text": "tunc vadit et adsumit septem alios spiritus secum nequiores se et intrantes habitant ibi et fiunt novissima hominis illius peiora prioribus sic erit et generationi huic pessimae"
+    },
+    {
+      "verse": 46,
+      "text": "adhuc eo loquente ad turbas ecce mater eius et fratres stabant foris quaerentes loqui ei"
+    },
+    {
+      "verse": 47,
+      "text": "dixit autem ei quidam ecce mater tua et fratres tui foris stant quaerentes te"
+    },
+    {
+      "verse": 48,
+      "text": "at ipse respondens dicenti sibi ait quae est mater mea et qui sunt fratres mei"
+    },
+    {
+      "verse": 49,
+      "text": "et extendens manum in discipulos suos dixit ecce mater mea et fratres mei"
+    },
+    {
+      "verse": 50,
+      "text": "quicumque enim fecerit voluntatem Patris mei qui in caelis est ipse meus et frater et soror et mater est"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 124,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cántico gradual: de David. A NO haber estado Jehová por nosotros, diga ahora Israel;"
+    },
+    {
+      "verse": 2,
+      "text": "A no haber estado Jehová por nosotros, cuando se levantaron contra nosotros los hombres,"
+    },
+    {
+      "verse": 3,
+      "text": "Vivos nos habrían entonces tragado, cuando se encendió su furor en nosotros."
+    },
+    {
+      "verse": 4,
+      "text": "Entonces nos habrían inundado las aguas; sobre nuestra alma hubiera pasado el torrente:"
+    },
+    {
+      "verse": 5,
+      "text": "Hubieran entonces pasado sobre nuestra alma las aguas soberbias."
+    },
+    {
+      "verse": 6,
+      "text": "Bendito Jehová, que no nos dió por presa á sus dientes."
+    },
+    {
+      "verse": 7,
+      "text": "Nuestra alma escapó cual ave del lazo de los cazadores: quebróse el lazo, y escapamos nosotros."
+    },
+    {
+      "verse": 8,
+      "text": "Nuestro socorro es en el nombre de Jehová, que hizo el cielo y la tierra."
+    }
+  ]
+}

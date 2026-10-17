@@ -1,0 +1,60 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Isaiah",
+  "bookSlug": "isaiah",
+  "nativeName": "Isaiah",
+  "chapterNumber": 25,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Domine Deus meus es tu exaltabo te confitebor nomini tuo quoniam fecisti mirabilia cogitationes antiquas fideles amen"
+    },
+    {
+      "verse": 2,
+      "text": "quia posuisti civitatem in tumulum urbem fortem in ruinam domum alienorum ut non sit civitas et in sempiternum non aedificetur"
+    },
+    {
+      "verse": 3,
+      "text": "super hoc laudabit te populus fortis civitas gentium robustarum timebit te"
+    },
+    {
+      "verse": 4,
+      "text": "quia factus es fortitudo pauperi fortitudo egeno in tribulatione sua spes a turbine umbraculum ab aestu spiritus enim robustorum quasi turbo inpellens parietem"
+    },
+    {
+      "verse": 5,
+      "text": "sicut aestum in siti tumultum alienorum humiliabis et quasi calore sub nube torrente propaginem fortium marcescere facies"
+    },
+    {
+      "verse": 6,
+      "text": "et faciet Dominus exercituum omnibus populis in monte hoc convivium pinguium convivium vindemiae pinguium medullatorum vindemiae defecatae"
+    },
+    {
+      "verse": 7,
+      "text": "et praecipitabit in monte isto faciem vinculi conligati super omnes populos et telam quam orditus est super universas nationes"
+    },
+    {
+      "verse": 8,
+      "text": "praecipitabit mortem in sempiternum et auferet Dominus Deus lacrimam ab omni facie et obprobrium populi sui auferet de universa terra quia Dominus locutus est"
+    },
+    {
+      "verse": 9,
+      "text": "et dicet in die illa ecce Deus noster iste expectavimus eum et salvabit nos iste Dominus sustinuimus eum exultabimus et laetabimur in salutari eius"
+    },
+    {
+      "verse": 10,
+      "text": "quia requiescet manus Domini in monte isto et triturabitur Moab sub eo sicuti teruntur paleae in plaustro"
+    },
+    {
+      "verse": 11,
+      "text": "et extendet manus suas sub eo sicut extendit natans ad natandum et humiliabit gloriam eius cum adlisione manuum eius"
+    },
+    {
+      "verse": 12,
+      "text": "et munimenta sublimium murorum tuorum concident et humiliabuntur et detrahentur in terram usque ad pulverem"
+    }
+  ]
+}

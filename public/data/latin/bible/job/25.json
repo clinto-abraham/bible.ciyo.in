@@ -1,0 +1,36 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Job",
+  "bookSlug": "job",
+  "nativeName": "Job",
+  "chapterNumber": 25,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "respondens autem Baldad Suites dixit"
+    },
+    {
+      "verse": 2,
+      "text": "potestas et terror apud eum est qui facit concordiam in sublimibus suis"
+    },
+    {
+      "verse": 3,
+      "text": "numquid est numerus militum eius et super quem non surget lumen illius"
+    },
+    {
+      "verse": 4,
+      "text": "numquid iustificari potest homo conparatus Deo aut apparere mundus natus de muliere"
+    },
+    {
+      "verse": 5,
+      "text": "ecce etiam luna non splendet et stellae non sunt mundae in conspectu eius"
+    },
+    {
+      "verse": 6,
+      "text": "quanto magis homo putredo et filius hominis vermis"
+    }
+  ]
+}

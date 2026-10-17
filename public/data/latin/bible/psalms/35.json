@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 35,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem servo Domini David pro victoria servi Domini David"
+    },
+    {
+      "verse": 2,
+      "text": "dixit iniustus ut delinquat in semet ipso non est timor Dei ante oculos eius dixit scelus impii in medio cordis eius non esse timorem Dei ante oculos eius"
+    },
+    {
+      "verse": 3,
+      "text": "quoniam dolose egit in conspectu eius ut inveniatur iniquitas eius ad odium quia dolose egit adversum eum in oculis suis ut inveniret iniquitatem eius ad odiendum"
+    },
+    {
+      "verse": 4,
+      "text": "verba oris eius iniquitas et dolus noluit intellegere ut bene ageret verba oris eius iniquitas et dolus cessavit cogitare benefacere"
+    },
+    {
+      "verse": 5,
+      "text": "iniquitatem meditatus est in cubili suo adstetit omni viae non bonae malitiam autem non odivit iniquitatem cogitat in cubili suo stabit in via non bona malum non abiciet"
+    },
+    {
+      "verse": 6,
+      "text": "Domine in caelo misericordia tua et veritas tua usque ad nubes Domine in caelo misericordia tua fides tua usque ad nubes"
+    },
+    {
+      "verse": 7,
+      "text": "iustitia tua sicut montes Dei iudicia tua abyssus multa homines et iumenta salvabis Domine iustitia tua quasi montes Domine iudicium tuum abyssus multa homines et iumenta salvos facies Domine"
+    },
+    {
+      "verse": 8,
+      "text": "quemadmodum multiplicasti misericordiam tuam Deus filii autem hominum in tegmine alarum tuarum sperabunt quam pretiosa est misericordia tua Domine et filii Adam in umbra alarum tuarum sperabunt"
+    },
+    {
+      "verse": 9,
+      "text": "inebriabuntur ab ubertate domus tuae et torrente voluntatis tuae potabis eos inebriabuntur de pinguidine domus tuae et torrente deliciarum tuarum potabis eos"
+    },
+    {
+      "verse": 10,
+      "text": "quoniam apud te fons vitae in lumine tuo videbimus lumen quoniam tecum est fons vitae in lumine tuo videbimus lumen"
+    },
+    {
+      "verse": 11,
+      "text": "praetende misericordiam tuam scientibus te et iustitiam tuam his qui recto sunt corde adtrahe misericordiam tuam scientibus te et iustitiam tuam rectis corde"
+    },
+    {
+      "verse": 12,
+      "text": "non veniat mihi pes superbiae et manus peccatoris non moveat me ne veniat mihi pes superbiae et manus impiorum non me commoveat"
+    },
+    {
+      "verse": 13,
+      "text": "ibi ceciderunt qui operantur iniquitatem expulsi sunt nec potuerunt stare ibi ceciderunt operantes iniquitatem expulsi sunt et non potuerunt surgere"
+    }
+  ]
+}

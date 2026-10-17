@@ -1,0 +1,68 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 139,
+  "totalVerses": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem psalmus David pro victoria canticum David"
+    },
+    {
+      "verse": 2,
+      "text": "eripe me Domine ab homine malo a viro iniquo eripe me erue me Domine ab homine malo a viris iniquis serva me"
+    },
+    {
+      "verse": 3,
+      "text": "qui cogitaverunt iniquitates in corde tota die constituebant proelia qui cogitaverunt malitias in corde tota die versati sunt in proeliis"
+    },
+    {
+      "verse": 4,
+      "text": "acuerunt linguam suam sicut serpentis venenum aspidum sub labiis eorum diapsalma exacuerunt linguam suam quasi serpens venenum aspidis sub labiis eorum semper"
+    },
+    {
+      "verse": 5,
+      "text": "custodi me Domine de manu peccatoris ab hominibus iniquis eripe me qui cogitaverunt subplantare gressus meos custodi me Domine de manu impii a viro iniquitatum serva me qui cogitaverunt subplantare gressus meos"
+    },
+    {
+      "verse": 6,
+      "text": "absconderunt superbi laqueum mihi et funes extenderunt in laqueum iuxta iter scandalum posuerunt mihi diapsalma absconderunt superbi laqueum mihi et funibus extenderunt rete iuxta semitam offendiculum posuerunt mihi semper"
+    },
+    {
+      "verse": 7,
+      "text": "dixi Domino Deus meus es tu exaudi Domine vocem deprecationis meae dixi Domino Deus meus tu audi Domine vocem deprecationis meae"
+    },
+    {
+      "verse": 8,
+      "text": "Domine Domine virtus salutis meae obumbrasti super caput meum in die belli Domine Deus fortitudo salutis meae protexisti caput meum in die belli"
+    },
+    {
+      "verse": 9,
+      "text": "non tradas Domine desiderio meo peccatori cogitaverunt contra me ne derelinquas me ne forte exaltentur diapsalma ne des Domine desideria impii scelera eius ne effundantur et eleventur semper"
+    },
+    {
+      "verse": 10,
+      "text": "caput circuitus eorum labor labiorum ipsorum operiet eos amaritudo convivarum meorum labor labiorum eorum operiat eos"
+    },
+    {
+      "verse": 11,
+      "text": "cadent super eos carbones in igne deicies eos in miseriis non subsistent cadent super eos carbones ignis deicies eos in foveas ut non consurgant"
+    },
+    {
+      "verse": 12,
+      "text": "vir linguosus non dirigetur in terra virum iniustum mala capient in interitu vir linguosus non dirigetur in terra virum iniquum mala capient in interitu"
+    },
+    {
+      "verse": 13,
+      "text": "cognovi quia faciet Dominus iudicium inopis et vindictam pauperum scio quod faciet Dominus causam inopis iudicia pauperum"
+    },
+    {
+      "verse": 14,
+      "text": "verumtamen iusti confitebuntur nomini tuo habitabunt recti cum vultu tuo attamen iusti confitebuntur nomini tuo habitabunt recti cum vultu tuo"
+    }
+  ]
+}

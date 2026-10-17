@@ -1,0 +1,56 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Revelation of John",
+  "bookSlug": "revelation",
+  "nativeName": "Apocalypsis",
+  "chapterNumber": 10,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "et vidi alium angelum fortem descendentem de caelo amictum nube et iris in capite eius et facies eius erat ut sol et pedes eius tamquam columna ignis"
+    },
+    {
+      "verse": 2,
+      "text": "et habebat in manu sua libellum apertum et posuit pedem suum dextrum supra mare sinistrum autem super terram"
+    },
+    {
+      "verse": 3,
+      "text": "et clamavit voce magna quemadmodum cum leo rugit et cum clamasset locuta sunt septem tonitrua voces suas"
+    },
+    {
+      "verse": 4,
+      "text": "et cum locuta fuissent septem tonitrua scripturus eram et audivi vocem de caelo dicentem signa quae locuta sunt septem tonitrua et noli ea scribere"
+    },
+    {
+      "verse": 5,
+      "text": "et angelum quem vidi stantem supra mare et supra terram levavit manum suam ad caelum"
+    },
+    {
+      "verse": 6,
+      "text": "et iuravit per viventem in saecula saeculorum qui creavit caelum et ea quae in illo sunt et terram et ea quae in ea sunt et mare et quae in eo sunt quia tempus amplius non erit"
+    },
+    {
+      "verse": 7,
+      "text": "sed in diebus vocis septimi angeli cum coeperit tuba canere et consummabitur mysterium Dei sicut evangelizavit per servos suos prophetas"
+    },
+    {
+      "verse": 8,
+      "text": "et vox quam audivi de caelo iterum loquentem mecum et dicentem vade accipe librum apertum de manu angeli stantis supra mare et supra terram"
+    },
+    {
+      "verse": 9,
+      "text": "et abii ad angelum dicens ei ut daret mihi librum et dicit mihi accipe et devora illum et faciet amaricare ventrem tuum sed in ore tuo erit dulce tamquam mel"
+    },
+    {
+      "verse": 10,
+      "text": "et accepi librum de manu angeli et devoravi eum et erat in ore meo tamquam mel dulce et cum devorassem eum amaricatus est venter meus"
+    },
+    {
+      "verse": 11,
+      "text": "et dicunt mihi oportet te iterum prophetare populis et gentibus et linguis et regibus multis"
+    }
+  ]
+}

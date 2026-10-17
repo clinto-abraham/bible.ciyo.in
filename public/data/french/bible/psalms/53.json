@@ -1,0 +1,40 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 53,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Au maître de chant. Sur le ton plaintif. Cantique de David."
+    },
+    {
+      "verse": 2,
+      "text": "L'insensé dit dans son cœur: \" il n'y a pas de Dieu! \" Ils sont corrompus, ils commettent des crimes abominables; il n'en est aucun qui fasse le bien."
+    },
+    {
+      "verse": 3,
+      "text": "Dieu, du haut des cieux, regarde les fils de l'homme, pour voir s'il se trouve quelqu'un d'intelligent, quelqu'un qui cherche Dieu."
+    },
+    {
+      "verse": 4,
+      "text": "Tous sont égarés, tous sont pervertis; il n'en est aucun qui fasse le bien, pas même un seul."
+    },
+    {
+      "verse": 5,
+      "text": "N'ont-ils pas de connaissance ceux qui commettent l'iniquité? Ils dévorent mon peuple comme ils mangent du pain, ils n'invoquent point Dieu!"
+    },
+    {
+      "verse": 6,
+      "text": "Ils trembleront tout à coup d'épouvante, sans qu'il y ait sujet d'épouvante; car Dieu a dispersé les os de celui qui campait contre toi; tu les as confondus, car Dieu les a rejetés."
+    },
+    {
+      "verse": 7,
+      "text": "Oh! puisse venir de Sion la délivrance d'Israël! Quand Dieu ramènera les captifs de son peuple, Jacob se réjouira, Israël sera dans l'allégresse."
+    }
+  ]
+}

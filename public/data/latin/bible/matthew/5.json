@@ -1,0 +1,204 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Matthew",
+  "bookSlug": "matthew",
+  "nativeName": "Secundum Matthaeum",
+  "chapterNumber": 5,
+  "totalVerses": 48,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "videns autem turbas ascendit in montem et cum sedisset accesserunt ad eum discipuli eius"
+    },
+    {
+      "verse": 2,
+      "text": "et aperiens os suum docebat eos dicens"
+    },
+    {
+      "verse": 3,
+      "text": "beati pauperes spiritu quoniam ipsorum est regnum caelorum"
+    },
+    {
+      "verse": 4,
+      "text": "beati mites quoniam ipsi possidebunt terram"
+    },
+    {
+      "verse": 5,
+      "text": "beati qui lugent quoniam ipsi consolabuntur"
+    },
+    {
+      "verse": 6,
+      "text": "beati qui esuriunt et sitiunt iustitiam quoniam ipsi saturabuntur"
+    },
+    {
+      "verse": 7,
+      "text": "beati misericordes quia ipsi misericordiam consequentur"
+    },
+    {
+      "verse": 8,
+      "text": "beati mundo corde quoniam ipsi Deum videbunt"
+    },
+    {
+      "verse": 9,
+      "text": "beati pacifici quoniam filii Dei vocabuntur"
+    },
+    {
+      "verse": 10,
+      "text": "beati qui persecutionem patiuntur propter iustitiam quoniam ipsorum est regnum caelorum"
+    },
+    {
+      "verse": 11,
+      "text": "beati estis cum maledixerint vobis et persecuti vos fuerint et dixerint omne malum adversum vos mentientes propter me"
+    },
+    {
+      "verse": 12,
+      "text": "gaudete et exultate quoniam merces vestra copiosa est in caelis sic enim persecuti sunt prophetas qui fuerunt ante vos"
+    },
+    {
+      "verse": 13,
+      "text": "vos estis sal terrae quod si sal evanuerit in quo sallietur ad nihilum valet ultra nisi ut mittatur foras et conculcetur ab hominibus"
+    },
+    {
+      "verse": 14,
+      "text": "vos estis lux mundi non potest civitas abscondi supra montem posita"
+    },
+    {
+      "verse": 15,
+      "text": "neque accendunt lucernam et ponunt eam sub modio sed super candelabrum ut luceat omnibus qui in domo sunt"
+    },
+    {
+      "verse": 16,
+      "text": "sic luceat lux vestra coram hominibus ut videant vestra bona opera et glorificent Patrem vestrum qui in caelis est"
+    },
+    {
+      "verse": 17,
+      "text": "nolite putare quoniam veni solvere legem aut prophetas non veni solvere sed adimplere"
+    },
+    {
+      "verse": 18,
+      "text": "amen quippe dico vobis donec transeat caelum et terra iota unum aut unus apex non praeteribit a lege donec omnia fiant"
+    },
+    {
+      "verse": 19,
+      "text": "qui ergo solverit unum de mandatis istis minimis et docuerit sic homines minimus vocabitur in regno caelorum qui autem fecerit et docuerit hic magnus vocabitur in regno caelorum"
+    },
+    {
+      "verse": 20,
+      "text": "dico enim vobis quia nisi abundaverit iustitia vestra plus quam scribarum et Pharisaeorum non intrabitis in regnum caelorum"
+    },
+    {
+      "verse": 21,
+      "text": "audistis quia dictum est antiquis non occides qui autem occiderit reus erit iudicio"
+    },
+    {
+      "verse": 22,
+      "text": "ego autem dico vobis quia omnis qui irascitur fratri suo reus erit iudicio qui autem dixerit fratri suo racha reus erit concilio qui autem dixerit fatue reus erit gehennae ignis"
+    },
+    {
+      "verse": 23,
+      "text": "si ergo offeres munus tuum ad altare et ibi recordatus fueris quia frater tuus habet aliquid adversum te"
+    },
+    {
+      "verse": 24,
+      "text": "relinque ibi munus tuum ante altare et vade prius reconciliare fratri tuo et tunc veniens offers munus tuum"
+    },
+    {
+      "verse": 25,
+      "text": "esto consentiens adversario tuo cito dum es in via cum eo ne forte tradat te adversarius iudici et iudex tradat te ministro et in carcerem mittaris"
+    },
+    {
+      "verse": 26,
+      "text": "amen dico tibi non exies inde donec reddas novissimum quadrantem"
+    },
+    {
+      "verse": 27,
+      "text": "audistis quia dictum est antiquis non moechaberis"
+    },
+    {
+      "verse": 28,
+      "text": "ego autem dico vobis quoniam omnis qui viderit mulierem ad concupiscendum eam iam moechatus est eam in corde suo"
+    },
+    {
+      "verse": 29,
+      "text": "quod si oculus tuus dexter scandalizat te erue eum et proice abs te expedit enim tibi ut pereat unum membrorum tuorum quam totum corpus tuum mittatur in gehennam"
+    },
+    {
+      "verse": 30,
+      "text": "et si dextera manus tua scandalizat te abscide eam et proice abs te expedit tibi ut pereat unum membrorum tuorum quam totum corpus tuum eat in gehennam"
+    },
+    {
+      "verse": 31,
+      "text": "dictum est autem quicumque dimiserit uxorem suam det illi libellum repudii"
+    },
+    {
+      "verse": 32,
+      "text": "ego autem dico vobis quia omnis qui dimiserit uxorem suam excepta fornicationis causa facit eam moechari et qui dimissam duxerit adulterat"
+    },
+    {
+      "verse": 33,
+      "text": "iterum audistis quia dictum est antiquis non peierabis reddes autem Domino iuramenta tua"
+    },
+    {
+      "verse": 34,
+      "text": "ego autem dico vobis non iurare omnino neque per caelum quia thronus Dei est"
+    },
+    {
+      "verse": 35,
+      "text": "neque per terram quia scabillum est pedum eius neque per Hierosolymam quia civitas est magni Regis"
+    },
+    {
+      "verse": 36,
+      "text": "neque per caput tuum iuraveris quia non potes unum capillum album facere aut nigrum"
+    },
+    {
+      "verse": 37,
+      "text": "sit autem sermo vester est est non non quod autem his abundantius est a malo est"
+    },
+    {
+      "verse": 38,
+      "text": "audistis quia dictum est oculum pro oculo et dentem pro dente"
+    },
+    {
+      "verse": 39,
+      "text": "ego autem dico vobis non resistere malo sed si quis te percusserit in dextera maxilla tua praebe illi et alteram"
+    },
+    {
+      "verse": 40,
+      "text": "et ei qui vult tecum iudicio contendere et tunicam tuam tollere remitte ei et pallium"
+    },
+    {
+      "verse": 41,
+      "text": "et quicumque te angariaverit mille passus vade cum illo alia duo"
+    },
+    {
+      "verse": 42,
+      "text": "qui petit a te da ei et volenti mutuari a te ne avertaris"
+    },
+    {
+      "verse": 43,
+      "text": "audistis quia dictum est diliges proximum tuum et odio habebis inimicum tuum"
+    },
+    {
+      "verse": 44,
+      "text": "ego autem dico vobis diligite inimicos vestros benefacite his qui oderunt vos et orate pro persequentibus et calumniantibus vos"
+    },
+    {
+      "verse": 45,
+      "text": "ut sitis filii Patris vestri qui in caelis est qui solem suum oriri facit super bonos et malos et pluit super iustos et iniustos"
+    },
+    {
+      "verse": 46,
+      "text": "si enim diligatis eos qui vos diligunt quam mercedem habebitis nonne et publicani hoc faciunt"
+    },
+    {
+      "verse": 47,
+      "text": "et si salutaveritis fratres vestros tantum quid amplius facitis nonne et ethnici hoc faciunt"
+    },
+    {
+      "verse": 48,
+      "text": "estote ergo vos perfecti sicut et Pater vester caelestis perfectus est"
+    }
+  ]
+}

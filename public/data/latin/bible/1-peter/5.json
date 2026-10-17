@@ -1,0 +1,68 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "I Peter",
+  "bookSlug": "1-peter",
+  "nativeName": "I Peter",
+  "chapterNumber": 5,
+  "totalVerses": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "seniores ergo qui in vobis sunt obsecro consenior et testis Christi passionum qui et eius quae in futuro revelanda est gloriae communicator"
+    },
+    {
+      "verse": 2,
+      "text": "pascite qui est in vobis gregem Dei providentes non coacto sed spontanee secundum Deum neque turpis lucri gratia sed voluntarie"
+    },
+    {
+      "verse": 3,
+      "text": "neque ut dominantes in cleris sed formae facti gregi et ex animo"
+    },
+    {
+      "verse": 4,
+      "text": "et cum apparuerit princeps pastorum percipietis inmarcescibilem gloriae coronam"
+    },
+    {
+      "verse": 5,
+      "text": "similiter adulescentes subditi estote senioribus omnes autem invicem humilitatem insinuate quia Deus superbis resistit humilibus autem dat gratiam"
+    },
+    {
+      "verse": 6,
+      "text": "humiliamini igitur sub potenti manu Dei ut vos exaltet in tempore visitationis"
+    },
+    {
+      "verse": 7,
+      "text": "omnem sollicitudinem vestram proicientes in eum quoniam ipsi cura est de vobis"
+    },
+    {
+      "verse": 8,
+      "text": "sobrii estote vigilate quia adversarius vester diabolus tamquam leo rugiens circuit quaerens quem devoret"
+    },
+    {
+      "verse": 9,
+      "text": "cui resistite fortes fide scientes eadem passionum ei quae in mundo est vestrae fraternitati fieri"
+    },
+    {
+      "verse": 10,
+      "text": "Deus autem omnis gratiae qui vocavit nos in aeternam suam gloriam in Christo Iesu modicum passos ipse perficiet confirmabit solidabit"
+    },
+    {
+      "verse": 11,
+      "text": "ipsi imperium in saecula saeculorum amen"
+    },
+    {
+      "verse": 12,
+      "text": "per Silvanum vobis fidelem fratrem ut arbitror breviter scripsi obsecrans et contestans hanc esse veram gratiam Dei in qua state"
+    },
+    {
+      "verse": 13,
+      "text": "salutat vos quae est in Babylone cumelecta et Marcus filius meus"
+    },
+    {
+      "verse": 14,
+      "text": "salutate invicem in osculo sancto gratia vobis omnibus qui estis in Christo"
+    }
+  ]
+}

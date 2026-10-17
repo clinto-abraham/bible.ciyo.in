@@ -1,0 +1,56 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Ezra",
+  "bookSlug": "ezra",
+  "nativeName": "Ezra",
+  "chapterNumber": 1,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in anno primo Cyri regis Persarum ut conpleretur verbum Domini ex ore Hieremiae suscitavit Dominus spiritum Cyri regis Persarum et transduxit vocem in universo regno suo etiam per scripturam dicens"
+    },
+    {
+      "verse": 2,
+      "text": "haec dicit Cyrus rex Persarum omnia regna terrae dedit mihi Dominus Deus caeli et ipse praecepit mihi ut aedificarem ei domum in Hierusalem quae est in Iudaea"
+    },
+    {
+      "verse": 3,
+      "text": "quis est in vobis de universo populo eius sit Deus illius cum ipso ascendat Hierusalem quae est in Iudaea et aedificet domum Domini Dei Israhel ipse est Deus qui est in Hierusalem"
+    },
+    {
+      "verse": 4,
+      "text": "et omnes reliqui in cunctis locis ubicumque habitant adiuvent eum viri de loco suo argento et auro et substantia et pecoribus excepto quod voluntarie offerunt templo Dei quod est in Hierusalem"
+    },
+    {
+      "verse": 5,
+      "text": "et surrexerunt principes patrum de Iuda et Beniamin et sacerdotes et Levitae omnis cuius suscitavit Deus spiritum ut ascenderent ad aedificandum templum Domini quod erat in Hierusalem"
+    },
+    {
+      "verse": 6,
+      "text": "universique qui erant in circuitu adiuverunt manus eorum in vasis argenteis et aureis in substantia in iumentis in supellectili exceptis his quae sponte obtulerunt"
+    },
+    {
+      "verse": 7,
+      "text": "rex quoque Cyrus protulit vasa templi Domini quae tulerat Nabuchodonosor de Hierusalem et posuerat ea in templo dei sui"
+    },
+    {
+      "verse": 8,
+      "text": "protulit autem ea Cyrus rex Persarum per manum Mitridatis filii Gazabar et adnumeravit ea Sasabassar principi Iudae"
+    },
+    {
+      "verse": 9,
+      "text": "et hic est numerus eorum fialae aureae triginta fialae argenteae mille cultri viginti novem scyphi aurei triginta"
+    },
+    {
+      "verse": 10,
+      "text": "scyphi argentei secundi quadringenti decem vasa alia mille"
+    },
+    {
+      "verse": 11,
+      "text": "omnia vasa aurea et argentea quinque milia quadringenta universa tulit Sasabassar cum his qui ascendebant de transmigratione Babylonis in Hierusalem"
+    }
+  ]
+}

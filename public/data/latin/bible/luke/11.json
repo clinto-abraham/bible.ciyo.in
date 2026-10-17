@@ -1,0 +1,228 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Luke",
+  "bookSlug": "luke",
+  "nativeName": "Secundum Lucam",
+  "chapterNumber": 11,
+  "totalVerses": 54,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "et factum est cum esset in loco quodam orans ut cessavit dixit unus ex discipulis eius ad eum Domine doce nos orare sicut et Iohannes docuit discipulos suos"
+    },
+    {
+      "verse": 2,
+      "text": "et ait illis cum oratis dicite Pater sanctificetur nomen tuum adveniat regnum tuum"
+    },
+    {
+      "verse": 3,
+      "text": "panem nostrum cotidianum da nobis cotidie"
+    },
+    {
+      "verse": 4,
+      "text": "et dimitte nobis peccata nostra siquidem et ipsi dimittimus omni debenti nobis et ne nos inducas in temptationem"
+    },
+    {
+      "verse": 5,
+      "text": "et ait ad illos quis vestrum habebit amicum et ibit ad illum media nocte et dicit illi amice commoda mihi tres panes"
+    },
+    {
+      "verse": 6,
+      "text": "quoniam amicus meus venit de via ad me et non habeo quod ponam ante illum"
+    },
+    {
+      "verse": 7,
+      "text": "et ille de intus respondens dicat noli mihi molestus esse iam ostium clausum est et pueri mei mecum sunt in cubili non possum surgere et dare tibi"
+    },
+    {
+      "verse": 8,
+      "text": "dico vobis et si non dabit illi surgens eo quod amicus eius sit propter inprobitatem tamen eius surget et dabit illi quotquot habet necessarios"
+    },
+    {
+      "verse": 9,
+      "text": "et ego vobis dico petite et dabitur vobis quaerite et invenietis pulsate et aperietur vobis"
+    },
+    {
+      "verse": 10,
+      "text": "omnis enim qui petit accipit et qui quaerit invenit et pulsanti aperietur"
+    },
+    {
+      "verse": 11,
+      "text": "quis autem ex vobis patrem petet panem numquid lapidem dabit illi aut piscem numquid pro pisce serpentem dabit illi"
+    },
+    {
+      "verse": 12,
+      "text": "aut si petierit ovum numquid porriget illi scorpionem"
+    },
+    {
+      "verse": 13,
+      "text": "si ergo vos cum sitis mali nostis bona data dare filiis vestris quanto magis Pater vester de caelo dabit spiritum bonum petentibus se"
+    },
+    {
+      "verse": 14,
+      "text": "et erat eiciens daemonium et illud erat mutum et cum eiecisset daemonium locutus est mutus et admiratae sunt turbae"
+    },
+    {
+      "verse": 15,
+      "text": "quidam autem ex eis dixerunt in Beelzebub principe daemoniorum eicit daemonia"
+    },
+    {
+      "verse": 16,
+      "text": "et alii temptantes signum de caelo quaerebant ab eo"
+    },
+    {
+      "verse": 17,
+      "text": "ipse autem ut vidit cogitationes eorum dixit eis omne regnum in se ipsum divisum desolatur et domus supra domum cadet"
+    },
+    {
+      "verse": 18,
+      "text": "si autem et Satanas in se ipsum divisus est quomodo stabit regnum ipsius quia dicitis in Beelzebub eicere me daemonia"
+    },
+    {
+      "verse": 19,
+      "text": "si autem ego in Beelzebub eicio daemonia filii vestri in quo eiciunt ideo ipsi iudices vestri erunt"
+    },
+    {
+      "verse": 20,
+      "text": "porro si in digito Dei eicio daemonia profecto praevenit in vos regnum Dei"
+    },
+    {
+      "verse": 21,
+      "text": "cum fortis armatus custodit atrium suum in pace sunt ea quae possidet"
+    },
+    {
+      "verse": 22,
+      "text": "si autem fortior illo superveniens vicerit eum universa arma eius aufert in quibus confidebat et spolia eius distribuit"
+    },
+    {
+      "verse": 23,
+      "text": "qui non est mecum adversum me est et qui non colligit mecum dispergit"
+    },
+    {
+      "verse": 24,
+      "text": "cum inmundus spiritus exierit de homine perambulat per loca inaquosa quaerens requiem et non inveniens dicit revertar in domum meam unde exivi"
+    },
+    {
+      "verse": 25,
+      "text": "et cum venerit invenit scopis mundatam"
+    },
+    {
+      "verse": 26,
+      "text": "et tunc vadit et adsumit septem alios spiritus nequiores se et ingressi habitant ibi et sunt novissima hominis illius peiora prioribus"
+    },
+    {
+      "verse": 27,
+      "text": "factum est autem cum haec diceret extollens vocem quaedam mulier de turba dixit illi beatus venter qui te portavit et ubera quae suxisti"
+    },
+    {
+      "verse": 28,
+      "text": "at ille dixit quippini beati qui audiunt verbum Dei et custodiunt"
+    },
+    {
+      "verse": 29,
+      "text": "turbis autem concurrentibus coepit dicere generatio haec generatio nequam est signum quaerit et signum non dabitur illi nisi signum Ionae"
+    },
+    {
+      "verse": 30,
+      "text": "nam sicut Ionas fuit signum Ninevitis ita erit et Filius hominis generationi isti"
+    },
+    {
+      "verse": 31,
+      "text": "regina austri surget in iudicio cum viris generationis huius et condemnabit illos quia venit a finibus terrae audire sapientiam Salomonis et ecce plus Salomone hic"
+    },
+    {
+      "verse": 32,
+      "text": "viri ninevitae surgent in iudicio cum generatione hac et condemnabunt illam quia paenitentiam egerunt ad praedicationem Ionae et ecce plus Iona hic"
+    },
+    {
+      "verse": 33,
+      "text": "nemo lucernam accendit et in abscondito ponit neque sub modio sed supra candelabrum ut qui ingrediuntur lumen videant"
+    },
+    {
+      "verse": 34,
+      "text": "lucerna corporis tui est oculus tuus si oculus tuus fuerit simplex totum corpus tuum lucidum erit si autem nequam fuerit etiam corpus tuum tenebrosum erit"
+    },
+    {
+      "verse": 35,
+      "text": "vide ergo ne lumen quod in te est tenebrae sint"
+    },
+    {
+      "verse": 36,
+      "text": "si ergo corpus tuum totum lucidum fuerit non habens aliquam partem tenebrarum erit lucidum totum et sicut lucerna fulgoris inluminabit te"
+    },
+    {
+      "verse": 37,
+      "text": "et cum loqueretur rogavit illum quidam Pharisaeus ut pranderet apud se et ingressus recubuit"
+    },
+    {
+      "verse": 38,
+      "text": "Pharisaeus autem coepit intra se reputans dicere quare non baptizatus esset ante prandium"
+    },
+    {
+      "verse": 39,
+      "text": "et ait Dominus ad illum nunc vos Pharisaei quod de foris est calicis et catini mundatis quod autem intus est vestrum plenum est rapina et iniquitate"
+    },
+    {
+      "verse": 40,
+      "text": "stulti nonne qui fecit quod de foris est etiam id quod de intus est fecit"
+    },
+    {
+      "verse": 41,
+      "text": "verumtamen quod superest date elemosynam et ecce omnia munda sunt vobis"
+    },
+    {
+      "verse": 42,
+      "text": "sed vae vobis Pharisaeis quia decimatis mentam et rutam et omne holus et praeteritis iudicium et caritatem Dei haec autem oportuit facere et illa non omittere"
+    },
+    {
+      "verse": 43,
+      "text": "vae vobis Pharisaeis quia diligitis primas cathedras in synagogis et salutationes in foro"
+    },
+    {
+      "verse": 44,
+      "text": "vae vobis quia estis ut monumenta quae non parent et homines ambulantes supra nesciunt"
+    },
+    {
+      "verse": 45,
+      "text": "respondens autem quidam ex legis peritis ait illi magister haec dicens etiam nobis contumeliam facis"
+    },
+    {
+      "verse": 46,
+      "text": "at ille ait et vobis legis peritis vae quia oneratis homines oneribus quae portari non possunt et ipsi uno digito vestro non tangitis sarcinas"
+    },
+    {
+      "verse": 47,
+      "text": "vae vobis quia aedificatis monumenta prophetarum patres autem vestri occiderunt illos"
+    },
+    {
+      "verse": 48,
+      "text": "profecto testificamini quod consentitis operibus patrum vestrorum quoniam quidem ipsi eos occiderunt vos autem aedificatis eorum sepulchra"
+    },
+    {
+      "verse": 49,
+      "text": "propterea et sapientia Dei dixit mittam ad illos prophetas et apostolos et ex illis occident et persequentur"
+    },
+    {
+      "verse": 50,
+      "text": "ut inquiratur sanguis omnium prophetarum qui effusus est a constitutione mundi a generatione ista"
+    },
+    {
+      "verse": 51,
+      "text": "a sanguine Abel usque ad sanguinem Zacchariae qui periit inter altare et aedem ita dico vobis requiretur ab hac generatione"
+    },
+    {
+      "verse": 52,
+      "text": "vae vobis legis peritis quia tulistis clavem scientiae ipsi non introistis et eos qui introibant prohibuistis"
+    },
+    {
+      "verse": 53,
+      "text": "cum haec ad illos diceret coeperunt Pharisaei et legis periti graviter insistere et os eius opprimere de multis"
+    },
+    {
+      "verse": 54,
+      "text": "insidiantes et quaerentes capere aliquid ex ore eius ut accusarent eum"
+    }
+  ]
+}

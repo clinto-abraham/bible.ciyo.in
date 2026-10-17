@@ -1,0 +1,56 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 95,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Venez, chantons avec allégresse à Yahweh! Poussons des cris de joie vers le Rocher de notre salut!"
+    },
+    {
+      "verse": 2,
+      "text": "Allons au-devant de lui avec des louanges, faisons retentir des hymnes en son honneur."
+    },
+    {
+      "verse": 3,
+      "text": "Car c'est un grand Dieu que Yahweh, un grand roi au-dessus de tous les dieux."
+    },
+    {
+      "verse": 4,
+      "text": "Il tient dans sa main les fondements de la terre, et les sommets des montagnes sont à lui."
+    },
+    {
+      "verse": 5,
+      "text": "A lui la mer, car c'est lui qui l'a faite; la terre aussi: ses mains l'ont formée."
+    },
+    {
+      "verse": 6,
+      "text": "Venez, prosternons-nous et adorons, fléchissons le genou devant Yahweh, notre Créateur."
+    },
+    {
+      "verse": 7,
+      "text": "Car il est notre Dieu, et nous, nous sommes le peuple de son pâturage, le troupeau que sa main conduit. Oh! si vous pouviez écouter aujourd'hui sa voix!"
+    },
+    {
+      "verse": 8,
+      "text": "N'endurcissez pas votre cœur comme à Mériba, comme à la journée de Massa, dans le désert,"
+    },
+    {
+      "verse": 9,
+      "text": "où vos pères m'ont tenté, m'ont éprouvé, quoiqu'ils eussent vu mes œuvres."
+    },
+    {
+      "verse": 10,
+      "text": "Pendant quarante ans j'eus cette race en dégoût, et je dis: C'est un peuple au cœur égaré; et ils n'ont pas connu mes voies."
+    },
+    {
+      "verse": 11,
+      "text": "Aussi je jurai dans ma colère: ils n'entreront pas dans mon repos."
+    }
+  ]
+}

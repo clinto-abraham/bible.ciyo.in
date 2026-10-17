@@ -1,0 +1,32 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 70,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "（大衛的 記念詩，交與伶長。） 神啊，求你快快搭救我！耶和華啊，求你速速 幫助我！"
+    },
+    {
+      "verse": 2,
+      "text": "願那些尋索 我命的，抱愧 蒙羞；願那些喜悅 我遭害的，退 後 受辱。"
+    },
+    {
+      "verse": 3,
+      "text": "願那些對我說 阿哈、阿哈的，因 羞愧 退後。"
+    },
+    {
+      "verse": 4,
+      "text": "願一切 尋求你的，因你 高興 歡喜；願那些喜愛 你救恩的，常 說：當尊 神 為大！"
+    },
+    {
+      "verse": 5,
+      "text": "但我是 困苦 窮乏的； 神啊，求你速速 到我這裡來！你 是幫助我的，搭救我的。耶和華啊，求你不要 耽延！"
+    }
+  ]
+}

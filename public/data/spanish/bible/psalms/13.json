@@ -1,0 +1,36 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 13,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Al Músico principal: Salmo de David. ¿HASTA cuándo, Jehová? ¿me olvidarás para siempre? ¿hasta cuándo esconderás tu rostro de mí?"
+    },
+    {
+      "verse": 2,
+      "text": "¿Hasta cuándo pondré consejos en mi alma, con ansiedad en mi corazón cada día? ¿Hasta cuándo será enaltecido mi enemigo sobre mí?"
+    },
+    {
+      "verse": 3,
+      "text": "Mira, óyeme, Jehová Dios mío: alumbra mis ojos, porque no duerma en muerte;"
+    },
+    {
+      "verse": 4,
+      "text": "Porque no diga mi enemigo, Vencílo: mis enemigos se alegrarán, si yo resbalare."
+    },
+    {
+      "verse": 5,
+      "text": "Mas yo en tu misericordia he confiado: alegraráse mi corazón en tu salud."
+    },
+    {
+      "verse": 6,
+      "text": "Cantaré á Jehová, porque me ha hecho bien."
+    }
+  ]
+}

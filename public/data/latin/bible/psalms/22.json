@@ -1,0 +1,36 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 22,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "psalmus David Dominus reget me et nihil mihi deerit canticum David Dominus pascit me nihil mihi deerit"
+    },
+    {
+      "verse": 2,
+      "text": "in loco pascuae ibi me conlocavit super aquam refectionis educavit me in pascuis herbarum adclinavit me super aquas refectionis enutrivit me"
+    },
+    {
+      "verse": 3,
+      "text": "animam meam convertit deduxit me super semitas iustitiae propter nomen suum animam meam refecit duxit me per semitas iustitiae propter nomen suum"
+    },
+    {
+      "verse": 4,
+      "text": "nam et si ambulavero in medio umbrae mortis non timebo mala quoniam tu mecum es virga tua et baculus tuus ipsa me consolata sunt sed et si ambulavero in valle mortis non timebo malum quoniam tu mecum es virga tua et baculus tuus ipsa consolabuntur me"
+    },
+    {
+      "verse": 5,
+      "text": "parasti in conspectu meo mensam adversus eos qui tribulant me inpinguasti in oleo caput meum et calix meus inebrians quam praeclarus est pones coram me mensam ex adverso hostium meorum inpinguasti oleo caput meum calix meus inebrians"
+    },
+    {
+      "verse": 6,
+      "text": "et misericordia tua subsequitur me omnibus diebus vitae meae et ut inhabitem in domo Domini in longitudinem dierum sed et benignitas et misericordia subsequetur me omnibus diebus vitae meae et habitabo in domo Domini in longitudine dierum"
+    }
+  ]
+}

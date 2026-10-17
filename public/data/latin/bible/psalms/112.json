@@ -1,0 +1,48 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 112,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "alleluia laudate pueri Dominum laudate nomen Domini alleluia laudate servi Dominum laudate nomen Domini"
+    },
+    {
+      "verse": 2,
+      "text": "sit nomen Domini benedictum ex hoc nunc et usque in saeculum sit nomen Domini benedictum amodo et usque in aeternum"
+    },
+    {
+      "verse": 3,
+      "text": "a solis ortu usque ad occasum laudabile nomen Domini ab ortu solis usque ad occasum eius laudabile nomen Domini"
+    },
+    {
+      "verse": 4,
+      "text": "excelsus super omnes gentes Dominus super caelos gloria eius excelsus super omnes gentes Dominus super caelum gloria eius"
+    },
+    {
+      "verse": 5,
+      "text": "quis sicut Dominus Deus noster qui in altis habitat quis ut Dominus Deus noster qui in excelsis habitans"
+    },
+    {
+      "verse": 6,
+      "text": "et humilia respicit in caelo et in terra humilia respicit in caelo et in terra"
+    },
+    {
+      "verse": 7,
+      "text": "suscitans a terra inopem et de stercore erigens pauperem suscitans de terra inopem et de stercore elevat pauperem"
+    },
+    {
+      "verse": 8,
+      "text": "ut conlocet eum cum principibus cum principibus populi sui ut eum sedere faciat cum principibus cum principibus populi sui"
+    },
+    {
+      "verse": 9,
+      "text": "qui habitare facit sterilem in domo matrem filiorum laetantem qui conlocat sterilem in domo matrem filiorum laetantem alleluia"
+    }
+  ]
+}

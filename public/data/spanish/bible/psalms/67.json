@@ -1,0 +1,40 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 67,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Al Músico principal: en Neginoth: Salmo: Cántico. DIOS tenga misericordia de nosotros, y nos bendiga; haga resplandecer su rostro sobre nosotros (Selah);"
+    },
+    {
+      "verse": 2,
+      "text": "Para que sea conocido en la tierra tu camino, en todas las gentes tu salud."
+    },
+    {
+      "verse": 3,
+      "text": "Alábente los pueblos, oh Dios; alábente los pueblos todos."
+    },
+    {
+      "verse": 4,
+      "text": "Alégrense y gócense las gentes; porque juzgarás los pueblos con equidad, y pastorearás las naciones en la tierra. (Selah.)"
+    },
+    {
+      "verse": 5,
+      "text": "Alábente los pueblos, oh Dios: todos los pueblos te alaben."
+    },
+    {
+      "verse": 6,
+      "text": "La tierra dará su fruto: nos bendecirá Dios, el Dios nuestro."
+    },
+    {
+      "verse": 7,
+      "text": "Bendíganos Dios, y témanlo todos los fines de la tierra."
+    }
+  ]
+}

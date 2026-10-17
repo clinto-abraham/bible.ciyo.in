@@ -1,0 +1,56 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 74,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem ne corrumpas psalmus Asaph cantici victori ut non disperdas psalmus Asaph cantici"
+    },
+    {
+      "verse": 2,
+      "text": "confitebimur tibi Deus confitebimur et invocabimus nomen tuum narrabimus mirabilia tua confitebimur tibi Deus confitebimur et iuxta nomen tuum narrabunt mirabilia tua"
+    },
+    {
+      "verse": 3,
+      "text": "cum accepero tempus ego iustitias iudicabo cum accepero tempus ego iustitias iudicabo"
+    },
+    {
+      "verse": 4,
+      "text": "liquefacta est terra et omnes qui habitant in ea ego confirmavi columnas eius diapsalma dissolvetur terra cum omnibus habitatoribus suis ego adpendi columnas eius semper"
+    },
+    {
+      "verse": 5,
+      "text": "dixi iniquis nolite inique facere et delinquentibus nolite exaltare cornu dixi inique agentibus nolite inique agere et impiis nolite exaltare cornu"
+    },
+    {
+      "verse": 6,
+      "text": "nolite extollere in altum cornu vestrum nolite loqui adversus Deum iniquitatem nolite exaltare in excelsum cornu vestrum loquentes in cervice veteri"
+    },
+    {
+      "verse": 7,
+      "text": "quia neque ab oriente neque ab occidente neque a desertis montibus quia nec ab oriente neque ab occidente neque a solitudine montium"
+    },
+    {
+      "verse": 8,
+      "text": "quoniam Deus iudex est hunc humiliat et hunc exaltat sed Deus iudex hunc humiliabit et hunc exaltabit"
+    },
+    {
+      "verse": 9,
+      "text": "quia calix in manu Domini vini meri plenus mixto et inclinavit ex hoc in hoc verum fex eius non est exinanita bibent omnes peccatores terrae quia calix in manu Domini est et vino meraco usque ad plenum mixtus et propinabit ex eo verumtamen feces eius epotabunt bibentes omnes impii terrae"
+    },
+    {
+      "verse": 10,
+      "text": "ego autem adnuntiabo in saeculum cantabo Deo Iacob ego autem adnuntiabo in sempiternum cantabo Deo Iacob"
+    },
+    {
+      "verse": 11,
+      "text": "et omnia cornua peccatorum confringam et exaltabuntur cornua iusti et omnia cornua impiorum confringam exaltabuntur cornua iusti"
+    }
+  ]
+}

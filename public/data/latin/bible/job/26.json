@@ -1,0 +1,68 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Job",
+  "bookSlug": "job",
+  "nativeName": "Job",
+  "chapterNumber": 26,
+  "totalVerses": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "respondens autem Iob dixit"
+    },
+    {
+      "verse": 2,
+      "text": "cuius adiutor es numquid inbecilli et sustentas brachium eius qui non est fortis"
+    },
+    {
+      "verse": 3,
+      "text": "cui dedisti consilium forsitan illi qui non habet sapientiam et prudentiam tuam ostendisti plurimam"
+    },
+    {
+      "verse": 4,
+      "text": "quem docere voluisti nonne eum qui fecit spiramen tuum"
+    },
+    {
+      "verse": 5,
+      "text": "ecce gigantes gemunt sub aquis et qui habitant cum eis"
+    },
+    {
+      "verse": 6,
+      "text": "nudus est inferus coram illo et nullum est operimentum perditioni"
+    },
+    {
+      "verse": 7,
+      "text": "qui extendit aquilonem super vacuum et adpendit terram super nihili"
+    },
+    {
+      "verse": 8,
+      "text": "qui ligat aquas in nubibus suis ut non erumpant pariter deorsum"
+    },
+    {
+      "verse": 9,
+      "text": "qui tenet vultum solii sui et expandit super illud nebulam suam"
+    },
+    {
+      "verse": 10,
+      "text": "terminum circumdedit aquis usque dum finiantur lux et tenebrae"
+    },
+    {
+      "verse": 11,
+      "text": "columnae caeli contremescunt et pavent ad nutum eius"
+    },
+    {
+      "verse": 12,
+      "text": "in fortitudine illius repente maria congregata sunt et prudentia eius percussit superbum"
+    },
+    {
+      "verse": 13,
+      "text": "spiritus eius ornavit caelos et obsetricante manu eius eductus est coluber tortuosus"
+    },
+    {
+      "verse": 14,
+      "text": "ecce haec ex parte dicta sunt viarum eius et cum vix parvam stillam sermonis eius audierimus quis poterit tonitruum magnitudinis illius intueri"
+    }
+  ]
+}

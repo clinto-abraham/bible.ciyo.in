@@ -1,0 +1,36 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 23,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "（大衛的 詩。）耶和華 是我的牧者，我必不 致缺乏。"
+    },
+    {
+      "verse": 2,
+      "text": "他使我躺臥 在青 草地上，領我 在 可安歇 的水邊。"
+    },
+    {
+      "verse": 3,
+      "text": "他使我的靈魂 甦醒，為 自己的名 引導我走 義 路。"
+    },
+    {
+      "verse": 4,
+      "text": "我雖然 行 過死蔭 的幽谷，也不 怕 遭害，因為 你 與我同在；你的杖，你的竿，都 安慰我。"
+    },
+    {
+      "verse": 5,
+      "text": "在我敵人 面前，你為我 擺設 筵席；你用油 膏了 我的頭，使我的福杯 滿溢。"
+    },
+    {
+      "verse": 6,
+      "text": "我一 生 一世 必有 恩惠 慈愛 隨著我；我且要住 在耶和華 的殿中，直到永遠。"
+    }
+  ]
+}

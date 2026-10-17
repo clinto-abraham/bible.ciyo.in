@@ -1,0 +1,68 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 20,
+  "totalVerses": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem psalmus David victori canticum David"
+    },
+    {
+      "verse": 2,
+      "text": "Domine in virtute tua laetabitur rex et super salutare tuum exultabit vehementer Domine in fortitudine tua laetabitur rex et in salutari tuo exultabit vehementer"
+    },
+    {
+      "verse": 3,
+      "text": "desiderium animae eius tribuisti ei et voluntate labiorum eius non fraudasti eum diapsalma desiderium cordis eius dedisti ei et voluntate labiorum eius non fraudasti eum semper"
+    },
+    {
+      "verse": 4,
+      "text": "quoniam praevenisti eum in benedictionibus dulcedinis posuisti in capite eius coronam de lapide pretioso quoniam praevenies eum benedictionibus bonitatis pones in capite eius coronam de lapide pretioso"
+    },
+    {
+      "verse": 5,
+      "text": "vitam petiit a te et tribuisti ei longitudinem dierum in saeculum et in saeculum saeculi vitam petivit te et dedisti ei longitudinem dierum in saeculum et in aeternum"
+    },
+    {
+      "verse": 6,
+      "text": "magna gloria eius in salutari tuo gloriam et magnum decorem inpones super eum magna gloria eius in salutari tuo gloriam et decorem pones super eum"
+    },
+    {
+      "verse": 7,
+      "text": "quoniam dabis eum benedictionem in saeculum saeculi laetificabis eum in gaudio cum vultu tuo pones enim eum benedictionem sempiternam et hilarabis eum laetitia apud vultum tuum"
+    },
+    {
+      "verse": 8,
+      "text": "quoniam rex sperat in Domino et in misericordia Altissimi non commovebitur quia rex confidet in Domino et in misericordia Excelsi non decipietur"
+    },
+    {
+      "verse": 9,
+      "text": "inveniatur manus tua omnibus inimicis tuis dextera tua inveniat omnes qui te oderunt inveniet manus tua omnes inimicos tuos dextera tua inveniet odientes te"
+    },
+    {
+      "verse": 10,
+      "text": "pones eos ut clibanum ignis in tempore vultus tui Dominus in ira sua conturbabit eos et devorabit eos ignis pones eos ut clibanum ignis in tempore vultus tui Dominus in furore suo praecipitabit eos et devorabit eos ignis"
+    },
+    {
+      "verse": 11,
+      "text": "fructum eorum de terra perdes et semen eorum a filiis hominum fructum eorum de terra perdes et semen eorum de filiis hominum"
+    },
+    {
+      "verse": 12,
+      "text": "quoniam declinaverunt in te mala cogitaverunt consilia quae non potuerunt stabilire quoniam inclinaverunt super te malum cogitaverunt scelus quod non potuerunt"
+    },
+    {
+      "verse": 13,
+      "text": "quoniam pones eos dorsum in reliquis tuis praeparabis vultum eorum quia pones eos umerum funes tuos firmabis contra facies eorum"
+    },
+    {
+      "verse": 14,
+      "text": "exaltare Domine in virtute tua cantabimus et psallemus virtutes tuas exaltare Domine in fortitudine tua cantabimus et psallemus fortitudines tuas"
+    }
+  ]
+}

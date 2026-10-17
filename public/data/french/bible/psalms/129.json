@@ -1,0 +1,44 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 129,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cantique des montées. Ils m'ont cruellement opprimé dès ma jeunesse, — qu'Israël le dise! —"
+    },
+    {
+      "verse": 2,
+      "text": "Ils m'ont cruellement opprimé dès ma jeunesse, mais ils n'ont pas prévalu contre moi."
+    },
+    {
+      "verse": 3,
+      "text": "Ils ont labouré mon dos, ils y ont tracé de longs sillons."
+    },
+    {
+      "verse": 4,
+      "text": "Mais Yahweh est juste: il a coupé les liens des méchants."
+    },
+    {
+      "verse": 5,
+      "text": "Qu'ils soient confondus et qu'ils reculent en arrière, tous ceux qui haïssent Sion!"
+    },
+    {
+      "verse": 6,
+      "text": "Qu'ils soient comme l'herbe des toits, qui sèche avant qu'on l'arrache."
+    },
+    {
+      "verse": 7,
+      "text": "Le moissonneur n'en remplit pas sa main, ni celui qui lie les gerbes, son giron;"
+    },
+    {
+      "verse": 8,
+      "text": "et les passants ne disent pas: « Que la bénédiction de Yahweh soit sur vous! » — « Nous vous bénissons au nom de Yahweh. »"
+    }
+  ]
+}

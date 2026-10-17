@@ -1,0 +1,60 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 63,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Psaume de David. Lorsqu'il était dans le désert de Juda."
+    },
+    {
+      "verse": 2,
+      "text": "O Dieu, tu es mon Dieu, je te cherche dès l'aurore; mon âme a soif de toi, ma chair languit après toi, dans une terre aride, desséchée et sans eau."
+    },
+    {
+      "verse": 3,
+      "text": "C'est ainsi que je te contemplais dans le sanctuaire, pour voir ta puissance et ta gloire."
+    },
+    {
+      "verse": 4,
+      "text": "Car ta grâce est meilleure que la vie: que mes lèvres célèbrent tes louanges!"
+    },
+    {
+      "verse": 5,
+      "text": "Ainsi te bénirai-je toute ma vie, en ton nom j'élèverai mes mains."
+    },
+    {
+      "verse": 6,
+      "text": "Mon âme est rassasiée, comme de moelle et de graisse, et, la joie sur les lèvres, ma bouche te loue."
+    },
+    {
+      "verse": 7,
+      "text": "Quand je pense à toi sur ma couche, je médite sur toi pendant les veilles de la nuit."
+    },
+    {
+      "verse": 8,
+      "text": "Car tu es mon secours, et je suis dans l'allégresse à l'ombre de tes ailes."
+    },
+    {
+      "verse": 9,
+      "text": "Mon âme est attachée à toi, ta droite me soutient."
+    },
+    {
+      "verse": 10,
+      "text": "Mais eux, cherchent à m'ôter la vie: ils iront dans les profondeurs de la terre."
+    },
+    {
+      "verse": 11,
+      "text": "On les livrera au glaive, ils seront la proie des chacals."
+    },
+    {
+      "verse": 12,
+      "text": "Et le roi se réjouira en Dieu; quiconque jure par lui se glorifiera, car la bouche des menteurs sera fermée."
+    }
+  ]
+}

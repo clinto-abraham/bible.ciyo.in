@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 2,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "psalmus David quare fremuerunt gentes et populi meditati sunt inania quare turbabuntur gentes et tribus meditabuntur inania"
+    },
+    {
+      "verse": 2,
+      "text": "adstiterunt reges terrae et principes convenerunt in unum adversus Dominum et adversus christum eius diapsalma consurgent reges terrae et principes tractabunt pariter adversum Dominum et adversum christum eius"
+    },
+    {
+      "verse": 3,
+      "text": "disrumpamus vincula eorum et proiciamus a nobis iugum ipsorum disrumpamus vincula eorum et proiciamus a nobis laqueos eorum"
+    },
+    {
+      "verse": 4,
+      "text": "qui habitat in caelis inridebit eos et Dominus subsannabit eos habitator caeli ridebit Dominus subsannabit eos"
+    },
+    {
+      "verse": 5,
+      "text": "tunc loquetur ad eos in ira sua et in furore suo conturbabit eos tunc loquetur ad eos in ira sua et in furore suo conturbabit eos"
+    },
+    {
+      "verse": 6,
+      "text": "ego autem constitutus sum rex ab eo super Sion montem sanctum eius praedicans praeceptum eius ego autem orditus sum regem meum super Sion montem sanctum suum adnuntiabo Dei praeceptum"
+    },
+    {
+      "verse": 7,
+      "text": "Dominus dixit ad me filius meus es tu ego hodie genui te Dominus dixit ad me filius meus es tu ego hodie genui te"
+    },
+    {
+      "verse": 8,
+      "text": "postula a me et dabo tibi gentes hereditatem tuam et possessionem tuam terminos terrae postula a me et dabo tibi gentes hereditatem tuam et possessionem tuam terminos terrae"
+    },
+    {
+      "verse": 9,
+      "text": "reges eos in virga ferrea tamquam vas figuli confringes eos pasces eos in virga ferrea ut vas figuli conteres eos"
+    },
+    {
+      "verse": 10,
+      "text": "et nunc reges intellegite erudimini qui iudicatis terram nunc ergo reges intellegite erudimini iudices terrae"
+    },
+    {
+      "verse": 11,
+      "text": "servite Domino in timore et exultate ei in tremore servite Domino in timore et exultate in tremore"
+    },
+    {
+      "verse": 12,
+      "text": "adprehendite disciplinam nequando irascatur Dominus et pereatis de via iusta adorate pure ne forte irascatur et pereatis de via"
+    },
+    {
+      "verse": 13,
+      "text": "cum exarserit in brevi ira eius beati omnes qui confidunt in eo cum exarserit post paululum furor eius beati omnes qui sperant in eum"
+    }
+  ]
+}

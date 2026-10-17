@@ -1,0 +1,60 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 41,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem in intellectum filiis Core pro victoria doctissimi filiorum Core"
+    },
+    {
+      "verse": 2,
+      "text": "quemadmodum desiderat cervus ad fontes aquarum ita desiderat anima mea ad te Deus sicut areola praeparata ad inrigationes aquarum sic anima mea praeparata est ad te Deus"
+    },
+    {
+      "verse": 3,
+      "text": "sitivit anima mea ad Deum *fortem vivum quando veniam et parebo ante faciem Dei sitivit anima mea Deum fortem viventem quando veniam et parebo ante faciem tuam"
+    },
+    {
+      "verse": 4,
+      "text": "fuerunt mihi lacrimae meae panis die ac nocte dum dicitur mihi cotidie ubi est Deus tuus fuerunt mihi lacrimae meae panis per diem ac noctem cum diceretur mihi tota die ubi est Deus tuus"
+    },
+    {
+      "verse": 5,
+      "text": "haec recordatus sum et effudi in me animam meam quoniam transibo in loco tabernaculi admirabilis usque ad domum Dei in voce exultationis et confessionis sonus epulantis horum recordatus sum et effudi in me animam meam quia veniam ad umbraculum tacebo usque ad domum Dei in voce laudis et confessionis multitudinis festa celebrantis"
+    },
+    {
+      "verse": 6,
+      "text": "quare tristis es anima mea et quare conturbas me spera in Deo quoniam confitebor illi salutare vultus mei quare incurvaris anima mea et conturbas me expecta Dominum quia adhuc confitebor ei salutaribus vultus eius"
+    },
+    {
+      "verse": 7,
+      "text": "Deus meus ad me ipsum anima mea conturbata est propterea memor ero tui de terra Iordanis et Hermoniim a monte modico Deus meus in memet ipso anima mea incurvatur propterea recordabor tui de terra Iordanis et Hermoniim de monte minimo"
+    },
+    {
+      "verse": 8,
+      "text": "abyssus *ad; abyssum invocat in voce cataractarum tuarum omnia excelsa tua et fluctus tui super me transierunt abyssus abyssum vocat in voce cataractarum tuarum omnes gurgites tui et fluctus tui super me transierunt"
+    },
+    {
+      "verse": 9,
+      "text": "in die mandavit Dominus misericordiam suam et nocte canticum eius apud me oratio Deo vitae meae per diem mandavit Dominus misericordiam suam et in nocte canticum eius mecum oratio Deo vitae meae"
+    },
+    {
+      "verse": 10,
+      "text": "dicam Deo susceptor meus es quare oblitus es mei quare contristatus incedo dum adfligit me inimicus dicam Deo petra mea quare oblitus es mei quare tristis incedo adfligente inimico"
+    },
+    {
+      "verse": 11,
+      "text": "dum confringuntur ossa mea exprobraverunt mihi qui tribulant me dum dicunt mihi per singulos dies ubi est Deus tuus cum me interficerent in ossibus meis exprobraverunt mihi hostes mei dicentes tota die ubi est Deus tuus"
+    },
+    {
+      "verse": 12,
+      "text": "quare tristis es anima mea et quare conturbas me spera in Deum quoniam *adhuc; confitebor illi salutare vultus mei *et; Deus meus quare incurvaris anima mea et conturbas me expecta Dominum quoniam adhuc confitebor ei salutibus vultus mei et Deo meo"
+    }
+  ]
+}

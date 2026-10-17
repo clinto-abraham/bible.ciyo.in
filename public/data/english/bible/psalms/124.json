@@ -1,0 +1,44 @@
+{
+  "translation": "KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords",
+  "language": "english",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 124,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A Song of degrees of David. If it had not been the Lord who was on our side, now may Israel say;"
+    },
+    {
+      "verse": 2,
+      "text": "If it had not been the Lord who was on our side, when men rose up against us:"
+    },
+    {
+      "verse": 3,
+      "text": "Then they had swallowed us up quick, when their wrath was kindled against us:"
+    },
+    {
+      "verse": 4,
+      "text": "Then the waters had overwhelmed us, the stream had gone over our soul:"
+    },
+    {
+      "verse": 5,
+      "text": "Then the proud waters had gone over our soul."
+    },
+    {
+      "verse": 6,
+      "text": "Blessed be the Lord, who hath not given us as a prey to their teeth."
+    },
+    {
+      "verse": 7,
+      "text": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped."
+    },
+    {
+      "verse": 8,
+      "text": "Our help is in the name of the Lord, who made heaven and earth."
+    }
+  ]
+}

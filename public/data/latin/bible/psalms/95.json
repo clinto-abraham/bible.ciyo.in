@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 95,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "quando domus aedificabatur post captivitatem canticum huic David cantate Domino canticum novum cantate Domino omnis terra canite Domino canticum novum canite Domino omnis terra"
+    },
+    {
+      "verse": 2,
+      "text": "cantate Domino benedicite nomini eius adnuntiate diem de die salutare eius canite Domino benedicite nomini eius adnuntiate de die in diem salutare eius"
+    },
+    {
+      "verse": 3,
+      "text": "adnuntiate inter gentes gloriam eius in omnibus populis mirabilia eius narrate in gentibus gloriam eius in universis populis mirabilia eius"
+    },
+    {
+      "verse": 4,
+      "text": "quoniam magnus Dominus et laudabilis valde terribilis est super omnes deos quia magnus Dominus et laudabilis nimis terribilis est super omnes deos"
+    },
+    {
+      "verse": 5,
+      "text": "quoniam omnes dii gentium daemonia at vero Dominus caelos fecit omnes enim dii populorum sculptilia Dominus autem caelos fecit"
+    },
+    {
+      "verse": 6,
+      "text": "confessio et pulchritudo in conspectu eius sanctimonia et magnificentia in sanctificatione eius gloria et decor ante vultum eius fortitudo et exultatio in sanctuario eius"
+    },
+    {
+      "verse": 7,
+      "text": "adferte Domino patriae gentium adferte Domino gloriam et honorem adferte Domino familiae populorum adferte Domino gloriam et fortitudinem"
+    },
+    {
+      "verse": 8,
+      "text": "adferte Domino gloriam nomini eius tollite hostias et introite in atria eius adferte Domino gloriam nomini eius levate munera et introite in atria eius"
+    },
+    {
+      "verse": 9,
+      "text": "adorate Dominum in atrio sancto eius commoveatur a facie eius universa terra adorate Dominum in decore sanctuarii paveat a facie eius omnis terra"
+    },
+    {
+      "verse": 10,
+      "text": "dicite in gentibus quia Dominus regnavit etenim correxit orbem qui non movebitur iudicabit populos in aequitate dicite in gentibus Dominus regnavit siquidem adpendit orbem inmobilem iudicabit populos in aequitate"
+    },
+    {
+      "verse": 11,
+      "text": "laetentur caeli et exultet terra commoveatur mare et plenitudo eius laetamini caeli et exultet terra tonet mare et plenitudo eius"
+    },
+    {
+      "verse": 12,
+      "text": "gaudebunt campi et omnia quae in eis sunt tunc exultabunt omnia ligna silvarum gaudeat ager et omnia quae in eo sunt tunc laudabunt universa ligna saltus"
+    },
+    {
+      "verse": 13,
+      "text": "a facie Domini quia venit quoniam venit iudicare terram iudicabit orbem terrae in aequitate et populos in veritate sua ante faciem Domini quoniam venit quoniam venit iudicare terram iudicabit orbem in iusto et populos in fide sua"
+    }
+  ]
+}

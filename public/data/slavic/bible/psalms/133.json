@@ -1,0 +1,24 @@
+{
+  "translation": "CSlElizabeth: 1757 Church Slavonic Elizabeth Bible",
+  "language": "slavic",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 133,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Се, ныне благословите Господа, вси раби Господни, стоящии в храме Господни, во дворех дому Бога нашего."
+    },
+    {
+      "verse": 2,
+      "text": "В нощех воздежите руки вашя во святая и благословите Господа."
+    },
+    {
+      "verse": 3,
+      "text": "Благословит тя Господь от Сиона, сотворивый небо и землю."
+    }
+  ]
+}

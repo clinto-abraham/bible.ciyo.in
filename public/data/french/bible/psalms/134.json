@@ -1,0 +1,24 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 134,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cantique des montées. Voici donc, bénissez Yahweh, vous tous, serviteurs de Yahweh, qui êtes de service dans la maison de Yahweh, pendant les nuits!..."
+    },
+    {
+      "verse": 2,
+      "text": "Levez les mains vers le sanctuaire, et bénissez Yahweh."
+    },
+    {
+      "verse": 3,
+      "text": "Que Yahweh te bénisse de Sion, lui qui a fait les cieux et la terre!"
+    }
+  ]
+}

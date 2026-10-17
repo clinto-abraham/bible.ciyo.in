@@ -1,0 +1,24 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 134,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cántico gradual. MIRAD, bendecid á Jehová, vosotros todos los siervos de Jehová, los que en la casa de Jehová estáis por las noches."
+    },
+    {
+      "verse": 2,
+      "text": "Alzad vuestras manos al santuario, y bendecid á Jehová."
+    },
+    {
+      "verse": 3,
+      "text": "Bendígate Jehová desde Sión, el cual ha hecho los cielos y la tierra."
+    }
+  ]
+}

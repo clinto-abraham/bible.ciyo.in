@@ -1,0 +1,24 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 134,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "（上行 之詩。） 耶和華的 僕人 夜間 站 在耶和華 殿中的，你們當稱頌 耶和華！"
+    },
+    {
+      "verse": 2,
+      "text": "你們當向聖所 舉 手，稱頌 耶和華！"
+    },
+    {
+      "verse": 3,
+      "text": "願造 天 地 的耶和華，從錫安 賜福給你們！"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Ecclesiastes",
+  "bookSlug": "ecclesiastes",
+  "nativeName": "Ecclesiastes",
+  "chapterNumber": 8,
+  "totalVerses": 17,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "sapientia hominis lucet in vultu eius et potentissimus faciem illius commutavit"
+    },
+    {
+      "verse": 2,
+      "text": "ego os regis observo et praecepta iuramenti Dei"
+    },
+    {
+      "verse": 3,
+      "text": "ne festines recedere a facie eius neque permaneas in opere malo quia omne quod voluerit faciet"
+    },
+    {
+      "verse": 4,
+      "text": "et sermo illius potestate plenus est nec dicere ei quisquam potest quare ita facis"
+    },
+    {
+      "verse": 5,
+      "text": "qui custodit praeceptum non experietur quicquam mali tempus et responsionem cor sapientis intellegit"
+    },
+    {
+      "verse": 6,
+      "text": "omni negotio tempus est et oportunitas et multa hominis adflictio"
+    },
+    {
+      "verse": 7,
+      "text": "quia ignorat praeterita et ventura nullo scire potest nuntio"
+    },
+    {
+      "verse": 8,
+      "text": "non est in hominis dicione prohibere spiritum nec habet potestatem in die mortis nec sinitur quiescere ingruente bello neque salvabit impietas impium"
+    },
+    {
+      "verse": 9,
+      "text": "omnia haec consideravi et dedi cor meum in cunctis operibus quae fiunt sub sole interdum dominatur homo homini in malum suum"
+    },
+    {
+      "verse": 10,
+      "text": "vidi impios sepultos qui etiam cum adviverent in loco sancto erant et laudabantur in civitate quasi iustorum operum sed et hoc vanitas est"
+    },
+    {
+      "verse": 11,
+      "text": "etenim quia non profertur cito contra malos sententia absque ullo timore filii hominum perpetrant mala"
+    },
+    {
+      "verse": 12,
+      "text": "attamen ex eo quod peccator centies facit malum et per patientiam sustentatur ego cognovi quod erit bonum timentibus Deum qui verentur faciem eius"
+    },
+    {
+      "verse": 13,
+      "text": "non sit bonum impio nec prolongentur dies eius sed quasi umbra transeant qui non timent faciem Dei"
+    },
+    {
+      "verse": 14,
+      "text": "est et alia vanitas quae fit super terram sunt iusti quibus multa proveniunt quasi opera egerint impiorum et sunt impii qui ita securi sunt quasi iustorum facta habeant sed et hoc vanissimum iudico"
+    },
+    {
+      "verse": 15,
+      "text": "laudavi igitur laetitiam quod non esset homini bonum sub sole nisi quod comederet et biberet atque gauderet et hoc solum secum auferret de labore suo in diebus vitae quos dedit ei Deus sub sole"
+    },
+    {
+      "verse": 16,
+      "text": "et adposui cor meum ut scirem sapientiam et intellegerem distentionem quae versatur in terra est homo qui diebus ac noctibus somnum oculis non capit"
+    },
+    {
+      "verse": 17,
+      "text": "et intellexi quod omnium operum Dei nullam possit homo invenire rationem eorum quae fiunt sub sole et quanto plus laboraverit ad quaerendum tanto minus inveniat etiam si dixerit sapiens se nosse non poterit repperire"
+    }
+  ]
+}

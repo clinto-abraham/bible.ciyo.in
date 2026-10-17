@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Song of Solomon",
+  "bookSlug": "song-of-solomon",
+  "nativeName": "Song of Solomon",
+  "chapterNumber": 7,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "quid videbis in Sulamiten nisi choros castrorum quam pulchri sunt gressus tui in calciamentis filia principis iunctura feminum tuorum sicut monilia quae fabricata sunt manu artificis"
+    },
+    {
+      "verse": 2,
+      "text": "umbilicus tuus crater tornatilis numquam indigens poculis venter tuus sicut acervus tritici vallatus liliis"
+    },
+    {
+      "verse": 3,
+      "text": "duo ubera tua sicut duo hinuli gemelli capreae"
+    },
+    {
+      "verse": 4,
+      "text": "collum tuum sicut turris eburnea oculi tui sicut piscinae in Esebon quae sunt in porta filiae multitudinis nasus tuus sicut turris Libani quae respicit contra Damascum"
+    },
+    {
+      "verse": 5,
+      "text": "caput tuum ut Carmelus et comae capitis tui sicut purpura regis vincta canalibus"
+    },
+    {
+      "verse": 6,
+      "text": "quam pulchra es et quam decora carissima in deliciis"
+    },
+    {
+      "verse": 7,
+      "text": "statura tua adsimilata est palmae et ubera tua botris"
+    },
+    {
+      "verse": 8,
+      "text": "dixi ascendam in palmam adprehendam fructus eius et erunt ubera tua sicut botri vineae et odor oris tui sicut malorum"
+    },
+    {
+      "verse": 9,
+      "text": "guttur tuum sicut vinum optimum dignum dilecto meo ad potandum labiisque et dentibus illius ruminandum"
+    },
+    {
+      "verse": 10,
+      "text": "ego dilecto meo et ad me conversio eius"
+    },
+    {
+      "verse": 11,
+      "text": "veni dilecte mi egrediamur in agrum commoremur in villis"
+    },
+    {
+      "verse": 12,
+      "text": "mane surgamus ad vineas videamus si floruit vinea si flores fructus parturiunt si floruerunt mala punica ibi dabo tibi ubera mea"
+    },
+    {
+      "verse": 13,
+      "text": "mandragorae dederunt odorem in portis nostris omnia poma nova et vetera dilecte mi servavi tibi"
+    }
+  ]
+}

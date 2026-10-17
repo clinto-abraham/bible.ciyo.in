@@ -1,0 +1,48 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 149,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "alleluia cantate Domino canticum novum laus eius in ecclesia sanctorum alleluia cantate Domino canticum novum laus eius in congregatione sanctorum"
+    },
+    {
+      "verse": 2,
+      "text": "laetetur Israhel in eo qui fecit eum et filii Sion exultent in rege suo laetetur Israhel in factore suo filii Sion exultent in rege suo"
+    },
+    {
+      "verse": 3,
+      "text": "laudent nomen eius in choro in tympano et psalterio psallant ei laudent nomen eius in choro in tympano et cithara cantent ei"
+    },
+    {
+      "verse": 4,
+      "text": "quia beneplacitum est Domino in populo suo et exaltabit mansuetos in salute quia conplacet sibi Dominus in populo suo exaltabit mansuetos in Iesu"
+    },
+    {
+      "verse": 5,
+      "text": "exultabunt sancti in gloria laetabuntur in cubilibus suis exultabunt sancti in gloria laudabunt in cubilibus suis"
+    },
+    {
+      "verse": 6,
+      "text": "exaltationes Dei in gutture eorum et gladii ancipites in manibus eorum exaltationes Dei in gutture eorum et gladii ancipites in manibus eorum"
+    },
+    {
+      "verse": 7,
+      "text": "ad faciendam vindictam in nationibus increpationes in populis ad faciendam vindictam in gentibus increpationes in populis"
+    },
+    {
+      "verse": 8,
+      "text": "ad alligandos reges eorum in conpedibus et nobiles eorum in manicis ferreis ut alligent reges eorum catenis et inclitos eorum conpedibus ferreis"
+    },
+    {
+      "verse": 9,
+      "text": "ut faciant in eis iudicium conscriptum gloria haec est omnibus sanctis eius ut faciant in eis iudicium scriptum decor est omnium sanctorum eius alleluia"
+    }
+  ]
+}

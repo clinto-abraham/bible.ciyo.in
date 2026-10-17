@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Zechariah",
+  "bookSlug": "zechariah",
+  "nativeName": "Zechariah",
+  "chapterNumber": 2,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "et levavi oculos meos et vidi et ecce vir et in manu eius funiculus mensorum"
+    },
+    {
+      "verse": 2,
+      "text": "et dixi quo tu vadis et dixit ad me ut metiar Hierusalem et videam quanta sit latitudo eius et quanta longitudo eius"
+    },
+    {
+      "verse": 3,
+      "text": "et ecce angelus qui loquebatur in me egrediebatur et angelus alius egrediebatur in occursum eius"
+    },
+    {
+      "verse": 4,
+      "text": "et dixit ad eum curre loquere ad puerum istum dicens absque muro habitabitur Hierusalem prae multitudine hominum et iumentorum in medio eius"
+    },
+    {
+      "verse": 5,
+      "text": "et ego ero ei ait Dominus murus ignis in circuitu et in gloria ero in medio eius"
+    },
+    {
+      "verse": 6,
+      "text": "o o fugite de terra aquilonis dicit Dominus quoniam in quattuor ventos caeli dispersi vos dicit Dominus"
+    },
+    {
+      "verse": 7,
+      "text": "o Sion fuge quae habitas apud filiam Babylonis"
+    },
+    {
+      "verse": 8,
+      "text": "quia haec dicit Dominus exercituum post gloriam misit me ad gentes quae spoliaverunt vos qui enim tetigerit vos tangit pupillam oculi eius"
+    },
+    {
+      "verse": 9,
+      "text": "quia ecce ego levo manum meam super eos et erunt praedae his qui serviebant sibi et cognoscetis quia Dominus exercituum misit me"
+    },
+    {
+      "verse": 10,
+      "text": "lauda et laetare filia Sion quia ecce ego venio et habitabo in medio tui ait Dominus"
+    },
+    {
+      "verse": 11,
+      "text": "et adplicabuntur gentes multae ad Dominum in die illa et erunt mihi in populum et habitabo in medio tui et scies quia Dominus exercituum misit me ad te"
+    },
+    {
+      "verse": 12,
+      "text": "et possidebit Dominus Iudam partem suam in terra sanctificata et eliget adhuc Hierusalem"
+    },
+    {
+      "verse": 13,
+      "text": "sileat omnis caro a facie Domini quia consurrexit de habitaculo sancto suo"
+    }
+  ]
+}

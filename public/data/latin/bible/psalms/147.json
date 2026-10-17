@@ -1,0 +1,48 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 147,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "alleluia lauda Hierusalem Dominum lauda Deum tuum Sion lauda Hierusalem Dominum cane Deum tuum Sion"
+    },
+    {
+      "verse": 2,
+      "text": "quoniam confortavit seras portarum tuarum benedixit filiis tuis in te quia confortavit vectes portarum tuarum benedixit filiis tuis in medio tui"
+    },
+    {
+      "verse": 3,
+      "text": "qui posuit fines tuos pacem et adipe frumenti satiat te qui posuit terminum tuum pacem adipe frumenti saturavit te"
+    },
+    {
+      "verse": 4,
+      "text": "qui emittit eloquium suum terrae velociter currit sermo eius qui emittit eloquium suum terrae velociter curret verbum eius"
+    },
+    {
+      "verse": 5,
+      "text": "qui dat nivem sicut lanam nebulam sicut cinerem spargit qui dat nivem quasi lanam pruinas quasi cinerem spargit"
+    },
+    {
+      "verse": 6,
+      "text": "mittit cristallum suum sicut buccellas ante faciem frigoris eius quis sustinebit proicit glaciem suam quasi buccellas ante faciem frigoris eius quis stabit"
+    },
+    {
+      "verse": 7,
+      "text": "emittet verbum suum et liquefaciet ea flabit spiritus eius et fluent aquae mittet verbum suum et solvet illa spirabit spiritu suo et fluent aquae"
+    },
+    {
+      "verse": 8,
+      "text": "qui adnuntiat verbum suum Iacob iustitias et iudicia sua Israhel qui adnuntiat verbum suum Iacob praecepta sua et iudicia sua Israhel"
+    },
+    {
+      "verse": 9,
+      "text": "non fecit taliter omni nationi et iudicia sua non manifestavit eis non fecit similiter omni genti et iudicia eius non cognoscent alleluia"
+    }
+  ]
+}

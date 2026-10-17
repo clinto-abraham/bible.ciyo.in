@@ -1,0 +1,60 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Esther",
+  "bookSlug": "esther",
+  "nativeName": "Esther",
+  "chapterNumber": 11,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Anno quarto regnantibus Ptolemaeo et Cleopatra attulerunt Dosithaeus qui se Sacerdotem et Levitici generis ferebat et Ptolemaeus filius eius hanc epistolam phurim quam dixerunt interpretatum esse Lysimachum Ptolemaei filium in Ierusalem"
+    },
+    {
+      "verse": 2,
+      "text": "Anno secundo regnante Artaxerxe maximo prima die mensis Nisan vidit somnium Mardochaeus filius Iairi filii Semei filii Cis de tribu Beniamin"
+    },
+    {
+      "verse": 3,
+      "text": "homo Iudaeus qui habitabat in urbe Susis vir magnus et inter primos aulae regiae"
+    },
+    {
+      "verse": 4,
+      "text": "Erat autem de eo numero captivorum quos transtulerat Nabuchodonosor rex Babylonis de Ierusalem cum Ieconia rege Iuda"
+    },
+    {
+      "verse": 5,
+      "text": "et hoc eius somnium fuit Apparuerunt voces et tumultus et tonitrua et terraemotus et conturbatio super terram"
+    },
+    {
+      "verse": 6,
+      "text": "et ecce duo dracones magni paratique contra se in praelium"
+    },
+    {
+      "verse": 7,
+      "text": "Ad quorum clamorem cunctae concitatae sunt nationes ut pugnarent contra gentem iustorum"
+    },
+    {
+      "verse": 8,
+      "text": "Fuitque dies illa tenebrarum et discriminis tribulationis et angustiae et ingens formido super terram"
+    },
+    {
+      "verse": 9,
+      "text": "Conturbataque est gens iustorum timentium mala sua et praeparata ad mortem"
+    },
+    {
+      "verse": 10,
+      "text": "Clamaveruntque ad Deum et illis vociferantibus fons parvus crevit in fluvium maximum et in aquas plurimas redundavit"
+    },
+    {
+      "verse": 11,
+      "text": "Lux et sol ortus est et humiles exaltati sunt et devoraverunt inclytos"
+    },
+    {
+      "verse": 12,
+      "text": "Quod cum vidisset Mardochaeus et surrexisset de strato cogitabat quid Deus facere vellet et fixum habebat in animo scire cupiens quid significaret somnium"
+    }
+  ]
+}

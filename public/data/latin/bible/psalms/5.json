@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 5,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem pro ea quae hereditatem consequitur psalmus David victori pro hereditatibus canticum David"
+    },
+    {
+      "verse": 2,
+      "text": "verba mea auribus percipe Domine intellege clamorem meum verba mea audi Domine intellege murmur meum"
+    },
+    {
+      "verse": 3,
+      "text": "intende voci orationis meae rex meus et Deus meus rex meus et Deus meus"
+    },
+    {
+      "verse": 4,
+      "text": "quoniam ad te orabo Domine mane exaudies vocem meam quia te deprecor Domine mane audies vocem meam"
+    },
+    {
+      "verse": 5,
+      "text": "mane adstabo tibi et videbo quoniam non deus volens iniquitatem tu es mane praeparabor ad te et contemplabor quoniam non es deus volens iniquitatem tu"
+    },
+    {
+      "verse": 6,
+      "text": "neque habitabit iuxta te malignus neque permanebunt iniusti ante oculos tuos nec habitabit iuxta te malignus non stabunt iniqui in conspectu oculorum tuorum"
+    },
+    {
+      "verse": 7,
+      "text": "odisti omnes qui operantur iniquitatem perdes omnes qui loquuntur mendacium virum sanguinum et dolosum abominabitur Dominus odisti omnes operantes iniquitatem perdes loquentes mendacium virum sanguinum et dolosum abominabitur Dominus"
+    },
+    {
+      "verse": 8,
+      "text": "ego autem in multitudine misericordiae tuae introibo in domum tuam adorabo ad templum sanctum tuum in timore tuo ego autem in multitudine misericordiae tuae introibo in domum tuam adorabo in templo sancto tuo in timore tuo"
+    },
+    {
+      "verse": 9,
+      "text": "Domine deduc me in iustitia tua propter inimicos meos dirige in conspectu meo viam tuam Domine deduc me in iustitia tua propter insidiatores meos dirige ante faciem meam viam tuam"
+    },
+    {
+      "verse": 10,
+      "text": "quoniam non est in ore eorum veritas cor eorum vanum est non est enim in ore eorum rectum interiora eorum insidiae"
+    },
+    {
+      "verse": 11,
+      "text": "sepulchrum patens est guttur eorum linguis suis dolose agebant iudica illos Deus decidant a cogitationibus suis secundum multitudinem impietatum eorum expelle eos quoniam inritaverunt te Domine sepulchrum patens guttur eorum linguam suam levificant condemna eos Deus decidant a consiliis suis iuxta multitudinem scelerum eorum expelle eos quoniam provocaverunt te"
+    },
+    {
+      "verse": 12,
+      "text": "et laetentur omnes qui sperant in te in aeternum exultabunt et habitabis in eis et gloriabuntur in te omnes qui diligunt nomen tuum et laetentur omnes qui sperant in te in perpetuum laudabunt et proteges eos et laetabuntur in te qui diligunt nomen tuum"
+    },
+    {
+      "verse": 13,
+      "text": "quoniam tu benedices iusto Domine ut scuto bonae voluntatis coronasti nos quia tu benedices iusto Domine ut scuto placabilitatis coronabis eum"
+    }
+  ]
+}

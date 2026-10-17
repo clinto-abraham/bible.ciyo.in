@@ -1,0 +1,32 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 92,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "laus cantici David in die ante sabbatum quando inhabitata est terra Dominus regnavit decore indutus est indutus est Dominus fortitudine et praecinxit se etenim firmavit orbem terrae qui non commovebitur Dominus regnavit gloria indutus est indutus est Dominus fortitudine et accinctus est insuper adpendit orbem qui non commovebitur"
+    },
+    {
+      "verse": 2,
+      "text": "parata sedis tua ex tunc a saeculo tu es firmum solium tuum ex tunc ab aeterno tu es"
+    },
+    {
+      "verse": 3,
+      "text": "elevaverunt flumina Domine elevaverunt flumina vocem suam *elevabunt flumina fluctus suos; levaverunt flumina Domine levaverunt flumina voces suas levaverunt flumina gurgites suos"
+    },
+    {
+      "verse": 4,
+      "text": "a vocibus aquarum multarum mirabiles elationes maris mirabilis in altis Dominus a vocibus aquarum multarum grandes fluctus maris grandis in excelso Dominus"
+    },
+    {
+      "verse": 5,
+      "text": "testimonia tua credibilia facta sunt nimis domum tuam decet sanctitudo Domine in longitudine dierum testimonia tua fidelia facta sunt nimis domum tuam decet sanctitas Domine in longitudine dierum"
+    }
+  ]
+}

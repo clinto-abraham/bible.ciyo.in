@@ -1,0 +1,48 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 149,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Aleluya. CANTAD á Jehová canción nueva: su alabanza sea en la congregación de los santos."
+    },
+    {
+      "verse": 2,
+      "text": "Alégrese Israel en su Hacedor: los hijos de Sión se gocen en su Rey."
+    },
+    {
+      "verse": 3,
+      "text": "Alaben su nombre con corro: con adufe y arpa á él canten."
+    },
+    {
+      "verse": 4,
+      "text": "Porque Jehová toma contentamiento con su pueblo: hermoseará á los humildes con salud."
+    },
+    {
+      "verse": 5,
+      "text": "Gozarse han los píos con gloria: cantarán sobre sus camas."
+    },
+    {
+      "verse": 6,
+      "text": "Ensalzamientos de Dios modularán en sus gargantas, y espadas de dos filos habrá en sus manos;"
+    },
+    {
+      "verse": 7,
+      "text": "Para hacer venganza de las gentes, y castigo en los pueblos;"
+    },
+    {
+      "verse": 8,
+      "text": "Para aprisionar sus reyes en grillos, y sus nobles con cadenas de hierro;"
+    },
+    {
+      "verse": 9,
+      "text": "Para ejecutar en ellos el juicio escrito: gloria será esta para todos sus santos. Aleluya."
+    }
+  ]
+}

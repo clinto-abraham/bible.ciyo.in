@@ -1,0 +1,52 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 8,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem pro torcularibus psalmus David victori pro torcularibus canticum David"
+    },
+    {
+      "verse": 2,
+      "text": "Domine Dominus noster quam admirabile est nomen tuum in universa terra quoniam elevata est magnificentia tua super caelos Domine Dominator noster quam grande est nomen tuum in universa terra qui posuisti gloriam tuam super caelos"
+    },
+    {
+      "verse": 3,
+      "text": "ex ore infantium et lactantium perfecisti laudem propter inimicos tuos ut destruas inimicum et ultorem ex ore infantium et lactantium perfecisti laudem propter adversarios meos ut quiescat inimicus et ultor"
+    },
+    {
+      "verse": 4,
+      "text": "quoniam videbo caelos * tuos; opera digitorum tuorum lunam et stellas quae tu fundasti videbo enim caelos tuos opera digitorum tuorum lunam et stellas quae fundasti"
+    },
+    {
+      "verse": 5,
+      "text": "quid est homo quod memor es eius aut filius hominis quoniam visitas eum quid est homo quoniam recordaris eius vel filius hominis quoniam visitas eum"
+    },
+    {
+      "verse": 6,
+      "text": "minuisti eum paulo minus ab angelis gloria et honore coronasti eum minues eum paulo minus a Deo gloria et decore coronabis eum"
+    },
+    {
+      "verse": 7,
+      "text": "et constituisti eum super opera manuum tuarum dabis ei potestatem super opera manuum tuarum"
+    },
+    {
+      "verse": 8,
+      "text": "omnia subiecisti sub pedibus eius oves et boves universas insuper et pecora campi cuncta posuisti sub pedibus eius oves et armenta omnia insuper et animalia agri"
+    },
+    {
+      "verse": 9,
+      "text": "volucres caeli et pisces maris qui perambulant semitas maris aves caeli et pisces maris qui pertranseunt semitas ponti"
+    },
+    {
+      "verse": 10,
+      "text": "Domine Dominus noster quam admirabile est nomen tuum in universa terra Domine Dominator noster quam grande est nomen tuum in universa terra"
+    }
+  ]
+}

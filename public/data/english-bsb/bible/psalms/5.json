@@ -1,0 +1,60 @@
+{
+  "translation": "BSB: Berean Standard Bible",
+  "language": "english-bsb",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 5,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "For the choirmaster, to be accompanied by flutes. A Psalm of David. Give ear to my words, O LORD; consider my groaning."
+    },
+    {
+      "verse": 2,
+      "text": "Attend to the sound of my cry, my King and my God, for to You I pray."
+    },
+    {
+      "verse": 3,
+      "text": "In the morning, O LORD, You hear my voice; at daybreak I lay my plea before You and wait in expectation."
+    },
+    {
+      "verse": 4,
+      "text": "For You are not a God who delights in wickedness; no evil can dwell with You."
+    },
+    {
+      "verse": 5,
+      "text": "The boastful cannot stand in Your presence; You hate all workers of iniquity."
+    },
+    {
+      "verse": 6,
+      "text": "You destroy those who tell lies; the LORD abhors the man of bloodshed and deceit."
+    },
+    {
+      "verse": 7,
+      "text": "But I will enter Your house by the abundance of Your loving devotion; in reverence I will bow down toward Your holy temple."
+    },
+    {
+      "verse": 8,
+      "text": "Lead me, O LORD, in Your righteousness because of my enemies; make straight Your way before me."
+    },
+    {
+      "verse": 9,
+      "text": "For not a word they speak can be trusted; destruction lies within them. Their throats are open graves; their tongues practice deceit."
+    },
+    {
+      "verse": 10,
+      "text": "Declare them guilty, O God; let them fall by their own devices. Drive them out for their many transgressions, for they have rebelled against You."
+    },
+    {
+      "verse": 11,
+      "text": "But let all who take refuge in You rejoice; let them ever shout for joy. May You shelter them, that those who love Your name may rejoice in You."
+    },
+    {
+      "verse": 12,
+      "text": "For surely You, O LORD, bless the righteous; You surround them with the shield of Your favor."
+    }
+  ]
+}

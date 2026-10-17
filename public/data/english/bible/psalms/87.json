@@ -1,0 +1,40 @@
+{
+  "translation": "KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords",
+  "language": "english",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 87,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A Psalm or Song for the sons of Korah. His foundation is in the holy mountains."
+    },
+    {
+      "verse": 2,
+      "text": "The Lord loveth the gates of Zion more than all the dwellings of Jacob."
+    },
+    {
+      "verse": 3,
+      "text": "Glorious things are spoken of thee, O city of God. Selah."
+    },
+    {
+      "verse": 4,
+      "text": "I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this man was born there."
+    },
+    {
+      "verse": 5,
+      "text": "And of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her."
+    },
+    {
+      "verse": 6,
+      "text": "The Lord shall count, when he writeth up the people, that this man was born there. Selah."
+    },
+    {
+      "verse": 7,
+      "text": "As well the singers as the players on instruments shall be there: all my springs are in thee."
+    }
+  ]
+}

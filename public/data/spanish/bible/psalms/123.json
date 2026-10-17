@@ -1,0 +1,28 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 123,
+  "totalVerses": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cántico gradual. A TI que habitas en los cielos, alcé mis ojos."
+    },
+    {
+      "verse": 2,
+      "text": "He aquí como los ojos de los siervos miran á la mano de sus señores, y como los ojos de la sierva á la mano de su señora; así nuestros ojos miran á Jehová nuestro Dios, hasta que haya misericordia de nosotros."
+    },
+    {
+      "verse": 3,
+      "text": "Ten misericordia de nosotros, oh Jehová, ten misericordia de nosotros; porque estamos muy hartos de menosprecio."
+    },
+    {
+      "verse": 4,
+      "text": "Muy harta está nuestra alma del escarnio de los holgados, y del menosprecio de los soberbios."
+    }
+  ]
+}

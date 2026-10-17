@@ -1,0 +1,40 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 67,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "（一篇詩 歌，交與伶長。用絲弦的樂器。）願 神 憐憫我們，賜福與我們，用臉 光照 我們，（細拉）"
+    },
+    {
+      "verse": 2,
+      "text": "好叫世界 得知 你的道路，萬 國 得知你的救恩。"
+    },
+    {
+      "verse": 3,
+      "text": "神啊，願列邦 稱讚你！願萬 民 都稱讚你！"
+    },
+    {
+      "verse": 4,
+      "text": "願萬國 都快樂 歡呼；因為 你必按公正 審判 萬民，引導 世上 的萬國。（細拉）"
+    },
+    {
+      "verse": 5,
+      "text": "神啊，願列邦 稱讚你！願萬 民 都稱讚你！"
+    },
+    {
+      "verse": 6,
+      "text": "地 已經出了 土產； 神─就是我們的 神 要賜福與我們。"
+    },
+    {
+      "verse": 7,
+      "text": "神 要賜福與我們；地 的四 極 都要敬畏 他！"
+    }
+  ]
+}

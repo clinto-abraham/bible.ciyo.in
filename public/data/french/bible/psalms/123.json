@@ -1,0 +1,28 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 123,
+  "totalVerses": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cantique des montées. J'élève mes yeux vers toi, ô toi qui siège dans les cieux!"
+    },
+    {
+      "verse": 2,
+      "text": "Comme l'œil du serviteur est fixé sur la main de son maître, et l'œil de la servante sur la main de sa maîtresse, ainsi nos yeux sont fixés sur Yahweh, notre Dieu, jusqu'à ce qu'il ait pitié de nous."
+    },
+    {
+      "verse": 3,
+      "text": "Aie pitié de nous, Yahweh, aie pitié de nous, car nous n'avons été que trop rassasiés d'opprobres."
+    },
+    {
+      "verse": 4,
+      "text": "Notre âme n'a été que trop rassasiée de la moquerie des superbes, du mépris des orgueilleux."
+    }
+  ]
+}

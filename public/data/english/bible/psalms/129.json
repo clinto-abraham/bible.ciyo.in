@@ -1,0 +1,44 @@
+{
+  "translation": "KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords",
+  "language": "english",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 129,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A Song of degrees. Many a time have they afflicted me from my youth, may Israel now say:"
+    },
+    {
+      "verse": 2,
+      "text": "Many a time have they afflicted me from my youth: yet they have not prevailed against me."
+    },
+    {
+      "verse": 3,
+      "text": "The plowers plowed upon my back: they made long their furrows."
+    },
+    {
+      "verse": 4,
+      "text": "The Lord is righteous: he hath cut asunder the cords of the wicked."
+    },
+    {
+      "verse": 5,
+      "text": "Let them all be confounded and turned back that hate Zion."
+    },
+    {
+      "verse": 6,
+      "text": "Let them be as the grass upon the housetops, which withereth afore it groweth up:"
+    },
+    {
+      "verse": 7,
+      "text": "Wherewith the mower filleth not his hand; nor he that bindeth sheaves his bosom."
+    },
+    {
+      "verse": 8,
+      "text": "Neither do they which go by say, The blessing of the Lord be upon you: we bless you in the name of the Lord."
+    }
+  ]
+}

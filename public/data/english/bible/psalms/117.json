@@ -1,0 +1,20 @@
+{
+  "translation": "KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords",
+  "language": "english",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 117,
+  "totalVerses": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O praise the Lord, all ye nations: praise him, all ye people."
+    },
+    {
+      "verse": 2,
+      "text": "For his merciful kindness is great toward us: and the truth of the Lord endureth for ever. Praise ye the Lord."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 125,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cántico gradual. LOS que confían en Jehová son como el monte de Sión, que no deslizará: estará para siempre."
+    },
+    {
+      "verse": 2,
+      "text": "Como Jerusalem tiene montes alrededor de ella, así Jehová alrededor de su pueblo desde ahora y para siempre."
+    },
+    {
+      "verse": 3,
+      "text": "Porque no reposará la vara de la impiedad sobre la suerte de los justos; porque no extiendan los justos sus manos á la iniquidad."
+    },
+    {
+      "verse": 4,
+      "text": "Haz bien, oh Jehová, á los buenos, y á los que son rectos en sus corazones."
+    },
+    {
+      "verse": 5,
+      "text": "Mas á los que se apartan tras sus perversidades, Jehová los llevará con los que obran iniquidad: y paz sea sobre Israel."
+    }
+  ]
+}

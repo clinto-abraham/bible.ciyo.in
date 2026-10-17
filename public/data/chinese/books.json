@@ -1,0 +1,530 @@
+[
+  {
+    "name": "Genesis",
+    "slug": "genesis",
+    "nativeName": "創世記",
+    "chapterCount": 50,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Exodus",
+    "slug": "exodus",
+    "nativeName": "出埃及記",
+    "chapterCount": 40,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Leviticus",
+    "slug": "leviticus",
+    "nativeName": "利未記",
+    "chapterCount": 27,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Numbers",
+    "slug": "numbers",
+    "nativeName": "民數記",
+    "chapterCount": 36,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Deuteronomy",
+    "slug": "deuteronomy",
+    "nativeName": "申命記",
+    "chapterCount": 34,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Joshua",
+    "slug": "joshua",
+    "nativeName": "約書亞記",
+    "chapterCount": 24,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Judges",
+    "slug": "judges",
+    "nativeName": "士師記",
+    "chapterCount": 21,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Ruth",
+    "slug": "ruth",
+    "nativeName": "路得記",
+    "chapterCount": 4,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Samuel",
+    "slug": "1-samuel",
+    "nativeName": "撒母耳記上",
+    "chapterCount": 31,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Samuel",
+    "slug": "2-samuel",
+    "nativeName": "撒母耳記下",
+    "chapterCount": 24,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Kings",
+    "slug": "1-kings",
+    "nativeName": "列王紀上",
+    "chapterCount": 22,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Kings",
+    "slug": "2-kings",
+    "nativeName": "列王紀下",
+    "chapterCount": 25,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Chronicles",
+    "slug": "1-chronicles",
+    "nativeName": "歷代志上",
+    "chapterCount": 29,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Chronicles",
+    "slug": "2-chronicles",
+    "nativeName": "歷代志下",
+    "chapterCount": 36,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Ezra",
+    "slug": "ezra",
+    "nativeName": "以斯拉記",
+    "chapterCount": 10,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Nehemiah",
+    "slug": "nehemiah",
+    "nativeName": "尼希米記",
+    "chapterCount": 13,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Esther",
+    "slug": "esther",
+    "nativeName": "以斯帖記",
+    "chapterCount": 10,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Job",
+    "slug": "job",
+    "nativeName": "約伯記",
+    "chapterCount": 42,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Psalms",
+    "slug": "psalms",
+    "nativeName": "詩篇",
+    "chapterCount": 150,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Proverbs",
+    "slug": "proverbs",
+    "nativeName": "箴言",
+    "chapterCount": 31,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Ecclesiastes",
+    "slug": "ecclesiastes",
+    "nativeName": "傳道書",
+    "chapterCount": 12,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Song of Solomon",
+    "slug": "song-of-solomon",
+    "nativeName": "雅歌",
+    "chapterCount": 8,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Isaiah",
+    "slug": "isaiah",
+    "nativeName": "以賽亞書",
+    "chapterCount": 66,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Jeremiah",
+    "slug": "jeremiah",
+    "nativeName": "耶利米書",
+    "chapterCount": 52,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Lamentations",
+    "slug": "lamentations",
+    "nativeName": "耶利米哀歌",
+    "chapterCount": 5,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Ezekiel",
+    "slug": "ezekiel",
+    "nativeName": "以西結書",
+    "chapterCount": 48,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Daniel",
+    "slug": "daniel",
+    "nativeName": "但以理書",
+    "chapterCount": 12,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Hosea",
+    "slug": "hosea",
+    "nativeName": "何西阿書",
+    "chapterCount": 14,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Joel",
+    "slug": "joel",
+    "nativeName": "約珥書",
+    "chapterCount": 3,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Amos",
+    "slug": "amos",
+    "nativeName": "阿摩司書",
+    "chapterCount": 9,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Obadiah",
+    "slug": "obadiah",
+    "nativeName": "俄巴底亞書",
+    "chapterCount": 1,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Jonah",
+    "slug": "jonah",
+    "nativeName": "約拿書",
+    "chapterCount": 4,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Micah",
+    "slug": "micah",
+    "nativeName": "彌迦書",
+    "chapterCount": 7,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Nahum",
+    "slug": "nahum",
+    "nativeName": "那鴻書",
+    "chapterCount": 3,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Habakkuk",
+    "slug": "habakkuk",
+    "nativeName": "哈巴谷書",
+    "chapterCount": 3,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Zephaniah",
+    "slug": "zephaniah",
+    "nativeName": "西番雅書",
+    "chapterCount": 3,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Haggai",
+    "slug": "haggai",
+    "nativeName": "哈該書",
+    "chapterCount": 2,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Zechariah",
+    "slug": "zechariah",
+    "nativeName": "撒迦利亞書",
+    "chapterCount": 14,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Malachi",
+    "slug": "malachi",
+    "nativeName": "瑪拉基書",
+    "chapterCount": 4,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Matthew",
+    "slug": "matthew",
+    "nativeName": "馬太福音",
+    "chapterCount": 28,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Mark",
+    "slug": "mark",
+    "nativeName": "馬可福音",
+    "chapterCount": 16,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Luke",
+    "slug": "luke",
+    "nativeName": "路加福音",
+    "chapterCount": 24,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "John",
+    "slug": "john",
+    "nativeName": "約翰福音",
+    "chapterCount": 21,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Acts",
+    "slug": "acts",
+    "nativeName": "使徒行傳",
+    "chapterCount": 28,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Romans",
+    "slug": "romans",
+    "nativeName": "羅馬書",
+    "chapterCount": 16,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Corinthians",
+    "slug": "1-corinthians",
+    "nativeName": "哥林多前書",
+    "chapterCount": 16,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Corinthians",
+    "slug": "2-corinthians",
+    "nativeName": "哥林多後書",
+    "chapterCount": 13,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Galatians",
+    "slug": "galatians",
+    "nativeName": "加拉太書",
+    "chapterCount": 6,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Ephesians",
+    "slug": "ephesians",
+    "nativeName": "以弗所書",
+    "chapterCount": 6,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Philippians",
+    "slug": "philippians",
+    "nativeName": "腓立比書",
+    "chapterCount": 4,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Colossians",
+    "slug": "colossians",
+    "nativeName": "歌羅西書",
+    "chapterCount": 4,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Thessalonians",
+    "slug": "1-thessalonians",
+    "nativeName": "帖撒羅尼迦前書",
+    "chapterCount": 5,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Thessalonians",
+    "slug": "2-thessalonians",
+    "nativeName": "帖撒羅尼迦後書",
+    "chapterCount": 3,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Timothy",
+    "slug": "1-timothy",
+    "nativeName": "提摩太前書",
+    "chapterCount": 6,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Timothy",
+    "slug": "2-timothy",
+    "nativeName": "提摩太後書",
+    "chapterCount": 4,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Titus",
+    "slug": "titus",
+    "nativeName": "提多書",
+    "chapterCount": 3,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Philemon",
+    "slug": "philemon",
+    "nativeName": "腓利門書",
+    "chapterCount": 1,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Hebrews",
+    "slug": "hebrews",
+    "nativeName": "希伯來書",
+    "chapterCount": 13,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "James",
+    "slug": "james",
+    "nativeName": "雅各書",
+    "chapterCount": 5,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Peter",
+    "slug": "1-peter",
+    "nativeName": "彼得前書",
+    "chapterCount": 5,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Peter",
+    "slug": "2-peter",
+    "nativeName": "彼得後書",
+    "chapterCount": 3,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "I John",
+    "slug": "1-john",
+    "nativeName": "約翰一書",
+    "chapterCount": 5,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "II John",
+    "slug": "2-john",
+    "nativeName": "約翰二書",
+    "chapterCount": 1,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "III John",
+    "slug": "3-john",
+    "nativeName": "約翰三書",
+    "chapterCount": 1,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Jude",
+    "slug": "jude",
+    "nativeName": "猶大書",
+    "chapterCount": 1,
+    "language": "chinese",
+    "dir": "ltr"
+  },
+  {
+    "name": "Revelation of John",
+    "slug": "revelation",
+    "nativeName": "啟示錄",
+    "chapterCount": 22,
+    "language": "chinese",
+    "dir": "ltr"
+  }
+]

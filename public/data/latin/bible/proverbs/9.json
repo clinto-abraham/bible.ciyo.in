@@ -1,0 +1,84 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Proverbs",
+  "bookSlug": "proverbs",
+  "nativeName": "Proverbs",
+  "chapterNumber": 9,
+  "totalVerses": 18,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "sapientia aedificavit sibi domum excidit columnas septem"
+    },
+    {
+      "verse": 2,
+      "text": "immolavit victimas suas miscuit vinum et proposuit mensam suam"
+    },
+    {
+      "verse": 3,
+      "text": "misit ancillas suas ut vocarent ad arcem et ad moenia civitatis"
+    },
+    {
+      "verse": 4,
+      "text": "si quis est parvulus veniat ad me et insipientibus locuta est"
+    },
+    {
+      "verse": 5,
+      "text": "venite comedite panem meum et bibite vinum quod miscui vobis"
+    },
+    {
+      "verse": 6,
+      "text": "relinquite infantiam et vivite et ambulate per vias prudentiae"
+    },
+    {
+      "verse": 7,
+      "text": "qui erudit derisorem ipse sibi facit iniuriam et qui arguit impium generat maculam sibi"
+    },
+    {
+      "verse": 8,
+      "text": "noli arguere derisorem ne oderit te argue sapientem et diliget te"
+    },
+    {
+      "verse": 9,
+      "text": "da sapienti et addetur ei sapientia doce iustum et festinabit accipere"
+    },
+    {
+      "verse": 10,
+      "text": "principium sapientiae timor Domini et scientia sanctorum prudentia"
+    },
+    {
+      "verse": 11,
+      "text": "per me enim multiplicabuntur dies tui et addentur tibi anni vitae"
+    },
+    {
+      "verse": 12,
+      "text": "si sapiens fueris tibimet ipsi eris si inlusor solus portabis malum"
+    },
+    {
+      "verse": 13,
+      "text": "mulier stulta et clamosa plenaque inlecebris et nihil omnino sciens"
+    },
+    {
+      "verse": 14,
+      "text": "sedit in foribus domus suae super sellam in excelso urbis loco"
+    },
+    {
+      "verse": 15,
+      "text": "ut vocaret transeuntes viam et pergentes itinere suo"
+    },
+    {
+      "verse": 16,
+      "text": "quis est parvulus declinet ad me et vecordi locuta est"
+    },
+    {
+      "verse": 17,
+      "text": "aquae furtivae dulciores sunt et panis absconditus suavior"
+    },
+    {
+      "verse": 18,
+      "text": "et ignoravit quod gigantes ibi sint et in profundis inferni convivae eius"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Matthew",
+    "slug": "matthew",
+    "nativeName": "ܡܬܝ",
+    "chapterCount": 28,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "Mark",
+    "slug": "mark",
+    "nativeName": "ܡܪܩܘܣ",
+    "chapterCount": 16,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "Luke",
+    "slug": "luke",
+    "nativeName": "ܠܘܩܐ",
+    "chapterCount": 24,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "John",
+    "slug": "john",
+    "nativeName": "ܝܘܚܢܢ",
+    "chapterCount": 21,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "Acts",
+    "slug": "acts",
+    "nativeName": "ܦܪܟܣܝܣ ܕܫܠܝܚܐ",
+    "chapterCount": 28,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "Romans",
+    "slug": "romans",
+    "nativeName": "ܪ̈ܗܘܡܝܐ",
+    "chapterCount": 16,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "I Corinthians",
+    "slug": "1-corinthians",
+    "nativeName": "ܩܘܪ̈ܢܬܝܐ ܐ",
+    "chapterCount": 16,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "II Corinthians",
+    "slug": "2-corinthians",
+    "nativeName": "ܩܘܪ̈ܢܬܝܐ ܒ",
+    "chapterCount": 13,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "Galatians",
+    "slug": "galatians",
+    "nativeName": "ܓܠܛܝ̈ܐ",
+    "chapterCount": 6,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "Ephesians",
+    "slug": "ephesians",
+    "nativeName": "ܐܦܣܝ̈ܐ",
+    "chapterCount": 6,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "Philippians",
+    "slug": "philippians",
+    "nativeName": "ܦܝܠܝܦܣܝ̈ܐ",
+    "chapterCount": 4,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "Colossians",
+    "slug": "colossians",
+    "nativeName": "ܩܘܠܣܝ̈ܐ",
+    "chapterCount": 4,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "I Thessalonians",
+    "slug": "1-thessalonians",
+    "nativeName": "ܬܣܠܘܢܝܩܝ̈ܐ ܐ",
+    "chapterCount": 5,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "II Thessalonians",
+    "slug": "2-thessalonians",
+    "nativeName": "ܬܣܠܘܢܝܩܝ̈ܐ ܒ",
+    "chapterCount": 3,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "I Timothy",
+    "slug": "1-timothy",
+    "nativeName": "ܛܝܡܬܐܘܣ ܐ",
+    "chapterCount": 6,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "II Timothy",
+    "slug": "2-timothy",
+    "nativeName": "ܛܝܡܬܐܘܣ ܒ",
+    "chapterCount": 4,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "Titus",
+    "slug": "titus",
+    "nativeName": "ܛܛܘܣ",
+    "chapterCount": 3,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "Philemon",
+    "slug": "philemon",
+    "nativeName": "ܦܝܠܡܘܢ",
+    "chapterCount": 1,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "Hebrews",
+    "slug": "hebrews",
+    "nativeName": "ܥܒܪ̈ܝܐ",
+    "chapterCount": 13,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "James",
+    "slug": "james",
+    "nativeName": "ܝܥܩܘܒ",
+    "chapterCount": 5,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "I Peter",
+    "slug": "1-peter",
+    "nativeName": "ܦܛܪܘܣ ܐ",
+    "chapterCount": 5,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "II Peter",
+    "slug": "2-peter",
+    "nativeName": "ܦܛܪܘܣ ܒ",
+    "chapterCount": 3,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "I John",
+    "slug": "1-john",
+    "nativeName": "ܝܘܚܢܢ ܐ",
+    "chapterCount": 5,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "II John",
+    "slug": "2-john",
+    "nativeName": "ܝܘܚܢܢ ܒ",
+    "chapterCount": 1,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "III John",
+    "slug": "3-john",
+    "nativeName": "ܝܘܚܢܢ ܓ",
+    "chapterCount": 1,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "Jude",
+    "slug": "jude",
+    "nativeName": "ܝܗܘܕܐ",
+    "chapterCount": 1,
+    "language": "aramaic",
+    "dir": "rtl"
+  },
+  {
+    "name": "Revelation of John",
+    "slug": "revelation",
+    "nativeName": "ܓܠܝܢܐ",
+    "chapterCount": 22,
+    "language": "aramaic",
+    "dir": "rtl"
+  }
+]

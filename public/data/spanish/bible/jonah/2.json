@@ -1,0 +1,52 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Jonah",
+  "bookSlug": "jonah",
+  "nativeName": "Jonah",
+  "chapterNumber": 2,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "MAS Jehová había prevenido un gran pez que tragase á Jonás: y estuvo Jonás en el vientre del pez tres días y tres noches."
+    },
+    {
+      "verse": 2,
+      "text": "Y oró Jonás desde el vientre del pez á Jehová su Dios,"
+    },
+    {
+      "verse": 3,
+      "text": "Y dijo: Clamé de mi tribulación á Jehová, y él me oyó; del vientre del sepulcro clamé, y mi voz oiste."
+    },
+    {
+      "verse": 4,
+      "text": "Echásteme en el profundo, en medio de los mares, y rodeóme la corriente; todas tus ondas y tus olas pasaron sobre mí."
+    },
+    {
+      "verse": 5,
+      "text": "Y yo dije: Echado soy de delante de tus ojos: mas aun veré tu santo templo."
+    },
+    {
+      "verse": 6,
+      "text": "Las aguas me rodearon hasta el alma, rodeóme el abismo; la ova se enredó á mi cabeza."
+    },
+    {
+      "verse": 7,
+      "text": "Descendí á las raíces de los montes; la tierra echó sus cerraduras sobre mí para siempre: mas tú sacaste mi vida de la sepultura, oh Jehová Dios mío."
+    },
+    {
+      "verse": 8,
+      "text": "Cuando mi alma desfallecía en mí, acordéme de Jehová; y mi oración entró hasta ti en tu santo templo."
+    },
+    {
+      "verse": 9,
+      "text": "Los que guardan las vanidades ilusorias, su misericordia abandonan."
+    },
+    {
+      "verse": 10,
+      "text": "Yo empero con voz de alabanza te sacrificaré; pagaré lo que prometí. La salvación pertenece á Jehová. Y mandó Jehová al pez, y vomitó á Jonás en tierra."
+    }
+  ]
+}

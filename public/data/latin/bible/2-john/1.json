@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "II John",
+  "bookSlug": "2-john",
+  "nativeName": "II John",
+  "chapterNumber": 1,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "senior electae dominae et natis eius quos ego diligo in veritate et non ego solus sed et omnes qui cognoverunt veritatem"
+    },
+    {
+      "verse": 2,
+      "text": "propter veritatem quae permanet in nobis et nobiscum erit in aeternum"
+    },
+    {
+      "verse": 3,
+      "text": "sit nobiscum gratia misericordia pax a Deo Patre et a Christo Iesu Filio Patris in veritate et caritate"
+    },
+    {
+      "verse": 4,
+      "text": "gavisus sum valde quoniam inveni de filiis tuis ambulantes in veritate sicut mandatum accepimus a Patre"
+    },
+    {
+      "verse": 5,
+      "text": "et nunc rogo te domina non tamquam mandatum novum scribens tibi sed quod habuimus ab initio ut diligamus alterutrum"
+    },
+    {
+      "verse": 6,
+      "text": "et haec est caritas ut ambulemus secundum mandata eius hoc mandatum est ut quemadmodum audistis ab initio in eo ambuletis"
+    },
+    {
+      "verse": 7,
+      "text": "quoniam multi seductores exierunt in mundum qui non confitentur Iesum Christum venientem in carne hic est seductor et antichristus"
+    },
+    {
+      "verse": 8,
+      "text": "videte vosmet ipsos ne perdatis quae operati estis sed ut mercedem plenam accipiatis"
+    },
+    {
+      "verse": 9,
+      "text": "omnis qui praecedit et non manet in doctrina Christi Deum non habet qui permanet in doctrina hic et Filium et Patrem habet"
+    },
+    {
+      "verse": 10,
+      "text": "si quis venit ad vos et hanc doctrinam non adfert nolite recipere eum in domum nec have ei dixeritis"
+    },
+    {
+      "verse": 11,
+      "text": "qui enim dicit illi have communicat operibus illius malignis"
+    },
+    {
+      "verse": 12,
+      "text": "plura habens vobis scribere nolui per cartam et atramentum spero enim me futurum apud vos et os ad os loqui ut gaudium vestrum plenum sit"
+    },
+    {
+      "verse": 13,
+      "text": "salutant te filii sororis tuae electae"
+    }
+  ]
+}

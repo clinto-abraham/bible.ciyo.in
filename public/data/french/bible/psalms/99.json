@@ -1,0 +1,48 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 99,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Yahweh est roi: les peuples tremblent; il est assis sur les Chérubins; la terre chancelle."
+    },
+    {
+      "verse": 2,
+      "text": "Yahweh est grand dans Sion, il est élevé au dessus de tous les peuples."
+    },
+    {
+      "verse": 3,
+      "text": "Qu'on célèbre ton nom grand et redoutable! — Il est saint!"
+    },
+    {
+      "verse": 4,
+      "text": "Qu'on célèbre la puissance du Roi qui aime la justice! Tu affermis la droiture, tu exerces en Jacob la justice et l'équité."
+    },
+    {
+      "verse": 5,
+      "text": "Exaltez Yahweh, notre Dieu, et prosternez-vous devant l'escabeau de ses pieds. — Il est saint!"
+    },
+    {
+      "verse": 6,
+      "text": "Moïse et Aaron étaient parmi ses prêtres, et Samuel parmi ceux qui invoquaient son nom. Ils invoquaient Yahweh, et il les exauçait,"
+    },
+    {
+      "verse": 7,
+      "text": "il leur parlait dans la colonne de nuée. Ils observaient ses commandements, et la loi qu'il leur avait donnée."
+    },
+    {
+      "verse": 8,
+      "text": "Yahweh, notre Dieu, tu les exauças, tu fus pour eux un Dieu clément, et tu les punis de leurs fautes."
+    },
+    {
+      "verse": 9,
+      "text": "Exaltez Yahweh, notre Dieu, et prosternez-vous devant sa montagne sainte, car il est saint, Yahweh notre Dieu!"
+    }
+  ]
+}

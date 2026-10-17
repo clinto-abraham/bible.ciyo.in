@@ -1,0 +1,76 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Numbers",
+  "bookSlug": "numbers",
+  "nativeName": "Números",
+  "chapterNumber": 30,
+  "totalVerses": 16,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Y MOISÉS dijo á los hijos de Israel, conforme á todo lo que Jehová le había mandado."
+    },
+    {
+      "verse": 2,
+      "text": "Y habló Moisés á los príncipes de las tribus de los hijos de Israel, diciendo: Esto es lo que Jehová ha mandado."
+    },
+    {
+      "verse": 3,
+      "text": "Cuando alguno hiciere voto á Jehová, ó hiciere juramento ligando su alma con obligación, no violará su palabra: hará conforme á todo lo que salió de su boca."
+    },
+    {
+      "verse": 4,
+      "text": "Mas la mujer, cuando hiciere voto á Jehová, y se ligare con obligación en casa de su padre, en su mocedad;"
+    },
+    {
+      "verse": 5,
+      "text": "Si su padre oyere su voto, y la obligación con que ligó su alma, y su padre callare á ello, todos los votos de ella serán firmes, y toda obligación con que hubiere ligado su alma, firme será."
+    },
+    {
+      "verse": 6,
+      "text": "Mas si su padre le vedare el día que oyere todos sus votos y sus obligaciones, con que ella hubiere ligado su alma, no serán firmes; y Jehová la perdonará, por cuanto su padre le vedó."
+    },
+    {
+      "verse": 7,
+      "text": "Empero si fuere casada, é hiciere votos, ó pronunciare de sus labios cosa con que obligue su alma;"
+    },
+    {
+      "verse": 8,
+      "text": "Si su marido lo oyere, y cuando lo oyere callare á ello, los votos de ella serán firmes, y la obligación con que ligó su alma, firme será."
+    },
+    {
+      "verse": 9,
+      "text": "Pero si cuando su marido lo oyó, le vedó, entonces el voto que ella hizo, y lo que pronunció de sus labios con que ligó su alma, será nulo; y Jehová lo perdonará."
+    },
+    {
+      "verse": 10,
+      "text": "Mas todo voto de viuda, ó repudiada, con que ligare su alma, será firme."
+    },
+    {
+      "verse": 11,
+      "text": "Y si hubiere hecho voto en casa de su marido, y hubiere ligado su alma con obligación de juramento,"
+    },
+    {
+      "verse": 12,
+      "text": "Si su marido oyó, y calló á ello, y no le vedó; entonces todos sus votos serán firmes, y toda obligación con que hubiere ligado su alma, firme será."
+    },
+    {
+      "verse": 13,
+      "text": "Mas si su marido los anuló el día que los oyó; todo lo que salió de sus labios cuanto á sus votos, y cuanto á la obligación de su alma, será nulo; su marido los anuló, y Jehová la perdonará."
+    },
+    {
+      "verse": 14,
+      "text": "Todo voto, ó todo juramento obligándose á afligir el alma, su marido lo confirmará, ó su marido lo anulará."
+    },
+    {
+      "verse": 15,
+      "text": "Empero si su marido callare á ello de día en día, entonces confirmó todos sus votos, y todas las obligaciones que están sobre ella: confirmólas, por cuanto calló á ello el día que lo oyó."
+    },
+    {
+      "verse": 16,
+      "text": "Mas si las anulare después de haberlas oído, entonces él llevará el pecado de ella. Estas son las ordenanzas que Jehová mandó á Moisés entre el varón y su mujer, entre el padre y su hija, durante su mocedad en casa de su padre."
+    }
+  ]
+}

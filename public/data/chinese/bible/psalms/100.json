@@ -1,0 +1,32 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 100,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "（稱謝 詩。）普 天下 當向耶和華 歡呼！"
+    },
+    {
+      "verse": 2,
+      "text": "你們當樂意 事奉 耶和華，當來 向他 歌唱！"
+    },
+    {
+      "verse": 3,
+      "text": "你們當曉得 耶和華 是 神！我們是他 造的，也是屬他的；我們是他的民，也是他草場 的羊。"
+    },
+    {
+      "verse": 4,
+      "text": "當稱謝 進入 他的門；當讚美 進入他的院。當感謝 他，稱頌 他的名！"
+    },
+    {
+      "verse": 5,
+      "text": "因為 耶和華 本為善。他的慈愛 存到永遠；他的信實 直到 萬代。"
+    }
+  ]
+}

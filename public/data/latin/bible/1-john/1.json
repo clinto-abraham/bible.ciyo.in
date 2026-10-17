@@ -1,0 +1,52 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "I John",
+  "bookSlug": "1-john",
+  "nativeName": "I John",
+  "chapterNumber": 1,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "quod fuit ab initio quod audivimus quod vidimus oculis nostris quod perspeximus et manus nostrae temptaverunt de verbo vitae"
+    },
+    {
+      "verse": 2,
+      "text": "et vita manifestata est et vidimus et testamur et adnuntiamus vobis vitam aeternam quae erat apud Patrem et apparuit nobis"
+    },
+    {
+      "verse": 3,
+      "text": "quod vidimus et audivimus adnuntiamus et vobis ut et vos societatem habeatis nobiscum et societas nostra sit cum Patre et cum Filio eius Iesu Christo"
+    },
+    {
+      "verse": 4,
+      "text": "et haec scribimus vobis ut gaudium nostrum sit plenum"
+    },
+    {
+      "verse": 5,
+      "text": "et haec est adnuntiatio quam audivimus ab eo et adnuntiamus vobis quoniam Deus lux est et tenebrae in eo non sunt ullae"
+    },
+    {
+      "verse": 6,
+      "text": "si dixerimus quoniam societatem habemus cum eo et in tenebris ambulamus mentimur et non facimus veritatem"
+    },
+    {
+      "verse": 7,
+      "text": "si autem in luce ambulemus sicut et ipse est in luce societatem habemus ad invicem et sanguis Iesu Filii eius mundat nos ab omni peccato"
+    },
+    {
+      "verse": 8,
+      "text": "si dixerimus quoniam peccatum non habemus ipsi nos seducimus et veritas in nobis non est"
+    },
+    {
+      "verse": 9,
+      "text": "si confiteamur peccata nostra fidelis est et iustus ut remittat nobis peccata et emundet nos ab omni iniquitate"
+    },
+    {
+      "verse": 10,
+      "text": "si dixerimus quoniam non peccavimus mendacem facimus eum et verbum eius non est in nobis"
+    }
+  ]
+}

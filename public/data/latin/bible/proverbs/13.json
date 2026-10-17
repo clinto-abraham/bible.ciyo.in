@@ -1,0 +1,112 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Proverbs",
+  "bookSlug": "proverbs",
+  "nativeName": "Proverbs",
+  "chapterNumber": 13,
+  "totalVerses": 25,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "filius sapiens doctrina patris qui autem inlusor est non audit cum arguitur"
+    },
+    {
+      "verse": 2,
+      "text": "de fructu oris homo saturabitur bonis anima autem praevaricatorum iniqua"
+    },
+    {
+      "verse": 3,
+      "text": "qui custodit os suum custodit animam suam qui autem inconsideratus est ad loquendum sentiet mala"
+    },
+    {
+      "verse": 4,
+      "text": "vult et non vult piger anima autem operantium inpinguabitur"
+    },
+    {
+      "verse": 5,
+      "text": "verbum mendax iustus detestabitur impius confundit et confundetur"
+    },
+    {
+      "verse": 6,
+      "text": "iustitia custodit innocentis viam impietas vero peccato subplantat"
+    },
+    {
+      "verse": 7,
+      "text": "est quasi dives cum nihil habeat et est quasi pauper cum in multis divitiis sit"
+    },
+    {
+      "verse": 8,
+      "text": "redemptio animae viri divitiae suae qui autem pauper est increpationem non sustinet"
+    },
+    {
+      "verse": 9,
+      "text": "lux iustorum laetificat lucerna autem impiorum extinguetur"
+    },
+    {
+      "verse": 10,
+      "text": "inter superbos semper iurgia sunt qui autem agunt cuncta consilio reguntur sapientia"
+    },
+    {
+      "verse": 11,
+      "text": "substantia festinata minuetur quae autem paulatim colligitur manu multiplicabitur"
+    },
+    {
+      "verse": 12,
+      "text": "spes quae differtur adfligit animam lignum vitae desiderium veniens"
+    },
+    {
+      "verse": 13,
+      "text": "qui detrahit alicui rei ipse se in futurum obligat qui autem timet praeceptum in pace versabitur"
+    },
+    {
+      "verse": 14,
+      "text": "lex sapientis fons vitae ut declinet a ruina mortis"
+    },
+    {
+      "verse": 15,
+      "text": "doctrina bona dabit gratiam in itinere contemptorum vorago"
+    },
+    {
+      "verse": 16,
+      "text": "astutus omnia agit cum consilio qui autem fatuus est aperit stultitiam"
+    },
+    {
+      "verse": 17,
+      "text": "nuntius impii cadet in malum legatus fidelis sanitas"
+    },
+    {
+      "verse": 18,
+      "text": "egestas et ignominia ei qui deserit disciplinam qui autem adquiescit arguenti glorificabitur"
+    },
+    {
+      "verse": 19,
+      "text": "desiderium si conpleatur delectat animam detestantur stulti eos qui fugiunt mala"
+    },
+    {
+      "verse": 20,
+      "text": "qui cum sapientibus graditur sapiens erit amicus stultorum efficietur similis"
+    },
+    {
+      "verse": 21,
+      "text": "peccatores persequetur malum et iustis retribuentur bona"
+    },
+    {
+      "verse": 22,
+      "text": "bonus relinquet heredes filios et nepotes et custoditur iusto substantia peccatoris"
+    },
+    {
+      "verse": 23,
+      "text": "multi cibi in novalibus patrum et alii congregantur absque iudicio"
+    },
+    {
+      "verse": 24,
+      "text": "qui parcit virgae suae odit filium suum qui autem diligit illum instanter erudit"
+    },
+    {
+      "verse": 25,
+      "text": "iustus comedit et replet animam suam venter autem impiorum insaturabilis"
+    }
+  ]
+}

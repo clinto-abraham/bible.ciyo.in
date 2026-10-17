@@ -1,0 +1,68 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Hosea",
+  "bookSlug": "hosea",
+  "nativeName": "Hosea",
+  "chapterNumber": 8,
+  "totalVerses": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in gutture tuo sit tuba quasi aquila super domum Domini pro eo quod transgressi sunt foedus meum et legem meam praevaricati sunt"
+    },
+    {
+      "verse": 2,
+      "text": "me invocabunt Deus meus cognovimus te Israhel"
+    },
+    {
+      "verse": 3,
+      "text": "proiecit Israhel bonum inimicus persequetur eum"
+    },
+    {
+      "verse": 4,
+      "text": "ipsi regnaverunt et non ex me principes extiterunt et non cognovi argentum suum et aurum suum fecerunt sibi idola ut interirent"
+    },
+    {
+      "verse": 5,
+      "text": "proiectus est vitulus tuus Samaria iratus est furor meus in eis usquequo non poterunt emundari"
+    },
+    {
+      "verse": 6,
+      "text": "quia ex Israhel et ipse est artifex fecit illum et non est Deus quoniam in aranearum telas erit vitulus Samariae"
+    },
+    {
+      "verse": 7,
+      "text": "quia ventum seminabunt et turbinem metent culmus stans non est in eis germen non faciet farinam quod si et fecerit alieni comedent eam"
+    },
+    {
+      "verse": 8,
+      "text": "devoratus est Israhel nunc factus est in nationibus quasi vas inmundum"
+    },
+    {
+      "verse": 9,
+      "text": "quia ipsi ascenderunt ad Assur onager solitarius sibi Ephraim munera dederunt amatoribus"
+    },
+    {
+      "verse": 10,
+      "text": "sed et cum mercede conduxerint nationes nunc congregabo eos et quiescent paulisper ab onere regis et principum"
+    },
+    {
+      "verse": 11,
+      "text": "quia multiplicavit Ephraim altaria ad peccandum factae sunt ei arae in delictum"
+    },
+    {
+      "verse": 12,
+      "text": "scribam ei multiplices leges meas quae velut alienae conputatae sunt"
+    },
+    {
+      "verse": 13,
+      "text": "hostias adfer adfer immolabunt carnes et comedent Dominus non suscipiet eas nunc recordabitur iniquitatis eorum et visitabit peccata eorum ipsi in Aegyptum convertentur"
+    },
+    {
+      "verse": 14,
+      "text": "et oblitus est Israhel factoris sui et aedificavit delubra et Iudas multiplicavit urbes munitas et mittam ignem in civitates eius et devorabit aedes illius"
+    }
+  ]
+}

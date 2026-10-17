@@ -1,0 +1,180 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "John",
+  "bookSlug": "john",
+  "nativeName": "Secundum Ioannem",
+  "chapterNumber": 19,
+  "totalVerses": 42,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "tunc ergo adprehendit Pilatus Iesum et flagellavit"
+    },
+    {
+      "verse": 2,
+      "text": "et milites plectentes coronam de spinis inposuerunt capiti eius et veste purpurea circumdederunt eum"
+    },
+    {
+      "verse": 3,
+      "text": "et veniebant ad eum et dicebant have rex Iudaeorum et dabant ei alapas"
+    },
+    {
+      "verse": 4,
+      "text": "exiit iterum Pilatus foras et dicit eis ecce adduco vobis eum foras"
+    },
+    {
+      "verse": 5,
+      "text": "ut cognoscatis quia in eo nullam causam invenio et purpureum vestimentum et dicit eis ecce homo"
+    },
+    {
+      "verse": 6,
+      "text": "cum ergo vidissent eum pontifices et ministri clamabant dicentes crucifige crucifige dicit eis Pilatus accipite eum vos et crucifigite ego enim non invenio in eo causam"
+    },
+    {
+      "verse": 7,
+      "text": "responderunt ei Iudaei nos legem habemus et secundum legem debet mori quia Filium Dei se fecit"
+    },
+    {
+      "verse": 8,
+      "text": "cum ergo audisset Pilatus hunc sermonem magis timuit"
+    },
+    {
+      "verse": 9,
+      "text": "et ingressus est praetorium iterum et dicit ad Iesum unde es tu Iesus autem responsum non dedit ei"
+    },
+    {
+      "verse": 10,
+      "text": "dicit ergo ei Pilatus mihi non loqueris nescis quia potestatem habeo crucifigere te et potestatem habeo dimittere te"
+    },
+    {
+      "verse": 11,
+      "text": "respondit Iesus non haberes potestatem adversum me ullam nisi tibi esset datum desuper propterea qui tradidit me tibi maius peccatum habet"
+    },
+    {
+      "verse": 12,
+      "text": "exinde quaerebat Pilatus dimittere eum Iudaei autem clamabant dicentes si hunc dimittis non es amicus Caesaris omnis qui se regem facit contradicit Caesari"
+    },
+    {
+      "verse": 13,
+      "text": "Pilatus ergo cum audisset hos sermones adduxit foras Iesum et sedit pro tribunali in locum qui dicitur Lithostrotus hebraice autem Gabbatha"
+    },
+    {
+      "verse": 14,
+      "text": "erat autem parasceve paschae hora quasi sexta et dicit Iudaeis ecce rex vester"
+    },
+    {
+      "verse": 15,
+      "text": "illi autem clamabant tolle tolle crucifige eum dixit eis Pilatus regem vestrum crucifigam responderunt pontifices non habemus regem nisi Caesarem"
+    },
+    {
+      "verse": 16,
+      "text": "tunc ergo tradidit eis illum ut crucifigeretur susceperunt autem Iesum et eduxerunt"
+    },
+    {
+      "verse": 17,
+      "text": "et baiulans sibi crucem exivit in eum qui dicitur Calvariae locum hebraice Golgotha"
+    },
+    {
+      "verse": 18,
+      "text": "ubi eum crucifixerunt et cum eo alios duos hinc et hinc medium autem Iesum"
+    },
+    {
+      "verse": 19,
+      "text": "scripsit autem et titulum Pilatus et posuit super crucem erat autem scriptum Iesus Nazarenus rex Iudaeorum"
+    },
+    {
+      "verse": 20,
+      "text": "hunc ergo titulum multi legerunt Iudaeorum quia prope civitatem erat locus ubi crucifixus est Iesus et erat scriptum hebraice graece et latine"
+    },
+    {
+      "verse": 21,
+      "text": "dicebant ergo Pilato pontifices Iudaeorum noli scribere rex Iudaeorum sed quia ipse dixit rex sum Iudaeorum"
+    },
+    {
+      "verse": 22,
+      "text": "respondit Pilatus quod scripsi scripsi"
+    },
+    {
+      "verse": 23,
+      "text": "milites ergo cum crucifixissent eum acceperunt vestimenta eius et fecerunt quattuor partes unicuique militi partem et tunicam erat autem tunica inconsutilis desuper contexta per totum"
+    },
+    {
+      "verse": 24,
+      "text": "dixerunt ergo ad invicem non scindamus eam sed sortiamur de illa cuius sit ut scriptura impleatur dicens partiti sunt vestimenta mea sibi et in vestem meam miserunt sortem et milites quidem haec fecerunt"
+    },
+    {
+      "verse": 25,
+      "text": "stabant autem iuxta crucem Iesu mater eius et soror matris eius Maria Cleopae et Maria Magdalene"
+    },
+    {
+      "verse": 26,
+      "text": "cum vidisset ergo Iesus matrem et discipulum stantem quem diligebat dicit matri suae mulier ecce filius tuus"
+    },
+    {
+      "verse": 27,
+      "text": "deinde dicit discipulo ecce mater tua et ex illa hora accepit eam discipulus in sua"
+    },
+    {
+      "verse": 28,
+      "text": "postea sciens Iesus quia iam omnia consummata sunt ut consummaretur scriptura dicit sitio"
+    },
+    {
+      "verse": 29,
+      "text": "vas ergo positum erat aceto plenum illi autem spongiam plenam aceto hysopo circumponentes obtulerunt ori eius"
+    },
+    {
+      "verse": 30,
+      "text": "cum ergo accepisset Iesus acetum dixit consummatum est et inclinato capite tradidit spiritum"
+    },
+    {
+      "verse": 31,
+      "text": "Iudaei ergo quoniam parasceve erat ut non remanerent in cruce corpora sabbato erat enim magnus dies ille sabbati rogaverunt Pilatum ut frangerentur eorum crura et tollerentur"
+    },
+    {
+      "verse": 32,
+      "text": "venerunt ergo milites et primi quidem fregerunt crura et alterius qui crucifixus est cum eo"
+    },
+    {
+      "verse": 33,
+      "text": "ad Iesum autem cum venissent ut viderunt eum iam mortuum non fregerunt eius crura"
+    },
+    {
+      "verse": 34,
+      "text": "sed unus militum lancea latus eius aperuit et continuo exivit sanguis et aqua"
+    },
+    {
+      "verse": 35,
+      "text": "et qui vidit testimonium perhibuit et verum est eius testimonium et ille scit quia vera dicit ut et vos credatis"
+    },
+    {
+      "verse": 36,
+      "text": "facta sunt enim haec ut scriptura impleatur os non comminuetis ex eo"
+    },
+    {
+      "verse": 37,
+      "text": "et iterum alia scriptura dicit videbunt in quem transfixerunt"
+    },
+    {
+      "verse": 38,
+      "text": "post haec autem rogavit Pilatum Ioseph ab Arimathia eo quod esset discipulus Iesu occultus autem propter metum Iudaeorum ut tolleret corpus Iesu et permisit Pilatus venit ergo et tulit corpus Iesu"
+    },
+    {
+      "verse": 39,
+      "text": "venit autem et Nicodemus qui venerat ad Iesum nocte primum ferens mixturam murrae et aloes quasi libras centum"
+    },
+    {
+      "verse": 40,
+      "text": "acceperunt ergo corpus Iesu et ligaverunt eum linteis cum aromatibus sicut mos Iudaeis est sepelire"
+    },
+    {
+      "verse": 41,
+      "text": "erat autem in loco ubi crucifixus est hortus et in horto monumentum novum in quo nondum quisquam positus erat"
+    },
+    {
+      "verse": 42,
+      "text": "ibi ergo propter parasceven Iudaeorum quia iuxta erat monumentum posuerunt Iesum"
+    }
+  ]
+}

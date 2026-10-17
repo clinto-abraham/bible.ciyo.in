@@ -1,0 +1,48 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 54,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Au maître de chant. Avec instruments à cordes. Cantique de David."
+    },
+    {
+      "verse": 2,
+      "text": "Lorsque les Ziphéens vinrent dire à Saül: David est caché parmi nous."
+    },
+    {
+      "verse": 3,
+      "text": "O Dieu, sauve-moi par ton nom, et rends-moi justice par ta puissance."
+    },
+    {
+      "verse": 4,
+      "text": "O Dieu, écoute ma prière, prête l'oreille aux paroles de ma bouche."
+    },
+    {
+      "verse": 5,
+      "text": "Car des étrangers se sont levés contre moi, des hommes violents en veulent à ma vie; ils ne mettent pas Dieu devant leurs yeux. — Séla."
+    },
+    {
+      "verse": 6,
+      "text": "Voici que Dieu est mon secours, le Seigneur est le soutien de mon âme."
+    },
+    {
+      "verse": 7,
+      "text": "Il fera retomber le mal sur mes adversaires; dans ta vérité, anéantis-les!"
+    },
+    {
+      "verse": 8,
+      "text": "De tout cœur je t'offrirai des sacrifices; je louerai ton nom, Yahweh, car il est bon;"
+    },
+    {
+      "verse": 9,
+      "text": "il me délivre de toute angoisse, et mes yeux s'arrêtent avec joie sur mes ennemis."
+    }
+  ]
+}

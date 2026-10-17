@@ -1,0 +1,56 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 146,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "alleluia Aggei et Zacchariae laudate Dominum quoniam bonum psalmus Deo nostro sit iucunda * decoraque; laudatio alleluia laudate Dominum quoniam bonum est canticum Dei nostri quoniam decorum est pulchra laudatio"
+    },
+    {
+      "verse": 2,
+      "text": "aedificans Hierusalem Dominus dispersiones Israhel congregabit aedificabit Hierusalem Dominus eiectos Israhel congregabit"
+    },
+    {
+      "verse": 3,
+      "text": "qui sanat contritos corde et alligat contritiones illorum qui sanat contritos corde et alligat plagas eorum"
+    },
+    {
+      "verse": 4,
+      "text": "qui numerat multitudinem stellarum et omnibus eis nomina vocans qui numerat multitudinem stellarum et omnes nomine suo vocat"
+    },
+    {
+      "verse": 5,
+      "text": "magnus Dominus noster et magna virtus eius et sapientiae eius non est numerus magnus Dominus noster et multus fortitudine prudentiae eius non est numerus"
+    },
+    {
+      "verse": 6,
+      "text": "suscipiens mansuetos Dominus humilians autem peccatores usque ad terram suscipiens mansuetos Dominus humilians impios usque ad terram"
+    },
+    {
+      "verse": 7,
+      "text": "praecinite Domino in confessione psallite Deo nostro in cithara canite Domino in confessione canite Deo nostro in cithara"
+    },
+    {
+      "verse": 8,
+      "text": "qui operit caelum nubibus et parat terrae pluviam qui producit in montibus faenum et herbam servituti hominum qui operit caelos nubibus et praebet terrae pluviam et oriri facit in montibus germen"
+    },
+    {
+      "verse": 9,
+      "text": "et dat iumentis escam ipsorum et pullis corvorum invocantibus eum qui dat iumentis panem suum filiis corvi clamantibus"
+    },
+    {
+      "verse": 10,
+      "text": "non in fortitudine equi voluntatem habebit nec in tibiis viri beneplacitum erit ei non est in fortitudine equi voluntas eius neque in tibiis viri placetur ei"
+    },
+    {
+      "verse": 11,
+      "text": "beneplacitum est Domino super timentes eum et in eis qui sperant super misericordia eius placetur Domino in his qui timent eum et expectant misericordiam eius"
+    }
+  ]
+}

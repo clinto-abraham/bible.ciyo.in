@@ -1,0 +1,116 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Job",
+  "bookSlug": "job",
+  "nativeName": "Job",
+  "chapterNumber": 3,
+  "totalVerses": 26,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "post haec aperuit Iob os suum et maledixit diei suo"
+    },
+    {
+      "verse": 2,
+      "text": "et locutus est"
+    },
+    {
+      "verse": 3,
+      "text": "pereat dies in qua natus sum et nox in qua dictum est conceptus est homo"
+    },
+    {
+      "verse": 4,
+      "text": "dies ille vertatur in tenebras non requirat eum Deus desuper et non inlustret lumine"
+    },
+    {
+      "verse": 5,
+      "text": "obscurent eum tenebrae et umbra mortis occupet eum caligo et involvatur amaritudine"
+    },
+    {
+      "verse": 6,
+      "text": "noctem illam tenebrosus turbo possideat non conputetur in diebus anni nec numeretur in mensibus"
+    },
+    {
+      "verse": 7,
+      "text": "sit nox illa solitaria nec laude digna"
+    },
+    {
+      "verse": 8,
+      "text": "maledicant ei qui maledicunt diei qui parati sunt suscitare Leviathan"
+    },
+    {
+      "verse": 9,
+      "text": "obtenebrentur stellae caligine eius expectet lucem et non videat nec ortum surgentis aurorae"
+    },
+    {
+      "verse": 10,
+      "text": "quia non conclusit ostia ventris qui portavit me nec abstulit mala ab oculis meis"
+    },
+    {
+      "verse": 11,
+      "text": "quare non in vulva mortuus sum egressus ex utero non statim perii"
+    },
+    {
+      "verse": 12,
+      "text": "quare exceptus genibus cur lactatus uberibus"
+    },
+    {
+      "verse": 13,
+      "text": "nunc enim dormiens silerem et somno meo requiescerem"
+    },
+    {
+      "verse": 14,
+      "text": "cum regibus et consulibus terrae qui aedificant sibi solitudines"
+    },
+    {
+      "verse": 15,
+      "text": "aut cum principibus qui possident aurum et replent domos suas argento"
+    },
+    {
+      "verse": 16,
+      "text": "aut sicut abortivum absconditum non subsisterem vel qui concepti non viderunt lucem"
+    },
+    {
+      "verse": 17,
+      "text": "ibi impii cessaverunt a tumultu et ibi requieverunt fessi robore"
+    },
+    {
+      "verse": 18,
+      "text": "et quondam vincti pariter sine molestia non audierunt vocem exactoris"
+    },
+    {
+      "verse": 19,
+      "text": "parvus et magnus ibi sunt et servus liber a domino suo"
+    },
+    {
+      "verse": 20,
+      "text": "quare data est misero lux et vita his qui in amaritudine animae sunt"
+    },
+    {
+      "verse": 21,
+      "text": "qui expectant mortem et non venit quasi effodientes thesaurum"
+    },
+    {
+      "verse": 22,
+      "text": "gaudentque vehementer cum invenerint sepulchrum"
+    },
+    {
+      "verse": 23,
+      "text": "viro cuius abscondita est via et circumdedit eum Deus tenebris"
+    },
+    {
+      "verse": 24,
+      "text": "antequam comedam suspiro et quasi inundantes aquae sic rugitus meus"
+    },
+    {
+      "verse": 25,
+      "text": "quia timor quem timebam evenit mihi et quod verebar accidit"
+    },
+    {
+      "verse": 26,
+      "text": "nonne dissimulavi nonne silui nonne quievi et venit super me indignatio"
+    }
+  ]
+}

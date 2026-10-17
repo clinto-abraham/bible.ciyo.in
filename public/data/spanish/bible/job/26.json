@@ -1,0 +1,68 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Job",
+  "bookSlug": "job",
+  "nativeName": "Job",
+  "chapterNumber": 26,
+  "totalVerses": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Y RESPONDIÓ Job, y dijo:"
+    },
+    {
+      "verse": 2,
+      "text": "¿En qué ayudaste al que no tiene fuerza? ¿has amparado al brazo sin fortaleza?"
+    },
+    {
+      "verse": 3,
+      "text": "¿En qué aconsejaste al que no tiene ciencia, y mostraste bien sabiduría?"
+    },
+    {
+      "verse": 4,
+      "text": "¿A quién has anunciado palabras, y cúyo es el espíritu que de ti sale?"
+    },
+    {
+      "verse": 5,
+      "text": "Cosas inanimadas son formadas debajo de las aguas, y los habitantes de ellas."
+    },
+    {
+      "verse": 6,
+      "text": "El sepulcro es descubierto delante de él, y el infierno no tiene cobertura."
+    },
+    {
+      "verse": 7,
+      "text": "Extiende el aquilón sobre vacío, cuelga la tierra sobre nada."
+    },
+    {
+      "verse": 8,
+      "text": "Ata las aguas en sus nubes, y las nubes no se rompen debajo de ellas."
+    },
+    {
+      "verse": 9,
+      "text": "El restriñe la faz de su trono, y sobre él extiende su nube."
+    },
+    {
+      "verse": 10,
+      "text": "El cercó con término la superficie de las aguas, hasta el fin de la luz y las tinieblas."
+    },
+    {
+      "verse": 11,
+      "text": "Las columnas del cielo tiemblan, y se espantan de su reprensión."
+    },
+    {
+      "verse": 12,
+      "text": "El rompe la mar con su poder, y con su entendimiento hiere la hinchazón suya."
+    },
+    {
+      "verse": 13,
+      "text": "Su espíritu adornó los cielos; su mano crió la serpiente tortuosa."
+    },
+    {
+      "verse": 14,
+      "text": "He aquí, estas son partes de sus caminos: ¡mas cuán poco hemos oído de él! Porque el estruendo de sus fortalezas, ¿quién lo detendrá?"
+    }
+  ]
+}

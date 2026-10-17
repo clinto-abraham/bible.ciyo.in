@@ -1,0 +1,60 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Ecclesiastes",
+  "bookSlug": "ecclesiastes",
+  "nativeName": "Ecclesiastes",
+  "chapterNumber": 6,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Il est un mal que j'ai vu sous le soleil, et ce mal est grand sur l'homme:"
+    },
+    {
+      "verse": 2,
+      "text": "Tel homme à qui Dieu a donné richesses, trésors et gloire, et qui ne manque pour son âme de rien de ce qu'il peut désirer; mais Dieu ne lui permet pas d'en jouir, car c'est un étranger qui en jouit: voilà une vanité et un mal grave."
+    },
+    {
+      "verse": 3,
+      "text": "Quand un homme aurait engendré cent fils, eût vécu de nombreuses années, et que les jours de ses années se seraient multipliés, si son âme ne s'est pas rassasiée de bonheur, et qu'il n'ait pas même eu de sépulture, je dis qu'un avorton est plus heureux que lui."
+    },
+    {
+      "verse": 4,
+      "text": "Car il est venu en vain, il s'en va dans les ténèbres, et les ténèbres couvriront son nom;"
+    },
+    {
+      "verse": 5,
+      "text": "il n'a même ni vu ni connu le soleil, il a plus de repos que cet homme."
+    },
+    {
+      "verse": 6,
+      "text": "Et quand il vivrait deux fois mille ans, sans jouir du bonheur, tout ne va-t-il pas au même lieu?"
+    },
+    {
+      "verse": 7,
+      "text": "Tout le travail de l'homme est pour sa bouche; mais ses désirs ne sont jamais satisfaits."
+    },
+    {
+      "verse": 8,
+      "text": "Car quel avantage a le sage sur l'insensé? Quel avantage a le pauvre qui sait se conduire devant les vivants?"
+    },
+    {
+      "verse": 9,
+      "text": "Ce que les yeux voient est préférable à la divagation des désirs. Cela encore est vanité et poursuite du vent."
+    },
+    {
+      "verse": 10,
+      "text": "De toute chose qui arrive, le nom est déjà prononcé; on sait ce que sera un homme, et il ne peut contester avec qui est plus fort que lui."
+    },
+    {
+      "verse": 11,
+      "text": "Car il y a beaucoup de paroles qui ne font qu'accroître la vanité: quel avantage en revient-il à l'homme?"
+    },
+    {
+      "verse": 12,
+      "text": "Car qui sait, en effet, ce qui est bon pour l'homme dans la vie, pendant les jours de sa vie de vanité, qu'il passe comme une ombre? Et qui peut indiquer à l'homme ce qui sera après lui sous le soleil?"
+    }
+  ]
+}

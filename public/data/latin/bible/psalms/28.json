@@ -1,0 +1,56 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 28,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "psalmus David in consummatione tabernaculi adferte Domino filii Dei adferte Domino filios arietum canticum David adferte Domino filios arietum"
+    },
+    {
+      "verse": 2,
+      "text": "adferte Domino gloriam et honorem adferte Domino gloriam nomini eius adorate Dominum in atrio sancto eius adferte Domino gloriam et imperium adferte Domino gloriam nomini eius adorate Dominum in decore sancto"
+    },
+    {
+      "verse": 3,
+      "text": "vox Domini super aquas Deus maiestatis intonuit Dominus super aquas multas vox Domini super aquas Deus gloriae intonuit Dominus super aquas multas"
+    },
+    {
+      "verse": 4,
+      "text": "vox Domini in virtute vox Domini in magnificentia vox Domini in fortitudine vox Domini in decore"
+    },
+    {
+      "verse": 5,
+      "text": "vox Domini confringentis cedros et confringet Dominus cedros Libani vox Domini confringentis cedros et confringet Dominus cedros Libani"
+    },
+    {
+      "verse": 6,
+      "text": "et comminuet eas tamquam vitulum Libani et dilectus quemadmodum filius unicornium et disperget eas quasi vitulus Libani et Sarion quasi filius rinocerotis"
+    },
+    {
+      "verse": 7,
+      "text": "vox Domini intercidentis flammam ignis vox Domini dividens flammas ignis"
+    },
+    {
+      "verse": 8,
+      "text": "vox Domini concutientis desertum et commovebit Dominus desertum Cades vox Domini parturire faciens desertum Cades"
+    },
+    {
+      "verse": 9,
+      "text": "vox Domini praeparantis cervos et revelabit condensa et in templo eius omnis dicet gloriam vox Domini obsetricans cervis et revelans saltus et in templo eius omnis loquetur gloriam"
+    },
+    {
+      "verse": 10,
+      "text": "Dominus diluvium inhabitare facit et sedebit Dominus rex in aeternum Dominus diluvium inhabitat et sedebit Dominus rex in aeternum"
+    },
+    {
+      "verse": 11,
+      "text": "Dominus virtutem populo suo dabit Dominus benedicet populo suo in pace Dominus fortitudinem populo suo dabit Dominus benedicet populo suo in pace"
+    }
+  ]
+}

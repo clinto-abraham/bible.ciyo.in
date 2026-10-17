@@ -1,0 +1,32 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 93,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "JEHOVÁ reina, vistióse de magnificencia, vistióse Jehová, ciñóse de fortaleza; afirmó también el mundo, que no se moverá."
+    },
+    {
+      "verse": 2,
+      "text": "Firme es tu trono desde entonces: tú eres eternalmente."
+    },
+    {
+      "verse": 3,
+      "text": "Alzaron los ríos, oh Jehová, alzaron los ríos su sonido; alzaron los ríos sus ondas."
+    },
+    {
+      "verse": 4,
+      "text": "Jehová en las alturas es más poderoso que el estruendo de las muchas aguas, más que las recias ondas de la mar."
+    },
+    {
+      "verse": 5,
+      "text": "Tus testimonios son muy firmes: la santidad conviene á tu casa, oh Jehová, por los siglos y para siempre."
+    }
+  ]
+}

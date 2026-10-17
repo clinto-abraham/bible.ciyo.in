@@ -1,0 +1,24 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 132,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "canticum graduum David ecce quam bonum et quam iucundum habitare fratres in unum canticum graduum David ecce quam bonum et quam decorum habitare fratres in uno"
+    },
+    {
+      "verse": 2,
+      "text": "sicut unguentum in capite quod descendit in barbam barbam Aaron quod descendit in ora vestimenti eius sicut unguentum optimum in capite quod descendit in barbam barbam Aaron quod descendit super oram vestimentorum eius"
+    },
+    {
+      "verse": 3,
+      "text": "sicut ros Hermon qui descendit in montes Sion quoniam illic mandavit Dominus benedictionem et vitam usque in saeculum sicut ros Hermon qui descendit super montana Sion quoniam ibi mandavit Dominus benedictionem vitam usque in aeternum"
+    }
+  ]
+}

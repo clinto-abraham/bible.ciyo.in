@@ -1,0 +1,94 @@
+@import "tailwindcss";
+
+@source "../app";
+@source "../components";
+@source "../lib";
+
+:root {
+  --bg-dark-base: #060814;
+  --bg-dark-surface: #0B0F1E;
+  --bg-dark-card: #0F172A;
+  --border-dark-subtle: #1E293B;
+  --border-dark-hover: #334155;
+  --text-white: #FFFFFF;
+  --text-muted: #94A3B8;
+  --text-dim: #64748B;
+  --accent-cyan: #38BDF8;
+  --accent-blue: #3B82F6;
+  --accent-amber: #F59E0B;
+  --accent-gold: #FBBF24;
+}
+
+body {
+  background-color: var(--bg-dark-base);
+  color: var(--text-white);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Cosmic Background Grid */
+.bg-grid-pattern {
+  background-image: 
+    linear-gradient(to right, rgba(30, 41, 59, 0.25) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(30, 41, 59, 0.25) 1px, transparent 1px);
+  background-size: 3.5rem 3.5rem;
+}
+
+/* Waving Shimmer Animation for Skeletons */
+@keyframes wave-shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.skeleton-waving {
+  background: linear-gradient(
+    90deg,
+    rgba(30, 41, 59, 0.3) 0%,
+    rgba(56, 189, 248, 0.15) 50%,
+    rgba(30, 41, 59, 0.3) 100%
+  );
+  background-size: 200% 100%;
+  animation: wave-shimmer 2s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+/* Script font utilities */
+.font-hebrew {
+  font-family: "SBL Hebrew", "Taamey Frank CLM", "David Libre", "Frank Ruehl CLM", "Times New Roman", serif;
+}
+
+.font-greek {
+  font-family: "GFS Didot", "SBL Greek", "Palatino Linotype", "Times New Roman", serif;
+}
+
+.font-burmese {
+  font-family: "Padauk", "Myanmar Text", "Pyidaungsu", sans-serif;
+}
+
+.font-slavic {
+  font-family: "Ponomar Unicode", "Fedorovsk Unicode", "Menaion Unicode", "Times New Roman", serif;
+}
+
+.font-editorial-serif {
+  font-family: "Playfair Display", "Merriweather", "Georgia", "Cambria", serif;
+}
+
+.font-malayalam {
+  font-family: "Manjari", "Gayathri", "Noto Sans Malayalam", "Malayalam Sangam MN", "Kartika", sans-serif;
+}
+
+.font-aramaic {
+  font-family: "East Syriac Adiabene", "Estrangelo Edessa", "Serto Jerusalem", "Segoe UI Historic", "Arial", sans-serif;
+}
+
+.font-chinese {
+  font-family: "Noto Serif SC", "Noto Sans SC", "Songti SC", "SimSun", "STSong", serif;
+}
+

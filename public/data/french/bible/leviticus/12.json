@@ -1,0 +1,44 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Leviticus",
+  "bookSlug": "leviticus",
+  "nativeName": "Lévitique",
+  "chapterNumber": 12,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Yahweh parla à Moïse, en disant:"
+    },
+    {
+      "verse": 2,
+      "text": "\" Parle aux enfants d'Israël, et dis-leur: Quand une femme enfantera et mettra au monde un garçon, elle sera impure pendant sept jours; elle sera impure comme aux jours de son indisposition menstruelle."
+    },
+    {
+      "verse": 3,
+      "text": "Le huitième jour, l'enfant sera circoncis;"
+    },
+    {
+      "verse": 4,
+      "text": "mais elle restera encore trente-trois jours dans le sang de sa purification; elle ne touchera aucune chose sainte et elle n'ira point au sanctuaire, jusqu'à ce que les jours de sa purification soient accomplis."
+    },
+    {
+      "verse": 5,
+      "text": "Si elle met au monde une fille, elle sera impure pendant deux semaines, comme à son indisposition menstruelle, et elle restera soixante-six jours dans le sang de sa purification."
+    },
+    {
+      "verse": 6,
+      "text": "Lorsque les jours de sa purification seront accomplis, pour un fils ou une fille, elle présentera au prêtre, à l'entrée de la tente de réunion, un agneau d'un an en holocauste, et un jeune pigeon ou une tourterelle en sacrifice pour le péché."
+    },
+    {
+      "verse": 7,
+      "text": "Le prêtre les offrira devant Yahweh, et fera pour elle l'expiation, et elle sera pure du flux de son sang. Telle est la loi pour la femme qui met au monde soit un fils soit une fille."
+    },
+    {
+      "verse": 8,
+      "text": "Si elle n'a pas de quoi se procurer un agneau, qu'elle prenne deux tourterelles ou deux jeunes pigeons, l'un pour l'holocauste, l'autre pour le sacrifice pour le péché; et le prêtre fera pour elle l'expiation, et elle sera pure. \""
+    }
+  ]
+}

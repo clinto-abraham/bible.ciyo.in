@@ -1,0 +1,92 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Job",
+  "bookSlug": "job",
+  "nativeName": "Job",
+  "chapterNumber": 11,
+  "totalVerses": 20,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "respondens autem Sophar Naamathites dixit"
+    },
+    {
+      "verse": 2,
+      "text": "numquid qui multa loquitur non et audiet aut vir verbosus iustificabitur"
+    },
+    {
+      "verse": 3,
+      "text": "tibi soli tacebunt homines et cum ceteros inriseris a nullo confutaberis"
+    },
+    {
+      "verse": 4,
+      "text": "dixisti enim purus est sermo meus et mundus sum in conspectu tuo"
+    },
+    {
+      "verse": 5,
+      "text": "atque utinam Deus loqueretur tecum et aperiret labia sua tibi"
+    },
+    {
+      "verse": 6,
+      "text": "ut ostenderet tibi secreta sapientiae et quod multiplex esset lex eius et intellegeres quod multo minora exigaris a Deo quam meretur iniquitas tua"
+    },
+    {
+      "verse": 7,
+      "text": "forsitan vestigia Dei conprehendes et usque ad perfectum Omnipotentem repperies"
+    },
+    {
+      "verse": 8,
+      "text": "excelsior caelo est et quid facies profundior inferno et unde cognosces"
+    },
+    {
+      "verse": 9,
+      "text": "longior terrae mensura eius et latior mari"
+    },
+    {
+      "verse": 10,
+      "text": "si subverterit omnia vel in unum coartaverit quis contradicet ei"
+    },
+    {
+      "verse": 11,
+      "text": "ipse enim novit hominum vanitatem et videns iniquitatem nonne considerat"
+    },
+    {
+      "verse": 12,
+      "text": "vir vanus in superbiam erigitur et tamquam pullum onagri se liberum natum putat"
+    },
+    {
+      "verse": 13,
+      "text": "tu autem firmasti cor tuum et expandisti ad eum manus tuas"
+    },
+    {
+      "verse": 14,
+      "text": "si iniquitatem quod est in manu tua abstuleris a te et non manserit in tabernaculo tuo iniustitia"
+    },
+    {
+      "verse": 15,
+      "text": "tum levare poteris faciem tuam absque macula et eris stabilis et non timebis"
+    },
+    {
+      "verse": 16,
+      "text": "miseriae quoque oblivisceris et quasi aquarum quae praeterierint recordaberis"
+    },
+    {
+      "verse": 17,
+      "text": "et quasi meridianus fulgor consurget tibi ad vesperam et cum te consumptum putaveris orieris ut lucifer"
+    },
+    {
+      "verse": 18,
+      "text": "et habebis fiduciam proposita tibi spe et defossus securus dormies"
+    },
+    {
+      "verse": 19,
+      "text": "requiesces et non erit qui te exterreat et deprecabuntur faciem tuam plurimi"
+    },
+    {
+      "verse": 20,
+      "text": "oculi autem impiorum deficient et effugium peribit ab eis et spes eorum abominatio animae"
+    }
+  ]
+}

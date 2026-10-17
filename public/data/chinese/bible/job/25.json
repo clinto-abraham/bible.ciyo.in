@@ -1,0 +1,36 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Job",
+  "bookSlug": "job",
+  "nativeName": "約伯記",
+  "chapterNumber": 25,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "書亞人 比勒達 回答 說："
+    },
+    {
+      "verse": 2,
+      "text": "神有 治理之權，有威嚴可畏；他在高處 施行 和平。"
+    },
+    {
+      "verse": 3,
+      "text": "他的諸軍 豈能 數算？他的光亮 一發， 誰 不蒙照呢？"
+    },
+    {
+      "verse": 4,
+      "text": "這樣在 神面前，人 怎能 稱義？婦人 所生的 怎能 潔淨？"
+    },
+    {
+      "verse": 5,
+      "text": "在 神眼前，月亮 也 無 光亮，星宿 也不 清潔。"
+    },
+    {
+      "verse": 6,
+      "text": "何況 如蟲 的人，如蛆 的世人呢！"
+    }
+  ]
+}

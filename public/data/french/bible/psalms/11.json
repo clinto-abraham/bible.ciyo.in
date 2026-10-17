@@ -1,0 +1,40 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 11,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Au maître de chant. De David. En Yahweh je me confie; comment dites-vous à mon âme: \" Fuyez à votre montagne, comme l'oiseau."
+    },
+    {
+      "verse": 2,
+      "text": "Car voici que les méchants bandent l'arc, ils ont ajusté leur flèche sur la corde, pour tirer dans l'ombre sur les hommes au cœur droit."
+    },
+    {
+      "verse": 3,
+      "text": "Quand les fondements sont renversés, que peut faire le juste? \""
+    },
+    {
+      "verse": 4,
+      "text": "Yahweh dans son saint temple, Yahweh, qui a son trône dans les cieux, a les yeux ouverts; ses paupières sondent les enfants des hommes."
+    },
+    {
+      "verse": 5,
+      "text": "Yahweh sonde le juste; il hait le méchant et celui qui se plaît à la violence."
+    },
+    {
+      "verse": 6,
+      "text": "Il fera pleuvoir sur les méchants des lacets, du feu et du soufre; un vent brûlant, voilà la coupe qu'ils auront en partage."
+    },
+    {
+      "verse": 7,
+      "text": "Car Yahweh est juste, il aime la justice; les hommes droits contempleront sa face."
+    }
+  ]
+}

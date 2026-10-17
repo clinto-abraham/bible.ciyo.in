@@ -1,0 +1,40 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Jeremiah",
+  "bookSlug": "jeremiah",
+  "nativeName": "Jeremiah",
+  "chapterNumber": 47,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Parole de Yahweh qui fut adressée à Jérémie, le prophète, au sujet des Philistins, avant que Pharaon frappât Gaza."
+    },
+    {
+      "verse": 2,
+      "text": "Ainsi parle Yahweh: Voici que des eaux montent du septentrion; elles deviennent comme un torrent qui déborde, et elles submergeront le pays et ce qu'il contient, la ville et habitants. Les hommes poussent des cris, et tous les habitants du pays se lamentent."
+    },
+    {
+      "verse": 3,
+      "text": "Au retentissement du sabot de ses coursiers, au fracas de ses chars, au bruit de ses roues, les pères ne se tournent plus vers leurs enfants, tant les mains sont sans force!"
+    },
+    {
+      "verse": 4,
+      "text": "C'est à cause du jour qui est venu, où seront détruits tous les Philistins, exterminés tous les derniers alliés de Tyr et de Sidon; car Yahweh va détruire les Philistins, les restes de l'île de Caphtor."
+    },
+    {
+      "verse": 5,
+      "text": "Gaza est devenue chauve, Ascalon est ruinée, avec la vallée qui les entoure; jusques à quand te feras-tu des incisions?"
+    },
+    {
+      "verse": 6,
+      "text": "Ah! épée de Yahweh, jusques à quand n'auras-tu pas de repos? Rentre dans ton fourreau, arrête et sois tranquille! —"
+    },
+    {
+      "verse": 7,
+      "text": "Comment te reposerais-tu, quand Yahweh t’a donné ses ordres? Vers Ascalon et la côte de la mer, c'est là qu’il la dirige."
+    }
+  ]
+}

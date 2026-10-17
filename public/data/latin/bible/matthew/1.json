@@ -1,0 +1,112 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Matthew",
+  "bookSlug": "matthew",
+  "nativeName": "Secundum Matthaeum",
+  "chapterNumber": 1,
+  "totalVerses": 25,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "liber generationis Iesu Christi filii David filii Abraham"
+    },
+    {
+      "verse": 2,
+      "text": "Abraham genuit Isaac Isaac autem genuit Iacob Iacob autem genuit Iudam et fratres eius"
+    },
+    {
+      "verse": 3,
+      "text": "Iudas autem genuit Phares et Zara de Thamar Phares autem genuit Esrom Esrom autem genuit Aram"
+    },
+    {
+      "verse": 4,
+      "text": "Aram autem genuit Aminadab Aminadab autem genuit Naasson Naasson autem genuit Salmon"
+    },
+    {
+      "verse": 5,
+      "text": "Salmon autem genuit Booz de Rachab Booz autem genuit Obed ex Ruth Obed autem genuit Iesse Iesse autem genuit David regem"
+    },
+    {
+      "verse": 6,
+      "text": "David autem rex genuit Salomonem ex ea quae fuit Uriae"
+    },
+    {
+      "verse": 7,
+      "text": "Salomon autem genuit Roboam Roboam autem genuit Abiam Abia autem genuit Asa"
+    },
+    {
+      "verse": 8,
+      "text": "Asa autem genuit Iosaphat Iosaphat autem genuit Ioram Ioram autem genuit Oziam"
+    },
+    {
+      "verse": 9,
+      "text": "Ozias autem genuit Ioatham Ioatham autem genuit Achaz Achaz autem genuit Ezechiam"
+    },
+    {
+      "verse": 10,
+      "text": "Ezechias autem genuit Manassen Manasses autem genuit Amon Amon autem genuit Iosiam"
+    },
+    {
+      "verse": 11,
+      "text": "Iosias autem genuit Iechoniam et fratres eius in transmigratione Babylonis"
+    },
+    {
+      "verse": 12,
+      "text": "et post transmigrationem Babylonis Iechonias genuit Salathihel Salathihel autem genuit Zorobabel"
+    },
+    {
+      "verse": 13,
+      "text": "Zorobabel autem genuit Abiud Abiud autem genuit Eliachim Eliachim autem genuit Azor"
+    },
+    {
+      "verse": 14,
+      "text": "Azor autem genuit Saddoc Saddoc autem genuit Achim Achim autem genuit Eliud"
+    },
+    {
+      "verse": 15,
+      "text": "Eliud autem genuit Eleazar Eleazar autem genuit Matthan Matthan autem genuit Iacob"
+    },
+    {
+      "verse": 16,
+      "text": "Iacob autem genuit Ioseph virum Mariae de qua natus est Iesus qui vocatur Christus"
+    },
+    {
+      "verse": 17,
+      "text": "omnes ergo generationes ab Abraham usque ad David generationes quattuordecim et a David usque ad transmigrationem Babylonis generationes quattuordecim et a transmigratione Babylonis usque ad Christum generationes quattuordecim"
+    },
+    {
+      "verse": 18,
+      "text": "Christi autem generatio sic erat cum esset desponsata mater eius Maria Ioseph antequam convenirent inventa est in utero habens de Spiritu Sancto"
+    },
+    {
+      "verse": 19,
+      "text": "Ioseph autem vir eius cum esset iustus et nollet eam traducere voluit occulte dimittere eam"
+    },
+    {
+      "verse": 20,
+      "text": "haec autem eo cogitante ecce angelus Domini in somnis apparuit ei dicens Ioseph fili David noli timere accipere Mariam coniugem tuam quod enim in ea natum est de Spiritu Sancto est"
+    },
+    {
+      "verse": 21,
+      "text": "pariet autem filium et vocabis nomen eius Iesum ipse enim salvum faciet populum suum a peccatis eorum"
+    },
+    {
+      "verse": 22,
+      "text": "hoc autem totum factum est ut adimpleretur id quod dictum est a Domino per prophetam dicentem"
+    },
+    {
+      "verse": 23,
+      "text": "ecce virgo in utero habebit et pariet filium et vocabunt nomen eius Emmanuhel quod est interpretatum Nobiscum Deus"
+    },
+    {
+      "verse": 24,
+      "text": "exsurgens autem Ioseph a somno fecit sicut praecepit ei angelus Domini et accepit coniugem suam"
+    },
+    {
+      "verse": 25,
+      "text": "et non cognoscebat eam donec peperit filium suum primogenitum et vocavit nomen eius Iesum"
+    }
+  ]
+}

@@ -1,0 +1,716 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 118,
+  "totalVerses": 176,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "alleluia aleph beati inmaculati in via qui ambulant in lege Domini aleph beati inmaculati in via qui ambulant in lege Domini"
+    },
+    {
+      "verse": 2,
+      "text": "beati qui scrutantur testimonia eius in toto corde exquirent eum beati qui custodiunt testimonia eius in toto corde requirunt eum"
+    },
+    {
+      "verse": 3,
+      "text": "non enim qui operantur iniquitatem in viis eius ambulaverunt nec enim qui operantur iniquitatem in viis eius ambulaverunt"
+    },
+    {
+      "verse": 4,
+      "text": "tu mandasti mandata tua custodire nimis tu mandasti praecepta tua custodire nimis"
+    },
+    {
+      "verse": 5,
+      "text": "utinam dirigantur viae meae ad custodiendas iustificationes tuas utinam dirigantur viae meae ad custodienda praecepta tua"
+    },
+    {
+      "verse": 6,
+      "text": "tunc non confundar cum perspexero in omnibus mandatis tuis tunc non confundar cum respexero ad omnia mandata tua"
+    },
+    {
+      "verse": 7,
+      "text": "confitebor tibi in directione cordis in eo quod didici iudicia iustitiae tuae confitebor tibi in directione cordis cum didicero iudicia iustitiae tuae"
+    },
+    {
+      "verse": 8,
+      "text": "iustificationes tuas custodiam non me derelinquas usquequaque praecepta tua custodiam ne derelinquas me nimis"
+    },
+    {
+      "verse": 9,
+      "text": "beth in quo corriget adulescentior viam suam in custodiendo sermones tuos beth in quo corrigit iuvenis semitam suam cum custodierit verba tua"
+    },
+    {
+      "verse": 10,
+      "text": "in toto corde meo exquisivi te non repellas me a mandatis tuis in toto corde meo exquisivi te ne errare me facias a mandatis tuis"
+    },
+    {
+      "verse": 11,
+      "text": "in corde meo abscondi eloquia tua ut non peccem tibi in corde meo abscondi eloquium tuum ut non peccem tibi"
+    },
+    {
+      "verse": 12,
+      "text": "benedictus es Domine doce me iustificationes tuas benedictus tu Domine doce me praecepta tua"
+    },
+    {
+      "verse": 13,
+      "text": "in labiis meis pronuntiavi omnia iudicia oris tui in labiis meis narravi omnes iustitias oris tui"
+    },
+    {
+      "verse": 14,
+      "text": "in via testimoniorum tuorum delectatus sum sicut in omnibus divitiis in via testimoniorum tuorum laetatus sum quasi in omnibus divitiis"
+    },
+    {
+      "verse": 15,
+      "text": "in mandatis tuis exercebor et considerabo vias tuas in praeceptis tuis meditabor et contemplabor semitas tuas"
+    },
+    {
+      "verse": 16,
+      "text": "in iustificationibus tuis meditabor non obliviscar sermones tuos iustitiis tuis delectabor non obliviscar verba tua"
+    },
+    {
+      "verse": 17,
+      "text": "gimel retribue servo tuo vivifica me et custodiam sermones tuos gimel tribue servo tuo vivam et custodiam verba tua"
+    },
+    {
+      "verse": 18,
+      "text": "revela oculos meos et considerabo mirabilia de lege tua revela oculos meos et videbo mirabilia in lege tua"
+    },
+    {
+      "verse": 19,
+      "text": "incola ego sum in terra non abscondas a me mandata tua advena ego sum in terra ne abscondas a me mandata tua"
+    },
+    {
+      "verse": 20,
+      "text": "concupivit anima mea desiderare iustificationes tuas in omni tempore desideravit anima mea desiderare iudicia tua in omni tempore"
+    },
+    {
+      "verse": 21,
+      "text": "increpasti superbos maledicti qui declinant a mandatis tuis increpasti superbos maledicti qui recedunt a mandatis tuis"
+    },
+    {
+      "verse": 22,
+      "text": "aufer a me obprobrium et contemptum quia testimonia tua exquisivi aufer a me obprobrium et contemptum quoniam testimonia tua custodivi"
+    },
+    {
+      "verse": 23,
+      "text": "etenim sederunt principes et adversum me loquebantur servus autem tuus exercebatur in iustificationibus tuis etenim sedentes principes adversum me loquebantur servus autem tuus meditabatur praecepta tua"
+    },
+    {
+      "verse": 24,
+      "text": "nam et testimonia tua meditatio mea et consilium meum iustificationes tuae sed et testimonia tua voluntas mea quasi viri amicissimi mei"
+    },
+    {
+      "verse": 25,
+      "text": "deleth adhesit pavimento anima mea vivifica me secundum verbum tuum deleth adhesit pulveri anima mea vivifica me iuxta verbum tuum"
+    },
+    {
+      "verse": 26,
+      "text": "vias meas enuntiavi et exaudisti me doce me iustificationes tuas vias meas exposui et exaudisti doce me iustitiam tuam"
+    },
+    {
+      "verse": 27,
+      "text": "viam iustificationum tuarum instrue me et exercebor in mirabilibus tuis viam praeceptorum tuorum fac me intellegere et loquar in mirabilibus tuis"
+    },
+    {
+      "verse": 28,
+      "text": "dormitavit anima mea prae taedio confirma me in verbis tuis destillavit anima mea prae stultitia serva me iuxta eloquium tuum"
+    },
+    {
+      "verse": 29,
+      "text": "viam iniquitatis amove a me et lege tua miserere mei viam mendacii aufer a me et legem tuam dona mihi"
+    },
+    {
+      "verse": 30,
+      "text": "viam veritatis elegi iudicia tua non sum oblitus viam fidei elegi iudicia tua proponebam"
+    },
+    {
+      "verse": 31,
+      "text": "adhesi testimoniis tuis Domine noli me confundere adhesi testimoniis tuis Domine ne confundas me"
+    },
+    {
+      "verse": 32,
+      "text": "viam mandatorum tuorum cucurri cum dilatasti cor meum viam mandatorum tuorum curram quoniam dilatasti cor meum"
+    },
+    {
+      "verse": 33,
+      "text": "he legem pone mihi Domine viam iustificationum tuarum et exquiram eam semper he ostende mihi Domine viam praeceptorum tuorum et custodiam eam per vestigium"
+    },
+    {
+      "verse": 34,
+      "text": "da mihi intellectum et scrutabor legem tuam et custodiam illam in toto corde meo doce me et observabo legem tuam et custodiam eam in toto corde"
+    },
+    {
+      "verse": 35,
+      "text": "deduc me in semita mandatorum tuorum quia ipsam volui deduc me in semita mandatorum tuorum quia ipsam volui"
+    },
+    {
+      "verse": 36,
+      "text": "inclina cor meum in testimonia tua et non in avaritiam inclina cor meum ad testimonia tua et non ad avaritiam"
+    },
+    {
+      "verse": 37,
+      "text": "averte oculos meos ne videant vanitatem in via tua vivifica me averte oculos meos ne videant vanitatem in via tua vivifica me"
+    },
+    {
+      "verse": 38,
+      "text": "statue servo tuo eloquium tuum in timore tuo suscita servo tuo eloquium tuum in timorem tuum"
+    },
+    {
+      "verse": 39,
+      "text": "amputa obprobrium meum quod suspicatus sum quia iudicia tua iucunda averte obprobrium meum quod reveritus sum iudicia tua bona"
+    },
+    {
+      "verse": 40,
+      "text": "ecce concupivi mandata tua in aequitate tua vivifica me ecce desideravi praecepta tua iustitia tua vivifica me"
+    },
+    {
+      "verse": 41,
+      "text": "vav et veniat super me misericordia tua Domine salutare tuum secundum eloquium tuum vav et veniant mihi misericordiae tuae Domine et salus tua iuxta eloquium tuum"
+    },
+    {
+      "verse": 42,
+      "text": "et respondebo exprobrantibus mihi verbum quia speravi in sermonibus tuis et respondebo exprobranti mihi sermonem quia speravi in sermone tuo"
+    },
+    {
+      "verse": 43,
+      "text": "et ne auferas de ore meo verbum veritatis usquequaque quia in iudiciis tuis supersperavi et ne auferas de ore meo verbum veritatis usque nimis quoniam iudicia tua expectavi"
+    },
+    {
+      "verse": 44,
+      "text": "et custodiam legem tuam semper in saeculum et in saeculum saeculi et custodiam legem tuam iugiter in sempiternum et ultra"
+    },
+    {
+      "verse": 45,
+      "text": "et ambulabam in latitudine quia mandata tua exquisivi et ambulabo in spatioso quia praecepta tua quaesivi"
+    },
+    {
+      "verse": 46,
+      "text": "et loquebar in testimoniis tuis in conspectu regum et non confundebar et loquar in testimoniis tuis coram regibus et non confundar"
+    },
+    {
+      "verse": 47,
+      "text": "et meditabar in mandatis tuis quae dilexi et delectabor in mandatis tuis quae dilexi"
+    },
+    {
+      "verse": 48,
+      "text": "et levavi manus meas ad mandata quae dilexi et exercebar in iustificationibus tuis et levabo manus meas ad mandata tua quae dilexi et loquar in praeceptis tuis"
+    },
+    {
+      "verse": 49,
+      "text": "zai memor esto verbi tui servo tuo in quo mihi spem dedisti zai memento sermonis servo tuo quem me sperare fecisti"
+    },
+    {
+      "verse": 50,
+      "text": "haec me consolata est in humilitate mea quia eloquium tuum vivificavit me haec est consolatio mea in adflictione mea quia eloquium tuum vivificavit me"
+    },
+    {
+      "verse": 51,
+      "text": "superbi inique agebant usquequaque a lege autem tua non declinavi superbi deridebant me nimis a lege tua non declinavi"
+    },
+    {
+      "verse": 52,
+      "text": "memor fui iudiciorum tuorum a saeculo Domine et consolatus sum recordatus sum iudiciorum tuorum a saeculo Domine et consolatus sum"
+    },
+    {
+      "verse": 53,
+      "text": "defectio tenuit me prae peccatoribus derelinquentibus legem tuam horror obtinuit me ab impiis qui dereliquerunt legem tuam"
+    },
+    {
+      "verse": 54,
+      "text": "cantabiles mihi erant iustificationes tuae in loco peregrinationis meae carmina erant mihi praecepta tua in domo peregrinationis meae"
+    },
+    {
+      "verse": 55,
+      "text": "memor fui in nocte nominis tui Domine et custodivi legem tuam recordatus sum in nocte nominis tui Domine et custodivi legem tuam"
+    },
+    {
+      "verse": 56,
+      "text": "haec facta est mihi quia iustificationes tuas exquisivi hoc factum est mihi quia praecepta tua custodivi"
+    },
+    {
+      "verse": 57,
+      "text": "heth portio mea Dominus dixi custodire legem tuam heth pars mea Domine dixi ut custodiam verbum tuum"
+    },
+    {
+      "verse": 58,
+      "text": "deprecatus sum faciem tuam in toto corde meo miserere mei secundum eloquium tuum deprecatus sum vultum tuum in toto corde miserere mei secundum eloquium tuum"
+    },
+    {
+      "verse": 59,
+      "text": "cogitavi vias meas et avertisti pedes meos in testimonia tua recogitavi vias meas et converti pedes meos ad testimonia tua"
+    },
+    {
+      "verse": 60,
+      "text": "paratus sum et non sum turbatus ut custodiam mandata tua festinavi et non neglexi custodire mandata tua"
+    },
+    {
+      "verse": 61,
+      "text": "funes peccatorum circumplexi sunt me et legem tuam non sum oblitus funes impiorum inplicaverunt me legem tuam non sum oblitus"
+    },
+    {
+      "verse": 62,
+      "text": "media nocte surgebam ad confitendum tibi super iudicia iustificationis tuae medio noctis surgam ad confitendum tibi super iudicia iustificationis tuae"
+    },
+    {
+      "verse": 63,
+      "text": "particeps ego sum omnium timentium te et custodientium mandata tua particeps ego sum omnium timentium te et custodientium praecepta tua"
+    },
+    {
+      "verse": 64,
+      "text": "misericordia Domini plena est terra iustificationes tuas doce me misericordia tua conpleta est terra praecepta tua doce me"
+    },
+    {
+      "verse": 65,
+      "text": "teth bonitatem fecisti cum servo tuo Domine secundum verbum tuum teth benefecisti servo tuo Domine secundum verbum tuum"
+    },
+    {
+      "verse": 66,
+      "text": "bonitatem et disciplinam et scientiam doce me quia mandatis tuis credidi bonum sermonem et scientiam doce me quia mandatis tuis credidi"
+    },
+    {
+      "verse": 67,
+      "text": "priusquam humiliarer ego deliqui propterea eloquium tuum custodivi antequam audirem ego ignoravi nunc autem eloquium tuum custodivi"
+    },
+    {
+      "verse": 68,
+      "text": "bonus es tu et in bonitate tua doce me iustificationes tuas bonus tu et beneficus doce me praecepta tua"
+    },
+    {
+      "verse": 69,
+      "text": "multiplicata est super me iniquitas superborum ego autem in toto corde scrutabor mandata tua adplicabant mihi mendacium superbi ego autem in toto corde servabam praecepta tua"
+    },
+    {
+      "verse": 70,
+      "text": "coagulatum est sicut lac cor eorum ego vero legem tuam meditatus sum incrassatum est velut adeps cor eorum et ego in lege tua delectabar"
+    },
+    {
+      "verse": 71,
+      "text": "bonum mihi quia humiliasti me ut discam iustificationes tuas bonum mihi quia adflictus sum ut discerem praecepta tua"
+    },
+    {
+      "verse": 72,
+      "text": "bonum mihi lex oris tui super milia auri et argenti melior mihi est lex oris tui super milia auri et argenti"
+    },
+    {
+      "verse": 73,
+      "text": "ioth manus tuae fecerunt me et plasmaverunt me da mihi intellectum et discam mandata tua ioth manus tuae fecerunt me et firmaverunt me doce me et discam mandata tua"
+    },
+    {
+      "verse": 74,
+      "text": "qui timent te videbunt me et laetabuntur quia in verba tua supersperavi qui timent te videbunt me et laetabuntur quia sermonem tuum expectavi"
+    },
+    {
+      "verse": 75,
+      "text": "cognovi Domine quia aequitas iudicia tua et veritate humiliasti me scio Domine quia iustum iudicium tuum et vere adflixisti me"
+    },
+    {
+      "verse": 76,
+      "text": "fiat misericordia tua ut consoletur me secundum eloquium tuum servo tuo sit obsecro misericordia tua in consolatione mea sicut locutus es servo tuo"
+    },
+    {
+      "verse": 77,
+      "text": "veniant mihi miserationes tuae et vivam quia lex tua meditatio mea est veniant mihi misericordiae tuae et vivam quia lex tua delectatio mea"
+    },
+    {
+      "verse": 78,
+      "text": "confundantur superbi quia iniuste iniquitatem fecerunt in me ego autem exercebor in mandatis tuis confundantur superbi quoniam inique contriverunt me ego autem loquar in praeceptis tuis"
+    },
+    {
+      "verse": 79,
+      "text": "convertantur mihi timentes te et qui noverunt testimonia tua revertantur ad me qui timent te et qui sciunt testimonium tuum"
+    },
+    {
+      "verse": 80,
+      "text": "fiat cor meum inmaculatum in iustificationibus tuis ut non confundar fiat cor meum perfectum in praeceptis tuis ut non confundar"
+    },
+    {
+      "verse": 81,
+      "text": "caf defecit in salutare tuum anima mea in verbum tuum supersperavi caph defecit in salutare tuum anima mea verbum tuum expectavi"
+    },
+    {
+      "verse": 82,
+      "text": "defecerunt oculi mei in eloquium tuum dicentes quando consolaberis me consumpti sunt oculi mei in verbum tuum dicentes quando consolaberis me"
+    },
+    {
+      "verse": 83,
+      "text": "quia factus sum sicut uter in pruina iustificationes tuas non sum oblitus et cum essem quasi uter in pruinam praecepta tua non sum oblitus"
+    },
+    {
+      "verse": 84,
+      "text": "quot sunt dies servo tuo quando facies de persequentibus me iudicium quot sunt dies servi tui quando facies in persequentibus me iudicium"
+    },
+    {
+      "verse": 85,
+      "text": "narraverunt mihi iniqui fabulationes sed non ut lex tua foderunt mihi superbi foveas quae non erant iuxta legem tuam"
+    },
+    {
+      "verse": 86,
+      "text": "omnia mandata tua veritas inique persecuti sunt me adiuva me omnia mandata tua vera falso persecuti sunt me auxiliare mihi"
+    },
+    {
+      "verse": 87,
+      "text": "paulo minus consummaverunt me in terra ego autem non dereliqui mandata tua paulo minus consumpserunt me in terra ego autem non dimisi praecepta tua"
+    },
+    {
+      "verse": 88,
+      "text": "secundum misericordiam tuam vivifica me et custodiam testimonia oris tui secundum misericordiam tuam vivifica me et custodiam testimonium oris tui"
+    },
+    {
+      "verse": 89,
+      "text": "lamed in aeternum Domine verbum tuum permanet in caelo lameth in aeternum Domine verbum tuum perstat in caelo"
+    },
+    {
+      "verse": 90,
+      "text": "in generationem et generationem veritas tua fundasti terram et permanet in generatione et generatione fides tua fundasti terram et stat"
+    },
+    {
+      "verse": 91,
+      "text": "ordinatione tua perseverat dies quoniam omnia serviunt tibi iudicio tuo stant usque hodie quia omnia serviunt tibi"
+    },
+    {
+      "verse": 92,
+      "text": "nisi quod lex tua meditatio mea est tunc forte perissem in humilitate mea nisi quod lex tua delectatio mea forte perissem in pressura mea"
+    },
+    {
+      "verse": 93,
+      "text": "in aeternum non obliviscar iustificationes tuas quia in ipsis vivificasti me in sempiternum non obliviscar praeceptorum tuorum quia per ipsa vivificasti me"
+    },
+    {
+      "verse": 94,
+      "text": "tuus sum ego salvum me fac quoniam iustificationes tuas exquisivi tuus ego sum salva me quoniam praecepta tua quaesivi"
+    },
+    {
+      "verse": 95,
+      "text": "me expectaverunt peccatores ut perderent me testimonia tua intellexi me expectaverunt impii ut perderent me testimonium tuum considerabo"
+    },
+    {
+      "verse": 96,
+      "text": "omni consummationi vidi finem latum mandatum tuum nimis omni consummationi vidi finem latum mandatum tuum nimis"
+    },
+    {
+      "verse": 97,
+      "text": "mem quomodo dilexi legem tuam tota die meditatio mea est mem quam dilexi legem tuam tota die haec meditatio mea"
+    },
+    {
+      "verse": 98,
+      "text": "super inimicos meos prudentem me fecisti mandato tuo quia in aeternum mihi est super inimicos meos instruis me mandata tua quia in sempiternum hoc est mihi"
+    },
+    {
+      "verse": 99,
+      "text": "super omnes docentes me intellexi quia testimonia tua meditatio mea est super omnes qui docebant me eruditus sum quia testimonia tua meditatio mea"
+    },
+    {
+      "verse": 100,
+      "text": "super senes intellexi quia mandata tua quaesivi super senes intellexi quia praecepta tua servavi"
+    },
+    {
+      "verse": 101,
+      "text": "ab omni via mala prohibui pedes meos ut custodiam verba tua ab omni semita mala prohibui pedes meos ut custodirem verba tua"
+    },
+    {
+      "verse": 102,
+      "text": "a iudiciis tuis non declinavi quia tu legem posuisti mihi a iudiciis tuis non recessi quia tu inluminasti me"
+    },
+    {
+      "verse": 103,
+      "text": "quam dulcia faucibus meis eloquia tua super mel ori meo quam dulce gutturi meo eloquium tuum super mel ori meo"
+    },
+    {
+      "verse": 104,
+      "text": "a mandatis tuis intellexi propterea odivi omnem viam iniquitatis praecepta tua considerabam propterea odivi omnem semitam mendacii"
+    },
+    {
+      "verse": 105,
+      "text": "nun lucerna pedibus meis verbum tuum et lumen semitis meis nun lucerna pedi meo verbum tuum et lux semitae meae"
+    },
+    {
+      "verse": 106,
+      "text": "iuravi et statui custodire iudicia iustitiae tuae iuravi et perseverabo ut custodiam iudicia iustitiae tuae"
+    },
+    {
+      "verse": 107,
+      "text": "humiliatus sum usquequaque Domine vivifica me secundum verbum tuum adflictus sum usque nimis Domine vivifica me iuxta verbum tuum"
+    },
+    {
+      "verse": 108,
+      "text": "voluntaria oris mei beneplacita fac Domine et iudicia tua doce me voluntaria oris mei conplaceant tibi Domine et secundum iudicia tua doce me"
+    },
+    {
+      "verse": 109,
+      "text": "anima mea in manibus meis semper et legem tuam non sum oblitus anima mea in manu mea semper et legis tuae non sum oblitus"
+    },
+    {
+      "verse": 110,
+      "text": "posuerunt peccatores laqueum mihi et de mandatis tuis non erravi posuerunt impii laqueum mihi et a praeceptis tuis non aberravi"
+    },
+    {
+      "verse": 111,
+      "text": "hereditate adquisivi testimonia tua in aeternum quia exultatio cordis mei sunt hereditas mea testimonia tua in sempiternum quia gaudium cordis mei sunt"
+    },
+    {
+      "verse": 112,
+      "text": "inclinavi cor meum ad faciendas iustificationes tuas in aeternum propter retributionem inclinavi cor meum ut facerem iustitias tuas propter aeternam retributionem"
+    },
+    {
+      "verse": 113,
+      "text": "samech iniquos odio habui et legem tuam dilexi samech tumultuosos odivi et legem tuam dilexi"
+    },
+    {
+      "verse": 114,
+      "text": "adiutor meus et susceptor meus es tu in verbum tuum supersperavi protectio mea et scutum meum tu es verbum tuum expectavi"
+    },
+    {
+      "verse": 115,
+      "text": "declinate a me maligni et scrutabor mandata Dei mei recedite a me maligni et custodiam mandata Dei mei"
+    },
+    {
+      "verse": 116,
+      "text": "suscipe me secundum eloquium tuum et vivam et non confundas me ab expectatione mea confirma me secundum verbum tuum et vivam et noli me confundere ab expectatione mea"
+    },
+    {
+      "verse": 117,
+      "text": "adiuva me et salvus ero et meditabor in iustificationibus tuis semper auxiliare mihi et salvus ero et delectabor in praeceptis tuis iugiter"
+    },
+    {
+      "verse": 118,
+      "text": "sprevisti omnes discedentes a iustitiis tuis quia iniusta cogitatio eorum abiecisti omnes qui adversantur praecepta tua quia mendax cogitatio eorum"
+    },
+    {
+      "verse": 119,
+      "text": "praevaricantes reputavi omnes peccatores terrae ideo dilexi testimonia tua quasi scoriam conputasti omnes impios terrae propterea dilexi testimonia tua"
+    },
+    {
+      "verse": 120,
+      "text": "confige timore tuo carnes meas a iudiciis enim tuis timui horripilavit a timore tuo caro mea et iudicia tua timui"
+    },
+    {
+      "verse": 121,
+      "text": "ain feci iudicium et iustitiam non tradas me calumniantibus me ain feci iudicium et iustitiam ne derelinquas me his qui calumniantur me"
+    },
+    {
+      "verse": 122,
+      "text": "suscipe servum tuum in bonum non calumnientur me superbi sponde pro servo tuo in bonum ne calumnientur me superbi"
+    },
+    {
+      "verse": 123,
+      "text": "oculi mei defecerunt in salutare tuum et in eloquium iustitiae tuae oculi mei defecerunt in salutare tuum et in eloquium iustitiae tuae"
+    },
+    {
+      "verse": 124,
+      "text": "fac cum servo tuo secundum misericordiam tuam et iustificationes tuas doce me fac cum servo tuo iuxta misericordiam tuam et praecepta tua doce me"
+    },
+    {
+      "verse": 125,
+      "text": "servus tuus sum ego da mihi intellectum et sciam testimonia tua servus tuus ego instrue me et cognoscam testimonia tua"
+    },
+    {
+      "verse": 126,
+      "text": "tempus faciendi Domino dissipaverunt legem tuam tempus est ut facias Domine praevaricati sunt legem tuam"
+    },
+    {
+      "verse": 127,
+      "text": "ideo dilexi mandata tua super aurum et topazion propterea dilexi mandata tua super aurum et topazium"
+    },
+    {
+      "verse": 128,
+      "text": "propterea ad omnia mandata tua dirigebar omnem viam iniquam odio habui propterea in universa praecepta direxi omnem semitam mendacii odio habui"
+    },
+    {
+      "verse": 129,
+      "text": "fe mirabilia testimonia tua ideo scrutata est ea anima mea fe mirabilia testimonia tua idcirco custodivit ea anima mea"
+    },
+    {
+      "verse": 130,
+      "text": "declaratio sermonum tuorum inluminat et intellectum dat parvulis ostium sermonum tuorum lucidum doce parvulos"
+    },
+    {
+      "verse": 131,
+      "text": "os meum aperui et adtraxi spiritum quia mandata tua desiderabam os meum aperui et respiravi quia mandata tua desiderabam"
+    },
+    {
+      "verse": 132,
+      "text": "aspice in me et miserere mei secundum iudicium diligentium nomen tuum respice ad me et miserere mei iuxta iudicium diligentium nomen tuum"
+    },
+    {
+      "verse": 133,
+      "text": "gressus meos dirige secundum eloquium tuum et non dominetur mei omnis iniustitia gressus meos firma in sermone tuo et non des potestatem in me universae iniquitati"
+    },
+    {
+      "verse": 134,
+      "text": "redime me a calumniis hominum et custodiam mandata tua redime me a calumnia hominis et custodiam praecepta tua"
+    },
+    {
+      "verse": 135,
+      "text": "faciem tuam inlumina super servum tuum et doce me iustificationes tuas vultum tuum ostende servo tuo et doce me praecepta tua"
+    },
+    {
+      "verse": 136,
+      "text": "exitus aquarum deduxerunt oculi mei quia non custodierunt legem tuam rivi aquarum fluebant de oculis meis quia non custodierunt legem tuam"
+    },
+    {
+      "verse": 137,
+      "text": "sade iustus es Domine et rectum iudicium tuum sade iustus es Domine et rectum iudicium tuum"
+    },
+    {
+      "verse": 138,
+      "text": "mandasti iustitiam testimonia tua et veritatem tuam nimis praecepisti iustitiam testimonii tui et veritatem nimis"
+    },
+    {
+      "verse": 139,
+      "text": "tabescere me fecit zelus meus quia obliti sunt verba tua inimici mei consumpsit me zelus meus quia obliti sunt verborum tuorum hostes mei"
+    },
+    {
+      "verse": 140,
+      "text": "ignitum eloquium tuum vehementer et servus tuus dilexit illud probatus sermo tuus nimis et servus tuus dilexit illum"
+    },
+    {
+      "verse": 141,
+      "text": "adulescentulus sum ego et contemptus iustificationes tuas non sum oblitus parvulus ego sum et contemptibilis sed praecepta tua non sum oblitus"
+    },
+    {
+      "verse": 142,
+      "text": "iustitia tua iustitia in aeternum et lex tua veritas iustitia tua iustitia sempiterna et lex tua veritas"
+    },
+    {
+      "verse": 143,
+      "text": "tribulatio et angustia invenerunt me mandata tua meditatio mea tribulatio et angustia invenerunt me mandata tua voluntas mea"
+    },
+    {
+      "verse": 144,
+      "text": "aequitas testimonia tua in aeternum intellectum da mihi et vivam iusta testimonia tua semper doce me et vivam"
+    },
+    {
+      "verse": 145,
+      "text": "cof clamavi in toto corde exaudi me Domine iustificationes tuas requiram coph clamavi in toto corde exaudi me Domine praecepta tua custodiam"
+    },
+    {
+      "verse": 146,
+      "text": "clamavi te salvum me fac et custodiam mandata tua invocavi te salvum me fac et custodiam testimonia tua"
+    },
+    {
+      "verse": 147,
+      "text": "praeveni in maturitate et clamavi in verba tua supersperavi surgebam adhuc in tenebris et clamabam verbum tuum expectans"
+    },
+    {
+      "verse": 148,
+      "text": "praevenerunt oculi mei ad diluculum ut meditarer eloquia tua praeveniebant oculi mei vigilias ut meditarer in sermonibus tuis"
+    },
+    {
+      "verse": 149,
+      "text": "vocem meam audi secundum misericordiam tuam Domine secundum iudicium tuum vivifica me vocem meam audi iuxta misericordiam tuam Domine secundum iudicium tuum vivifica me"
+    },
+    {
+      "verse": 150,
+      "text": "adpropinquaverunt persequentes me iniquitate a lege autem tua longe facti sunt adpropinquaverunt persecutores mei sceleri et a lege tua procul facti sunt"
+    },
+    {
+      "verse": 151,
+      "text": "prope es tu Domine et omnes viae tuae veritas prope es tu Domine et omnia mandata tua veritas"
+    },
+    {
+      "verse": 152,
+      "text": "initio cognovi de testimoniis tuis quia in aeternum fundasti ea a principio novi de testimoniis tuis quod in aeternum fundaveris ea"
+    },
+    {
+      "verse": 153,
+      "text": "res vide humilitatem meam et eripe me quia legem tuam non sum oblitus res vide adflictionem meam et eripe me quia legis tuae non sum oblitus"
+    },
+    {
+      "verse": 154,
+      "text": "iudica iudicium meum et redime me propter eloquium tuum vivifica me iudica causam meam et redime me sermone tuo vivifica me"
+    },
+    {
+      "verse": 155,
+      "text": "longe a peccatoribus salus quia iustificationes tuas non exquisierunt longe ab impiis salus quia praecepta tua non quaesierunt"
+    },
+    {
+      "verse": 156,
+      "text": "misericordiae tuae multae Domine secundum iudicia tua vivifica me misericordiae tuae multae Domine iuxta iudicia tua vivifica me"
+    },
+    {
+      "verse": 157,
+      "text": "multi qui persequuntur me et tribulant me a testimoniis tuis non declinavi multi qui persequuntur me et adfligunt me a testimoniis tuis non declinavi"
+    },
+    {
+      "verse": 158,
+      "text": "vidi praevaricantes et tabescebam quia eloquia tua non custodierunt vidi praevaricatores tuos et maerebam qui verbum tuum non custodierunt"
+    },
+    {
+      "verse": 159,
+      "text": "vide quoniam mandata tua dilexi Domine in misericordia tua vivifica me vide quoniam praecepta tua dilexi Domine iuxta misericordiam tuam vivifica me"
+    },
+    {
+      "verse": 160,
+      "text": "principium verborum tuorum veritas et in aeternum omnia iudicia iustitiae tuae caput verborum tuorum veritas et sempiternum omne iudicium iustitiae tuae"
+    },
+    {
+      "verse": 161,
+      "text": "sen principes persecuti sunt me gratis et a verbis tuis formidavit cor meum sen principes persecuti sunt me sine causa verba autem tua timuit cor meum"
+    },
+    {
+      "verse": 162,
+      "text": "laetabor ego super eloquia tua sicut qui invenit spolia multa gaudens ego sum in eloquio tuo sicut qui invenit spolia multa"
+    },
+    {
+      "verse": 163,
+      "text": "iniquitatem odio habui et abominatus sum legem autem tuam dilexi mendacium odio habui et detestatus sum legem autem tuam dilexi"
+    },
+    {
+      "verse": 164,
+      "text": "septies in die laudem dixi tibi super iudicia iustitiae tuae septies in die laudavi te super iudiciis iustitiae tuae"
+    },
+    {
+      "verse": 165,
+      "text": "pax multa diligentibus legem tuam et non est illis scandalum pax multa diligentibus legem tuam et non est illis scandalum"
+    },
+    {
+      "verse": 166,
+      "text": "expectabam salutare tuum Domine et mandata tua dilexi expectavi salutare tuum Domine et mandata tua feci"
+    },
+    {
+      "verse": 167,
+      "text": "custodivit anima mea testimonia tua et dilexi ea vehementer custodivit anima mea testimonia tua et dilexi ea nimis"
+    },
+    {
+      "verse": 168,
+      "text": "servavi mandata tua et testimonia tua quia omnes viae meae in conspectu tuo custodivi praecepta tua et testimonia tua quia omnes viae meae in conspectu tuo"
+    },
+    {
+      "verse": 169,
+      "text": "thau adpropinquet deprecatio mea in conspectu tuo Domine iuxta eloquium tuum da mihi intellectum thau ingrediatur laus mea coram te Domine secundum verbum tuum doce me"
+    },
+    {
+      "verse": 170,
+      "text": "intret postulatio mea in conspectu tuo secundum eloquium tuum eripe me veniat deprecatio mea ante vultum tuum secundum eloquium tuum libera me"
+    },
+    {
+      "verse": 171,
+      "text": "eructabunt labia mea hymnum cum docueris me iustificationes tuas fundant labia mea hymnum docebis enim me praecepta tua"
+    },
+    {
+      "verse": 172,
+      "text": "pronuntiabit lingua mea eloquium tuum quia omnia mandata tua aequitas loquetur lingua mea sermonem tuum quia omnia mandata tua iusta"
+    },
+    {
+      "verse": 173,
+      "text": "fiat manus tua ut salvet me quoniam mandata tua elegi sit manus tua auxiliatrix mea quia praecepta tua elegi"
+    },
+    {
+      "verse": 174,
+      "text": "concupivi salutare tuum Domine et lex tua meditatio mea desideravi salutare tuum Domine et lex tua voluntas mea"
+    },
+    {
+      "verse": 175,
+      "text": "vivet anima mea et laudabit te et iudicia tua adiuvabunt me vivet anima mea et laudabit te et iudicia tua auxiliabuntur mihi"
+    },
+    {
+      "verse": 176,
+      "text": "erravi sicut ovis quae periit quaere servum tuum quia mandata tua non sum oblitus erravi quasi ovis perdita quaere servum tuum quia mandatorum tuorum non sum oblitus"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "translation": "KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords",
+  "language": "english",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 134,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A Song of degrees. Behold, bless ye the Lord, all ye servants of the Lord, which by night stand in the house of the Lord."
+    },
+    {
+      "verse": 2,
+      "text": "Lift up your hands in the sanctuary, and bless the Lord."
+    },
+    {
+      "verse": 3,
+      "text": "The Lord that made heaven and earth bless thee out of Zion."
+    }
+  ]
+}

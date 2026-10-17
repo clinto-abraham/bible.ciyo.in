@@ -1,0 +1,32 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 127,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cantique des montées. De Salomon. Si Yahweh ne bâtit pas la maison, en vain travaillent ceux qui la bâtissent; si Yahweh ne garde pas la cité, en vain la sentinelle veille à ses portes."
+    },
+    {
+      "verse": 2,
+      "text": "C'est en vain que vous vous levez avant le jour, et que vous retardez votre repos, mangeant le pain de la douleur: il en donne autant à son bien-aimé pendant son sommeil."
+    },
+    {
+      "verse": 3,
+      "text": "Voici, c'est un héritage de Yahweh, que les enfants; une récompense, que les fruits d'un sein fécond."
+    },
+    {
+      "verse": 4,
+      "text": "Comme les flèches dans la main d'un guerrier, ainsi sont les fils de la jeunesse."
+    },
+    {
+      "verse": 5,
+      "text": "Heureux l'homme qui en a rempli son carquois! Ils ne rougiront pas quand ils répondront aux ennemis, à la porte de la ville."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Zephaniah",
+  "bookSlug": "zephaniah",
+  "nativeName": "Zephaniah",
+  "chapterNumber": 2,
+  "totalVerses": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "convenite congregamini gens non amabilis"
+    },
+    {
+      "verse": 2,
+      "text": "priusquam pariat iussio quasi pulverem transeuntem diem antequam veniat super vos ira furoris Domini antequam veniat super vos dies furoris Domini"
+    },
+    {
+      "verse": 3,
+      "text": "quaerite Dominum omnes mansueti terrae qui iudicium eius estis operati quaerite iustum quaerite mansuetum si quo modo abscondamini in die furoris Domini"
+    },
+    {
+      "verse": 4,
+      "text": "quia Gaza destructa erit et Ascalon in desertum Azotum in meridie eicient et Accaron eradicabitur"
+    },
+    {
+      "verse": 5,
+      "text": "vae qui habitatis funiculum maris gens perditorum verbum Domini super vos Chanaan terra Philisthinorum et disperdam te ita ut non sit inhabitator"
+    },
+    {
+      "verse": 6,
+      "text": "et erit funiculus maris requies pastorum et caulae pecorum"
+    },
+    {
+      "verse": 7,
+      "text": "et erit funiculus eius qui remanserit de domo Iuda ibi pascentur in domibus Ascalonis ad vesperam requiescent quia visitabit eos Dominus Deus eorum et avertet captivitatem eorum"
+    },
+    {
+      "verse": 8,
+      "text": "audivi obprobrium Moab et blasphemias filiorum Ammon quae exprobraverunt populo meo et magnificati sunt super terminos eorum"
+    },
+    {
+      "verse": 9,
+      "text": "propterea vivo ego dicit Dominus exercituum Deus Israhel quia Moab ut Sodoma erit et filii Ammon quasi Gomorra siccitas spinarum et acervi salis et desertum usque in aeternum reliquiae populi mei diripient illos residui gentis meae possidebunt eos"
+    },
+    {
+      "verse": 10,
+      "text": "hoc eis eveniet pro superbia sua quia blasphemaverunt et magnificati sunt super populum Domini exercituum"
+    },
+    {
+      "verse": 11,
+      "text": "horribilis Dominus super eos et adtenuabit omnes deos terrae et adorabunt eum vir de loco suo omnes insulae gentium"
+    },
+    {
+      "verse": 12,
+      "text": "sed et vos Aethiopes interfecti gladio meo eritis"
+    },
+    {
+      "verse": 13,
+      "text": "et extendet manum suam super aquilonem et perdet Assur et ponet speciosam in solitudinem et in invium et quasi desertum"
+    },
+    {
+      "verse": 14,
+      "text": "et accubabunt in medio eius greges omnes bestiae gentium et onocrotalus et ericius in liminibus eius morabuntur vox cantantis in fenestra corvus in superliminari quoniam adtenuabo robur eius"
+    },
+    {
+      "verse": 15,
+      "text": "haec est civitas gloriosa habitans in confidentia quae dicebat in corde suo ego sum et extra me non est alia amplius quomodo facta est in desertum cubile bestiae omnis qui transit per eam sibilabit et movebit manum suam"
+    }
+  ]
+}

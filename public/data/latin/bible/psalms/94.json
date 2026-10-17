@@ -1,0 +1,56 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 94,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "laus cantici David venite exultemus Domino iubilemus Deo salutari nostro venite laudemus Dominum iubilemus petrae Iesu nostro"
+    },
+    {
+      "verse": 2,
+      "text": "praeoccupemus faciem eius in confessione et in psalmis iubilemus ei praeoccupemus vultum eius in actione gratiarum in canticis iubilemus ei"
+    },
+    {
+      "verse": 3,
+      "text": "quoniam Deus magnus Dominus et rex magnus super omnes deos quoniam fortis et magnus Dominus et rex magnus super omnes deos"
+    },
+    {
+      "verse": 4,
+      "text": "quia in manu eius fines terrae et altitudines montium ipsius sunt in cuius manu fundamenta terrae et excelsa montium ipsius sunt"
+    },
+    {
+      "verse": 5,
+      "text": "quoniam ipsius est mare et ipse fecit illud et siccam manus eius formaverunt cuius est mare ipse enim fecit illud et siccam manus eius plasmaverunt"
+    },
+    {
+      "verse": 6,
+      "text": "venite adoremus et procidamus et ploremus ante Dominum qui fecit nos venite adoremus et curvemur flectamus genua ante faciem Domini factoris nostri"
+    },
+    {
+      "verse": 7,
+      "text": "quia ipse est Deus noster et nos populus pascuae eius et oves manus eius quia ipse est Deus noster et nos populus pascuae eius et grex manus eius"
+    },
+    {
+      "verse": 8,
+      "text": "hodie si vocem eius audieritis nolite obdurare corda vestra hodie si vocem eius audieritis nolite indurare corda vestra"
+    },
+    {
+      "verse": 9,
+      "text": "sicut in inritatione secundum diem temptationis in deserto ubi temptaverunt me patres vestri probaverunt *me; et viderunt opera mea sicut in contradictione sicut in die temptationis in deserto ubi temptaverunt me patres vestri probaverunt me et viderunt opus meum"
+    },
+    {
+      "verse": 10,
+      "text": "quadraginta annis offensus fui generationi illi et dixi semper errant corde quadraginta annis displicuit mihi generatio illa et dixi populus errans corde est"
+    },
+    {
+      "verse": 11,
+      "text": "et isti non cognoverunt vias meas ut iuravi in ira mea si intrabunt in requiem meam et non cognoscens vias meas et iuravi in furore meo ut non introirent in requiem meam"
+    }
+  ]
+}

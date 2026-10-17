@@ -1,0 +1,60 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Hosea",
+  "bookSlug": "hosea",
+  "nativeName": "Hosea",
+  "chapterNumber": 11,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "sicuti mane transit pertransiit rex Israhel quia puer Israhel et dilexi eum et ex Aegypto vocavi filium meum"
+    },
+    {
+      "verse": 2,
+      "text": "vocaverunt eos sic abierunt a facie eorum Baalim immolabant et simulacris sacrificabant"
+    },
+    {
+      "verse": 3,
+      "text": "et ego quasi nutricius Ephraim portabam eos in brachiis meis et nescierunt quod curarem eos"
+    },
+    {
+      "verse": 4,
+      "text": "in funiculis Adam traham eos in vinculis caritatis et ero eis quasi exaltans iugum super maxillas eorum et declinavi ad eum ut vesceretur"
+    },
+    {
+      "verse": 5,
+      "text": "non revertetur in terram Aegypti et Assur ipse rex eius quoniam noluerunt converti"
+    },
+    {
+      "verse": 6,
+      "text": "coepit gladius in civitatibus eius et consumet electos eius et comedet capita eorum"
+    },
+    {
+      "verse": 7,
+      "text": "et populus meus pendebit ad reditum meum iugum autem inponetur ei simul quod non auferetur"
+    },
+    {
+      "verse": 8,
+      "text": "quomodo dabo te Ephraim protegam te Israhel quomodo dabo te sicut Adama ponam te ut Seboim conversum est in me cor meum pariter conturbata est paenitudo mea"
+    },
+    {
+      "verse": 9,
+      "text": "non faciam furorem irae meae non convertar ut disperdam Ephraim quoniam Deus ego et non homo in medio tui Sanctus et non ingrediar civitatem"
+    },
+    {
+      "verse": 10,
+      "text": "post Dominum ambulabunt quasi leo rugiet quia ipse rugiet et formidabunt filii maris"
+    },
+    {
+      "verse": 11,
+      "text": "et avolabunt quasi avis ex Aegypto et quasi columba de terra Assyriorum et conlocabo eos in domibus suis dicit Dominus"
+    },
+    {
+      "verse": 12,
+      "text": "circumdedit me in negatione Ephraim et in dolo domus Israhel Iudas autem testis descendit cum Deo et cum sanctis fidelis"
+    }
+  ]
+}

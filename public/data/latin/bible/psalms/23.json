@@ -1,0 +1,52 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 23,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "psalmus David prima sabbati Domini est terra et plenitudo eius orbis terrarum et universi qui habitant in eo David canticum Domini est terra et plenitudo eius orbis et habitatores eius"
+    },
+    {
+      "verse": 2,
+      "text": "*quia; ipse super maria fundavit eum et super flumina praeparavit eum quia ipse super maria fundavit eum et super flumina stabilivit illum"
+    },
+    {
+      "verse": 3,
+      "text": "quis ascendit in montem Domini aut quis stabit in loco sancto eius quis ascendet in montem Domini et quis stabit in loco sancto eius"
+    },
+    {
+      "verse": 4,
+      "text": "innocens manibus et mundo corde qui non accepit in vano animam suam nec iuravit in dolo proximo suo innocens manibus et mundo corde qui non exaltavit frustra animam suam et non iuravit dolose"
+    },
+    {
+      "verse": 5,
+      "text": "hic accipiet benedictionem a Domino et misericordiam a Deo salvatore suo accipiet benedictionem a Domino et iustitiam a Deo salutari suo"
+    },
+    {
+      "verse": 6,
+      "text": "haec est generatio quaerentium eum quaerentium faciem Dei Iacob diapsalma haec generatio quaerentium eum quaerentium faciem tuam Iacob semper"
+    },
+    {
+      "verse": 7,
+      "text": "adtollite portas principes vestras et elevamini portae aeternales et introibit rex gloriae levate portae capita vestra et elevamini ianuae sempiternae et ingrediatur rex gloriae"
+    },
+    {
+      "verse": 8,
+      "text": "quis est iste rex gloriae Dominus fortis et potens Dominus potens in proelio quis est iste rex gloriae Dominus fortis et potens Dominus fortis in proelio"
+    },
+    {
+      "verse": 9,
+      "text": "adtollite portas principes vestras et elevamini portae aeternales et introibit rex gloriae levate portae capita vestra et erigite ianuae sempiternae et ingrediatur rex gloriae"
+    },
+    {
+      "verse": 10,
+      "text": "quis est iste rex gloriae Dominus virtutum ipse est rex gloriae diapsalma quis est iste rex gloriae Dominus exercituum ipse est rex gloriae semper"
+    }
+  ]
+}

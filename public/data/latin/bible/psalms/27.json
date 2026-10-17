@@ -1,0 +1,48 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 27,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "huic David ad te Domine clamabo Deus meus ne sileas a me nequando taceas a me et adsimilabor descendentibus in lacum David ad te Domine clamabo Fortis meus ne obsurdescas mihi ne forte tacente te mihi conparer his qui descendunt in lacum"
+    },
+    {
+      "verse": 2,
+      "text": "exaudi vocem deprecationis meae dum oro ad te dum extollo manus meas ad templum sanctum tuum audi Domine deprecationem meam cum clamavero ad te cum levavero manus meas ad oraculum sanctum tuum"
+    },
+    {
+      "verse": 3,
+      "text": "ne simul tradas me cum peccatoribus et cum operantibus iniquitatem ne perdideris me qui loquuntur pacem cum proximo suo mala autem sunt in cordibus eorum ne trahas me cum impiis et cum operantibus iniquitatem qui loquuntur pacem cum amicis suis et est malum in corde eorum"
+    },
+    {
+      "verse": 4,
+      "text": "da illis secundum opera ipsorum et secundum nequitiam adinventionum ipsorum secundum opera manuum eorum tribue illis redde retributionem eorum ipsis da eis secundum opus suum et secundum malum adinventionum suarum iuxta opus manuum suarum da eis redde retributionem suam illis"
+    },
+    {
+      "verse": 5,
+      "text": "quoniam non intellexerunt opera Domini et in opera manuum eius destrues illos et non aedificabis eos quoniam non intellegunt opera Domini et opus manuum eius destrues eos et non aedificabis"
+    },
+    {
+      "verse": 6,
+      "text": "benedictus Dominus quoniam exaudivit vocem deprecationis meae benedictus Dominus qui audivit vocem deprecationis meae"
+    },
+    {
+      "verse": 7,
+      "text": "Dominus adiutor meus et protector meus in ipso speravit cor meum et adiutus sum et refloruit caro mea et ex voluntate mea confitebor ei Dominus fortitudo mea et scutum meum in ipso confisum est cor meum et habui adiutorium gavisum est cor meum et in cantico meo confitebor illi"
+    },
+    {
+      "verse": 8,
+      "text": "Dominus fortitudo plebis suae et protector salvationum christi sui est Dominus fortitudo mea et robur salutarium christi sui est"
+    },
+    {
+      "verse": 9,
+      "text": "salvam fac plebem tuam et benedic hereditati tuae et rege eos et extolle eos usque in aeternum salva populum tuum et benedic hereditati tuae et pasce eos et subleva eos usque in sempiternum"
+    }
+  ]
+}

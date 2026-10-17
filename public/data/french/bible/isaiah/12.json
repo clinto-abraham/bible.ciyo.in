@@ -1,0 +1,36 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Isaiah",
+  "bookSlug": "isaiah",
+  "nativeName": "Isaiah",
+  "chapterNumber": 12,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Et tu diras en ce jour-là: Je te loue, Yahweh, car tu étais irrité, mais ta colère s'est détournée et tu me consoles."
+    },
+    {
+      "verse": 2,
+      "text": "Voici le Dieu de ma délivrance; j'ai confiance et je ne crains pas; car ma force et ma louange c'est Yahweh, Yahweh; il a été pour moi le salut. —"
+    },
+    {
+      "verse": 3,
+      "text": "Vous puiserez des eaux avec joie aux sources du salut,"
+    },
+    {
+      "verse": 4,
+      "text": "et vous direz en ce jour-là: Louez Yahweh, invoquez son nom, publiez parmi les peuples ses grandes œuvres, proclamez que son nom est élevé."
+    },
+    {
+      "verse": 5,
+      "text": "Chantez Yahweh, car il a fait des choses magnifiques; qu'on le sache dans toute la terre!"
+    },
+    {
+      "verse": 6,
+      "text": "Pousse des cris, tressaille d'allégresse, habitante de Sion, car le Saint d'Israël est grand au milieu de toi!"
+    }
+  ]
+}

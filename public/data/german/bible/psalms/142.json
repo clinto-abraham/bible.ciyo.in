@@ -1,0 +1,40 @@
+{
+  "translation": "GerElb1905: German Darby Unrevidierte Elberfelder (1905)",
+  "language": "german",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 142,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ein Maskil von David. Ein Gebet, als er in der Höhle war. Mit meiner Stimme schreie ich zu Jehova, mit meiner Stimme flehe ich zu Jehova."
+    },
+    {
+      "verse": 2,
+      "text": "Ich schütte meine Klage vor ihm aus, meine Bedrängnis tue ich vor ihm kund."
+    },
+    {
+      "verse": 3,
+      "text": "Als mein Geist in mir ermattete, da kanntest du meinen Pfad. Auf dem Wege, den ich wandelte, haben sie mir heimlich eine Schlinge gelegt."
+    },
+    {
+      "verse": 4,
+      "text": "Schaue zur Rechten, und sieh: ich habe ja niemand, der mich erkennt; verloren ist mir jede Zuflucht, niemand fragt nach meiner Seele."
+    },
+    {
+      "verse": 5,
+      "text": "Zu dir habe ich geschrieen, Jehova! Ich habe gesagt: Du bist meine Zuflucht, mein Teil im Lande der Lebendigen."
+    },
+    {
+      "verse": 6,
+      "text": "Horche auf mein Schreien, denn ich bin sehr elend; errette mich von meinen Verfolgern, denn sie sind mir zu mächtig!"
+    },
+    {
+      "verse": 7,
+      "text": "Führe aus dem Gefängnis heraus meine Seele, damit ich deinen Namen preise! Die Gerechten werden mich umringen, wenn du mir wohlgetan hast."
+    }
+  ]
+}

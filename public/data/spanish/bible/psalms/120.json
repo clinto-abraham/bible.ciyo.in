@@ -1,0 +1,40 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 120,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cántico gradual. A JEHOVÁ llamé estando en angustia, y él me respondió."
+    },
+    {
+      "verse": 2,
+      "text": "Libra mi alma, oh Jehová, de labio mentiroso, de la lengua fraudulenta."
+    },
+    {
+      "verse": 3,
+      "text": "¿Qué te dará, ó qué te aprovechará, oh lengua engañosa?"
+    },
+    {
+      "verse": 4,
+      "text": "Agudas saetas de valiente, con brasas de enebro."
+    },
+    {
+      "verse": 5,
+      "text": "¡Ay de mí, que peregrino en Mesech, y habito entre las tiendas de Kedar!"
+    },
+    {
+      "verse": 6,
+      "text": "Mucho se detiene mi alma con los que aborrecen la paz."
+    },
+    {
+      "verse": 7,
+      "text": "Yo soy pacífico: mas ellos, así que hablo, me hacen guerra."
+    }
+  ]
+}

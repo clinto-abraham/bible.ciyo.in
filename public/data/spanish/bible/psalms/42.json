@@ -1,0 +1,56 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 42,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Al Músico principal: Masquil á los hijos de Coré. COMO el ciervo brama por las corrientes de las aguas, así clama por ti, oh Dios, el alma mía."
+    },
+    {
+      "verse": 2,
+      "text": "Mi alma tiene sed de Dios, del Dios vivo: ¡cuándo vendré, y pareceré delante de Dios!"
+    },
+    {
+      "verse": 3,
+      "text": "Fueron mis lágrimas mi pan de día y de noche, mientras me dicen todos los días: ¿Dónde está tu Dios?"
+    },
+    {
+      "verse": 4,
+      "text": "Acordaréme de estas cosas, y derramaré sobre mí mi alma: cuando pasaré en el número, iré con ellos hasta la casa de Dios, con voz de alegría y de alabanza, haciendo fiesta la multitud."
+    },
+    {
+      "verse": 5,
+      "text": "¿Por qué te abates, oh alma mía, y te conturbas en mí? Espera á Dios; porque aun le tengo de alabar por las saludes de su presencia."
+    },
+    {
+      "verse": 6,
+      "text": "Dios mío, mi alma está en mí abatida: acordaréme por tanto de ti desde tierra del Jordán, y de los Hermonitas, desde el monte de Mizhar."
+    },
+    {
+      "verse": 7,
+      "text": "Un abismo llama á otro á la voz de tus canales: todas tus ondas y tus olas han pasado sobre mí."
+    },
+    {
+      "verse": 8,
+      "text": "De día mandará Jehová su misericordia, y de noche su canción será conmigo, y oración al Dios de mi vida."
+    },
+    {
+      "verse": 9,
+      "text": "Diré á Dios: Roca mía, ¿por qué te has olvidado de mí? ¿Por qué andaré yo enlutado por la opresión del enemigo?"
+    },
+    {
+      "verse": 10,
+      "text": "Mientras se están quebrantando mis huesos, mis enemigos me afrentan, diciéndome cada día: ¿Dónde está tu Dios?"
+    },
+    {
+      "verse": 11,
+      "text": "¿Por qué te abates, oh alma mía, y por qué te conturbas en mí? Espera á Dios; porque aun le tengo de alabar; es él salvamento delante de mí, y el Dios mío."
+    }
+  ]
+}

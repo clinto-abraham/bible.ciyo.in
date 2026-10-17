@@ -1,0 +1,68 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Jeremiah",
+  "bookSlug": "jeremiah",
+  "nativeName": "Jeremiah",
+  "chapterNumber": 21,
+  "totalVerses": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "verbum quod factum est ad Hieremiam a Domino quando misit ad eum rex Sedecias Phassur filium Melchiae et Sophoniam filium Maasiae sacerdotem dicens"
+    },
+    {
+      "verse": 2,
+      "text": "interroga pro nobis Dominum quia Nabuchodonosor rex Babylonis proeliatur adversum nos si forte faciat Dominus nobiscum secundum omnia mirabilia sua et recedat a nobis"
+    },
+    {
+      "verse": 3,
+      "text": "et dixit Hieremias ad eos sic dicetis Sedeciae"
+    },
+    {
+      "verse": 4,
+      "text": "haec dicit Dominus Deus Israhel ecce ego convertam vasa belli quae in manibus vestris sunt et quibus vos pugnatis adversum regem Babylonis et Chaldeos qui obsident vos in circuitu murorum et congregabo ea in medio civitatis huius"
+    },
+    {
+      "verse": 5,
+      "text": "et debellabo ego vos in manu extenta et brachio forti et in furore et in indignatione et in ira grandi"
+    },
+    {
+      "verse": 6,
+      "text": "et percutiam habitatores civitatis huius homines et bestiae pestilentia magna morientur"
+    },
+    {
+      "verse": 7,
+      "text": "et post haec ait Dominus dabo Sedeciam regem Iuda et servos eius et populum eius et qui derelicti sunt in civitate hac a peste et gladio et fame in manu Nabuchodonosor regis Babylonis et in manu inimicorum eorum et in manu quaerentium animam eorum et percutiet eos in ore gladii et non movebitur neque parcet nec miserebitur"
+    },
+    {
+      "verse": 8,
+      "text": "et ad populum hunc dices haec dicit Dominus ecce ego do coram vobis viam vitae et viam mortis"
+    },
+    {
+      "verse": 9,
+      "text": "qui habitaverit in urbe hac morietur gladio et fame et peste qui autem egressus fuerit et transfugerit ad Chaldeos qui obsident vos vivet et erit ei anima sua quasi spolium"
+    },
+    {
+      "verse": 10,
+      "text": "posui enim faciem meam super civitatem hanc in malum et non in bonum ait Dominus in manu regis Babylonis dabitur et exuret eam igni"
+    },
+    {
+      "verse": 11,
+      "text": "et domui regis Iuda audite verbum Domini"
+    },
+    {
+      "verse": 12,
+      "text": "domus David haec dicit Dominus iudicate mane iudicium et eruite vi oppressum de manu calumniantis ne forte egrediatur ut ignis indignatio mea et succendatur et non sit qui extinguat propter malitiam studiorum vestrorum"
+    },
+    {
+      "verse": 13,
+      "text": "ecce ego ad te habitatricem vallis solidae atque campestris ait Dominus qui dicitis quis percutiet nos et quis ingredietur domos nostras"
+    },
+    {
+      "verse": 14,
+      "text": "et visitabo super vos iuxta fructum studiorum vestrorum dicit Dominus et succendam ignem in saltu eius et devorabit omnia in circuitu eius"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Isaiah",
+  "bookSlug": "isaiah",
+  "nativeName": "Isaiah",
+  "chapterNumber": 15,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "onus Moab quia nocte vastata est Ar Moab conticuit quia nocte vastatus est murus Moab conticuit"
+    },
+    {
+      "verse": 2,
+      "text": "ascendit domus et Dibon ad excelsa in planctum super Nabo et super Medaba Moab ululabit in cunctis capitibus eius calvitium omnis barba radetur"
+    },
+    {
+      "verse": 3,
+      "text": "in triviis eius accincti sunt sacco super tecta eius et in plateis eius omnis ululat descendit in fletum"
+    },
+    {
+      "verse": 4,
+      "text": "clamavit Esebon et Eleale usque Iasa audita est vox eorum super hoc expediti Moab ululabunt anima eius ululabit sibi"
+    },
+    {
+      "verse": 5,
+      "text": "cor meum ad Moab clamabit vectes eius usque ad Segor vitulam conternantem per ascensum enim Luith flens ascendet et in via Oronaim clamorem contritionis levabunt"
+    },
+    {
+      "verse": 6,
+      "text": "aquae enim Nemrim desertae erunt quia aruit herba defecit germen viror omnis interiit"
+    },
+    {
+      "verse": 7,
+      "text": "secundum magnitudinem operis et visitatio eorum ad torrentem salicum ducent eos"
+    },
+    {
+      "verse": 8,
+      "text": "quoniam circumiit clamor terminum Moab usque ad Gallim ululatus eius et usque ad puteum Helim clamor eius"
+    },
+    {
+      "verse": 9,
+      "text": "quia aquae Dibon repletae sunt sanguine ponam enim super Dibon additamenta his qui fugerint de Moab leonem et reliquiis terrae"
+    }
+  ]
+}

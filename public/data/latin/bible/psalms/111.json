@@ -1,0 +1,52 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 111,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "alleluia reversionis Aggei et Zacchariae beatus vir qui timet Dominum in mandatis eius volet nimis aleph beatus vir qui timet Dominum beth in mandatis eius volet nimis"
+    },
+    {
+      "verse": 2,
+      "text": "potens in terra erit semen eius generatio rectorum benedicetur gimel potens in terra erit semen eius deleth generatio iustorum benedicetur"
+    },
+    {
+      "verse": 3,
+      "text": "gloria et divitiae in domo eius et iustitia eius manet in saeculum saeculi he substantia et divitiae in domo eius vav et iustitia eius perseverans semper"
+    },
+    {
+      "verse": 4,
+      "text": "exortum est in tenebris lumen rectis misericors et miserator et iustus zai ortum est in tenebris lumen iustis heth clemens et misericors et iustus"
+    },
+    {
+      "verse": 5,
+      "text": "iucundus homo qui miseretur et commodat disponet sermones suos in iudicio teth bonus vir clemens et fenerans ioth dispensabit verba sua in iudicio"
+    },
+    {
+      "verse": 6,
+      "text": "quia in aeternum non commovebitur caph quia in aeternum non commovebitur"
+    },
+    {
+      "verse": 7,
+      "text": "in memoria aeterna erit iustus ab auditione mala non timebit paratum cor eius sperare in Domino lameth in memoria sempiterna erit iustus mem ab auditu malo non timebit nun paratum cor eius confidens in Domino"
+    },
+    {
+      "verse": 8,
+      "text": "confirmatum est cor eius non commovebitur donec dispiciat inimicos suos samech firmum cor eius non timebit ain donec aspiciat hostibus suis"
+    },
+    {
+      "verse": 9,
+      "text": "dispersit dedit pauperibus iustitia eius manet in saeculum saeculi cornu eius exaltabitur in gloria phe dispersit dedit pauperibus sade iustitia eius permanet in aeternum coph cornu eius exaltabitur in gloria"
+    },
+    {
+      "verse": 10,
+      "text": "peccator videbit et irascetur dentibus suis fremet et tabescet desiderium peccatorum peribit res impius videbit et irascetur sen dentibus suis frendet et tabescet thau desiderium impiorum peribit"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "translation": "GerElb1905: German Darby Unrevidierte Elberfelder (1905)",
+  "language": "german",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 98,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ein Psalm. Singet Jehova ein neues Lied! Denn er hat Wunder getan; Rettung hat ihm verschafft seine Rechte und sein heiliger Arm."
+    },
+    {
+      "verse": 2,
+      "text": "Jehova hat kundgetan seine Rettung, vor den Augen der Nationen geoffenbart seine Gerechtigkeit."
+    },
+    {
+      "verse": 3,
+      "text": "Er hat seiner Güte und seiner Treue gedacht dem Hause Israel; alle Enden der Erde haben die Rettung unseres Gottes gesehen."
+    },
+    {
+      "verse": 4,
+      "text": "Jauchzet Jehova, ganze Erde! Brechet in Jubel aus und singet Psalmen!"
+    },
+    {
+      "verse": 5,
+      "text": "Singet Psalmen Jehova mit der Laute mit der Laute und der Stimme des Gesanges!"
+    },
+    {
+      "verse": 6,
+      "text": "Mit Trompeten und dem Schall der Posaune jauchzet vor dem König Jehova!"
+    },
+    {
+      "verse": 7,
+      "text": "Es brause das Meer und seine Fülle, der Erdkreis und die darauf wohnen!"
+    },
+    {
+      "verse": 8,
+      "text": "Mögen die Ströme in die Hände klatschen, mögen jubeln die Berge allzumal-"
+    },
+    {
+      "verse": 9,
+      "text": "vor Jehova! Denn er kommt, die Erde zu richten: Er wird den Erdkreis richten in Gerechtigkeit und die Völker in Geradheit."
+    }
+  ]
+}

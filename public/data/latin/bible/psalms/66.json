@@ -1,0 +1,44 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 66,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem in hymnis psalmus cantici victori in psalmis canticum carminis"
+    },
+    {
+      "verse": 2,
+      "text": "Deus misereatur nostri et benedicat nobis inluminet vultum suum super nos et misereatur nostri diapsalma Deus misereatur nostri et benedicat nobis inlustret faciem suam super nos semper"
+    },
+    {
+      "verse": 3,
+      "text": "ut cognoscamus in terra viam tuam in omnibus gentibus salutare tuum ut nota fiat in terra via tua in universis gentibus salus tua"
+    },
+    {
+      "verse": 4,
+      "text": "confiteantur tibi populi Deus confiteantur tibi populi omnes confiteantur tibi populi Deus confiteantur tibi populi omnes"
+    },
+    {
+      "verse": 5,
+      "text": "laetentur et exultent gentes quoniam iudicas populos in aequitate et gentes in terra diriges diapsalma laetentur et laudent gentes quoniam iudicas populos in aequitate et gentium quae in terra sunt ductor es sempiternus"
+    },
+    {
+      "verse": 6,
+      "text": "confiteantur tibi populi Deus confiteantur tibi populi omnes confiteantur tibi populi Deus confiteantur tibi populi omnes"
+    },
+    {
+      "verse": 7,
+      "text": "terra dedit fructum suum benedicat nos Deus Deus noster terra dedit germen suum benedicat nobis Deus Deus noster"
+    },
+    {
+      "verse": 8,
+      "text": "benedicat nos Deus et metuant eum omnes fines terrae benedicat nobis Deus et timeant eum omnes fines terrae"
+    }
+  ]
+}

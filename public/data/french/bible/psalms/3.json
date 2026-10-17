@@ -1,0 +1,48 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 3,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Chant de David. A l'occasion de sa fuite devant Absalon, son fils"
+    },
+    {
+      "verse": 2,
+      "text": "Yahweh, que mes ennemis sont nombreux! Quelle multitude se lève contre moi!"
+    },
+    {
+      "verse": 3,
+      "text": "Nombreux sont ceux qui disent à mon sujet: \" Plus de salut pour lui auprès de Dieu! \" — Séla."
+    },
+    {
+      "verse": 4,
+      "text": "Mais toi, Yahweh, tu es mon bouclier; tu es ma gloire, et tu relèves ma tête."
+    },
+    {
+      "verse": 5,
+      "text": "De ma voix je crie vers Yahweh, et il me répond de sa montagne sainte. — Séla."
+    },
+    {
+      "verse": 6,
+      "text": "Je me suis couché et me suis endormi; je me suis réveillé, car Yahweh est mon soutien."
+    },
+    {
+      "verse": 7,
+      "text": "je ne crains pas devant le peuple innombrable, qui m'assiège de toutes parts."
+    },
+    {
+      "verse": 8,
+      "text": "Lève-toi, Yahweh! Sauve-moi, mon Dieu! Car tu frappes à la joue tous mes ennemis, tu brises les dents des méchants."
+    },
+    {
+      "verse": 9,
+      "text": "A Yahweh le salut! Que ta bénédiction soit sur ton peuple! — Séla."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 142,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cantique de David. Lorsqu'il était dans la caverne. Prière."
+    },
+    {
+      "verse": 2,
+      "text": "De ma voix je crie à Yahweh, de ma voix j'implore Yahweh;"
+    },
+    {
+      "verse": 3,
+      "text": "Je répands ma plainte en sa présence, devant lui j'expose ma détresse."
+    },
+    {
+      "verse": 4,
+      "text": "Lorsqu'en moi mon esprit défaille, toi tu connais mon sentier; tu sais que, dans la route où je marche, ils me tendent des pièges."
+    },
+    {
+      "verse": 5,
+      "text": "Jette les yeux à ma droite et vois: personne ne me reconnaît; tout refuge me fait défaut, nul n'a souci de mon âme."
+    },
+    {
+      "verse": 6,
+      "text": "Je crie vers toi, Yahweh, je dis: Tu es mon refuge, mon partage sur la terre des vivants!"
+    },
+    {
+      "verse": 7,
+      "text": "Prête l'oreille à ma plainte, car je suis malheureux à l'excès; délivre-moi de ceux qui me poursuivent, car ils sont plus forts que moi."
+    },
+    {
+      "verse": 8,
+      "text": "Tire mon âme de cette prison, afin que je célèbre ton nom; les justes triompheront avec moi de ce que tu m'auras fait du bien."
+    }
+  ]
+}

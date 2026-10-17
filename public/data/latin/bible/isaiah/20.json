@@ -1,0 +1,36 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Isaiah",
+  "bookSlug": "isaiah",
+  "nativeName": "Isaiah",
+  "chapterNumber": 20,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in anno quo ingressus est Tharthan in Azotum cum misisset eum Sargon rex Assyriorum et pugnasset contra Azotum et cepisset eam"
+    },
+    {
+      "verse": 2,
+      "text": "in tempore illo locutus est Dominus in manu Isaiae filii Amos dicens vade et solve saccum de lumbis tuis et calciamenta tua tolle de pedibus tuis et fecit sic vadens nudus et disculciatus"
+    },
+    {
+      "verse": 3,
+      "text": "et dixit Dominus sicut ambulavit servus meus Isaias nudus et disculciatus trium annorum signum et portentum erit super Aegyptum et super Aethiopiam"
+    },
+    {
+      "verse": 4,
+      "text": "sic minabit rex Assyriorum captivitatem Aegypti et transmigrationem Aethiopiae iuvenum et senum nudam et disculciatam discopertis natibus ignominiam Aegypti"
+    },
+    {
+      "verse": 5,
+      "text": "et timebunt et confundentur ab Aethiopia spe sua et ab Aegypto gloria sua"
+    },
+    {
+      "verse": 6,
+      "text": "et dicet habitator insulae huius in die illa ecce haec erat spes nostra ad quos confugimus in auxilium ut liberaret nos a facie regis Assyriorum et quomodo effugere poterimus nos"
+    }
+  ]
+}

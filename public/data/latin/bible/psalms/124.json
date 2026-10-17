@@ -1,0 +1,32 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 124,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "canticum graduum qui confidunt in Domino sicut mons Sion non commovebitur in aeternum qui habitat canticum graduum qui confidunt in Domino quasi mons Sion inmobilis in aeternum habitabilis"
+    },
+    {
+      "verse": 2,
+      "text": "in Hierusalem montes in circuitu eius et Dominus in circuitu populi sui ex hoc nunc et usque in saeculum Hierusalem montes in circuitu eius et Dominus in circuitu populi sui amodo et usque in aeternum"
+    },
+    {
+      "verse": 3,
+      "text": "quia non relinquet virgam peccatorum super sortem iustorum ut non extendant iusti ad iniquitatem manus suas quia non requiescet virga impietatis super sortem iustorum ut non mittant iusti in iniquitatem manus suas"
+    },
+    {
+      "verse": 4,
+      "text": "benefac Domine bonis et rectis corde benefac Domine bonis et rectis corde"
+    },
+    {
+      "verse": 5,
+      "text": "declinantes autem in obligationes adducet Dominus cum operantibus iniquitatem pax super Israhel qui autem declinant ad pravitates suas deducet eos Dominus cum his qui operantur iniquitatem pax super Israhel"
+    }
+  ]
+}

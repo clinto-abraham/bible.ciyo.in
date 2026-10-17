@@ -1,0 +1,36 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 53,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Al Músico principal: sobre Mahalath: Masquil de David. DIJO el necio en su corazón: No hay Dios. Corrompiéronse é hicieron abominable maldad: no hay quien haga bien."
+    },
+    {
+      "verse": 2,
+      "text": "Dios desde los cielos miró sobre los hijos de los hombres, por ver si hay algún entendido que busque á Dios."
+    },
+    {
+      "verse": 3,
+      "text": "Cada uno se había vuelto atrás; todos se habían corrompido: no hay quien haga bien, no hay ni aun uno."
+    },
+    {
+      "verse": 4,
+      "text": "¿No tienen conocimiento todos esos que obran iniquidad? que comen á mi pueblo como si comiesen pan: á Dios no han invocado."
+    },
+    {
+      "verse": 5,
+      "text": "Allí se sobresaltaron de pavor donde no había miedo: porque Dios ha esparcido los huesos del que asentó campo contra ti: los avergonzaste, porque Dios los desechó."
+    },
+    {
+      "verse": 6,
+      "text": "¡Oh quién diese de Sión saludes á Israel! En volviendo Dios la cautividad de su pueblo, gozarse ha Jacob, y alegraráse Israel."
+    }
+  ]
+}

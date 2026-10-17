@@ -1,0 +1,184 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 107,
+  "totalVerses": 43,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "ALABAD á Jehová, porque es bueno; porque para siempre es su misericordia."
+    },
+    {
+      "verse": 2,
+      "text": "Dígan lo los redimidos de Jehová, los que ha redimido del poder del enemigo,"
+    },
+    {
+      "verse": 3,
+      "text": "Y los ha congregado de las tierras, del oriente y del occidente, del aquilón y de la mar."
+    },
+    {
+      "verse": 4,
+      "text": "Anduvieron perdidos por el desierto, por la soledad sin camino, no hallando ciudad de población."
+    },
+    {
+      "verse": 5,
+      "text": "Hambrientos y sedientos, su alma desfallecía en ellos."
+    },
+    {
+      "verse": 6,
+      "text": "Habiendo empero clamado á Jehová en su angustia, librólos de sus aflicciones:"
+    },
+    {
+      "verse": 7,
+      "text": "Y dirigiólos por camino derecho, para que viniesen á ciudad de población."
+    },
+    {
+      "verse": 8,
+      "text": "Alaben la misericordia de Jehová, y sus maravillas para con los hijos de los hombres."
+    },
+    {
+      "verse": 9,
+      "text": "Porque sació al alma menesterosa, y llenó de bien al alma hambrienta."
+    },
+    {
+      "verse": 10,
+      "text": "Los que moraban en tinieblas y sombra de muerte, aprisionados en aflicción y en hierros;"
+    },
+    {
+      "verse": 11,
+      "text": "Por cuanto fueron rebeldes á las palabras de Jehová, y aborrecieron el consejo del Altísimo,"
+    },
+    {
+      "verse": 12,
+      "text": "Por lo que quebrantó él con trabajo sus corazones, cayeron y no hubo quien les ayudase;"
+    },
+    {
+      "verse": 13,
+      "text": "Luego que clamaron á Jehová en su angustia, librólos de sus aflicciones."
+    },
+    {
+      "verse": 14,
+      "text": "Sacólos de las tinieblas y de la sombra de muerte, y rompió sus prisiones."
+    },
+    {
+      "verse": 15,
+      "text": "Alaben la misericordia de Jehová, y sus maravillas para con los hijos de los hombres."
+    },
+    {
+      "verse": 16,
+      "text": "Porque quebrantó las puertas de bronce, y desmenuzó los cerrojos de hierro."
+    },
+    {
+      "verse": 17,
+      "text": "Los insensatos, á causa del camino de su rebelión y á causa de sus maldades, fueron afligidos."
+    },
+    {
+      "verse": 18,
+      "text": "Su alma abominó toda vianda, y llegaron hasta las puertas de la muerte."
+    },
+    {
+      "verse": 19,
+      "text": "Mas clamaron á Jehová en su angustia, y salvólos de sus aflicciones."
+    },
+    {
+      "verse": 20,
+      "text": "Envió su palabra, y curólos, y librólos de su ruina."
+    },
+    {
+      "verse": 21,
+      "text": "Alaben la misericordia de Jehová, y sus maravillas para con los hijos de los hombres:"
+    },
+    {
+      "verse": 22,
+      "text": "Y sacrifiquen sacrificios de alabanza, y publiquen sus obras con júbilo."
+    },
+    {
+      "verse": 23,
+      "text": "Los que descienden á la mar en navíos, y hacen negocio en las muchas aguas,"
+    },
+    {
+      "verse": 24,
+      "text": "Ellos han visto las obras de Jehová, y sus maravillas en el profundo."
+    },
+    {
+      "verse": 25,
+      "text": "El dijo, é hizo saltar el viento de la tempestad, que levanta sus ondas."
+    },
+    {
+      "verse": 26,
+      "text": "Suben á los cielos, descienden á los abismos: sus almas se derriten con el mal."
+    },
+    {
+      "verse": 27,
+      "text": "Tiemblan, y titubean como borrachos, y toda su ciencia es perdida."
+    },
+    {
+      "verse": 28,
+      "text": "Claman empero á Jehová en su angustia, y líbralos de sus aflicciones."
+    },
+    {
+      "verse": 29,
+      "text": "Hace parar la tempestad en sosiego, y se apaciguan sus ondas."
+    },
+    {
+      "verse": 30,
+      "text": "Alégranse luego porque se reposaron; y él los guía al puerto que deseaban."
+    },
+    {
+      "verse": 31,
+      "text": "Alaben la misericordia de Jehová, y sus maravillas para con los hijos de los hombres."
+    },
+    {
+      "verse": 32,
+      "text": "Y ensálcenlo en la congregación del pueblo; y en consistorio de ancianos lo alaben."
+    },
+    {
+      "verse": 33,
+      "text": "El vuelve los ríos en desierto, y los manantiales de las aguas en secadales;"
+    },
+    {
+      "verse": 34,
+      "text": "La tierra fructífera en salados, por la maldad de los que la habitan."
+    },
+    {
+      "verse": 35,
+      "text": "Vuelve el desierto en estanques de aguas, y la tierra seca en manantiales."
+    },
+    {
+      "verse": 36,
+      "text": "Y allí aposenta á los hambrientos, y disponen ciudad para habitación;"
+    },
+    {
+      "verse": 37,
+      "text": "Y siembran campos, y plantan viñas, y rinden crecido fruto."
+    },
+    {
+      "verse": 38,
+      "text": "Y los bendice, y se multiplican en gran manera; y no disminuye sus bestias."
+    },
+    {
+      "verse": 39,
+      "text": "Y luego son menoscabados y abatidos á causa de tiranía, de males y congojas."
+    },
+    {
+      "verse": 40,
+      "text": "El derrama menosprecio sobre los príncipes, y les hace andar errados, vagabundos, sin camino:"
+    },
+    {
+      "verse": 41,
+      "text": "Y levanta al pobre de la miseria, y hace multiplicar las familias como rebaños de ovejas."
+    },
+    {
+      "verse": 42,
+      "text": "Vean los rectos, y alégrense; y toda maldad cierre su boca."
+    },
+    {
+      "verse": 43,
+      "text": "¿Quién es sabio y guardará estas cosas, y entenderá las misericordias de Jehová?"
+    }
+  ]
+}

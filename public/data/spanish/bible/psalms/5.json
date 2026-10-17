@@ -1,0 +1,60 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 5,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Al Músico principal: sobre Nehiloth: Salmo de David. ESCUCHA, oh Jehová, mis palabras; considera la meditación mía."
+    },
+    {
+      "verse": 2,
+      "text": "Está atento á la voz de mi clamor, Rey mío y Dios mío, porque á ti oraré."
+    },
+    {
+      "verse": 3,
+      "text": "Oh Jehová, de mañana oirás mi voz; de mañana me presentaré á ti, y esperaré."
+    },
+    {
+      "verse": 4,
+      "text": "Porque tú no eres un Dios que ame la maldad: el malo no habitará junto á ti."
+    },
+    {
+      "verse": 5,
+      "text": "No estarán los insensatos delante de tus ojos: aborreces á todos los que obran iniquidad."
+    },
+    {
+      "verse": 6,
+      "text": "Destruirás á los que hablan mentira: al hombre de sangres y de engaño abominará Jehová."
+    },
+    {
+      "verse": 7,
+      "text": "Y yo en la multitud de tu misericordia entraré en tu casa: adoraré hacia el templo de tu santidad en tu temor."
+    },
+    {
+      "verse": 8,
+      "text": "Guíame, Jehová, en tu justicia á causa de mis enemigos; endereza delante de mí tu camino."
+    },
+    {
+      "verse": 9,
+      "text": "Porque no hay en su boca rectitud: sus entrañas son pravedades; sepulcro abierto su garganta: con su lengua lisonjearán."
+    },
+    {
+      "verse": 10,
+      "text": "Desbarátalos, oh Dios; caigan de sus consejos: por la multitud de sus rebeliones échalos, porque se rebelaron contra ti."
+    },
+    {
+      "verse": 11,
+      "text": "Y alegrarse han todos los que en ti confían; para siempre darán voces de júbilo, porque tú los defiendes: y en ti se regocijarán los que aman tu nombre."
+    },
+    {
+      "verse": 12,
+      "text": "Porque tú, oh Jehová, bendecirás al justo; lo cercarás de benevolencia como con un escudo."
+    }
+  ]
+}

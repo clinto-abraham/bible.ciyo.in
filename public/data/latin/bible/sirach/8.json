@@ -1,0 +1,100 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Sirach",
+  "bookSlug": "sirach",
+  "nativeName": "Sirach",
+  "chapterNumber": 8,
+  "totalVerses": 22,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "non litiges cum homine potente ne forte incidas in manus illius"
+    },
+    {
+      "verse": 2,
+      "text": "non contendas cum viro locuplete ne forte contra consistat litem tibi"
+    },
+    {
+      "verse": 3,
+      "text": "multos perdidit aurum atque argentum et usque cor regum extendit et convertit"
+    },
+    {
+      "verse": 4,
+      "text": "non litiges cum homine linguato et non strues in igne illius ligna"
+    },
+    {
+      "verse": 5,
+      "text": "non communices homini indocto ne male de progenie tua loquatur"
+    },
+    {
+      "verse": 6,
+      "text": "ne despicias hominem avertentem se a peccato neque inproperes ei memento quoniam omnes sumus in correptionem"
+    },
+    {
+      "verse": 7,
+      "text": "ne spernas hominem in sua senecta etenim ex nobis senescunt"
+    },
+    {
+      "verse": 8,
+      "text": "noli de mortuo gaudere sciens quoniam omnes morimur et in gaudium nolumus venire"
+    },
+    {
+      "verse": 9,
+      "text": "ne despicias narrationem presbyterorum sapientium et in proverbiis illorum conversare"
+    },
+    {
+      "verse": 10,
+      "text": "ab ipsis enim disces doctrinam intellectus et servire magnatis sine querella"
+    },
+    {
+      "verse": 11,
+      "text": "non te praetereat narratio seniorum et ipsi enim didicerunt a patribus suis"
+    },
+    {
+      "verse": 12,
+      "text": "quoniam ab ipsis disces intellectum et in tempore necessitatis responsum"
+    },
+    {
+      "verse": 13,
+      "text": "non incendas carbones peccatoris arguens eos ne incendaris flamma ignis peccatorum illorum"
+    },
+    {
+      "verse": 14,
+      "text": "ne contra faciem stes contumeliosi ne sedeat quasi insidiator ori tuo"
+    },
+    {
+      "verse": 15,
+      "text": "noli fenerare homini fortiori te quod si feneraveris tamquam perditum habe"
+    },
+    {
+      "verse": 16,
+      "text": "non spondeas super virtutem tuam quod si spoponderis quasi restituens cogita"
+    },
+    {
+      "verse": 17,
+      "text": "non iudices contra iudicem quoniam secundum quod dignum est iudicat"
+    },
+    {
+      "verse": 18,
+      "text": "cum audace non eas in via ne forte gravet mala sua in te ipse enim secundum voluntatem suam vadit et simul cum stultitia illius peries"
+    },
+    {
+      "verse": 19,
+      "text": "cum iracundo non facias rixam cum audace non eas in desertum quoniam quasi nihil est ante illum sanguis et ubi non est adiutorium elidet te"
+    },
+    {
+      "verse": 20,
+      "text": "cum fatuis ne consilium habeas non enim poterunt diligere nisi quae ipsis placent"
+    },
+    {
+      "verse": 21,
+      "text": "coram extraneo ne facias consilium nescis enim quid pariet"
+    },
+    {
+      "verse": 22,
+      "text": "non omni homini cor tuum manifestes ne forte inferat tibi gratiam et convicietur tibi"
+    }
+  ]
+}

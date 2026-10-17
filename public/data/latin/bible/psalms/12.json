@@ -1,0 +1,36 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 12,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem psalmus David usquequo Domine oblivisceris me in finem usquequo avertis faciem tuam a me victori canticum David usquequo Domine oblivisceris mei penitus usquequo abscondes faciem tuam a me"
+    },
+    {
+      "verse": 2,
+      "text": "quamdiu ponam consilia in anima mea dolorem in corde meo per diem usquequo ponam consilia in anima mea dolorem in corde meo per diem"
+    },
+    {
+      "verse": 3,
+      "text": "usquequo exaltabitur inimicus meus super me usquequo exaltabitur inimicus meus super me"
+    },
+    {
+      "verse": 4,
+      "text": "respice exaudi me Domine Deus meus inlumina oculos meos ne umquam obdormiam in mortem convertere exaudi me Domine Deus meus inlumina oculos meos ne umquam obdormiam in mortem"
+    },
+    {
+      "verse": 5,
+      "text": "nequando dicat inimicus meus praevalui adversus eum qui tribulant me exultabunt si motus fuero nequando dicat inimicus meus praevalui adversus eum hostes mei exultabunt cum motus fuero"
+    },
+    {
+      "verse": 6,
+      "text": "ego autem in misericordia tua speravi exultabit cor meum in salutari tuo cantabo Domino qui bona tribuit mihi et psallam nomini Domini altissimi ego autem in misericordia tua confido exultabit cor meum in salutari tuo cantabo Domino quia reddidit mihi"
+    }
+  ]
+}

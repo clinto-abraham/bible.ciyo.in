@@ -1,0 +1,44 @@
+{
+  "translation": "GerElb1905: German Darby Unrevidierte Elberfelder (1905)",
+  "language": "german",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 121,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ein Stufenlied. Ich hebe meine Augen auf zu den Bergen, woher meine Hilfe kommen wird."
+    },
+    {
+      "verse": 2,
+      "text": "Meine Hilfe kommt von Jehova, der Himmel und Erde gemacht hat."
+    },
+    {
+      "verse": 3,
+      "text": "Er wird nicht zulassen, daß dein Fuß wanke; dein Hüter schlummert nicht."
+    },
+    {
+      "verse": 4,
+      "text": "Siehe, der Hüter Israels, nicht schlummert noch schläft er."
+    },
+    {
+      "verse": 5,
+      "text": "Jehova ist dein Hüter, Jehova ist dein Schatten über deiner rechten Hand."
+    },
+    {
+      "verse": 6,
+      "text": "Nicht wird die Sonne dich stechen des Tages, noch der Mond des Nachts."
+    },
+    {
+      "verse": 7,
+      "text": "Jehova wird dich behüten vor allem Übel, er wird behüten deine Seele."
+    },
+    {
+      "verse": 8,
+      "text": "Jehova wird behüten deinen Ausgang und deinen Eingang, von nun an bis in Ewigkeit."
+    }
+  ]
+}

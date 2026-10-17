@@ -1,0 +1,28 @@
+{
+  "translation": "CSlElizabeth: 1757 Church Slavonic Elizabeth Bible",
+  "language": "slavic",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 122,
+  "totalVerses": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "К Тебе возведох очи мои, Живущему на небеси."
+    },
+    {
+      "verse": 2,
+      "text": "Се, яко очи раб в руку господий своих, яко очи рабыни в руку госпожи своея: тако очи наши ко Господу Богу нашему, дондеже ущедрит ны."
+    },
+    {
+      "verse": 3,
+      "text": "Помилуй нас, Господи, помилуй нас, яко помногу исполнихомся уничижения:"
+    },
+    {
+      "verse": 4,
+      "text": "наипаче наполнися душа наша поношения гобзующих и уничижения гордых."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Joshua",
+  "bookSlug": "joshua",
+  "nativeName": "Joshua",
+  "chapterNumber": 21,
+  "totalVerses": 43,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Les chefs de famille des Lévites s'approchèrent du prêtre Eléazar, de Josué, fils de Nun, et des chefs de famille des tribus des enfants d'Israël;"
+    },
+    {
+      "verse": 2,
+      "text": "ils leur parlèrent à Silo, dans le pays de Chanaan, en disant: « Yahweh a ordonné par Moïse qu'on nous donnât des villes pour notre habitation, et leurs banlieues pour notre bétail. »"
+    },
+    {
+      "verse": 3,
+      "text": "Les enfants d'Israël donnèrent aux Lévites, sur leur héritage, selon l'ordre de Yahweh, les villes suivantes et leurs banlieues."
+    },
+    {
+      "verse": 4,
+      "text": "Le sort fut tiré d'abord pour les familles des Caathites; et les fils du prêtre Aaron, d'entre les Lévites, obtinrent par le sort treize villes de la tribu de Juda, de la tribu de Siméon et de la tribu de Benjamin;"
+    },
+    {
+      "verse": 5,
+      "text": "les autres fils de Caath obtinrent par le sort dix villes des familles de la tribu d'Ephraïm, de la tribu de Dan et de la demi-tribu de Manassé."
+    },
+    {
+      "verse": 6,
+      "text": "Les fils de Gerson obtinrent par le sort treize villes des familles de la tribu d'Issachar, de la tribu d'Aser, de la tribu de Nephthali et de la demi-tribu de Manassé en Basan."
+    },
+    {
+      "verse": 7,
+      "text": "Les fils de Mérari, selon leurs familles, obtinrent douze villes de la tribu de Ruben, de la tribu de Gad et de la tribu de Zabulon."
+    },
+    {
+      "verse": 8,
+      "text": "Les enfants d'Israël donnèrent par le sort aux Lévites, ces villes et leurs banlieues, comme Yahweh l'avait ordonné par Moïse."
+    },
+    {
+      "verse": 9,
+      "text": "Ils donnèrent de la tribu des fils de Juda et de la tribu des fils de Siméon les villes suivantes désignées par leurs noms;"
+    },
+    {
+      "verse": 10,
+      "text": "ce fut pour les fils d'Aaron, d'entre les familles des Caathites, d'entre les fils de Lévi, car le sort fut d'abord tiré pour eux."
+    },
+    {
+      "verse": 11,
+      "text": "Ils leurs donnèrent, dans la montagne de Juda, la ville d'Arbé, père d'Enac, laquelle est Hébron, et sa banlieue tout autour."
+    },
+    {
+      "verse": 12,
+      "text": "Mais la campagne de cette ville et ses villages, ils les donnèrent en possession à Caleb, fils de Jéphoné."
+    },
+    {
+      "verse": 13,
+      "text": "Ils donnèrent aux fils du prêtre Aaron la ville de refuge pour le meurtrier, Hébron et sa banlieue, ainsi que Lebna avec sa banlieue,"
+    },
+    {
+      "verse": 14,
+      "text": "Jéther et sa banlieue, Estémo et sa banlieue,"
+    },
+    {
+      "verse": 15,
+      "text": "Holon et sa banlieue, Dabir et sa banlieue,"
+    },
+    {
+      "verse": 16,
+      "text": "Aïn et sa banlieue, Jéta et sa banlieue, Bethsamès et sa banlieue: neuf villes de ces deux tribus."
+    },
+    {
+      "verse": 17,
+      "text": "De la tribu de Benjamin: Gabaon et sa banlieue, Gabaa et sa banlieue,"
+    },
+    {
+      "verse": 18,
+      "text": "Anathoth et sa banlieue, Almon et sa banlieue: quatre villes."
+    },
+    {
+      "verse": 19,
+      "text": "Total des villes des prêtres, fils d'Aaron: treize villes et leurs banlieues."
+    },
+    {
+      "verse": 20,
+      "text": "Quant aux familles des fils de Caath, Lévites, aux autres fils de Caath, les villes qui leur échurent par le sort furent de la tribu d'Ephraïm."
+    },
+    {
+      "verse": 21,
+      "text": "Les enfants d'Israël leur donnèrent la ville de refuge pour le meurtrier, Sichem et sa banlieue, dans la montagne d'Ephraïm, ainsi que Gazer et sa banlieue,"
+    },
+    {
+      "verse": 22,
+      "text": "Cibsaïm et sa banlieue, Beth-Horon et sa banlieue: quatre villes."
+    },
+    {
+      "verse": 23,
+      "text": "De la tribu de Dan: Elthéco et sa banlieue, Gabathon et sa banlieue,"
+    },
+    {
+      "verse": 24,
+      "text": "Ajalon et sa banlieue, Geth-Remmon et sa banlieue: quatre villes."
+    },
+    {
+      "verse": 25,
+      "text": "De la demi-tribu de Manassé: Thanach et sa banlieue, et Geth-Remmon et sa banlieue: deux villes."
+    },
+    {
+      "verse": 26,
+      "text": "Total: dix villes avec leurs banlieues, pour les familles des autres fils de Caath."
+    },
+    {
+      "verse": 27,
+      "text": "Aux fils de Gerson, d'entre les familles des Lévites, ils donnèrent, de la demi-tribu de Manassé, la ville de refuge pour le meurtrier, Gaulon, en Basan, et sa banlieue, ainsi que Bosra et sa banlieue: deux villes."
+    },
+    {
+      "verse": 28,
+      "text": "De la tribu d'Issachar: Césion et sa banlieue, Dabéreth et sa banlieue,"
+    },
+    {
+      "verse": 29,
+      "text": "Jaramoth et sa banlieue, En-Gannim et sa banlieue: quatre villes."
+    },
+    {
+      "verse": 30,
+      "text": "De la tribu d'Aser: Masal et sa banlieue, Abdon et sa banlieue,"
+    },
+    {
+      "verse": 31,
+      "text": "Helcath et sa banlieue, Rohob et sa banlieue: quatre villes."
+    },
+    {
+      "verse": 32,
+      "text": "De la tribu de Nephthali: la ville de refuge pour le meurtrier, Cédès en Galilée et sa banlieue, ainsi que Hamoth-Dor et sa banlieue, Carthan et sa banlieue: trois villes."
+    },
+    {
+      "verse": 33,
+      "text": "Total des villes des Gersonites, selon leurs familles: treize villes et leurs banlieues."
+    },
+    {
+      "verse": 34,
+      "text": "Aux familles des fils de Mérari, au reste des Lévites, ils donnèrent, de la tribu de Zabulon: Jecnam et sa banlieue, Cartha et sa banlieue,"
+    },
+    {
+      "verse": 35,
+      "text": "Damna et sa banlieue, Naalol et sa banlieue: quatre villes."
+    },
+    {
+      "verse": 36,
+      "text": "Et de la tribu de Gad: la ville de refuge pour le meurtrier, Ramoth en Galaad et sa banlieue, ainsi que Manaïm et sa banlieue,"
+    },
+    {
+      "verse": 37,
+      "text": "Hésebon et sa banlieue, Jaser et sa banlieue: en tout quatre villes."
+    },
+    {
+      "verse": 38,
+      "text": "Total des villes assignées par le sort aux fils de Mérari, selon leurs familles, formant le reste des familles des Lévites: douze villes."
+    },
+    {
+      "verse": 39,
+      "text": "Total des villes des Lévites au milieu des possessions des enfants d'Israël: quarante-huit villes et leurs banlieues."
+    },
+    {
+      "verse": 40,
+      "text": "Chacune de ces villes avait sa banlieue tout autour; il en était ainsi pour toutes ces villes."
+    },
+    {
+      "verse": 41,
+      "text": "C'est ainsi que Yahweh donna à Israël tout le pays qu'il avait juré de donner à leurs pères; ils en prirent possession et s'y établirent."
+    },
+    {
+      "verse": 42,
+      "text": "Yahweh leur accorda du repos tout autour d'eux, comme il l'avait juré à leurs pères; aucun de leurs ennemis ne put leur résister, et Yahweh les livra tous entre leurs mains."
+    },
+    {
+      "verse": 43,
+      "text": "De toutes les bonnes paroles que Yahweh avait dites à la maison d'Israël, aucune ne resta sans effet; toutes s'accomplirent."
+    }
+  ]
+}

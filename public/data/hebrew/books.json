@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Genesis",
+    "slug": "genesis",
+    "nativeName": "בְּרֵאשִׁית",
+    "chapterCount": 50,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Exodus",
+    "slug": "exodus",
+    "nativeName": "שְׁמוֹת",
+    "chapterCount": 40,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Leviticus",
+    "slug": "leviticus",
+    "nativeName": "וַיִּקְרָא",
+    "chapterCount": 27,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Numbers",
+    "slug": "numbers",
+    "nativeName": "בְּמִדְבַּר",
+    "chapterCount": 36,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Deuteronomy",
+    "slug": "deuteronomy",
+    "nativeName": "דְּבָרִים",
+    "chapterCount": 34,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Joshua",
+    "slug": "joshua",
+    "nativeName": "יְהוֹשֻׁעַ",
+    "chapterCount": 24,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Judges",
+    "slug": "judges",
+    "nativeName": "שׁוֹפְטִים",
+    "chapterCount": 21,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "I Samuel",
+    "slug": "1-samuel",
+    "nativeName": "שְׁמוּאֵל א׳",
+    "chapterCount": 31,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "II Samuel",
+    "slug": "2-samuel",
+    "nativeName": "שְׁמוּאֵל ב׳",
+    "chapterCount": 24,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "I Kings",
+    "slug": "1-kings",
+    "nativeName": "מְלָכִים א׳",
+    "chapterCount": 22,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "II Kings",
+    "slug": "2-kings",
+    "nativeName": "מְלָכִים ב׳",
+    "chapterCount": 25,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Isaiah",
+    "slug": "isaiah",
+    "nativeName": "יְשַׁעְיָהוּ",
+    "chapterCount": 66,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Jeremiah",
+    "slug": "jeremiah",
+    "nativeName": "יִרְמְיָהוּ",
+    "chapterCount": 52,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Ezekiel",
+    "slug": "ezekiel",
+    "nativeName": "יְחֶזְקֵאל",
+    "chapterCount": 48,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Hosea",
+    "slug": "hosea",
+    "nativeName": "הוֹשֵׁעַ",
+    "chapterCount": 14,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Joel",
+    "slug": "joel",
+    "nativeName": "יוֹאֵל",
+    "chapterCount": 4,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Amos",
+    "slug": "amos",
+    "nativeName": "עָמוֹס",
+    "chapterCount": 9,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Obadiah",
+    "slug": "obadiah",
+    "nativeName": "עֹבַדְיָה",
+    "chapterCount": 1,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Jonah",
+    "slug": "jonah",
+    "nativeName": "יוֹנָה",
+    "chapterCount": 4,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Micah",
+    "slug": "micah",
+    "nativeName": "מִיכָה",
+    "chapterCount": 7,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Nahum",
+    "slug": "nahum",
+    "nativeName": "נַחוּם",
+    "chapterCount": 3,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Habakkuk",
+    "slug": "habakkuk",
+    "nativeName": "חֲבַקּוּק",
+    "chapterCount": 3,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Zephaniah",
+    "slug": "zephaniah",
+    "nativeName": "צְפַנְיָה",
+    "chapterCount": 3,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Haggai",
+    "slug": "haggai",
+    "nativeName": "חַגַּי",
+    "chapterCount": 2,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Zechariah",
+    "slug": "zechariah",
+    "nativeName": "זְכַרְיָה",
+    "chapterCount": 14,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Malachi",
+    "slug": "malachi",
+    "nativeName": "מַלְאָכִי",
+    "chapterCount": 3,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "I Chronicles",
+    "slug": "1-chronicles",
+    "nativeName": "דִּבְרֵי הַיָּמִים א׳",
+    "chapterCount": 29,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "II Chronicles",
+    "slug": "2-chronicles",
+    "nativeName": "דִּבְרֵי הַיָּמִים ב׳",
+    "chapterCount": 36,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Psalms",
+    "slug": "psalms",
+    "nativeName": "תְּהִלִּים",
+    "chapterCount": 150,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Job",
+    "slug": "job",
+    "nativeName": "אִיּוֹב",
+    "chapterCount": 42,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Proverbs",
+    "slug": "proverbs",
+    "nativeName": "מִשְׁלֵי",
+    "chapterCount": 31,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Ruth",
+    "slug": "ruth",
+    "nativeName": "רוּת",
+    "chapterCount": 4,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Song of Solomon",
+    "slug": "song-of-solomon",
+    "nativeName": "שִׁיר הַשִּׁירִים",
+    "chapterCount": 8,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Ecclesiastes",
+    "slug": "ecclesiastes",
+    "nativeName": "קֹהֶלֶת",
+    "chapterCount": 12,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Lamentations",
+    "slug": "lamentations",
+    "nativeName": "אֵיכָה",
+    "chapterCount": 5,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Esther",
+    "slug": "esther",
+    "nativeName": "אֶסְתֵּר",
+    "chapterCount": 10,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Daniel",
+    "slug": "daniel",
+    "nativeName": "דָּנִיֵּאל",
+    "chapterCount": 12,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Ezra",
+    "slug": "ezra",
+    "nativeName": "עֶזְרָא",
+    "chapterCount": 10,
+    "language": "hebrew",
+    "dir": "rtl"
+  },
+  {
+    "name": "Nehemiah",
+    "slug": "nehemiah",
+    "nativeName": "נְחֶמְיָה",
+    "chapterCount": 13,
+    "language": "hebrew",
+    "dir": "rtl"
+  }
+]

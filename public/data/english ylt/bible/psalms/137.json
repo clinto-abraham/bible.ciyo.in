@@ -1,0 +1,48 @@
+{
+  "translation": "YLT: Young's Literal Translation (1898)",
+  "language": "english-ylt",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 137,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "By rivers of Babylon--There we did sit, Yea, we wept when we remembered Zion."
+    },
+    {
+      "verse": 2,
+      "text": "On willows in its midst we hung our harps."
+    },
+    {
+      "verse": 3,
+      "text": "For there our captors asked us the words of a song, And our spoilers--joy: `Sing ye to us of a song of Zion.'"
+    },
+    {
+      "verse": 4,
+      "text": "How do we sing the song of Jehovah, On the land of a stranger?"
+    },
+    {
+      "verse": 5,
+      "text": "If I forget thee, O Jerusalem, my right hand forgetteth!"
+    },
+    {
+      "verse": 6,
+      "text": "My tongue doth cleave to my palate, If I do not remember thee, If I do not exalt Jerusalem above my chief joy."
+    },
+    {
+      "verse": 7,
+      "text": "Remember, Jehovah, for the sons of Edom, The day of Jerusalem, Those saying, `Rase, rase to its foundation!'"
+    },
+    {
+      "verse": 8,
+      "text": "O daughter of Babylon, O destroyed one, O the happiness of him who repayeth to thee thy deed, That thou hast done to us."
+    },
+    {
+      "verse": 9,
+      "text": "O the happiness of him who doth seize, And hath dashed thy sucklings on the rock!"
+    }
+  ]
+}

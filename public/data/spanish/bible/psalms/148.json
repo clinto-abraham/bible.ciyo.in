@@ -1,0 +1,68 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 148,
+  "totalVerses": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Aleluya. ALABAD á Jehová desde los cielos: alabadle en las alturas."
+    },
+    {
+      "verse": 2,
+      "text": "Alabadle, vosotros todos sus ángeles: alabadle, vosotros todos sus ejércitos."
+    },
+    {
+      "verse": 3,
+      "text": "Alabadle, sol y luna: alabadle, vosotras todas, lucientes estrellas."
+    },
+    {
+      "verse": 4,
+      "text": "Alabadle, cielos de los cielos, y las aguas que están sobre los cielos."
+    },
+    {
+      "verse": 5,
+      "text": "Alaben el nombre de Jehová; porque él mandó, y fueron criadas."
+    },
+    {
+      "verse": 6,
+      "text": "Y las hizo ser para siempre por los siglos; púso les ley que no será quebrantada."
+    },
+    {
+      "verse": 7,
+      "text": "Alabad á Jehová, de la tierra los dragones y todos los abismos;"
+    },
+    {
+      "verse": 8,
+      "text": "El fuego y el granizo, la nieve y el vapor, el viento de tempestad que ejecuta su palabra;"
+    },
+    {
+      "verse": 9,
+      "text": "Los montes y todos los collados; el árbol de fruto, y todos los cedros;"
+    },
+    {
+      "verse": 10,
+      "text": "La bestia y todo animal; reptiles y volátiles;"
+    },
+    {
+      "verse": 11,
+      "text": "Los reyes de la tierra y todos los pueblos; los príncipes y todos los jueces de la tierra;"
+    },
+    {
+      "verse": 12,
+      "text": "Los mancebos y también las doncellas; los viejos y los niños,"
+    },
+    {
+      "verse": 13,
+      "text": "Alaben el nombre de Jehová, porque sólo su nombre es elevado; su gloria es sobre tierra y cielos."
+    },
+    {
+      "verse": 14,
+      "text": "El ensalzó el cuerno de su pueblo; aláben le todos sus santos, los hijos de Israel, el pueblo á él cercano. Aleluya."
+    }
+  ]
+}

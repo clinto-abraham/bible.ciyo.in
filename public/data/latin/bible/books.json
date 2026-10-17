@@ -1,0 +1,626 @@
+[
+  {
+    "name": "Genesis",
+    "slug": "genesis",
+    "nativeName": "Genesis",
+    "chapterCount": 50,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Exodus",
+    "slug": "exodus",
+    "nativeName": "Exodus",
+    "chapterCount": 40,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Leviticus",
+    "slug": "leviticus",
+    "nativeName": "Leviticus",
+    "chapterCount": 27,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Numbers",
+    "slug": "numbers",
+    "nativeName": "Numeri",
+    "chapterCount": 36,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Deuteronomy",
+    "slug": "deuteronomy",
+    "nativeName": "Deuteronomium",
+    "chapterCount": 34,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Joshua",
+    "slug": "joshua",
+    "nativeName": "Joshua",
+    "chapterCount": 24,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Judges",
+    "slug": "judges",
+    "nativeName": "Judges",
+    "chapterCount": 21,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Ruth",
+    "slug": "ruth",
+    "nativeName": "Ruth",
+    "chapterCount": 4,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Samuel",
+    "slug": "1-samuel",
+    "nativeName": "I Samuel",
+    "chapterCount": 31,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Samuel",
+    "slug": "2-samuel",
+    "nativeName": "II Samuel",
+    "chapterCount": 24,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Kings",
+    "slug": "1-kings",
+    "nativeName": "I Kings",
+    "chapterCount": 22,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Kings",
+    "slug": "2-kings",
+    "nativeName": "II Kings",
+    "chapterCount": 25,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Chronicles",
+    "slug": "1-chronicles",
+    "nativeName": "I Chronicles",
+    "chapterCount": 29,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Chronicles",
+    "slug": "2-chronicles",
+    "nativeName": "II Chronicles",
+    "chapterCount": 36,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Ezra",
+    "slug": "ezra",
+    "nativeName": "Ezra",
+    "chapterCount": 10,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Nehemiah",
+    "slug": "nehemiah",
+    "nativeName": "Nehemiah",
+    "chapterCount": 13,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Tobit",
+    "slug": "tobit",
+    "nativeName": "Tobit",
+    "chapterCount": 14,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Judith",
+    "slug": "judith",
+    "nativeName": "Judith",
+    "chapterCount": 16,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Esther",
+    "slug": "esther",
+    "nativeName": "Esther",
+    "chapterCount": 16,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Job",
+    "slug": "job",
+    "nativeName": "Job",
+    "chapterCount": 42,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Psalms",
+    "slug": "psalms",
+    "nativeName": "Psalms",
+    "chapterCount": 150,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Proverbs",
+    "slug": "proverbs",
+    "nativeName": "Proverbs",
+    "chapterCount": 31,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Ecclesiastes",
+    "slug": "ecclesiastes",
+    "nativeName": "Ecclesiastes",
+    "chapterCount": 12,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Song of Solomon",
+    "slug": "song-of-solomon",
+    "nativeName": "Song of Solomon",
+    "chapterCount": 8,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Wisdom",
+    "slug": "wisdom",
+    "nativeName": "Wisdom",
+    "chapterCount": 19,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Sirach",
+    "slug": "sirach",
+    "nativeName": "Sirach",
+    "chapterCount": 51,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Isaiah",
+    "slug": "isaiah",
+    "nativeName": "Isaiah",
+    "chapterCount": 66,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Jeremiah",
+    "slug": "jeremiah",
+    "nativeName": "Jeremiah",
+    "chapterCount": 52,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Lamentations",
+    "slug": "lamentations",
+    "nativeName": "Lamentations",
+    "chapterCount": 5,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Baruch",
+    "slug": "baruch",
+    "nativeName": "Baruch",
+    "chapterCount": 6,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Ezekiel",
+    "slug": "ezekiel",
+    "nativeName": "Ezekiel",
+    "chapterCount": 48,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Daniel",
+    "slug": "daniel",
+    "nativeName": "Daniel",
+    "chapterCount": 14,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Hosea",
+    "slug": "hosea",
+    "nativeName": "Hosea",
+    "chapterCount": 14,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Joel",
+    "slug": "joel",
+    "nativeName": "Joel",
+    "chapterCount": 3,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Amos",
+    "slug": "amos",
+    "nativeName": "Amos",
+    "chapterCount": 9,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Obadiah",
+    "slug": "obadiah",
+    "nativeName": "Obadiah",
+    "chapterCount": 1,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Jonah",
+    "slug": "jonah",
+    "nativeName": "Jonah",
+    "chapterCount": 4,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Micah",
+    "slug": "micah",
+    "nativeName": "Micah",
+    "chapterCount": 7,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Nahum",
+    "slug": "nahum",
+    "nativeName": "Nahum",
+    "chapterCount": 3,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Habakkuk",
+    "slug": "habakkuk",
+    "nativeName": "Habakkuk",
+    "chapterCount": 3,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Zephaniah",
+    "slug": "zephaniah",
+    "nativeName": "Zephaniah",
+    "chapterCount": 3,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Haggai",
+    "slug": "haggai",
+    "nativeName": "Haggai",
+    "chapterCount": 2,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Zechariah",
+    "slug": "zechariah",
+    "nativeName": "Zechariah",
+    "chapterCount": 14,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Malachi",
+    "slug": "malachi",
+    "nativeName": "Malachi",
+    "chapterCount": 4,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Maccabees",
+    "slug": "1-maccabees",
+    "nativeName": "I Maccabees",
+    "chapterCount": 16,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Maccabees",
+    "slug": "2-maccabees",
+    "nativeName": "II Maccabees",
+    "chapterCount": 15,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Matthew",
+    "slug": "matthew",
+    "nativeName": "Secundum Matthaeum",
+    "chapterCount": 28,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Mark",
+    "slug": "mark",
+    "nativeName": "Secundum Marcum",
+    "chapterCount": 16,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Luke",
+    "slug": "luke",
+    "nativeName": "Secundum Lucam",
+    "chapterCount": 24,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "John",
+    "slug": "john",
+    "nativeName": "Secundum Ioannem",
+    "chapterCount": 21,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Acts",
+    "slug": "acts",
+    "nativeName": "Actus Apostolorum",
+    "chapterCount": 28,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Romans",
+    "slug": "romans",
+    "nativeName": "Ad Romanos",
+    "chapterCount": 16,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Corinthians",
+    "slug": "1-corinthians",
+    "nativeName": "I Corinthians",
+    "chapterCount": 16,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Corinthians",
+    "slug": "2-corinthians",
+    "nativeName": "II Corinthians",
+    "chapterCount": 13,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Galatians",
+    "slug": "galatians",
+    "nativeName": "Galatians",
+    "chapterCount": 6,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Ephesians",
+    "slug": "ephesians",
+    "nativeName": "Ephesians",
+    "chapterCount": 6,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Philippians",
+    "slug": "philippians",
+    "nativeName": "Philippians",
+    "chapterCount": 4,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Colossians",
+    "slug": "colossians",
+    "nativeName": "Colossians",
+    "chapterCount": 4,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Thessalonians",
+    "slug": "1-thessalonians",
+    "nativeName": "I Thessalonians",
+    "chapterCount": 5,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Thessalonians",
+    "slug": "2-thessalonians",
+    "nativeName": "II Thessalonians",
+    "chapterCount": 3,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Timothy",
+    "slug": "1-timothy",
+    "nativeName": "I Timothy",
+    "chapterCount": 6,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Timothy",
+    "slug": "2-timothy",
+    "nativeName": "II Timothy",
+    "chapterCount": 4,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Titus",
+    "slug": "titus",
+    "nativeName": "Titus",
+    "chapterCount": 3,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Philemon",
+    "slug": "philemon",
+    "nativeName": "Philemon",
+    "chapterCount": 1,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Hebrews",
+    "slug": "hebrews",
+    "nativeName": "Hebrews",
+    "chapterCount": 13,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "James",
+    "slug": "james",
+    "nativeName": "James",
+    "chapterCount": 5,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Peter",
+    "slug": "1-peter",
+    "nativeName": "I Peter",
+    "chapterCount": 5,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Peter",
+    "slug": "2-peter",
+    "nativeName": "II Peter",
+    "chapterCount": 3,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "I John",
+    "slug": "1-john",
+    "nativeName": "I John",
+    "chapterCount": 5,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "II John",
+    "slug": "2-john",
+    "nativeName": "II John",
+    "chapterCount": 1,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "III John",
+    "slug": "3-john",
+    "nativeName": "III John",
+    "chapterCount": 1,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Jude",
+    "slug": "jude",
+    "nativeName": "Jude",
+    "chapterCount": 1,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Revelation of John",
+    "slug": "revelation",
+    "nativeName": "Apocalypsis",
+    "chapterCount": 22,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Prayer of Manasses",
+    "slug": "prayer-of-manasses",
+    "nativeName": "Prayer of Manasses",
+    "chapterCount": 1,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Esdras",
+    "slug": "1-esdras",
+    "nativeName": "I Esdras",
+    "chapterCount": 9,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Esdras",
+    "slug": "2-esdras",
+    "nativeName": "II Esdras",
+    "chapterCount": 16,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Additional Psalm",
+    "slug": "additional-psalm",
+    "nativeName": "Additional Psalm",
+    "chapterCount": 1,
+    "language": "latin",
+    "dir": "ltr"
+  },
+  {
+    "name": "Laodiceans",
+    "slug": "laodiceans",
+    "nativeName": "Laodiceans",
+    "chapterCount": 1,
+    "language": "latin",
+    "dir": "ltr"
+  }
+]

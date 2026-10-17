@@ -1,0 +1,156 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Ezra",
+  "bookSlug": "ezra",
+  "nativeName": "Ezra",
+  "chapterNumber": 8,
+  "totalVerses": 36,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "hii sunt ergo principes familiarum et genealogia eorum qui ascenderunt mecum in regno Artarxersis regis de Babylone"
+    },
+    {
+      "verse": 2,
+      "text": "de filiis Finees Gersom de filiis Ithamar Danihel de filiis David Attus"
+    },
+    {
+      "verse": 3,
+      "text": "de filiis Secheniae et de filiis Pharos Zaccharias et cum eo numerati sunt viri centum quinquaginta"
+    },
+    {
+      "verse": 4,
+      "text": "de filiis Phaethmoab Helioenai filius Zareae et cum eo ducenti viri"
+    },
+    {
+      "verse": 5,
+      "text": "de filiis Secheniae filius Hiezihel et cum eo trecenti viri"
+    },
+    {
+      "verse": 6,
+      "text": "de filiis Adden Abeth filius Ionathan et cum eo quinquaginta viri"
+    },
+    {
+      "verse": 7,
+      "text": "de filiis Helam Isaias filius Athaliae et cum eo septuaginta viri"
+    },
+    {
+      "verse": 8,
+      "text": "de filiis Saphatiae Zebedia filius Michahel et cum eo octoginta viri"
+    },
+    {
+      "verse": 9,
+      "text": "de filiis Ioab Obedia filius Iehihel et cum eo ducenti decem et octo viri"
+    },
+    {
+      "verse": 10,
+      "text": "de filiis Selomith filius Iosphiae et cum eo centum sexaginta viri"
+    },
+    {
+      "verse": 11,
+      "text": "de filiis Bebai Zaccharias filius Bebai et cum eo viginti octo viri"
+    },
+    {
+      "verse": 12,
+      "text": "de filiis Ezgad Iohanan filius Eccetan et cum eo centum decem viri"
+    },
+    {
+      "verse": 13,
+      "text": "de filiis Adonicam qui erant novissimi et haec nomina eorum Helifeleth et Heihel et Samaias et cum eis sexaginta viri"
+    },
+    {
+      "verse": 14,
+      "text": "de filiis Beggui Uthai et Zacchur et cum eo septuaginta viri"
+    },
+    {
+      "verse": 15,
+      "text": "congregavi autem eos ad fluvium qui decurrit ad Ahavva et mansimus ibi diebus tribus quaesivique in populo et in sacerdotibus de filiis Levi et non inveni ibi"
+    },
+    {
+      "verse": 16,
+      "text": "itaque misi Heliezer et Arihel et Semeam et Helnathan et Iarib et alterum Helnathan et Nathan et Zacchariam et Mesolam principes et Ioarib et Helnathan sapientes"
+    },
+    {
+      "verse": 17,
+      "text": "et misi eos ad Heddo qui est primus in Casphiae loco et posui in ore eorum verba quae loquerentur ad Addom et ad fratres eius Nathinneos in loco Casphiae ut adducerent nobis ministros domus Dei nostri"
+    },
+    {
+      "verse": 18,
+      "text": "et adduxerunt nobis per manum Dei nostri bonam super nos virum doctissimum de filiis Moolli filii Levi filii Israhel et Sarabiam et filios eius et fratres eius decem et octo"
+    },
+    {
+      "verse": 19,
+      "text": "et Asabiam et cum eo Isaiam de filiis Merari fratres eius et filios eius viginti"
+    },
+    {
+      "verse": 20,
+      "text": "et de Nathinneis quos dederat David et principes ad ministeria Levitarum Nathinneos ducentos viginti omnes hii suis nominibus vocabantur"
+    },
+    {
+      "verse": 21,
+      "text": "et praedicavi ibi ieiunium iuxta fluvium Ahavva ut adfligeremur coram Domino Deo nostro et peteremus ab eo viam rectam nobis et filiis nostris universaeque substantiae nostrae"
+    },
+    {
+      "verse": 22,
+      "text": "erubui enim petere regem auxilium et equites qui defenderent nos ab inimico in via quia dixeramus regi manus Dei nostri est super omnes qui quaerunt eum in bonitate et imperium eius et fortitudo eius et furor super omnes qui derelinquunt eum"
+    },
+    {
+      "verse": 23,
+      "text": "ieiunavimus autem et rogavimus Deum nostrum pro hoc et evenit nobis prospere"
+    },
+    {
+      "verse": 24,
+      "text": "et separavi de principibus sacerdotum duodecim Sarabian Asabian et cum eis de fratribus eorum decem"
+    },
+    {
+      "verse": 25,
+      "text": "adpendique eis argentum et aurum et vasa consecrata domus Dei nostri quae obtulerat rex et consiliatores eius et principes eius universusque Israhel eorum qui inventi fuerant"
+    },
+    {
+      "verse": 26,
+      "text": "et adpendi in manibus eorum argenti talenta sescenta quinquaginta et vasa argentea centum auri centum talenta"
+    },
+    {
+      "verse": 27,
+      "text": "et crateras aureos viginti qui habebant solidos millenos et vasa aeris fulgentis optimi duo pulchra ut aurum"
+    },
+    {
+      "verse": 28,
+      "text": "et dixi eis vos sancti Domini et vasa sancta et argentum et aurum quod sponte oblatum est Domino Deo patrum vestrorum"
+    },
+    {
+      "verse": 29,
+      "text": "vigilate et custodite donec adpendatis coram principibus sacerdotum et Levitarum et ducibus familiarum Israhel in Hierusalem et thesaurum domus Domini"
+    },
+    {
+      "verse": 30,
+      "text": "susceperunt autem sacerdotes et Levitae pondus argenti et auri et vasorum ut deferrent in Hierusalem in domum Dei nostri"
+    },
+    {
+      "verse": 31,
+      "text": "promovimus ergo a flumine Ahavva duodecimo die mensis primi ut pergeremus Hierusalem et manus Dei nostri fuit super nos et liberavit nos de manu inimici et insidiatoris in via"
+    },
+    {
+      "verse": 32,
+      "text": "et venimus Hierusalem et mansimus ibi diebus tribus"
+    },
+    {
+      "verse": 33,
+      "text": "die autem quarta adpensum est argentum et aurum et vasa in domo Dei nostri per manum Meremoth filii Uriae sacerdotis et cum eo Eleazar filius Finees cumque eis Iozaded filius Iosue et Noadaia filius Bennoi Levitae"
+    },
+    {
+      "verse": 34,
+      "text": "iuxta numerum et pondus omnium descriptumque est omne pondus in tempore illo"
+    },
+    {
+      "verse": 35,
+      "text": "sed et qui venerant de captivitate filii transmigrationis obtulerunt holocaustomata Deo Israhel vitulos duodecim pro omni Israhel arietes nonaginta sex agnos septuaginta septem hircos pro peccato duodecim omnia in holocaustum Domino"
+    },
+    {
+      "verse": 36,
+      "text": "dederunt autem edicta regis satrapis qui erant de conspectu regis et ducibus trans Flumen et elevaverunt populum et domum Dei"
+    }
+  ]
+}

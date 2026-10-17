@@ -1,0 +1,60 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Micah",
+  "bookSlug": "micah",
+  "nativeName": "Micah",
+  "chapterNumber": 3,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "et dixi audite principes Iacob et duces domus Israhel numquid non vestrum est scire iudicium"
+    },
+    {
+      "verse": 2,
+      "text": "qui odio habetis bonum et diligitis malum qui violenter tollitis pelles eorum desuper eos et carnem eorum desuper ossibus eorum"
+    },
+    {
+      "verse": 3,
+      "text": "qui comederunt carnem populi mei et pellem eorum desuper excoriaverunt et ossa eorum confregerunt et conciderunt sicut in lebete et quasi carnem in medio ollae"
+    },
+    {
+      "verse": 4,
+      "text": "tunc clamabunt ad Dominum et non exaudiet eos et abscondet faciem suam ab eis in tempore illo sicut nequiter egerunt in adinventionibus suis"
+    },
+    {
+      "verse": 5,
+      "text": "haec dicit Dominus super prophetas qui seducunt populum meum qui mordent dentibus suis et praedicant pacem et si quis non dederit in ore eorum quippiam sanctificant super eum proelium"
+    },
+    {
+      "verse": 6,
+      "text": "propterea nox vobis pro visione erit et tenebrae vobis pro divinatione et occumbet sol super prophetas et obtenebrabitur super eos dies"
+    },
+    {
+      "verse": 7,
+      "text": "et confundentur qui vident visiones et confundentur divini et operient vultus suos omnes quia non est responsum Dei"
+    },
+    {
+      "verse": 8,
+      "text": "verumtamen ego repletus sum fortitudine spiritus Domini iudicio et virtute ut adnuntiem Iacob scelus suum et Israhel peccatum suum"
+    },
+    {
+      "verse": 9,
+      "text": "audite haec principes domus Iacob et iudices domus Israhel qui abominamini iudicium et omnia recta pervertitis"
+    },
+    {
+      "verse": 10,
+      "text": "qui aedificatis Sion in sanguinibus et Hierusalem in iniquitate"
+    },
+    {
+      "verse": 11,
+      "text": "principes eius in muneribus iudicabant et sacerdotes eius in mercede docebant et prophetae eius in pecunia divinabant et super Dominum requiescebant dicentes numquid non Dominus in medio nostrum non venient super nos mala"
+    },
+    {
+      "verse": 12,
+      "text": "propter hoc causa vestri Sion quasi ager arabitur et Hierusalem quasi acervus lapidum erit et mons templi in excelsa silvarum"
+    }
+  ]
+}

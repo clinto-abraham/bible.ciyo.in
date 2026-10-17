@@ -1,0 +1,48 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 28,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Salmo de David. A TI clamaré, oh Jehová, fortaleza mía: no te desentiendas de mí; porque no sea yo, dejándome tú, semejante á los que descienden al sepulcro."
+    },
+    {
+      "verse": 2,
+      "text": "Oye la voz de mis ruegos cuando clamo á ti, cuando alzo mis manos hacia el templo de tu santidad."
+    },
+    {
+      "verse": 3,
+      "text": "No me arrebates á una con los malos, y con los que hacen iniquidad: los cuales hablan paz con sus prójimos, y la maldad está en su corazón."
+    },
+    {
+      "verse": 4,
+      "text": "Dales conforme á su obra, y conforme á la malicia de sus hechos: dales conforme á la obra de sus manos, dales su paga."
+    },
+    {
+      "verse": 5,
+      "text": "Porque no atendieron á las obras de Jehová, ni al hecho de sus manos, derribarálos, y no los edificará."
+    },
+    {
+      "verse": 6,
+      "text": "Bendito Jehová, que oyó la voz de mis ruegos."
+    },
+    {
+      "verse": 7,
+      "text": "Jehová es mi fortaleza y mi escudo: en él esperó mi corazón, y fuí ayudado; por lo que se gozó mi corazón, y con mi canción le alabaré."
+    },
+    {
+      "verse": 8,
+      "text": "Jehová es su fuerza, y la fortaleza de las saludes de su ungido."
+    },
+    {
+      "verse": 9,
+      "text": "Salva á tu pueblo, y bendice á tu heredad; y pastoréalos y ensálzalos para siempre."
+    }
+  ]
+}

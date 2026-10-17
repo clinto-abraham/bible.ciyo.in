@@ -1,0 +1,128 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Proverbs",
+  "bookSlug": "proverbs",
+  "nativeName": "Proverbs",
+  "chapterNumber": 19,
+  "totalVerses": 29,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "melior est pauper qui ambulat in simplicitate sua quam torquens labia insipiens"
+    },
+    {
+      "verse": 2,
+      "text": "ubi non est scientia animae non est bonum et qui festinus est pedibus offendit"
+    },
+    {
+      "verse": 3,
+      "text": "stultitia hominis subplantat gressus eius et contra Deum fervet animo suo"
+    },
+    {
+      "verse": 4,
+      "text": "divitiae addunt amicos plurimos a paupere autem et hii quos habuit separantur"
+    },
+    {
+      "verse": 5,
+      "text": "testis falsus non erit inpunitus et qui mendacia loquitur non effugiet"
+    },
+    {
+      "verse": 6,
+      "text": "multi colunt personam potentis et amici sunt dona tribuenti"
+    },
+    {
+      "verse": 7,
+      "text": "fratres hominis pauperis oderunt eum insuper et amici procul recesserunt ab eo qui tantum verba sectatur nihil habebit"
+    },
+    {
+      "verse": 8,
+      "text": "qui autem possessor est mentis diligit animam suam et custos prudentiae inveniet bona"
+    },
+    {
+      "verse": 9,
+      "text": "testis falsus non erit inpunitus et qui loquitur mendacia peribit"
+    },
+    {
+      "verse": 10,
+      "text": "non decent stultum deliciae nec servum dominari principibus"
+    },
+    {
+      "verse": 11,
+      "text": "doctrina viri per patientiam noscitur et gloria eius est iniqua praetergredi"
+    },
+    {
+      "verse": 12,
+      "text": "sicut fremitus leonis ita et regis ira et sicut ros super herbam ita hilaritas eius"
+    },
+    {
+      "verse": 13,
+      "text": "dolor patris filius stultus et tecta iugiter perstillantia litigiosa mulier"
+    },
+    {
+      "verse": 14,
+      "text": "domus et divitiae dantur a patribus a Domino autem proprie uxor prudens"
+    },
+    {
+      "verse": 15,
+      "text": "pigredo inmittit soporem et anima dissoluta esuriet"
+    },
+    {
+      "verse": 16,
+      "text": "qui custodit mandatum custodit animam suam qui autem neglegit vias suas mortificabitur"
+    },
+    {
+      "verse": 17,
+      "text": "feneratur Domino qui miseretur pauperis et vicissitudinem suam reddet ei"
+    },
+    {
+      "verse": 18,
+      "text": "erudi filium tuum ne desperes ad interfectionem autem eius ne ponas animam tuam"
+    },
+    {
+      "verse": 19,
+      "text": "qui inpatiens est sustinebit damnum et cum rapuerit aliud adponet"
+    },
+    {
+      "verse": 20,
+      "text": "audi consilium et suscipe disciplinam ut sis sapiens in novissimis tuis"
+    },
+    {
+      "verse": 21,
+      "text": "multae cogitationes in corde viri voluntas autem Domini permanebit"
+    },
+    {
+      "verse": 22,
+      "text": "homo indigens misericors est et melior pauper quam vir mendax"
+    },
+    {
+      "verse": 23,
+      "text": "timor Domini ad vitam et in plenitudine commorabitur absque visitatione pessimi"
+    },
+    {
+      "verse": 24,
+      "text": "abscondit piger manum suam sub ascella nec ad os suum adplicat eam"
+    },
+    {
+      "verse": 25,
+      "text": "pestilente flagellato stultus sapientior erit sin autem corripueris sapientem intelleget disciplinam"
+    },
+    {
+      "verse": 26,
+      "text": "qui adfligit patrem et fugat matrem ignominiosus est et infelix"
+    },
+    {
+      "verse": 27,
+      "text": "non cesses fili audire doctrinam nec ignores sermones scientiae"
+    },
+    {
+      "verse": 28,
+      "text": "testis iniquus deridet iudicium et os impiorum devorat iniquitatem"
+    },
+    {
+      "verse": 29,
+      "text": "parata sunt derisoribus iudicia et mallei percutientes stultorum corporibus"
+    }
+  ]
+}

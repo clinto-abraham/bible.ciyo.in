@@ -1,0 +1,92 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Ecclesiastes",
+  "bookSlug": "ecclesiastes",
+  "nativeName": "Ecclesiastes",
+  "chapterNumber": 10,
+  "totalVerses": 20,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "muscae morientes perdunt suavitatem unguenti pretiosior est sapientia et gloria parva ad tempus stultitia"
+    },
+    {
+      "verse": 2,
+      "text": "cor sapientis in dextera eius et cor stulti in sinistra illius"
+    },
+    {
+      "verse": 3,
+      "text": "sed et in via stultus ambulans cum ipse insipiens sit omnes stultos aestimat"
+    },
+    {
+      "verse": 4,
+      "text": "si spiritus potestatem habentis ascenderit super te locum tuum ne dimiseris quia curatio cessare faciet peccata maxima"
+    },
+    {
+      "verse": 5,
+      "text": "est malum quod vidi sub sole quasi per errorem egrediens a facie principis"
+    },
+    {
+      "verse": 6,
+      "text": "positum stultum in dignitate sublimi et divites sedere deorsum"
+    },
+    {
+      "verse": 7,
+      "text": "vidi servos in equis et principes ambulantes quasi servos super terram"
+    },
+    {
+      "verse": 8,
+      "text": "qui fodit foveam incidet in eam et qui dissipat sepem mordebit eum coluber"
+    },
+    {
+      "verse": 9,
+      "text": "qui transfert lapides adfligetur in eis et qui scindit ligna vulnerabitur ab eis"
+    },
+    {
+      "verse": 10,
+      "text": "si retunsum fuerit ferrum et hoc non ut prius sed hebetatum erit multo labore exacuatur et post industriam sequitur sapientia"
+    },
+    {
+      "verse": 11,
+      "text": "si mordeat serpens in silentio nihil eo minus habet qui occulte detrahit"
+    },
+    {
+      "verse": 12,
+      "text": "verba oris sapientis gratia et labia insipientis praecipitabunt eum"
+    },
+    {
+      "verse": 13,
+      "text": "initium verborum eius stultitia et novissimum oris illius error pessimus"
+    },
+    {
+      "verse": 14,
+      "text": "stultus verba multiplicat ignorat homo quid ante se fuerit et quod post futurum est quis illi poterit indicare"
+    },
+    {
+      "verse": 15,
+      "text": "labor stultorum adfliget eos qui nesciunt in urbem pergere"
+    },
+    {
+      "verse": 16,
+      "text": "vae tibi terra cuius rex est puer et cuius principes mane comedunt"
+    },
+    {
+      "verse": 17,
+      "text": "beata terra cuius rex nobilis est et cuius principes vescuntur in tempore suo ad reficiendum et non ad luxuriam"
+    },
+    {
+      "verse": 18,
+      "text": "in pigritiis humiliabitur contignatio et in infirmitate manuum perstillabit domus"
+    },
+    {
+      "verse": 19,
+      "text": "in risu faciunt panem ac vinum ut epulentur viventes et pecuniae oboedient omnia"
+    },
+    {
+      "verse": 20,
+      "text": "in cogitatione tua regi ne detrahas et in secreto cubiculi tui ne maledixeris diviti quia avis caeli portabit vocem tuam et qui habet pinnas adnuntiabit sententiam"
+    }
+  ]
+}

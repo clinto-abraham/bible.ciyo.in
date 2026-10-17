@@ -1,0 +1,48 @@
+{
+  "translation": "YLT: Young's Literal Translation (1898)",
+  "language": "english-ylt",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 113,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Praise ye Jah! Praise, ye servants of Jehovah. Praise the name of Jehovah."
+    },
+    {
+      "verse": 2,
+      "text": "The name of Jehovah is blessed, From henceforth, and unto the age."
+    },
+    {
+      "verse": 3,
+      "text": "From the rising of the sun unto its going in, Praised is the name of Jehovah."
+    },
+    {
+      "verse": 4,
+      "text": "High above all nations is Jehovah, Above the heavens is his honour."
+    },
+    {
+      "verse": 5,
+      "text": "Who is as Jehovah our God, He is exalting Himself to sit?"
+    },
+    {
+      "verse": 6,
+      "text": "He is humbling Himself to look On the heavens and on the earth."
+    },
+    {
+      "verse": 7,
+      "text": "He is raising up from the dust the poor, From a dunghill He exalteth the needy."
+    },
+    {
+      "verse": 8,
+      "text": "To cause to sit with princes, With the princes of His people."
+    },
+    {
+      "verse": 9,
+      "text": "Causing the barren one of the house to sit, A joyful mother of sons; praise ye Jah!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 13,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "（大衛的 詩，交與伶長。）耶和華啊，你忘記我 要到 幾時呢？要到永遠嗎？你掩 面 不顧我 要到 幾時呢？"
+    },
+    {
+      "verse": 2,
+      "text": "我心裡 籌 算，終日 愁苦，要到 幾時呢？我的仇敵 升高 壓制我，要到 幾時呢？"
+    },
+    {
+      "verse": 3,
+      "text": "耶和華─我的 神啊，求你看顧我，應允我！使我眼目 光明，免得 我沉睡 至死；"
+    },
+    {
+      "verse": 4,
+      "text": "免得 我的仇敵 說：我勝了他；免得我的敵人 在我搖動 的時候 喜樂。"
+    },
+    {
+      "verse": 5,
+      "text": "但我 倚靠 你的慈愛；我的心 因你的救恩 快樂。"
+    },
+    {
+      "verse": 6,
+      "text": "我要向耶和華 歌唱，因 他用厚恩 待我。"
+    }
+  ]
+}

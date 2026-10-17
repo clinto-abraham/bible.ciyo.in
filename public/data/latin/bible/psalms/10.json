@@ -1,0 +1,44 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 10,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem psalmus David victori David"
+    },
+    {
+      "verse": 2,
+      "text": "in Domino confido quomodo dicitis animae meae transmigra in montes sicut passer in Domino speravi quomodo dicitis animae meae transvola in montem ut avis"
+    },
+    {
+      "verse": 3,
+      "text": "quoniam ecce peccatores intenderunt arcum paraverunt sagittas suas in faretra ut sagittent in obscuro rectos corde quia ecce impii tetenderunt arcum posuerunt sagittam suam super nervum ut sagittent in abscondito rectos corde"
+    },
+    {
+      "verse": 4,
+      "text": "quoniam quae perfecisti destruxerunt iustus autem quid fecit quia leges dissipatae sunt iustus quid operatus est"
+    },
+    {
+      "verse": 5,
+      "text": "Dominus in templo sancto suo Dominus in caelo sedis eius oculi eius in pauperem respiciunt palpebrae eius interrogant filios hominum Dominus in templo sancto suo Dominus in caelo thronus eius oculi eius vident palpebrae eius probant filios hominum"
+    },
+    {
+      "verse": 6,
+      "text": "Dominus interrogat iustum et impium qui autem diligit iniquitatem odit animam suam Dominus iustum probat impium autem et diligentem iniquitatem odit anima eius"
+    },
+    {
+      "verse": 7,
+      "text": "pluet super peccatores laqueos ignis et sulphur et spiritus procellarum pars calicis eorum pluet super peccatores laqueos ignis et sulphur et spiritus tempestatum pars calicis eorum"
+    },
+    {
+      "verse": 8,
+      "text": "quoniam iustus Dominus et iustitias dilexit aequitatem vidit vultus eius quoniam iustus Dominus iustitias dilexit rectum videbunt facies eorum"
+    }
+  ]
+}

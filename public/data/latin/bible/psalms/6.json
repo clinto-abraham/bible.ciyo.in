@@ -1,0 +1,56 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 6,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem in carminibus pro octava psalmus David victori in psalmis super octava canticum David"
+    },
+    {
+      "verse": 2,
+      "text": "Domine ne in furore tuo arguas me neque in ira tua corripias me Domine ne in furore tuo arguas me neque in ira tua corripias me"
+    },
+    {
+      "verse": 3,
+      "text": "miserere mei Domine quoniam infirmus sum sana me Domine quoniam conturbata sunt ossa mea miserere mei Domine quoniam infirmus sum sana me Domine quoniam conturbata sunt ossa mea"
+    },
+    {
+      "verse": 4,
+      "text": "et anima mea turbata est valde et tu Domine usquequo et anima mea turbata est valde et tu Domine usquequo"
+    },
+    {
+      "verse": 5,
+      "text": "convertere Domine eripe animam meam salvum me fac propter misericordiam tuam revertere Domine erue animam meam salva me propter misericordiam tuam"
+    },
+    {
+      "verse": 6,
+      "text": "quoniam non est in morte qui memor sit tui in inferno autem quis confitebitur tibi quoniam non est in morte recordatio tui in inferno quis confitebitur tibi"
+    },
+    {
+      "verse": 7,
+      "text": "laboravi in gemitu meo lavabo per singulas noctes lectum meum in lacrimis meis stratum meum rigabo laboravi in gemitu meo natare faciam tota nocte lectulum meum lacrimis meis stratum meum rigabo"
+    },
+    {
+      "verse": 8,
+      "text": "turbatus est a furore oculus meus inveteravi inter omnes inimicos meos caligavit prae amaritudine oculus meus consumptus sum ab universis hostibus meis"
+    },
+    {
+      "verse": 9,
+      "text": "discedite a me omnes qui operamini iniquitatem quoniam exaudivit Dominus vocem fletus mei recedite a me omnes qui operamini iniquitatem quia audivit Dominus vocem fletus mei"
+    },
+    {
+      "verse": 10,
+      "text": "exaudivit Dominus deprecationem meam Dominus orationem meam suscepit audivit Dominus deprecationem meam Dominus orationem meam suscipiet"
+    },
+    {
+      "verse": 11,
+      "text": "erubescant et conturbentur vehementer omnes inimici mei convertantur et erubescant valde velociter confundantur et conturbentur vehementer omnes inimici mei revertantur et confundantur subito"
+    }
+  ]
+}

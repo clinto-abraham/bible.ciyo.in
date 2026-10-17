@@ -1,0 +1,32 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Hosea",
+  "bookSlug": "hosea",
+  "nativeName": "Hosea",
+  "chapterNumber": 3,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Et Yahweh me dit: \" Va encore, et aime une femme qui est aimée d'un amant et adultère: comme Yahweh aime les enfants d'Israël, tandis qu'eux se tournent vers d'autres dieux et aiment les gâteaux de raisin. \""
+    },
+    {
+      "verse": 2,
+      "text": "Je l'achetai pour quinze sicles d'argent, un homer d'orge et un léthec d'orge,"
+    },
+    {
+      "verse": 3,
+      "text": "et je lui dis: \" Pendant de nombreux jours tu me resteras là, tu ne te prostitueras point et tu ne seras à aucun homme, et moi aussi, je ferai de même à ton égard. \""
+    },
+    {
+      "verse": 4,
+      "text": "Car pendant de nombreux jours les enfants d'Israël demeureront sans roi et sans chef, sans sacrifice et sans stèle, sans éphod et sans théraphim."
+    },
+    {
+      "verse": 5,
+      "text": "Après cela les enfants d'Israël se convertiront et chercheront de nouveau Yahweh, leur Dieu, et David, leur roi; ils reviendront en tremblant vers Yahweh et vers sa bonté, à la fin des jours."
+    }
+  ]
+}

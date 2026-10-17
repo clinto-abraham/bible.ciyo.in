@@ -1,0 +1,24 @@
+{
+  "translation": "GerElb1905: German Darby Unrevidierte Elberfelder (1905)",
+  "language": "german",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 134,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ein Stufenlied. Siehe, preiset Jehova, alle ihr Knechte Jehovas, die ihr stehet im Hause Jehovas in den Nächten!"
+    },
+    {
+      "verse": 2,
+      "text": "Erhebet eure Hände im Heiligtum und preiset Jehova!"
+    },
+    {
+      "verse": 3,
+      "text": "Jehova segne dich von Zion aus, der Himmel und Erde gemacht hat!"
+    }
+  ]
+}

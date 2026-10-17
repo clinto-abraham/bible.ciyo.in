@@ -1,0 +1,36 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 150,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Aleluya. ALABAD á Dios en su santuario: alabadle en la extensión de su fortaleza."
+    },
+    {
+      "verse": 2,
+      "text": "Alabadle por sus proezas: alabadle conforme á la muchedumbre de su grandeza."
+    },
+    {
+      "verse": 3,
+      "text": "Alabadle á son de bocina: alabadle con salterio y arpa."
+    },
+    {
+      "verse": 4,
+      "text": "Alabadle con adufe y flauta: alabadle con cuerdas y órgano."
+    },
+    {
+      "verse": 5,
+      "text": "Alabadle con címbalos resonantes: alabadle con címbalos de júbilo."
+    },
+    {
+      "verse": 6,
+      "text": "Todo lo que respira alabe á JAH. Aleluya."
+    }
+  ]
+}

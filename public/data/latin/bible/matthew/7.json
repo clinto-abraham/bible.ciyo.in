@@ -1,0 +1,128 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Matthew",
+  "bookSlug": "matthew",
+  "nativeName": "Secundum Matthaeum",
+  "chapterNumber": 7,
+  "totalVerses": 29,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "nolite iudicare ut non iudicemini"
+    },
+    {
+      "verse": 2,
+      "text": "in quo enim iudicio iudicaveritis iudicabimini et in qua mensura mensi fueritis metietur vobis"
+    },
+    {
+      "verse": 3,
+      "text": "quid autem vides festucam in oculo fratris tui et trabem in oculo tuo non vides"
+    },
+    {
+      "verse": 4,
+      "text": "aut quomodo dicis fratri tuo sine eiciam festucam de oculo tuo et ecce trabis est in oculo tuo"
+    },
+    {
+      "verse": 5,
+      "text": "hypocrita eice primum trabem de oculo tuo et tunc videbis eicere festucam de oculo fratris tui"
+    },
+    {
+      "verse": 6,
+      "text": "nolite dare sanctum canibus neque mittatis margaritas vestras ante porcos ne forte conculcent eas pedibus suis et conversi disrumpant vos"
+    },
+    {
+      "verse": 7,
+      "text": "petite et dabitur vobis quaerite et invenietis pulsate et aperietur vobis"
+    },
+    {
+      "verse": 8,
+      "text": "omnis enim qui petit accipit et qui quaerit invenit et pulsanti aperietur"
+    },
+    {
+      "verse": 9,
+      "text": "aut quis est ex vobis homo quem si petierit filius suus panem numquid lapidem porriget ei"
+    },
+    {
+      "verse": 10,
+      "text": "aut si piscem petet numquid serpentem porriget ei"
+    },
+    {
+      "verse": 11,
+      "text": "si ergo vos cum sitis mali nostis bona dare filiis vestris quanto magis Pater vester qui in caelis est dabit bona petentibus se"
+    },
+    {
+      "verse": 12,
+      "text": "omnia ergo quaecumque vultis ut faciant vobis homines et vos facite eis haec est enim lex et prophetae"
+    },
+    {
+      "verse": 13,
+      "text": "intrate per angustam portam quia lata porta et spatiosa via quae ducit ad perditionem et multi sunt qui intrant per eam"
+    },
+    {
+      "verse": 14,
+      "text": "quam angusta porta et arta via quae ducit ad vitam et pauci sunt qui inveniunt eam"
+    },
+    {
+      "verse": 15,
+      "text": "adtendite a falsis prophetis qui veniunt ad vos in vestimentis ovium intrinsecus autem sunt lupi rapaces"
+    },
+    {
+      "verse": 16,
+      "text": "a fructibus eorum cognoscetis eos numquid colligunt de spinis uvas aut de tribulis ficus"
+    },
+    {
+      "verse": 17,
+      "text": "sic omnis arbor bona fructus bonos facit mala autem arbor fructus malos facit"
+    },
+    {
+      "verse": 18,
+      "text": "non potest arbor bona fructus malos facere neque arbor mala fructus bonos facere"
+    },
+    {
+      "verse": 19,
+      "text": "omnis arbor quae non facit fructum bonum exciditur et in ignem mittitur"
+    },
+    {
+      "verse": 20,
+      "text": "igitur ex fructibus eorum cognoscetis eos"
+    },
+    {
+      "verse": 21,
+      "text": "non omnis qui dicit mihi Domine Domine intrabit in regnum caelorum sed qui facit voluntatem Patris mei qui in caelis est ipse intrabit in regnum caelorum"
+    },
+    {
+      "verse": 22,
+      "text": "multi dicent mihi in illa die Domine Domine nonne in nomine tuo prophetavimus et in tuo nomine daemonia eiecimus et in tuo nomine virtutes multas fecimus"
+    },
+    {
+      "verse": 23,
+      "text": "et tunc confitebor illis quia numquam novi vos discedite a me qui operamini iniquitatem"
+    },
+    {
+      "verse": 24,
+      "text": "omnis ergo qui audit verba mea haec et facit ea adsimilabitur viro sapienti qui aedificavit domum suam supra petram"
+    },
+    {
+      "verse": 25,
+      "text": "et descendit pluvia et venerunt flumina et flaverunt venti et inruerunt in domum illam et non cecidit fundata enim erat super petram"
+    },
+    {
+      "verse": 26,
+      "text": "et omnis qui audit verba mea haec et non facit ea similis erit viro stulto qui aedificavit domum suam supra harenam"
+    },
+    {
+      "verse": 27,
+      "text": "et descendit pluvia et venerunt flumina et flaverunt venti et inruerunt in domum illam et cecidit et fuit ruina eius magna"
+    },
+    {
+      "verse": 28,
+      "text": "et factum est cum consummasset Iesus verba haec admirabantur turbae super doctrinam eius"
+    },
+    {
+      "verse": 29,
+      "text": "erat enim docens eos sicut potestatem habens non sicut scribae eorum et Pharisaei"
+    }
+  ]
+}

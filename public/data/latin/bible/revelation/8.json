@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Revelation of John",
+  "bookSlug": "revelation",
+  "nativeName": "Apocalypsis",
+  "chapterNumber": 8,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "et cum aperuisset sigillum septimum factum est silentium in caelo quasi media hora"
+    },
+    {
+      "verse": 2,
+      "text": "et vidi septem angelos stantes in conspectu Dei et datae sunt illis septem tubae"
+    },
+    {
+      "verse": 3,
+      "text": "et alius angelus venit et stetit ante altare habens turibulum aureum et data sunt illi incensa multa ut daret orationibus sanctorum omnium super altare aureum quod est ante thronum"
+    },
+    {
+      "verse": 4,
+      "text": "et ascendit fumus incensorum de orationibus sanctorum de manu angeli coram Deo"
+    },
+    {
+      "verse": 5,
+      "text": "et accepit angelus turibulum et implevit illud de igne altaris et misit in terram et facta sunt tonitrua et voces et fulgora et terraemotus"
+    },
+    {
+      "verse": 6,
+      "text": "et septem angeli qui habebant septem tubas paraverunt se ut tuba canerent"
+    },
+    {
+      "verse": 7,
+      "text": "et primus tuba cecinit et facta est grando et ignis mixta in sanguine et missum est in terram et tertia pars terrae conbusta est et tertia pars arborum conbusta est et omne faenum viride conbustum est"
+    },
+    {
+      "verse": 8,
+      "text": "et secundus angelus tuba cecinit et tamquam mons magnus igne ardens missus est in mare et facta est tertia pars maris sanguis"
+    },
+    {
+      "verse": 9,
+      "text": "et mortua est tertia pars creaturae quae habent animas et tertia pars navium interiit"
+    },
+    {
+      "verse": 10,
+      "text": "et tertius angelus tuba cecinit et cecidit de caelo stella magna ardens tamquam facula et cecidit in tertiam partem fluminum et in fontes aquarum"
+    },
+    {
+      "verse": 11,
+      "text": "et nomen stellae dicitur Absinthius et facta est tertia pars aquarum in absinthium et multi hominum mortui sunt de aquis quia amarae factae sunt"
+    },
+    {
+      "verse": 12,
+      "text": "et quartus angelus tuba cecinit et percussa est tertia pars solis et tertia pars lunae et tertia pars stellarum ut obscuraretur tertia pars eorum et diei non luceret pars tertia et nox similiter"
+    },
+    {
+      "verse": 13,
+      "text": "et vidi et audivi vocem unius aquilae volantis per medium caelum dicentis voce magna vae vae vae habitantibus in terra de ceteris vocibus tubae trium angelorum qui erant tuba canituri"
+    }
+  ]
+}

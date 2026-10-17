@@ -1,0 +1,284 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Deuteronomy",
+  "bookSlug": "deuteronomy",
+  "nativeName": "Deuteronomium",
+  "chapterNumber": 28,
+  "totalVerses": 68,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "sin autem audieris vocem Domini Dei tui ut facias atque custodias omnia mandata eius quae ego praecipio tibi hodie faciet te Dominus Deus tuus excelsiorem cunctis gentibus quae versantur in terra"
+    },
+    {
+      "verse": 2,
+      "text": "venientque super te universae benedictiones istae et adprehendent te si tamen praecepta eius audieris"
+    },
+    {
+      "verse": 3,
+      "text": "benedictus tu in civitate et benedictus in agro"
+    },
+    {
+      "verse": 4,
+      "text": "benedictus fructus ventris tui et fructus terrae tuae fructusque iumentorum tuorum greges armentorum et caulae ovium tuarum"
+    },
+    {
+      "verse": 5,
+      "text": "benedicta horrea tua et benedictae reliquiae tuae"
+    },
+    {
+      "verse": 6,
+      "text": "benedictus eris et ingrediens et egrediens"
+    },
+    {
+      "verse": 7,
+      "text": "dabit Dominus inimicos tuos qui consurgunt adversum te corruentes in conspectu tuo per unam viam venient contra te et per septem fugient a facie tua"
+    },
+    {
+      "verse": 8,
+      "text": "emittet Dominus benedictionem super cellaria tua et super omnia opera manuum tuarum benedicetque tibi in terra quam acceperis"
+    },
+    {
+      "verse": 9,
+      "text": "suscitabit te Dominus sibi in populum sanctum sicut iuravit tibi si custodieris mandata Domini Dei tui et ambulaveris in viis eius"
+    },
+    {
+      "verse": 10,
+      "text": "videbuntque omnes terrarum populi quod nomen Domini invocatum sit super te et timebunt te"
+    },
+    {
+      "verse": 11,
+      "text": "abundare te faciet Dominus omnibus bonis fructu uteri tui et fructu iumentorum tuorum fructu terrae tuae quam iuravit Dominus patribus tuis ut daret tibi"
+    },
+    {
+      "verse": 12,
+      "text": "aperiet Dominus thesaurum suum optimum caelum ut tribuat pluviam terrae tuae in tempore suo benedicet cunctis operibus manuum tuarum et fenerabis gentibus multis et ipse a nullo fenus accipies"
+    },
+    {
+      "verse": 13,
+      "text": "constituet te Dominus in caput et non in caudam et eris semper supra et non subter si audieris mandata Domini Dei tui quae ego praecipio tibi hodie et custodieris et feceris"
+    },
+    {
+      "verse": 14,
+      "text": "ac non declinaveris ab eis nec ad dextram nec ad sinistram nec secutus fueris deos alienos neque colueris eos"
+    },
+    {
+      "verse": 15,
+      "text": "quod si audire nolueris vocem Domini Dei tui ut custodias et facias omnia mandata eius et caerimonias quas ego praecipio tibi hodie venient super te omnes maledictiones istae et adprehendent te"
+    },
+    {
+      "verse": 16,
+      "text": "maledictus eris in civitate maledictus in agro"
+    },
+    {
+      "verse": 17,
+      "text": "maledictum horreum tuum et maledictae reliquiae tuae"
+    },
+    {
+      "verse": 18,
+      "text": "maledictus fructus ventris tui et fructus terrae tuae armenta boum tuorum et greges ovium tuarum"
+    },
+    {
+      "verse": 19,
+      "text": "maledictus eris ingrediens et maledictus egrediens"
+    },
+    {
+      "verse": 20,
+      "text": "mittet Dominus super te famem et esuriem et increpationem in omnia opera tua quae facies donec conterat te et perdat velociter propter adinventiones tuas pessimas in quibus reliquisti me"
+    },
+    {
+      "verse": 21,
+      "text": "adiungat Dominus tibi pestilentiam donec consumat te de terra ad quam ingredieris possidendam"
+    },
+    {
+      "verse": 22,
+      "text": "percutiat te Dominus egestate febri et frigore ardore et aestu et aere corrupto ac robigine et persequatur donec pereas"
+    },
+    {
+      "verse": 23,
+      "text": "sit caelum quod supra te est aeneum et terra quam calcas ferrea"
+    },
+    {
+      "verse": 24,
+      "text": "det Dominus imbrem terrae tuae pulverem et de caelo descendat super te cinis donec conteraris"
+    },
+    {
+      "verse": 25,
+      "text": "tradat te Dominus corruentem ante hostes tuos per unam viam egrediaris contra eos et per septem fugias et dispergaris per omnia regna terrae"
+    },
+    {
+      "verse": 26,
+      "text": "sitque cadaver tuum in escam cunctis volatilibus caeli et bestiis terrae et non sit qui abigat"
+    },
+    {
+      "verse": 27,
+      "text": "percutiat te Dominus ulcere Aegypti et parte corporis per quam stercora digeruntur scabie quoque et prurigine ita ut curari nequeas"
+    },
+    {
+      "verse": 28,
+      "text": "percutiat te Dominus amentia et caecitate ac furore mentis"
+    },
+    {
+      "verse": 29,
+      "text": "et palpes in meridie sicut palpare solet caecus in tenebris et non dirigas vias tuas omnique tempore calumniam sustineas et opprimaris violentia nec habeas qui liberet te"
+    },
+    {
+      "verse": 30,
+      "text": "uxorem accipias et alius dormiat cum ea domum aedifices et non habites in ea plantes vineam et non vindemies eam"
+    },
+    {
+      "verse": 31,
+      "text": "bos tuus immoletur coram te et non comedas ex eo asinus tuus rapiatur in conspectu tuo et non reddatur tibi oves tuae dentur inimicis tuis et non sit qui te adiuvet"
+    },
+    {
+      "verse": 32,
+      "text": "filii tui et filiae tuae tradantur alteri populo videntibus oculis tuis et deficientibus ad conspectum eorum tota die et non sit fortitudo in manu tua"
+    },
+    {
+      "verse": 33,
+      "text": "fructus terrae tuae et omnes labores tuos comedat populus quem ignoras et sis semper calumniam sustinens et oppressus cunctis diebus"
+    },
+    {
+      "verse": 34,
+      "text": "et stupens ad terrorem eorum quae videbunt oculi tui"
+    },
+    {
+      "verse": 35,
+      "text": "percutiat te Dominus ulcere pessimo in genibus et in suris sanarique non possis a planta pedis usque ad verticem tuum"
+    },
+    {
+      "verse": 36,
+      "text": "ducet Dominus te et regem tuum quem constitueris super te in gentem quam ignoras tu et patres tui et servies ibi diis alienis ligno et lapidi"
+    },
+    {
+      "verse": 37,
+      "text": "et eris perditus in proverbium ac fabulam omnibus populis ad quos te introduxerit Dominus"
+    },
+    {
+      "verse": 38,
+      "text": "sementem multam iacies in terram et modicum congregabis quia lucustae omnia devorabunt"
+    },
+    {
+      "verse": 39,
+      "text": "vineam plantabis et fodies et vinum non bibes nec colliges ex ea quippiam quoniam vastabitur vermibus"
+    },
+    {
+      "verse": 40,
+      "text": "olivas habebis in omnibus terminis tuis et non ungueris oleo quia defluent et peribunt"
+    },
+    {
+      "verse": 41,
+      "text": "filios generabis et filias et non frueris eis quoniam ducentur in captivitatem"
+    },
+    {
+      "verse": 42,
+      "text": "omnes arbores tuas et fruges terrae tuae robigo consumet"
+    },
+    {
+      "verse": 43,
+      "text": "advena qui tecum versatur in terra ascendet super te eritque sublimior tu autem descendes et eris inferior"
+    },
+    {
+      "verse": 44,
+      "text": "ipse fenerabit tibi et tu non fenerabis ei ipse erit in caput et tu eris in caudam"
+    },
+    {
+      "verse": 45,
+      "text": "et venient super te omnes maledictiones istae et persequentes adprehendent te donec intereas quia non audisti vocem Domini Dei tui nec servasti mandata eius et caerimonias quas praecepit tibi"
+    },
+    {
+      "verse": 46,
+      "text": "et erunt in te signa atque prodigia et in semine tuo usque in sempiternum"
+    },
+    {
+      "verse": 47,
+      "text": "eo quod non servieris Domino Deo tuo in gaudio cordisque laetitia propter rerum omnium abundantiam"
+    },
+    {
+      "verse": 48,
+      "text": "servies inimico tuo quem inmittet Dominus tibi in fame et siti et nuditate et omnium penuria et ponet iugum ferreum super cervicem tuam donec te conterat"
+    },
+    {
+      "verse": 49,
+      "text": "adducet Dominus super te gentem de longinquo et de extremis finibus terrae in similitudinem aquilae volantis cum impetu cuius linguam intellegere non possis"
+    },
+    {
+      "verse": 50,
+      "text": "gentem procacissimam quae non deferat seni nec misereatur parvulo"
+    },
+    {
+      "verse": 51,
+      "text": "et devoret fructum iumentorum tuorum ac fruges terrae tuae donec intereas et non relinquat tibi triticum vinum et oleum armenta boum et greges ovium donec te disperdat"
+    },
+    {
+      "verse": 52,
+      "text": "et conterat in cunctis urbibus tuis et destruantur muri tui firmi atque sublimes in quibus habebas fiduciam in omni terra tua obsideberis intra portas tuas in omni terra quam dabit tibi Dominus Deus tuus"
+    },
+    {
+      "verse": 53,
+      "text": "et comedes fructum uteri tui et carnes filiorum et filiarum tuarum quas dedit tibi Dominus Deus tuus in angustia et vastitate qua opprimet te hostis tuus"
+    },
+    {
+      "verse": 54,
+      "text": "homo delicatus in te et luxuriosus valde invidebit fratri suo et uxori quae cubat in sinu suo"
+    },
+    {
+      "verse": 55,
+      "text": "ne det eis de carnibus filiorum suorum quas comedet eo quod nihil habeat aliud in obsidione et penuria qua vastaverint te inimici tui intra omnes portas tuas"
+    },
+    {
+      "verse": 56,
+      "text": "tenera mulier et delicata quae super terram ingredi non valebat nec pedis vestigium figere propter mollitiem et teneritudinem nimiam invidebit viro suo qui cubat in sinu eius super filii et filiae carnibus"
+    },
+    {
+      "verse": 57,
+      "text": "et inluvie secundarum quae egrediuntur de medio feminum eius et super liberis qui eadem hora nati sunt comedent enim eos clam propter rerum omnium penuriam in obsidione et vastitate qua opprimet te inimicus tuus intra portas tuas"
+    },
+    {
+      "verse": 58,
+      "text": "nisi custodieris et feceris omnia verba legis huius quae scripta sunt in hoc volumine et timueris nomen eius gloriosum et terribile hoc est Dominum Deum tuum"
+    },
+    {
+      "verse": 59,
+      "text": "augebit Dominus plagas tuas et plagas seminis tui plagas magnas et perseverantes infirmitates pessimas et perpetuas"
+    },
+    {
+      "verse": 60,
+      "text": "et convertet in te omnes adflictiones Aegypti quas timuisti et adherebunt tibi"
+    },
+    {
+      "verse": 61,
+      "text": "insuper et universos languores et plagas quae non sunt scriptae in volumine legis huius inducet Dominus super te donec te conterat"
+    },
+    {
+      "verse": 62,
+      "text": "et remanebitis pauci numero qui prius eratis sicut astra caeli prae multitudine quoniam non audisti vocem Domini Dei tui"
+    },
+    {
+      "verse": 63,
+      "text": "et sicut ante laetatus est Dominus super vos bene vobis faciens vosque multiplicans sic laetabitur disperdens vos atque subvertens ut auferamini de terra ad quam ingredieris possidendam"
+    },
+    {
+      "verse": 64,
+      "text": "disperget te Dominus in omnes populos a summitate terrae usque ad terminos eius et servies ibi diis alienis quos et tu ignoras et patres tui lignis et lapidibus"
+    },
+    {
+      "verse": 65,
+      "text": "in gentibus quoque illis non quiesces neque erit requies vestigio pedis tui dabit enim tibi Dominus ibi cor pavidum et deficientes oculos et animam maerore consumptam"
+    },
+    {
+      "verse": 66,
+      "text": "et erit vita tua quasi pendens ante te timebis nocte et die et non credes vitae tuae"
+    },
+    {
+      "verse": 67,
+      "text": "mane dices quis mihi det vesperum et vespere quis mihi det mane propter cordis tui formidinem qua terreberis et propter ea quae tuis videbis oculis"
+    },
+    {
+      "verse": 68,
+      "text": "reducet te Dominus classibus in Aegyptum per viam de qua dixi tibi ut eam amplius non videres ibi venderis inimicis tuis in servos et ancillas et non erit qui emat"
+    }
+  ]
+}

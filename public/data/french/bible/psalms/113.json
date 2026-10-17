@@ -1,0 +1,48 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 113,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Alleluia! Louez, serviteurs de Yahweh, louez le nom de Yahweh,"
+    },
+    {
+      "verse": 2,
+      "text": "Que le nom de Yahweh soit béni, dès maintenant et à jamais!"
+    },
+    {
+      "verse": 3,
+      "text": "Du lever du soleil jusqu'à son couchant, loué soit le nom de Yahweh!"
+    },
+    {
+      "verse": 4,
+      "text": "Yahweh est élevé au-dessus de toutes les nations, sa gloire est au-dessus des cieux."
+    },
+    {
+      "verse": 5,
+      "text": "Qui est semblable à Yahweh, notre Dieu? Il siège dans les hauteurs,"
+    },
+    {
+      "verse": 6,
+      "text": "et il regarde en bas, dans les cieux et sur la terre."
+    },
+    {
+      "verse": 7,
+      "text": "Il relève le malheureux de la poussière, il retire le pauvre du fumier,"
+    },
+    {
+      "verse": 8,
+      "text": "pour les faire asseoir avec les princes, avec les princes de son peuple."
+    },
+    {
+      "verse": 9,
+      "text": "Il donne une demeure à la stérile de la maison, il en fait une mère joyeuse au milieu de ses enfants. Alleluia!"
+    }
+  ]
+}

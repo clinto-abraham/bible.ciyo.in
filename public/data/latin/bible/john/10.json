@@ -1,0 +1,180 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "John",
+  "bookSlug": "john",
+  "nativeName": "Secundum Ioannem",
+  "chapterNumber": 10,
+  "totalVerses": 42,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "amen amen dico vobis qui non intrat per ostium in ovile ovium sed ascendit aliunde ille fur est et latro"
+    },
+    {
+      "verse": 2,
+      "text": "qui autem intrat per ostium pastor est ovium"
+    },
+    {
+      "verse": 3,
+      "text": "huic ostiarius aperit et oves vocem eius audiunt et proprias oves vocat nominatim et educit eas"
+    },
+    {
+      "verse": 4,
+      "text": "et cum proprias oves emiserit ante eas vadit et oves illum sequuntur quia sciunt vocem eius"
+    },
+    {
+      "verse": 5,
+      "text": "alienum autem non sequuntur sed fugient ab eo quia non noverunt vocem alienorum"
+    },
+    {
+      "verse": 6,
+      "text": "hoc proverbium dixit eis Iesus illi autem non cognoverunt quid loqueretur eis"
+    },
+    {
+      "verse": 7,
+      "text": "dixit ergo eis iterum Iesus amen amen dico vobis quia ego sum ostium ovium"
+    },
+    {
+      "verse": 8,
+      "text": "omnes quotquot venerunt fures sunt et latrones sed non audierunt eos oves"
+    },
+    {
+      "verse": 9,
+      "text": "ego sum ostium per me si quis introierit salvabitur et ingredietur et egredietur et pascua inveniet"
+    },
+    {
+      "verse": 10,
+      "text": "fur non venit nisi ut furetur et mactet et perdat ego veni ut vitam habeant et abundantius habeant"
+    },
+    {
+      "verse": 11,
+      "text": "ego sum pastor bonus bonus pastor animam suam dat pro ovibus"
+    },
+    {
+      "verse": 12,
+      "text": "mercennarius et qui non est pastor cuius non sunt oves propriae videt lupum venientem et dimittit oves et fugit et lupus rapit et dispergit oves"
+    },
+    {
+      "verse": 13,
+      "text": "mercennarius autem fugit quia mercennarius est et non pertinet ad eum de ovibus"
+    },
+    {
+      "verse": 14,
+      "text": "ego sum pastor bonus et cognosco meas et cognoscunt me meae"
+    },
+    {
+      "verse": 15,
+      "text": "sicut novit me Pater et ego agnosco Patrem et animam meam pono pro ovibus"
+    },
+    {
+      "verse": 16,
+      "text": "et alias oves habeo quae non sunt ex hoc ovili et illas oportet me adducere et vocem meam audient et fiet unum ovile unus pastor"
+    },
+    {
+      "verse": 17,
+      "text": "propterea me Pater diligit quia ego pono animam meam ut iterum sumam eam"
+    },
+    {
+      "verse": 18,
+      "text": "nemo tollit eam a me sed ego pono eam a me ipso potestatem habeo ponendi eam et potestatem habeo iterum sumendi eam hoc mandatum accepi a Patre meo"
+    },
+    {
+      "verse": 19,
+      "text": "dissensio iterum facta est inter Iudaeos propter sermones hos"
+    },
+    {
+      "verse": 20,
+      "text": "dicebant autem multi ex ipsis daemonium habet et insanit quid eum auditis"
+    },
+    {
+      "verse": 21,
+      "text": "alii dicebant haec verba non sunt daemonium habentis numquid daemonium potest caecorum oculos aperire"
+    },
+    {
+      "verse": 22,
+      "text": "facta sunt autem encenia in Hierosolymis et hiemps erat"
+    },
+    {
+      "verse": 23,
+      "text": "et ambulabat Iesus in templo in porticu Salomonis"
+    },
+    {
+      "verse": 24,
+      "text": "circumdederunt ergo eum Iudaei et dicebant ei quousque animam nostram tollis si tu es Christus dic nobis palam"
+    },
+    {
+      "verse": 25,
+      "text": "respondit eis Iesus loquor vobis et non creditis opera quae ego facio in nomine Patris mei haec testimonium perhibent de me"
+    },
+    {
+      "verse": 26,
+      "text": "sed vos non creditis quia non estis ex ovibus meis"
+    },
+    {
+      "verse": 27,
+      "text": "oves meae vocem meam audiunt et ego cognosco eas et sequuntur me"
+    },
+    {
+      "verse": 28,
+      "text": "et ego vitam aeternam do eis et non peribunt in aeternum et non rapiet eas quisquam de manu mea"
+    },
+    {
+      "verse": 29,
+      "text": "Pater meus quod dedit mihi maius omnibus est et nemo potest rapere de manu Patris mei"
+    },
+    {
+      "verse": 30,
+      "text": "ego et Pater unum sumus"
+    },
+    {
+      "verse": 31,
+      "text": "sustulerunt lapides Iudaei ut lapidarent eum"
+    },
+    {
+      "verse": 32,
+      "text": "respondit eis Iesus multa opera bona ostendi vobis ex Patre meo propter quod eorum opus me lapidatis"
+    },
+    {
+      "verse": 33,
+      "text": "responderunt ei Iudaei de bono opere non lapidamus te sed de blasphemia et quia tu homo cum sis facis te ipsum Deum"
+    },
+    {
+      "verse": 34,
+      "text": "respondit eis Iesus nonne scriptum est in lege vestra quia ego dixi dii estis"
+    },
+    {
+      "verse": 35,
+      "text": "si illos dixit deos ad quos sermo Dei factus est et non potest solvi scriptura"
+    },
+    {
+      "verse": 36,
+      "text": "quem Pater sanctificavit et misit in mundum vos dicitis quia blasphemas quia dixi Filius Dei sum"
+    },
+    {
+      "verse": 37,
+      "text": "si non facio opera Patris mei nolite credere mihi"
+    },
+    {
+      "verse": 38,
+      "text": "si autem facio et si mihi non vultis credere operibus credite ut cognoscatis et credatis quia in me est Pater et ego in Patre"
+    },
+    {
+      "verse": 39,
+      "text": "quaerebant ergo eum prendere et exivit de manibus eorum"
+    },
+    {
+      "verse": 40,
+      "text": "et abiit iterum trans Iordanen in eum locum ubi erat Iohannes baptizans primum et mansit illic"
+    },
+    {
+      "verse": 41,
+      "text": "et multi venerunt ad eum et dicebant quia Iohannes quidem signum fecit nullum"
+    },
+    {
+      "verse": 42,
+      "text": "omnia autem quaecumque dixit Iohannes de hoc vera erant et multi crediderunt in eum"
+    }
+  ]
+}

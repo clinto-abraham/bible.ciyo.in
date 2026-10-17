@@ -1,0 +1,272 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Numbers",
+  "bookSlug": "numbers",
+  "nativeName": "Nombres",
+  "chapterNumber": 26,
+  "totalVerses": 65,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Yahweh parla à Moïse et à Eléazar, fils d'Aaron, le prêtre, en disant:"
+    },
+    {
+      "verse": 2,
+      "text": "« Faites le compte de toute l'assemblée des enfants d'Israël depuis l'âge de vingt ans et au-dessus, selon leurs maisons patriarcales, de tous les hommes d'Israël en état de porter les armes. »"
+    },
+    {
+      "verse": 3,
+      "text": "Moïse et le prêtre Eléazar leur parlèrent donc dans les plaines de Moab, près du Jourdain, vis-à-vis de Jéricho, en disant:"
+    },
+    {
+      "verse": 4,
+      "text": "« Vous ferez le recensement du peuple depuis l'âge de vingt ans et au-dessus, comme Yahweh l'a ordonné à Moïse et aux enfants d'Israël, à leur sortie du pays d'Egypte. »"
+    },
+    {
+      "verse": 5,
+      "text": "Ruben, premier-né d'Israël. Fils de Ruben: de Hénoch, la famille des Hénochites; de Phallu, la famille des Phalluites;"
+    },
+    {
+      "verse": 6,
+      "text": "de Hesron, la famille des Hesronites; de Charmi, la famille des Charmites."
+    },
+    {
+      "verse": 7,
+      "text": "Telles sont les familles des Rubénites; leurs recensés furent quarante-trois mille sept cent trente. —"
+    },
+    {
+      "verse": 8,
+      "text": "Fils de Phallu, Eliab. —"
+    },
+    {
+      "verse": 9,
+      "text": "Fils d'Eliab: Namuel, Dathan et Abiron. C'est ce Dathan et cet Abiron, membres du conseil, qui se soulevèrent contre Moïse et Aaron, dans la troupe de Coré, lorsqu'elle se souleva contre Yahweh."
+    },
+    {
+      "verse": 10,
+      "text": "La terre, ouvrant sa bouche, les engloutit avec Coré, quand la troupe périt, et que le feu consuma les deux cent cinquante hommes: ils servirent d'exemple."
+    },
+    {
+      "verse": 11,
+      "text": "Mais les fils de Coré ne moururent pas."
+    },
+    {
+      "verse": 12,
+      "text": "Fils de Siméon, selon leurs familles: de Namuel, la famille des Namuélites; de Jamin, la famille des Jaminites; de Jachin, la famille des Jachinites;"
+    },
+    {
+      "verse": 13,
+      "text": "de Zaré la famille des Zaréites; de Saül, la famille des Saülites."
+    },
+    {
+      "verse": 14,
+      "text": "Telles sont les familles des Siméonites: vingt-deux mille deux cents."
+    },
+    {
+      "verse": 15,
+      "text": "Fils de Gad, selon leurs familles: de Séphon, la famille des Séphonites; d'Aggi, la famille des Aggites; de Sunit, la famille des Sunites;"
+    },
+    {
+      "verse": 16,
+      "text": "d'Ozni, la famille des Oznites; de Her, la famille des Hérites;"
+    },
+    {
+      "verse": 17,
+      "text": "d'Arod, la famille des Arodites; d'Ariel, la famille des Ariélites."
+    },
+    {
+      "verse": 18,
+      "text": "Telles sont les familles des fils de Gad, selon leurs recensés: quarante mille cinq cents."
+    },
+    {
+      "verse": 19,
+      "text": "Fils de Juda: Her et Onan; mais Her et Onan moururent au pays de Chanaan."
+    },
+    {
+      "verse": 20,
+      "text": "Voici les fils de Juda selon leurs familles: de Séla, la famille des Sélaïtes; de Pharès, la famille des Pharésites; de Zaré, la famille des Zaréites. —"
+    },
+    {
+      "verse": 21,
+      "text": "Les fils de Pharès furent: de Hesron, la famille des Hesronites; de Hamul, la famille des Hamulites. —"
+    },
+    {
+      "verse": 22,
+      "text": "Telles sont les familles de Juda, selon leurs recensés: soixante-seize mille cinq cents."
+    },
+    {
+      "verse": 23,
+      "text": "Fils d'Issachar selon leurs familles: de Thola, la famille des Tholaïtes; de Phua, la famille des Phuaïtes;"
+    },
+    {
+      "verse": 24,
+      "text": "de Jasub, la famille des Jasubites; de Semran, la famille des Semranites."
+    },
+    {
+      "verse": 25,
+      "text": "Telles sont les familles d'Issachar, selon leurs recensés: soixante-quatre mille trois cents."
+    },
+    {
+      "verse": 26,
+      "text": "Fils de Zabulon selon leurs familles: de Sared, la famille des Sarédites; d'Elon, la famille des Elonites; de Jalel, la famille des Jalélites."
+    },
+    {
+      "verse": 27,
+      "text": "Telles sont les familles issues de Zabulon, selon leurs recensés: soixante mille cinq cents."
+    },
+    {
+      "verse": 28,
+      "text": "Fils de Joseph selon leurs familles: Manassé et Ephraïm."
+    },
+    {
+      "verse": 29,
+      "text": "Fils de Manassé: de Machir, la famille des Machirites. — Machir engendra Galaad; de Galaad, la famille des Galaadites. —"
+    },
+    {
+      "verse": 30,
+      "text": "Voici les fils de Galaad: Jézer, d'où la famille des Jézérites; de Hélec, la famille des Hélicites;"
+    },
+    {
+      "verse": 31,
+      "text": "Asriel, d'où la famille des Asriélites; Séchem, d'où la famille des Séchémites;"
+    },
+    {
+      "verse": 32,
+      "text": "Sémida, d'où la famille de Sémidaïtes; Hépher, d'où la famille des Héphrites."
+    },
+    {
+      "verse": 33,
+      "text": "Salphaad, fils d'Hépher, n'eut point de fils, mais il eut des filles. Voici les noms des filles de Salphaad: Maala, Noa, Hégla, Melcha et Thersa. —"
+    },
+    {
+      "verse": 34,
+      "text": "Telles sont les familles de Manassé; leurs recensés furent cinquante-deux mille sept cents."
+    },
+    {
+      "verse": 35,
+      "text": "Voici les fils d'Ephraïm selon leurs familles: de Suthala, la famille des Suthalaïtes; de Bécher, la famille des Béchrites; de Théhen, la famille des Théhénites. —"
+    },
+    {
+      "verse": 36,
+      "text": "Voici les fils de Suthala: d'Héran, la famille des Héranites. —"
+    },
+    {
+      "verse": 37,
+      "text": "Telles sont les familles des fils d'Ephraïm, selon leurs recensés: trente-deux mille cinq cents. Ce sont là les fils de Joseph, selon leurs familles."
+    },
+    {
+      "verse": 38,
+      "text": "Fils de Benjamin, selon leurs familles: de Béla, la famille des Bélaïtes; d'Asbel, la famille des Asbélites; d'Ahiram, la famille des Ahiramites;"
+    },
+    {
+      "verse": 39,
+      "text": "de Supham, la famille des Suphamites; de Hupham, la famille des Huphamites. —"
+    },
+    {
+      "verse": 40,
+      "text": "Les fils de Béla furent Héred et Noéman; de Héred, la famille des Hérédites; de Noéman, la famille des Noémanites. —"
+    },
+    {
+      "verse": 41,
+      "text": "Tels sont les fils de Benjamin, selon leurs familles, et leurs recensés furent quarante-cinq mille six cents."
+    },
+    {
+      "verse": 42,
+      "text": "Voici les fils de Dan, selon leurs familles: de Suham descend la famille des Suhamites. Telles sont les familles de Dan, selon leurs familles."
+    },
+    {
+      "verse": 43,
+      "text": "Total des familles des Suhamites, selon leurs recensés: soixante-quatre mille quatre cents."
+    },
+    {
+      "verse": 44,
+      "text": "Fils d'Aser, selon leurs familles: de Jemna, la famille des Jemnites; de Jessui, la famille des Jessuites; de Brié, la famille des Briéïtes. —"
+    },
+    {
+      "verse": 45,
+      "text": "Des fils de Brié: de Héber, la famille des Hébrites; de Melchiel, la famille des Melchiélites. —"
+    },
+    {
+      "verse": 46,
+      "text": "Le nom de la fille d'Aser était Sara. —"
+    },
+    {
+      "verse": 47,
+      "text": "Telles sont les familles des fils d'Aser, d'après leurs recensés: cinquante-trois mille quatre cents."
+    },
+    {
+      "verse": 48,
+      "text": "Fils de Nephthali, selon leurs familles: de Jésiel, la famille des Jésiélites; de Guni, la famille des Gunites;"
+    },
+    {
+      "verse": 49,
+      "text": "de Jéser, la famille des Jésérites; de Sellem, la famille des Sélémites."
+    },
+    {
+      "verse": 50,
+      "text": "Telles sont les familles de Nephthali, selon leurs familles, et leurs recensés furent quarante-cinq mille quatre cents."
+    },
+    {
+      "verse": 51,
+      "text": "Tels sont les enfants d'Israël qui furent recensés: six cent un mille sept cent trente."
+    },
+    {
+      "verse": 52,
+      "text": "Yahweh parla à Moïse, en disant:"
+    },
+    {
+      "verse": 53,
+      "text": "« A ceux-ci le pays sera partagé, pour être leur héritage, selon le nombre des noms."
+    },
+    {
+      "verse": 54,
+      "text": "Aux plus nombreux tu donneras un héritage plus grand, et aux moins nombreux tu donneras un héritage plus petit; on donnera à chacun son héritage selon ses recensés."
+    },
+    {
+      "verse": 55,
+      "text": "Seulement le partage du pays aura lieu par le sort. Ils le recevront en partage selon les noms des tribus patriarcales."
+    },
+    {
+      "verse": 56,
+      "text": "C'est par le sort que l'héritage sera réparti aux plus nombreux comme à ceux qui le sont moins. »"
+    },
+    {
+      "verse": 57,
+      "text": "Voici, selon leurs familles, les Lévites qui furent recensés: de Gerson, la famille des Gersonites; de Caath, la famille des Caathites; de Mérari, la famille des Mérarites. —"
+    },
+    {
+      "verse": 58,
+      "text": "Voici les familles de Lévi; la famille des Lobnites, la famille des Hébronites, la famille des Moholites, la famille des Musites et la famille des Coréïtes. — Caath engendra Amram,"
+    },
+    {
+      "verse": 59,
+      "text": "et le nom de la femme d'Amram était Jochabed, fille de Lévi, que sa mère enfanta à Lévi en Egypte; elle enfanta à Amram Aaron, Moïse et Marie, leur sœur."
+    },
+    {
+      "verse": 60,
+      "text": "Il naquit à Aaron: Nadab et Abiu, Eléazar et Ithamar."
+    },
+    {
+      "verse": 61,
+      "text": "Nadab et Abiu moururent lorsqu'ils apportèrent du feu étranger devant Yahweh. —"
+    },
+    {
+      "verse": 62,
+      "text": "Leurs recensés, tous les mâles depuis l'âge d'un mois et au-dessus, furent vingt-trois mille. Car ils ne furent pas compris dans le recensement des enfants d'Israël, parce qu'ils ne leur fut point assigné d'héritage au milieu des enfants d'Israël."
+    },
+    {
+      "verse": 63,
+      "text": "Tels sont les hommes recensés par Moïse et Eléazar, le prêtre, qui firent le recensement des enfants d'Israël dans les plaines de Moab, près du Jourdain, vis-à-vis de Jéricho."
+    },
+    {
+      "verse": 64,
+      "text": "Parmi eux, il n'y avait aucun des enfants d'Israël dont Moïse et Aaron le prêtre avaient fait le recensement dans le désert de Sinaï;"
+    },
+    {
+      "verse": 65,
+      "text": "car Yahweh avait dit d'eux: « Ils mourront dans le désert »; et il n'en resta pas un, excepté Caleb, fils de Jéphoné, et Josué, fils de Nun."
+    }
+  ]
+}

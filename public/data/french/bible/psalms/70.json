@@ -1,0 +1,36 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 70,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Au maître de chant. De David. Pour faire souvenir."
+    },
+    {
+      "verse": 2,
+      "text": "O Dieu, hâte-toi de me délivrer! Seigneur, hâte-toi de me secourir!"
+    },
+    {
+      "verse": 3,
+      "text": "Qu'ils soient honteux et confus, ceux qui cherchent mon âme! Qu'ils reculent et rougissent ceux qui désirent ma perte!"
+    },
+    {
+      "verse": 4,
+      "text": "Qu'ils retournent en arrière à cause de leur honte, ceux qui disent: \" Ah! ah! \""
+    },
+    {
+      "verse": 5,
+      "text": "Qu'ils soient dans l'allégresse et se réjouissent en toi tous ceux qui te cherchent! Qu'ils disent sans cesse: \" Gloire à Dieu \", ceux qui aiment ton salut!"
+    },
+    {
+      "verse": 6,
+      "text": "Moi, je suis pauvre et indigent: ô Dieu, hâte-toi vers moi! Tu es mon aide et mon libérateur: Yahweh, ne tarde pas!"
+    }
+  ]
+}

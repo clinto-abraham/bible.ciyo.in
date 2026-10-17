@@ -1,0 +1,44 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 3,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Salmo de David, cuando huía de delante de Absalom su hijo. ¡OH Jehová, cuánto se han multiplicado mis enemigos! muchos se levantan contra mí."
+    },
+    {
+      "verse": 2,
+      "text": "Muchos dicen de mi vida: No hay para él salud en Dios. (Selah.)"
+    },
+    {
+      "verse": 3,
+      "text": "Mas tú, Jehová, eres escudo alrededor de mí: mi gloria, y el que ensalza mi cabeza."
+    },
+    {
+      "verse": 4,
+      "text": "Con mi voz clamé á Jehová, y él me respondió desde el monte de su santidad. (Selah.)"
+    },
+    {
+      "verse": 5,
+      "text": "Yo me acosté, y dormí, y desperté; porque Jehová me sostuvo."
+    },
+    {
+      "verse": 6,
+      "text": "No temeré de diez millares de pueblos, que pusieren cerco contra mí."
+    },
+    {
+      "verse": 7,
+      "text": "Levántate, Jehová; sálvame, Dios mío: porque tú heriste á todos mis enemigos en la quijada; los dientes de los malos quebrantaste."
+    },
+    {
+      "verse": 8,
+      "text": "De Jehová es la salud: sobre tu pueblo será tu bendición. (Selah.)"
+    }
+  ]
+}

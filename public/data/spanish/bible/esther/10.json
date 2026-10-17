@@ -1,0 +1,24 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Esther",
+  "bookSlug": "esther",
+  "nativeName": "Esther",
+  "chapterNumber": 10,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Y EL rey Assuero impuso tributo sobre la tierra y las islas de la mar."
+    },
+    {
+      "verse": 2,
+      "text": "Y toda la obra de su fortaleza, y de su valor, y la declaración de la grandeza de Mardochêo, con que el rey le engrandeció, ¿no está escrito en el libro de los anales de los reyes de Media y de Persia?"
+    },
+    {
+      "verse": 3,
+      "text": "Porque Mardochêo Judío fué segundo después del rey Assuero, y grande entre los Judíos, y acepto á la multitud de sus hermanos, procurando el bien de su pueblo, y hablando paz para toda su simiente."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 19,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem psalmus David victori canticum David"
+    },
+    {
+      "verse": 2,
+      "text": "exaudiat te Dominus in die tribulationis protegat te nomen Dei Iacob exaudiat te Dominus in die tribulationis protegat te nomen Dei Iacob"
+    },
+    {
+      "verse": 3,
+      "text": "mittat tibi auxilium de sancto et de Sion tueatur te mittat tibi auxilium de sancto et de Sion roboret te"
+    },
+    {
+      "verse": 4,
+      "text": "memor sit omnis sacrificii tui et holocaustum tuum pingue fiat diapsalma memor sit omnis sacrificii tui et holocaustum tuum pingue fiat semper"
+    },
+    {
+      "verse": 5,
+      "text": "tribuat tibi secundum cor tuum et omne consilium tuum confirmet det tibi secundum cor tuum et omnem voluntatem tuam impleat"
+    },
+    {
+      "verse": 6,
+      "text": "laetabimur in salutari tuo et in nomine Dei nostri magnificabimur laudabimus in salutari tuo et in nomine Dei nostri ducemus choros"
+    },
+    {
+      "verse": 7,
+      "text": "impleat Dominus omnes petitiones tuas nunc cognovi quoniam salvum fecit Dominus christum suum exaudiet illum de caelo sancto suo in potentatibus salus dexterae eius impleat Dominus omnes petitiones tuas nunc scio quoniam salvabit Dominus christum suum exaudiet eum de caelo sancto suo in fortitudine salutis dexterae suae"
+    },
+    {
+      "verse": 8,
+      "text": "hii in curribus et hii in equis nos autem in nomine Domini Dei nostri invocabimus hii in curribus et hii in equis nos autem nominis Domini Dei nostri recordabimur"
+    },
+    {
+      "verse": 9,
+      "text": "ipsi obligati sunt et ceciderunt nos vero surreximus et erecti sumus ipsi incurvati sunt et ceciderunt nos autem resurreximus et erecti sumus"
+    },
+    {
+      "verse": 10,
+      "text": "Domine salvum fac regem et exaudi nos in die qua invocaverimus te Domine salva rex exaudiet nos in die qua invocaverimus"
+    }
+  ]
+}

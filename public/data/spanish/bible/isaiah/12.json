@@ -1,0 +1,36 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Isaiah",
+  "bookSlug": "isaiah",
+  "nativeName": "Isaiah",
+  "chapterNumber": 12,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Y DIRÁS en aquel día: Cantaré á ti, oh Jehová: pues aunque te enojaste contra mí, tu furor se apartó, y me has consolado."
+    },
+    {
+      "verse": 2,
+      "text": "He aquí Dios es salud mía; aseguraréme, y no temeré; porque mi fortaleza y mi canción es JAH Jehová, el cual ha sido salud para mí."
+    },
+    {
+      "verse": 3,
+      "text": "Sacaréis aguas con gozo de las fuentes de la salud."
+    },
+    {
+      "verse": 4,
+      "text": "Y diréis en aquel día: Cantad á Jehová, aclamad su nombre, haced célebres en los pueblos sus obras, recordad que su nombre es engrandecido."
+    },
+    {
+      "verse": 5,
+      "text": "Cantad salmos á Jehová; porque ha hecho cosas magníficas: sea sabido esto por toda la tierra."
+    },
+    {
+      "verse": 6,
+      "text": "Regocíjate y canta, oh moradora de Sión: porque grande es en medio de ti el Santo de Israel."
+    }
+  ]
+}

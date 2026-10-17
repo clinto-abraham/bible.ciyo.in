@@ -1,0 +1,52 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 112,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Aleluya. BIENAVENTURADO el hombre que teme á Jehová, y en sus mandamientos se deleita en gran manera."
+    },
+    {
+      "verse": 2,
+      "text": "Su simiente será poderosa en la tierra: la generación de los rectos será bendita."
+    },
+    {
+      "verse": 3,
+      "text": "Hacienda y riquezas hay en su casa; y su justicia permanece para siempre."
+    },
+    {
+      "verse": 4,
+      "text": "Resplandeció en las tinieblas luz á los rectos: es clemente, y misericordioso, y justo."
+    },
+    {
+      "verse": 5,
+      "text": "El hombre de bien tiene misericordia y presta; gobierna sus cosas con juicio."
+    },
+    {
+      "verse": 6,
+      "text": "Por lo cual no resbalará para siempre: en memoria eterna será el justo."
+    },
+    {
+      "verse": 7,
+      "text": "De mala fama no tendrá temor: su corazón está apercibido, confiado en Jehová."
+    },
+    {
+      "verse": 8,
+      "text": "Asentado está su corazón, no temerá, hasta que vea en sus enemigos su deseo."
+    },
+    {
+      "verse": 9,
+      "text": "Esparce, da á los pobres: su justicia permanece para siempre; su cuerno será ensalzado en gloria."
+    },
+    {
+      "verse": 10,
+      "text": "Verálo el impío, y se despechará; crujirá los dientes, y se repudrirá: perecerá el deseo de los impíos."
+    }
+  ]
+}

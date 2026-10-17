@@ -1,0 +1,44 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 124,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "（大衛 上行 之詩。）以色列 人要 說：若不是 耶和華 幫助 我們，"
+    },
+    {
+      "verse": 2,
+      "text": "若不是 耶和華 幫助 我們，當人 起來 攻擊我們、"
+    },
+    {
+      "verse": 3,
+      "text": "向我們 發 怒的時候，就 把我們活活地 吞了。"
+    },
+    {
+      "verse": 4,
+      "text": "那時，波濤 必漫過我們，河水 必淹 沒 我們，"
+    },
+    {
+      "verse": 5,
+      "text": "狂傲的 水 必淹 沒 我們。"
+    },
+    {
+      "verse": 6,
+      "text": "耶和華 是應當稱頌的！他沒有 把我們當野食 交給他們吞吃（原文是牙齒）。"
+    },
+    {
+      "verse": 7,
+      "text": "我們 好像雀鳥，從捕鳥人 的網羅 裡逃脫；網羅 破裂，我們 逃脫了。"
+    },
+    {
+      "verse": 8,
+      "text": "我們得幫助，是在乎倚靠造 天 地 之耶和華 的名。"
+    }
+  ]
+}

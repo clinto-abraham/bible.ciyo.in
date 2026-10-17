@@ -1,0 +1,80 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Numbers",
+  "bookSlug": "numbers",
+  "nativeName": "Numeri",
+  "chapterNumber": 30,
+  "totalVerses": 17,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "narravitque Moses filiis Israhel omnia quae ei Dominus imperarat"
+    },
+    {
+      "verse": 2,
+      "text": "et locutus est ad principes tribuum filiorum Israhel iste est sermo quem praecepit Dominus"
+    },
+    {
+      "verse": 3,
+      "text": "si quis virorum votum Domino voverit aut se constrinxerit iuramento non faciet irritum verbum suum sed omne quod promisit implebit"
+    },
+    {
+      "verse": 4,
+      "text": "mulier si quippiam voverit et se constrinxerit iuramento quae est in domo patris sui et in aetate adhuc puellari si cognoverit pater votum quod pollicita est et iuramentum quo obligavit animam suam et tacuerit voti rea erit"
+    },
+    {
+      "verse": 5,
+      "text": "quicquid pollicita est et iuravit opere conplebit"
+    },
+    {
+      "verse": 6,
+      "text": "sin autem statim ut audierit contradixerit pater et vota et iuramenta eius irrita erunt nec obnoxia tenebitur sponsioni eo quod contradixerit pater"
+    },
+    {
+      "verse": 7,
+      "text": "si maritum habuerit et voverit aliquid et semel verbum de ore eius egrediens animam illius obligaverit iuramento"
+    },
+    {
+      "verse": 8,
+      "text": "quo die audierit vir et non contradixerit voti rea erit reddet quodcumque promiserat"
+    },
+    {
+      "verse": 9,
+      "text": "sin autem audiens statim contradixerit et irritas fecerit pollicitationes eius verbaque quibus obstrinxerat animam suam propitius ei erit Dominus"
+    },
+    {
+      "verse": 10,
+      "text": "vidua et repudiata quicquid voverint reddent"
+    },
+    {
+      "verse": 11,
+      "text": "uxor in domo viri cum se voto constrinxerit et iuramento"
+    },
+    {
+      "verse": 12,
+      "text": "si audierit vir et tacuerit nec contradixerit sponsioni reddet quodcumque promiserat"
+    },
+    {
+      "verse": 13,
+      "text": "sin autem extemplo contradixerit non tenebitur promissionis rea quia maritus contradixit et Dominus ei propitius erit"
+    },
+    {
+      "verse": 14,
+      "text": "si voverit et iuramento se constrinxerit ut per ieiunium vel ceterarum rerum abstinentiam adfligat animam suam in arbitrio viri erit ut faciat sive non faciat"
+    },
+    {
+      "verse": 15,
+      "text": "quod si audiens vir tacuerit et in alteram diem distulerit sententiam quicquid voverat atque promiserat reddet quia statim ut audivit tacuit"
+    },
+    {
+      "verse": 16,
+      "text": "sin autem contradixerit postquam rescivit portabit ipse iniquitatem eius"
+    },
+    {
+      "verse": 17,
+      "text": "istae sunt leges quas constituit Dominus Mosi inter virum et uxorem inter patrem et filiam quae in puellari adhuc aetate est vel quae manet in parentis domo"
+    }
+  ]
+}

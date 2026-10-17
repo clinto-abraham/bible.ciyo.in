@@ -1,0 +1,96 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "II Peter",
+  "bookSlug": "2-peter",
+  "nativeName": "II Peter",
+  "chapterNumber": 1,
+  "totalVerses": 21,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Simon Petrus servus et apostolus Iesu Christi his qui coaequalem nobis sortiti sunt fidem in iustitia Dei nostri et salvatoris Iesu Christi"
+    },
+    {
+      "verse": 2,
+      "text": "gratia vobis et pax adimpleatur in cognitione Domini nostri"
+    },
+    {
+      "verse": 3,
+      "text": "quomodo omnia nobis divinae virtutis suae quae ad vitam et pietatem donata est per cognitionem eius qui vocavit nos propria gloria et virtute"
+    },
+    {
+      "verse": 4,
+      "text": "per quae maxima et pretiosa nobis promissa donavit ut per haec efficiamini divinae consortes naturae fugientes eius quae in mundo est concupiscentiae corruptionem"
+    },
+    {
+      "verse": 5,
+      "text": "vos autem curam omnem subinferentes ministrate in fide vestra virtutem in virtute autem scientiam"
+    },
+    {
+      "verse": 6,
+      "text": "in scientia autem abstinentiam in abstinentia autem patientiam in patientia autem pietatem"
+    },
+    {
+      "verse": 7,
+      "text": "in pietate autem amorem fraternitatis in amore autem fraternitatis caritatem"
+    },
+    {
+      "verse": 8,
+      "text": "haec enim vobis cum adsint et superent non vacuos nec sine fructu vos constituent in Domini nostri Iesu Christi cognitione"
+    },
+    {
+      "verse": 9,
+      "text": "cui enim non praesto sunt haec caecus est et manu temptans oblivionem accipiens purgationis veterum suorum delictorum"
+    },
+    {
+      "verse": 10,
+      "text": "quapropter fratres magis satagite ut per bona opera certam vestram vocationem et electionem faciatis haec enim facientes non peccabitis aliquando"
+    },
+    {
+      "verse": 11,
+      "text": "sic enim abundanter ministrabitur vobis introitus in aeternum regnum Domini nostri et salvatoris Iesu Christi"
+    },
+    {
+      "verse": 12,
+      "text": "propter quod incipiam vos semper commonere de his et quidem scientes et confirmatos in praesenti veritate"
+    },
+    {
+      "verse": 13,
+      "text": "iustum autem arbitror quamdiu sum in hoc tabernaculo suscitare vos in commonitione"
+    },
+    {
+      "verse": 14,
+      "text": "certus quod velox est depositio tabernaculi mei secundum quod et Dominus noster Iesus Christus significavit mihi"
+    },
+    {
+      "verse": 15,
+      "text": "dabo autem operam et frequenter habere vos post obitum meum ut horum memoriam faciatis"
+    },
+    {
+      "verse": 16,
+      "text": "non enim doctas fabulas secuti notam fecimus vobis Domini nostri Iesu Christi virtutem et praesentiam sed speculatores facti illius magnitudinis"
+    },
+    {
+      "verse": 17,
+      "text": "accipiens enim a Deo Patre honorem et gloriam voce delapsa ad eum huiuscemodi a magnifica gloria hic est Filius meus dilectus in quo mihi conplacui"
+    },
+    {
+      "verse": 18,
+      "text": "et hanc vocem nos audivimus de caelo adlatam cum essemus cum ipso in monte sancto"
+    },
+    {
+      "verse": 19,
+      "text": "et habemus firmiorem propheticum sermonem cui bene facitis adtendentes quasi lucernae lucenti in caliginoso loco donec dies inlucescat et lucifer oriatur in cordibus vestris"
+    },
+    {
+      "verse": 20,
+      "text": "hoc primum intellegentes quod omnis prophetia scripturae propria interpretatione non fit"
+    },
+    {
+      "verse": 21,
+      "text": "non enim voluntate humana adlata est aliquando prophetia sed Spiritu Sancto inspirati locuti sunt sancti Dei homines"
+    }
+  ]
+}

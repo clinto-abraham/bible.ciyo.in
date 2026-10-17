@@ -1,0 +1,44 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 138,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Salmo de David. ALABARTE he con todo mi corazón: delante de los dioses te cantaré salmos."
+    },
+    {
+      "verse": 2,
+      "text": "Encorvaréme al templo de tu santuario, y alabaré tu nombre por tu misericordia y tu verdad: porque has hecho magnífico tu nombre, y tu dicho sobre todas las cosas."
+    },
+    {
+      "verse": 3,
+      "text": "En el día que clamé, me respondiste; esforzásteme con fortaleza en mi alma."
+    },
+    {
+      "verse": 4,
+      "text": "Confesarte han, oh Jehová, todos los reyes de la tierra, cuando habrán oído los dichos de tu boca."
+    },
+    {
+      "verse": 5,
+      "text": "Y cantarán de los caminos de Jehová: que la gloria de Jehová es grande."
+    },
+    {
+      "verse": 6,
+      "text": "Porque el alto Jehová atiende al humilde; mas al altivo mira de lejos."
+    },
+    {
+      "verse": 7,
+      "text": "Si anduviere yo en medio de la angustia, tú me vivificarás: contra la ira de mis enemigos extenderás tu mano, y salvaráme tu diestra."
+    },
+    {
+      "verse": 8,
+      "text": "Jehová cumplirá por mí: tu misericordia, oh Jehová, es para siempre; no dejarás la obra de tus manos."
+    }
+  ]
+}

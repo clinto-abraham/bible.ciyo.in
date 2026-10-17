@@ -1,0 +1,52 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "I John",
+  "bookSlug": "1-john",
+  "nativeName": "I John",
+  "chapterNumber": 1,
+  "totalVerses": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "LO que era desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que hemos mirado, y palparon nuestras manos tocante al Verbo de vida;"
+    },
+    {
+      "verse": 2,
+      "text": "(Porque la vida fué manifestada, y vimos, y testificamos, y os anunciamos aquella vida eterna, la cual estaba con el Padre, y nos ha aparecido;)"
+    },
+    {
+      "verse": 3,
+      "text": "Lo que hemos visto y oído, eso os anunciamos, para que también vosotros tengáis comunión con nosotros: y nuestra comunión verdaderamente es con el Padre, y con su Hijo Jesucristo."
+    },
+    {
+      "verse": 4,
+      "text": "Y estas cosas os escribimos, para que vuestro gozo sea cumplido."
+    },
+    {
+      "verse": 5,
+      "text": "Y este es el mensaje que oímos de él, y os anunciamos: Que Dios es luz, y en él no hay ningunas tinieblas."
+    },
+    {
+      "verse": 6,
+      "text": "Si nosotros dijéremos que tenemos comunión con él, y andamos en tinieblas, mentimos, y no hacemos la verdad;"
+    },
+    {
+      "verse": 7,
+      "text": "Mas si andamos en luz, como él está en luz, tenemos comunión entre nosotros, y la sangre de Jesucristo su Hijo nos limpia de todo pecado."
+    },
+    {
+      "verse": 8,
+      "text": "Si dijéremos que no tenemos pecado, nos engañamos á nosotros mismos, y no hay verdad en nosotros."
+    },
+    {
+      "verse": 9,
+      "text": "Si confesamos nuestros pecados, él es fiel y justo para que nos perdone nuestros pecados, y nos limpie de toda maldad."
+    },
+    {
+      "verse": 10,
+      "text": "Si dijéremos que no hemos pecado, lo hacemos á él mentiroso, y su palabra no está en nosotros."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Hosea",
+  "bookSlug": "hosea",
+  "nativeName": "Hosea",
+  "chapterNumber": 3,
+  "totalVerses": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "et dixit Dominus ad me adhuc vade dilige mulierem dilectam amico et adulteram sicut diligit Dominus filios Israhel et ipsi respectant ad deos alienos et diligunt vinacea uvarum"
+    },
+    {
+      "verse": 2,
+      "text": "et fodi eam mihi quindecim argenteis et choro hordei et dimidio choro hordei"
+    },
+    {
+      "verse": 3,
+      "text": "et dixi ad eam dies multos expectabis me non fornicaberis et non eris viro sed et ego expectabo te"
+    },
+    {
+      "verse": 4,
+      "text": "quia dies multos sedebunt filii Israhel sine rege et sine principe et sine sacrificio et sine altari et sine ephod et sine therafin"
+    },
+    {
+      "verse": 5,
+      "text": "et post haec revertentur filii Israhel et quaerent Dominum Deum suum et David regem suum et pavebunt ad Dominum et ad bonum eius in novissimo dierum"
+    }
+  ]
+}

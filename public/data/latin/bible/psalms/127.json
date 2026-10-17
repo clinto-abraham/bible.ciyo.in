@@ -1,0 +1,36 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 127,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "canticum graduum beati omnes qui timent Dominum qui ambulant in viis eius canticum graduum beatus omnis qui timet Dominum qui ambulat in viis eius"
+    },
+    {
+      "verse": 2,
+      "text": "labores manuum tuarum *quia; manducabis beatus es et bene tibi erit laborem manuum tuarum cum comederis beatus tu et bene tibi erit"
+    },
+    {
+      "verse": 3,
+      "text": "uxor tua sicut vitis abundans in lateribus domus tuae filii tui sicut novella olivarum in circuitu mensae tuae uxor tua sicut vitis fructifera in penetrabilibus domus tuae filii tui sicut germina olivarum in circuitu mensae tuae"
+    },
+    {
+      "verse": 4,
+      "text": "ecce sic benedicetur homo qui timet Dominum ecce sic benedicetur viro qui timet Dominum"
+    },
+    {
+      "verse": 5,
+      "text": "benedicat te Dominus ex Sion et videas bona Hierusalem omnibus diebus vitae tuae benedicat tibi Dominus ex Sion et videas bona Hierusalem omnibus diebus vitae tuae"
+    },
+    {
+      "verse": 6,
+      "text": "et videas filios filiorum tuorum pax super Israhel et videas filios filiorum tuorum pacem super Israhel"
+    }
+  ]
+}

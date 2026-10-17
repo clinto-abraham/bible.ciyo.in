@@ -1,0 +1,36 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 13,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Au maître de chant. Chant de David."
+    },
+    {
+      "verse": 2,
+      "text": "Jusques à quand, Yahweh, m'oublieras-tu toujours? Jusques à quand me cacheras-tu ta face?"
+    },
+    {
+      "verse": 3,
+      "text": "Jusques à quand formerai-je en mon âme des projets, et chaque jour le chagrin remplira-t-il mon cœur? Jusques à quand mon ennemi s'élèvera-t-il contre moi?"
+    },
+    {
+      "verse": 4,
+      "text": "Regarde, réponds-moi, Yahweh, mon Dieu! Donne la lumière à mes yeux, afin que je ne m'endorme pas dans la mort,"
+    },
+    {
+      "verse": 5,
+      "text": "afin que mon ennemi ne dise pas: \" Je l'ai vaincu! \" et que mes adversaires ne se réjouissent pas en me voyant chanceler."
+    },
+    {
+      "verse": 6,
+      "text": "Moi, j'ai confiance en ta bonté; mon cœur tressaillira à cause de ton salut, je chanterai Yahweh pour le bien qu'il m'a fait."
+    }
+  ]
+}

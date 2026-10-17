@@ -1,0 +1,48 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 60,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "in finem in hymnis David victori in psalmis David"
+    },
+    {
+      "verse": 2,
+      "text": "exaudi Deus deprecationem meam intende orationi meae exaudi Deus laudationem meam intende orationi meae"
+    },
+    {
+      "verse": 3,
+      "text": "a finibus terrae ad te clamavi dum anxiaretur cor meum in petra exaltasti me deduxisti me de novissimo terrae ad te clamabo cum triste fuerit cor meum cum fortis elevabitur adversum me tu eris ductor meus"
+    },
+    {
+      "verse": 4,
+      "text": "quia factus es spes mea turris fortitudinis a facie inimici fuisti spes mea turris munitissima a facie inimici"
+    },
+    {
+      "verse": 5,
+      "text": "inhabitabo in tabernaculo tuo in saecula protegar in velamento alarum tuarum diapsalma habitabo in tabernaculo tuo iugiter sperabo in protectione alarum tuarum semper"
+    },
+    {
+      "verse": 6,
+      "text": "quoniam tu Deus meus exaudisti orationem meam dedisti hereditatem timentibus nomen tuum tu enim Deus exaudisti orationem meam dedisti hereditatem timentibus nomen tuum"
+    },
+    {
+      "verse": 7,
+      "text": "dies super dies regis adicies annos eius usque in diem generationis et generationis dies super dies regis adicies annos eius donec est generatio et generatio"
+    },
+    {
+      "verse": 8,
+      "text": "permanet in aeternum in conspectu Dei misericordiam et veritatem quis requiret eius sedebit semper ante faciem Dei misericordia et veritas servabunt eum"
+    },
+    {
+      "verse": 9,
+      "text": "sic psalmum dicam nomini tuo in saeculum saeculi ut reddam vota mea de die in diem sic canam nomini tuo iugiter reddens vota mea per singulos dies"
+    }
+  ]
+}

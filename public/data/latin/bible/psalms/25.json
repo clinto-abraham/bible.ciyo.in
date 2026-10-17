@@ -1,0 +1,60 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 25,
+  "totalVerses": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "psalmus David iudica me Domine quoniam ego in innocentia mea ingressus sum et in Domino sperans non infirmabor David iudica me Deus quoniam ego in simplicitate mea ambulavi et in Domino confidens non deficiam"
+    },
+    {
+      "verse": 2,
+      "text": "proba me Domine et tempta me ure renes meos et cor meum proba me Domine et tempta me ure renes meos et cor meum"
+    },
+    {
+      "verse": 3,
+      "text": "quoniam misericordia tua ante oculos meos est et conplacui in veritate tua quia misericordia tua in conspectu oculorum meorum est et ambulabo in veritate tua"
+    },
+    {
+      "verse": 4,
+      "text": "non sedi cum concilio vanitatis et cum iniqua gerentibus non introibo non sedi cum viris vanitatis et cum superbis non ingrediar"
+    },
+    {
+      "verse": 5,
+      "text": "odivi ecclesiam malignantium et cum impiis non sedebo odivi ecclesiam pessimorum et cum iniquis non sedebo"
+    },
+    {
+      "verse": 6,
+      "text": "lavabo inter innocentes manus meas et circumdabo altare tuum Domine lavabo in innocentia manus meas et circuibo altare tuum Domine"
+    },
+    {
+      "verse": 7,
+      "text": "ut audiam vocem laudis et enarrem universa mirabilia tua ut clara voce praedicem laudem et narrem omnia mirabilia tua"
+    },
+    {
+      "verse": 8,
+      "text": "Domine dilexi decorem domus tuae et locum habitationis gloriae tuae Domine dilexi habitaculum domus tuae et locum tabernaculi gloriae tuae"
+    },
+    {
+      "verse": 9,
+      "text": "ne perdas cum impiis animam meam et cum viris sanguinum vitam meam ne auferas cum peccatoribus animam meam cum viris sanguinum vitam meam"
+    },
+    {
+      "verse": 10,
+      "text": "in quorum manibus iniquitates sunt dextera eorum repleta est muneribus in quorum manibus scelus est et dextera eorum repleta est muneribus"
+    },
+    {
+      "verse": 11,
+      "text": "ego autem in innocentia mea ingressus sum redime me et miserere mei ego autem in simplicitate mea gradiar redime me et miserere mei"
+    },
+    {
+      "verse": 12,
+      "text": "pes meus stetit in directo in ecclesiis benedicam te Domine pes meus stetit in recto in ecclesiis benedicam Domino"
+    }
+  ]
+}

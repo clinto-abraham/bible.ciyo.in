@@ -1,0 +1,228 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "I Kings",
+  "bookSlug": "1-kings",
+  "nativeName": "I Kings",
+  "chapterNumber": 22,
+  "totalVerses": 54,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "transierunt igitur tres anni absque bello inter Syriam et Israhel"
+    },
+    {
+      "verse": 2,
+      "text": "in anno autem tertio descendit Iosaphat rex Iuda ad regem Israhel"
+    },
+    {
+      "verse": 3,
+      "text": "dixitque rex Israhel ad servos suos ignoratis quod nostra sit Ramoth Galaad et neglegimus tollere eam de manu regis Syriae"
+    },
+    {
+      "verse": 4,
+      "text": "et ait ad Iosaphat veniesne mecum ad proeliandum in Ramoth Galaad"
+    },
+    {
+      "verse": 5,
+      "text": "dixitque Iosaphat ad regem Israhel sicut ego sum ita et tu populus meus et populus tuus unum sunt et equites mei et equites tui dixitque Iosaphat ad regem Israhel quaere oro te hodie sermonem Domini"
+    },
+    {
+      "verse": 6,
+      "text": "congregavit ergo rex Israhel prophetas quadringentos circiter viros et ait ad eos ire debeo in Ramoth Galaad ad bellandum an quiescere qui responderunt ascende et dabit Dominus in manu regis"
+    },
+    {
+      "verse": 7,
+      "text": "dixit autem Iosaphat non est hic propheta Domini quispiam ut interrogemus per eum"
+    },
+    {
+      "verse": 8,
+      "text": "et ait rex Israhel ad Iosaphat remansit vir unus per quem possimus interrogare Dominum sed ego odi eum quia non prophetat mihi bonum sed malum Micheas filius Hiemla cui Iosaphat ait ne loquaris ita rex"
+    },
+    {
+      "verse": 9,
+      "text": "vocavit ergo rex Israhel eunuchum quendam et dixit ei festina adducere Micheam filium Hiemla"
+    },
+    {
+      "verse": 10,
+      "text": "rex autem Israhel et Iosaphat rex Iuda sedebat unusquisque in solio suo vestiti cultu regio in area iuxta ostium portae Samariae et universi prophetae prophetabant in conspectu eorum"
+    },
+    {
+      "verse": 11,
+      "text": "fecit quoque sibi Sedecias filius Chanaan cornua ferrea et ait haec dicit Dominus his ventilabis Syriam donec deleas eam"
+    },
+    {
+      "verse": 12,
+      "text": "omnesque prophetae similiter prophetabant dicentes ascende in Ramoth Galaad et vade prospere et tradet Dominus in manu regis"
+    },
+    {
+      "verse": 13,
+      "text": "nuntius vero qui ierat ut vocaret Micheam locutus est ad eum dicens ecce sermones prophetarum ore uno bona regi praedicant sit ergo et sermo tuus similis eorum et loquere bona"
+    },
+    {
+      "verse": 14,
+      "text": "cui Micheas ait vivit Dominus quia quodcumque dixerit mihi Dominus hoc loquar"
+    },
+    {
+      "verse": 15,
+      "text": "venit itaque ad regem et ait illi rex Michea ire debemus in Ramoth Galaad ad proeliandum an cessare cui ille respondit ascende et vade prospere et tradet Dominus in manu regis"
+    },
+    {
+      "verse": 16,
+      "text": "dixit autem rex ad eum iterum atque iterum adiuro te ut non loquaris mihi nisi quod verum est in nomine Domini"
+    },
+    {
+      "verse": 17,
+      "text": "et ille ait vidi cunctum Israhel dispersum in montibus quasi oves non habentes pastorem et ait Dominus non habent dominum isti revertatur unusquisque in domum suam in pace"
+    },
+    {
+      "verse": 18,
+      "text": "dixit ergo rex Israhel ad Iosaphat numquid non dixi tibi quia non prophetat mihi bonum sed semper malum"
+    },
+    {
+      "verse": 19,
+      "text": "ille vero addens ait propterea audi sermonem Domini vidi Dominum sedentem super solium suum et omnem exercitum caeli adsistentem ei a dextris et a sinistris"
+    },
+    {
+      "verse": 20,
+      "text": "et ait Dominus quis decipiet Ahab regem Israhel ut ascendat et cadat in Ramoth Galaad et dixit unus verba huiuscemodi et alius aliter"
+    },
+    {
+      "verse": 21,
+      "text": "egressus est autem spiritus et stetit coram Domino et ait ego decipiam illum cui locutus est Dominus in quo"
+    },
+    {
+      "verse": 22,
+      "text": "et ille ait egrediar et ero spiritus mendax in ore omnium prophetarum eius et dixit Dominus decipies et praevalebis egredere et fac ita"
+    },
+    {
+      "verse": 23,
+      "text": "nunc igitur ecce dedit Dominus spiritum mendacii in ore omnium prophetarum tuorum qui hic sunt et Dominus locutus est contra te malum"
+    },
+    {
+      "verse": 24,
+      "text": "accessit autem Sedecias filius Chanaan et percussit Micheam in maxillam et dixit mene ergo dimisit spiritus Domini et locutus est tibi"
+    },
+    {
+      "verse": 25,
+      "text": "et ait Micheas visurus es in die illa quando ingredieris cubiculum intra cubiculum ut abscondaris"
+    },
+    {
+      "verse": 26,
+      "text": "et ait rex Israhel tollite Micheam et maneat apud Amon principem civitatis et apud Ioas filium Ammelech"
+    },
+    {
+      "verse": 27,
+      "text": "et dicite eis haec dicit rex mittite virum istum in carcerem et sustentate eum pane tribulationis et aqua angustiae donec revertar in pace"
+    },
+    {
+      "verse": 28,
+      "text": "dixitque Micheas si reversus fueris in pace non est locutus Dominus in me et ait audite populi omnes"
+    },
+    {
+      "verse": 29,
+      "text": "ascendit itaque rex Israhel et Iosaphat rex Iuda in Ramoth Galaad"
+    },
+    {
+      "verse": 30,
+      "text": "dixitque rex Israhel ad Iosaphat sume arma et ingredere proelium et induere vestibus tuis porro rex Israhel mutavit habitum et ingressus est bellum"
+    },
+    {
+      "verse": 31,
+      "text": "rex autem Syriae praeceperat principibus curruum triginta duobus dicens non pugnabitis contra minorem et maiorem quempiam nisi contra regem Israhel solum"
+    },
+    {
+      "verse": 32,
+      "text": "cum ergo vidissent principes curruum Iosaphat suspicati sunt quod ipse esset rex Israhel et impetu facto pugnabant contra eum et exclamavit Iosaphat"
+    },
+    {
+      "verse": 33,
+      "text": "intellexeruntque principes curruum quod non esset rex Israhel et cessaverunt ab eo"
+    },
+    {
+      "verse": 34,
+      "text": "unus autem quidam tetendit arcum in incertum sagittam dirigens et casu percussit regem Israhel inter pulmonem et stomachum at ille dixit aurigae suo verte manum tuam et eice me de exercitu quia graviter vulneratus sum"
+    },
+    {
+      "verse": 35,
+      "text": "commissum est ergo proelium in die illa et rex Israhel stabat in curru suo contra Syros et mortuus est vesperi fluebat autem sanguis plagae in sinum currus"
+    },
+    {
+      "verse": 36,
+      "text": "et praeco personuit in universo exercitu antequam sol occumberet dicens unusquisque revertatur in civitatem et in terram suam"
+    },
+    {
+      "verse": 37,
+      "text": "mortuus est autem rex et perlatus est Samariam sepelieruntque regem in Samaria"
+    },
+    {
+      "verse": 38,
+      "text": "et laverunt currum in piscina Samariae et linxerunt canes sanguinem eius et habenas laverunt iuxta verbum Domini quod locutus fuerat"
+    },
+    {
+      "verse": 39,
+      "text": "reliqua vero sermonum Ahab et universa quae fecit et domus eburneae quam aedificavit cunctarumque urbium quas extruxit nonne scripta sunt haec in libro verborum dierum regum Israhel"
+    },
+    {
+      "verse": 40,
+      "text": "dormivit ergo Ahab cum patribus suis et regnavit Ohozias filius eius pro eo"
+    },
+    {
+      "verse": 41,
+      "text": "Iosaphat filius Asa regnare coeperat super Iudam anno quarto Ahab regis Israhel"
+    },
+    {
+      "verse": 42,
+      "text": "triginta quinque annorum erat cum regnare coepisset et viginti et quinque annos regnavit in Hierusalem nomen matris eius Azuba filia Salai"
+    },
+    {
+      "verse": 43,
+      "text": "et ambulavit in omni via Asa patris sui et non declinavit ex ea fecitque quod rectum est in conspectu Domini"
+    },
+    {
+      "verse": 44,
+      "text": "verumtamen excelsa non abstulit adhuc enim populus sacrificabat et adolebat incensum in excelsis"
+    },
+    {
+      "verse": 45,
+      "text": "pacemque habuit Iosaphat cum rege Israhel"
+    },
+    {
+      "verse": 46,
+      "text": "reliqua autem verborum Iosaphat et opera eius quae gessit et proelia nonne haec scripta sunt in libro verborum dierum regum Iuda"
+    },
+    {
+      "verse": 47,
+      "text": "sed et reliquias effeminatorum qui remanserant in diebus Asa patris eius abstulit de terra"
+    },
+    {
+      "verse": 48,
+      "text": "nec erat tunc rex constitutus in Edom"
+    },
+    {
+      "verse": 49,
+      "text": "rex vero Iosaphat fecerat classes in mari quae navigarent in Ophir propter aurum et ire non potuerunt quia confractae sunt in Asiongaber"
+    },
+    {
+      "verse": 50,
+      "text": "tunc ait Ohozias filius Ahab ad Iosaphat vadant servi mei cum servis tuis in navibus et noluit Iosaphat"
+    },
+    {
+      "verse": 51,
+      "text": "dormivitque cum patribus suis et sepultus est cum eis in civitate David patris sui regnavitque Ioram filius eius pro eo"
+    },
+    {
+      "verse": 52,
+      "text": "Ohozias autem filius Ahab regnare coeperat super Israhel in Samaria anno septimodecimo Iosaphat regis Iuda regnavitque super Israhel duobus annis"
+    },
+    {
+      "verse": 53,
+      "text": "et fecit malum in conspectu Domini et ambulavit in via patris sui et matris suae et in via Hieroboam filii Nabath qui peccare fecit Israhel"
+    },
+    {
+      "verse": 54,
+      "text": "servivit quoque Baal et adoravit eum et inritavit Dominum Deum Israhel iuxta omnia quae fecerat pater eius"
+    }
+  ]
+}

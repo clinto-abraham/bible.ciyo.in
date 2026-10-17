@@ -1,0 +1,24 @@
+{
+  "translation": "CSlElizabeth: 1757 Church Slavonic Elizabeth Bible",
+  "language": "slavic",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 132,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Се, что добро, или что красно, но еже жити братии вкупе?"
+    },
+    {
+      "verse": 2,
+      "text": "Яко миро на главе, сходящее на браду, браду Аароню, сходящее на ометы одежды его:"
+    },
+    {
+      "verse": 3,
+      "text": "яко роса Аермонская сходящая на горы Сионския: яко тамо заповеда Господь благословение и живот до века."
+    }
+  ]
+}

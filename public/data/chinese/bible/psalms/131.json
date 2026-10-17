@@ -1,0 +1,24 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 131,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "（大衛 上行 之詩。）耶和華啊，我的心 不 狂傲，我的眼 不 高大；重大 和測不透的事，我也不 敢行。"
+    },
+    {
+      "verse": 2,
+      "text": "我的心 平穩 安靜，好像斷過奶的孩子 在 他母親的懷中；我的心 在我裡面 真像斷過奶的孩子。"
+    },
+    {
+      "verse": 3,
+      "text": "以色列啊，你當仰望 耶和華，從今時 直到 永遠！"
+    }
+  ]
+}

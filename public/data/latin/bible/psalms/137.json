@@ -1,0 +1,44 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 137,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "ipsi David confitebor tibi Domine in toto corde meo quoniam audisti verba oris mei in conspectu angelorum psallam tibi David confitebor tibi in toto corde meo in conspectu deorum cantabo tibi"
+    },
+    {
+      "verse": 2,
+      "text": "adorabo ad templum sanctum tuum et confitebor nomini tuo super misericordia tua et veritate tua quoniam magnificasti super omne nomen sanctum tuum adorabo in templo sancto tuo et confitebor nomini tuo super misericordia tua et super veritate tua quia magnificasti super omne nomen tuum eloquium tuum"
+    },
+    {
+      "verse": 3,
+      "text": "in quacumque die invocavero te exaudi me multiplicabis me in anima mea virtute in die invocabo et exaudies me dilatabis animae meae fortitudinem"
+    },
+    {
+      "verse": 4,
+      "text": "confiteantur tibi Domine omnes reges terrae quia audierunt omnia verba oris tui confiteantur tibi Domine omnes reges terrae quoniam audierunt eloquia oris tui"
+    },
+    {
+      "verse": 5,
+      "text": "et cantent in viis Domini quoniam magna gloria Domini et cantent in viis Domini quoniam magna gloria Domini"
+    },
+    {
+      "verse": 6,
+      "text": "quoniam excelsus Dominus et humilia respicit et alta a longe cognoscit quoniam excelsus Dominus et humilem respicit et excelsa de longe cognoscit"
+    },
+    {
+      "verse": 7,
+      "text": "si ambulavero in medio tribulationis vivificabis me super iram inimicorum meorum extendisti manum tuam et salvum me fecit dextera tua si ambulavero in medio tribulationis vivificabis me super furorem inimicorum meorum mittes manum tuam et salvabit me dextera tua"
+    },
+    {
+      "verse": 8,
+      "text": "Dominus retribuet propter me Domine misericordia tua in saeculum opera manuum tuarum ne dispicias Dominus operabitur pro me Domine misericordia tua in aeternum opera manuum tuarum ne dimittas"
+    }
+  ]
+}

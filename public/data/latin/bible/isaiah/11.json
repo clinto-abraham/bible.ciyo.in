@@ -1,0 +1,76 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Isaiah",
+  "bookSlug": "isaiah",
+  "nativeName": "Isaiah",
+  "chapterNumber": 11,
+  "totalVerses": 16,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "et egredietur virga de radice Iesse et flos de radice eius ascendet"
+    },
+    {
+      "verse": 2,
+      "text": "et requiescet super eum spiritus Domini spiritus sapientiae et intellectus spiritus consilii et fortitudinis spiritus scientiae et pietatis"
+    },
+    {
+      "verse": 3,
+      "text": "et replebit eum spiritus timoris Domini non secundum visionem oculorum iudicabit neque secundum auditum aurium arguet"
+    },
+    {
+      "verse": 4,
+      "text": "sed iudicabit in iustitia pauperes et arguet in aequitate pro mansuetis terrae et percutiet terram virga oris sui et spiritu labiorum suorum interficiet impium"
+    },
+    {
+      "verse": 5,
+      "text": "et erit iustitia cingulum lumborum eius et fides cinctorium renis eius"
+    },
+    {
+      "verse": 6,
+      "text": "habitabit lupus cum agno et pardus cum hedo accubabit vitulus et leo et ovis simul morabuntur et puer parvulus minabit eos"
+    },
+    {
+      "verse": 7,
+      "text": "vitulus et ursus pascentur simul requiescent catuli eorum et leo quasi bos comedet paleas"
+    },
+    {
+      "verse": 8,
+      "text": "et delectabitur infans ab ubere super foramine aspidis et in caverna reguli qui ablactatus fuerit manum suam mittet"
+    },
+    {
+      "verse": 9,
+      "text": "non nocebunt et non occident in universo monte sancto meo quia repleta est terra scientia Domini sicut aquae maris operientes"
+    },
+    {
+      "verse": 10,
+      "text": "in die illa radix Iesse qui stat in signum populorum ipsum gentes deprecabuntur et erit sepulchrum eius gloriosum"
+    },
+    {
+      "verse": 11,
+      "text": "et erit in die illa adiciet Dominus secundo manum suam ad possidendum residuum populi sui quod relinquetur ab Assyriis et ab Aegypto et a Fetros et ab Aethiopia et ab Aelam et a Sennaar et ab Emath et ab insulis maris"
+    },
+    {
+      "verse": 12,
+      "text": "et levabit signum in nationes et congregabit profugos Israhel et dispersos Iuda colliget a quattuor plagis terrae"
+    },
+    {
+      "verse": 13,
+      "text": "et auferetur zelus Ephraim et hostes Iuda peribunt Ephraim non aemulabitur Iudam et Iudas non pugnabit contra Ephraim"
+    },
+    {
+      "verse": 14,
+      "text": "et volabunt in umeros Philisthim per mare simul praedabuntur filios orientis Idumea et Moab praeceptum manus eorum et filii Ammon oboedientes erunt"
+    },
+    {
+      "verse": 15,
+      "text": "et desolabit Dominus linguam maris Aegypti et levabit manum suam super Flumen in fortitudine spiritus sui et percutiet eum in septem rivis ita ut transeant per eum calciati"
+    },
+    {
+      "verse": 16,
+      "text": "et erit via residuo populo meo qui relinquetur ab Assyriis sicut fuit Israhel in die qua ascendit de terra Aegypti"
+    }
+  ]
+}

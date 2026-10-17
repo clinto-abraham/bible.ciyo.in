@@ -1,0 +1,44 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 121,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cantique pour les montées. Je lève les yeux vers les montagnes: d'où me viendra le secours?"
+    },
+    {
+      "verse": 2,
+      "text": "Mon secours viendra de Yahweh, qui a fait le ciel et la terre."
+    },
+    {
+      "verse": 3,
+      "text": "Il ne permettra pas que ton pied trébuche; celui qui te garde ne sommeillera pas."
+    },
+    {
+      "verse": 4,
+      "text": "Non, il ne sommeille ni ne dort, celui qui garde Israël."
+    },
+    {
+      "verse": 5,
+      "text": "Yahweh est ton gardien; Yahweh est ton abri, toujours à ta droite."
+    },
+    {
+      "verse": 6,
+      "text": "Pendant le jour le soleil ne te frappera point, ni la lune pendant la nuit."
+    },
+    {
+      "verse": 7,
+      "text": "Yahweh te gardera de tout mal, il gardera ton âme:"
+    },
+    {
+      "verse": 8,
+      "text": "Yahweh gardera ton départ et ton arrivée maintenant et à jamais."
+    }
+  ]
+}

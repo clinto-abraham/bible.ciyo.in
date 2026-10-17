@@ -1,0 +1,40 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 142,
+  "totalVerses": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Masquil de David: Oración que hizo cuando estaba en la cueva. CON mi voz clamaré á Jehová, con mi voz pediré á Jehová misericordia."
+    },
+    {
+      "verse": 2,
+      "text": "Delante de él derramaré mi querella; delante de él denunciaré mi angustia."
+    },
+    {
+      "verse": 3,
+      "text": "Cuando mi espíritu se angustiaba dentro de mí, tú conociste mi senda. En el camino en que andaba, me escondieron lazo."
+    },
+    {
+      "verse": 4,
+      "text": "Miraba á la mano derecha, y observaba; mas no había quien me conociese; no tuve refugio, no había quien volviese por mi vida."
+    },
+    {
+      "verse": 5,
+      "text": "Clamé á ti, oh Jehová, dije: Tú eres mi esperanza, y mi porción en la tierra de los vivientes."
+    },
+    {
+      "verse": 6,
+      "text": "Escucha mi clamor, que estoy muy afligido; líbrame de los que me persiguen, porque son más fuertes que yo."
+    },
+    {
+      "verse": 7,
+      "text": "Saca mi alma de la cárcel para que alabe tu nombre: Me rodearán los justos, porque tú me serás propicio."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "hebrew",
+    "name": "Biblical Hebrew",
+    "nativeName": "עִבְרִית",
+    "dir": "rtl",
+    "translation": "WLC: Westminster Leningrad Codex",
+    "booksCount": 39,
+    "firstBook": "genesis"
+  },
+  {
+    "id": "greek",
+    "name": "Koine Greek",
+    "nativeName": "Ἑλληνική",
+    "dir": "ltr",
+    "translation": "TR: \tTextus Receptus (1550/1894)",
+    "booksCount": 27,
+    "firstBook": "matthew"
+  },
+  {
+    "id": "burmese",
+    "name": "Burmese Judson",
+    "nativeName": "မြန်မာဘာသာ",
+    "dir": "ltr",
+    "translation": "BurJudson: 1835 Judson Burmese Bible",
+    "booksCount": 66,
+    "firstBook": "genesis"
+  },
+  {
+    "id": "slavic",
+    "name": "Church Slavonic",
+    "nativeName": "Церковнославя́нскій",
+    "dir": "ltr",
+    "translation": "CSlElizabeth: 1757 Church Slavonic Elizabeth Bible",
+    "booksCount": 76,
+    "firstBook": "genesis"
+  },
+  {
+    "id": "english",
+    "name": "English (KJV)",
+    "nativeName": "English",
+    "dir": "ltr",
+    "translation": "KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords",
+    "booksCount": 66,
+    "firstBook": "genesis"
+  }
+]

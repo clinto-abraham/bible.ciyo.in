@@ -1,0 +1,28 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 123,
+  "totalVerses": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "（上行 之詩。）坐 在天上的主啊，我向你 舉 目。"
+    },
+    {
+      "verse": 2,
+      "text": "看哪，僕人 的眼睛 怎樣望 主人 的手，使女 的眼睛 怎樣望 主母 的手，我們的眼睛 也照樣 望 耶和華─我們的 神，直到 他憐憫我們。"
+    },
+    {
+      "verse": 3,
+      "text": "耶和華啊，求你憐憫我們，憐憫我們！因為 我們被藐視，已到極處。"
+    },
+    {
+      "verse": 4,
+      "text": "我們 被那些安逸人 的譏誚 和驕傲人 的藐視，已到極處。"
+    }
+  ]
+}

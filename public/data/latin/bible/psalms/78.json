@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 78,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "psalmus Asaph Deus venerunt gentes in hereditatem tuam polluerunt templum sanctum tuum posuerunt Hierusalem in pomorum custodiam canticum Asaph Deus venerunt gentes in hereditatem tuam polluerunt templum sanctum tuum posuerunt Hierusalem in acervis lapidum"
+    },
+    {
+      "verse": 2,
+      "text": "posuerunt morticina servorum tuorum escas volatilibus caeli carnes sanctorum tuorum bestiis terrae dederunt cadavera servorum tuorum escam volatilibus caeli carnes sanctorum tuorum bestiis terrae"
+    },
+    {
+      "verse": 3,
+      "text": "effuderunt sanguinem ipsorum tamquam aquam in circuitu Hierusalem et non erat qui sepeliret effuderunt sanguinem eorum quasi aquam in circuitu Hierusalem et non erat qui sepeliret"
+    },
+    {
+      "verse": 4,
+      "text": "facti sumus obprobrium vicinis nostris subsannatio et inlusio his qui circum nos sunt facti sumus obprobrium vicinis nostris subsannatio et derisio his qui in circuitu nostro sunt"
+    },
+    {
+      "verse": 5,
+      "text": "usquequo Domine irasceris in finem accendetur velut ignis zelus tuus usquequo Domine irasceris in finem ardebit quasi ignis zelus tuus"
+    },
+    {
+      "verse": 6,
+      "text": "effunde iram tuam in gentes quae te non noverunt et in regna quae nomen tuum non invocaverunt effunde furorem tuum super gentes quae non cognoverunt te et super regna quae nomen tuum non invocaverunt"
+    },
+    {
+      "verse": 7,
+      "text": "quia comederunt Iacob et locum eius desolaverunt quia comederunt Iacob et decorem eius desolaverunt"
+    },
+    {
+      "verse": 8,
+      "text": "ne memineris iniquitatum nostrarum antiquarum cito anticipent nos misericordiae tuae quia pauperes facti sumus nimis ne recorderis iniquitatum nostrarum veterum cito occupent nos misericordiae tuae quia adtenuati sumus nimis"
+    },
+    {
+      "verse": 9,
+      "text": "adiuva nos Deus salutaris noster propter gloriam nominis tui Domine libera nos et propitius esto peccatis nostris propter nomen tuum auxiliare nobis Deus Iesus noster propter gloriam nominis tui et libera nos et propitiare peccatis nostris propter nomen tuum"
+    },
+    {
+      "verse": 10,
+      "text": "ne forte dicant in gentibus ubi est Deus eorum et innotescat in nationibus coram oculis nostris ultio sanguinis servorum tuorum qui effusus est quare dicunt gentes ubi est Deus eorum nota fiat in gentibus ante oculos nostros ultio sanguinis servorum tuorum qui effusus est"
+    },
+    {
+      "verse": 11,
+      "text": "introeat in conspectu tuo gemitus conpeditorum secundum magnitudinem brachii tui posside filios mortificatorum ingrediatur coram te gemitus vinctorum in magnitudine brachii tui relinque filios interitus"
+    },
+    {
+      "verse": 12,
+      "text": "et redde vicinis nostris septuplum in sinu eorum inproperium ipsorum quod exprobraverunt tibi Domine et redde vicinis nostris septuplum in sinu eorum obprobrium suum quo exprobraverunt tibi Domine"
+    },
+    {
+      "verse": 13,
+      "text": "nos autem populus tuus et oves pascuae tuae confitebimur tibi in saeculum in generationem et generationem adnuntiabimus laudem tuam nos enim populus tuus et grex pascuae tuae confitebimur tibi in sempiternum in generatione et generatione narrabimus laudes tuas"
+    }
+  ]
+}

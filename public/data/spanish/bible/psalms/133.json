@@ -1,0 +1,24 @@
+{
+  "translation": "SpaRV: La Santa Biblia Reina-Valera (1909)",
+  "language": "spanish",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 133,
+  "totalVerses": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cántico gradual: de David. ¡MIRAD cuán bueno y cuán delicioso es habitar los hermanos igualmente en uno!"
+    },
+    {
+      "verse": 2,
+      "text": "Es como el buen óleo sobre la cabeza, el cual desciende sobre la barba, la barba de Aarón, y que baja hasta el borde de sus vestiduras;"
+    },
+    {
+      "verse": 3,
+      "text": "Como el rocío de Hermón, que desciende sobre los montes de Sión: porque allí envía Jehová bendición, y vida eterna."
+    }
+  ]
+}

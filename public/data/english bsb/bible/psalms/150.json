@@ -1,0 +1,36 @@
+{
+  "translation": "BSB: Berean Standard Bible",
+  "language": "english-bsb",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 150,
+  "totalVerses": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Hallelujah! Praise God in His sanctuary. Praise Him in His mighty heavens."
+    },
+    {
+      "verse": 2,
+      "text": "Praise Him for His mighty acts; praise Him for His excellent greatness."
+    },
+    {
+      "verse": 3,
+      "text": "Praise Him with the sound of the horn; praise Him with the harp and lyre."
+    },
+    {
+      "verse": 4,
+      "text": "Praise Him with tambourine and dancing; praise Him with strings and flute."
+    },
+    {
+      "verse": 5,
+      "text": "Praise Him with clashing cymbals; praise Him with resounding cymbals."
+    },
+    {
+      "verse": 6,
+      "text": "Let everything that has breath praise the LORD! Hallelujah!"
+    }
+  ]
+}

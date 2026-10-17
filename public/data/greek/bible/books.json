@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Matthew",
+    "slug": "matthew",
+    "nativeName": "Κατὰ Μαθθαῖον",
+    "chapterCount": 28,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "Mark",
+    "slug": "mark",
+    "nativeName": "Κατὰ Μᾶρκον",
+    "chapterCount": 16,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "Luke",
+    "slug": "luke",
+    "nativeName": "Κατὰ Λουκᾶν",
+    "chapterCount": 24,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "John",
+    "slug": "john",
+    "nativeName": "Κατὰ Ἰωάννην",
+    "chapterCount": 21,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "Acts",
+    "slug": "acts",
+    "nativeName": "Πράξεις τῶν Ἀποστόλων",
+    "chapterCount": 28,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "Romans",
+    "slug": "romans",
+    "nativeName": "Πρὸς Ῥωμαίους",
+    "chapterCount": 16,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Corinthians",
+    "slug": "1-corinthians",
+    "nativeName": "Πρὸς Κορινθίους Α",
+    "chapterCount": 16,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Corinthians",
+    "slug": "2-corinthians",
+    "nativeName": "Πρὸς Κορινθίους Β",
+    "chapterCount": 13,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "Galatians",
+    "slug": "galatians",
+    "nativeName": "Πρὸς Γαλάτας",
+    "chapterCount": 6,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "Ephesians",
+    "slug": "ephesians",
+    "nativeName": "Πρὸς Ἐφεσίους",
+    "chapterCount": 6,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "Philippians",
+    "slug": "philippians",
+    "nativeName": "Πρὸς Φιλιππησίους",
+    "chapterCount": 4,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "Colossians",
+    "slug": "colossians",
+    "nativeName": "Πρὸς Κολοσσαεῖς",
+    "chapterCount": 4,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Thessalonians",
+    "slug": "1-thessalonians",
+    "nativeName": "Πρὸς Θεσσαλονικεῖς Α",
+    "chapterCount": 5,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Thessalonians",
+    "slug": "2-thessalonians",
+    "nativeName": "Πρὸς Θεσσαλονικεῖς Β",
+    "chapterCount": 3,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Timothy",
+    "slug": "1-timothy",
+    "nativeName": "Πρὸς Τιμόθεον Α",
+    "chapterCount": 6,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Timothy",
+    "slug": "2-timothy",
+    "nativeName": "Πρὸς Τιμόθεον Β",
+    "chapterCount": 4,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "Titus",
+    "slug": "titus",
+    "nativeName": "Πρὸς Τίτον",
+    "chapterCount": 3,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "Philemon",
+    "slug": "philemon",
+    "nativeName": "Πρὸς Φιλήμονα",
+    "chapterCount": 1,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "Hebrews",
+    "slug": "hebrews",
+    "nativeName": "Πρὸς Ἑβραίους",
+    "chapterCount": 13,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "James",
+    "slug": "james",
+    "nativeName": "Ἰακώβου",
+    "chapterCount": 5,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "I Peter",
+    "slug": "1-peter",
+    "nativeName": "Πέτρου Α",
+    "chapterCount": 5,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "II Peter",
+    "slug": "2-peter",
+    "nativeName": "Πέτρου Β",
+    "chapterCount": 3,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "I John",
+    "slug": "1-john",
+    "nativeName": "Ἰωάννου Α",
+    "chapterCount": 5,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "II John",
+    "slug": "2-john",
+    "nativeName": "Ἰωάννου Β",
+    "chapterCount": 1,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "III John",
+    "slug": "3-john",
+    "nativeName": "Ἰωάννου Γ",
+    "chapterCount": 1,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "Jude",
+    "slug": "jude",
+    "nativeName": "Ἰούδα",
+    "chapterCount": 1,
+    "language": "greek",
+    "dir": "ltr"
+  },
+  {
+    "name": "Revelation of John",
+    "slug": "revelation",
+    "nativeName": "Ἀποκάλυψις Ἰωάννου",
+    "chapterCount": 22,
+    "language": "greek",
+    "dir": "ltr"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 16,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Hymne de David. Garde-moi ô Dieu, car près de toi je me réfugie."
+    },
+    {
+      "verse": 2,
+      "text": "Je dis à Yahweh: \" Tu es mon Seigneur, toi seul es mon bien. \""
+    },
+    {
+      "verse": 3,
+      "text": "Les saints qui sont dans le pays, ces illustres, sont l'objet de toute mon affection."
+    },
+    {
+      "verse": 4,
+      "text": "On multiplie les idoles, on court après les dieux étrangers; je ne répandrai point leurs libations de sang, je ne mettrai pas leurs noms sur mes lèvres."
+    },
+    {
+      "verse": 5,
+      "text": "Yahweh est la part de mon héritage et de ma coupe, c'est toi qui m'assures mon lot."
+    },
+    {
+      "verse": 6,
+      "text": "Le cordeau a mesuré pour moi une portion délicieuse; oui, un splendide héritage m'est échu."
+    },
+    {
+      "verse": 7,
+      "text": "Je bénis Yahweh qui m'a conseillé; la nuit même, mes reins m'avertissent."
+    },
+    {
+      "verse": 8,
+      "text": "Je mets Yahweh constamment sous mes yeux, car il est à ma droite: je ne chancellerai point."
+    },
+    {
+      "verse": 9,
+      "text": "Aussi mon cœur est dans la joie, mon âme dans l'allégresse, mon corps lui-même repose en sécurité."
+    },
+    {
+      "verse": 10,
+      "text": "Car tu ne livreras pas mon âme au schéol, tu ne permettras pas que celui qui t'aime voie la corruption."
+    },
+    {
+      "verse": 11,
+      "text": "Tu me feras connaître le sentier de la vie; il y a plénitude de joie devant ta face, des délices éternelles dans ta droite."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "translation": "GerElb1905: German Darby Unrevidierte Elberfelder (1905)",
+  "language": "german",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 117,
+  "totalVerses": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Lobet Jehova, alle Nationen! Rühmet ihn, alle Völker!"
+    },
+    {
+      "verse": 2,
+      "text": "Denn mächtig über uns ist seine Güte; und die Wahrheit Jehovas währt ewiglich. Lobet Jehova!"
+    }
+  ]
+}

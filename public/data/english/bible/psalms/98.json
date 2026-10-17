@@ -1,0 +1,48 @@
+{
+  "translation": "KJV: King James Version (1769) with Strongs Numbers and Morphology and CatchWords",
+  "language": "english",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 98,
+  "totalVerses": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A Psalm. O sing unto the Lord a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory."
+    },
+    {
+      "verse": 2,
+      "text": "The Lord hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen."
+    },
+    {
+      "verse": 3,
+      "text": "He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God."
+    },
+    {
+      "verse": 4,
+      "text": "Make a joyful noise unto the Lord, all the earth: make a loud noise, and rejoice, and sing praise."
+    },
+    {
+      "verse": 5,
+      "text": "Sing unto the Lord with the harp; with the harp, and the voice of a psalm."
+    },
+    {
+      "verse": 6,
+      "text": "With trumpets and sound of cornet make a joyful noise before the Lord, the King."
+    },
+    {
+      "verse": 7,
+      "text": "Let the sea roar, and the fulness thereof; the world, and they that dwell therein."
+    },
+    {
+      "verse": 8,
+      "text": "Let the floods clap their hands: let the hills be joyful together"
+    },
+    {
+      "verse": 9,
+      "text": "Before the Lord; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity."
+    }
+  ]
+}

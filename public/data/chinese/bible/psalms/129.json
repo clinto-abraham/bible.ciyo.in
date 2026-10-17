@@ -1,0 +1,44 @@
+{
+  "translation": "ChiUn: 和合本 (繁體字)",
+  "language": "chinese",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "詩篇",
+  "chapterNumber": 129,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "（上行 之詩。）以色列 當 說：從我幼年以來，敵人屢次 苦害我，"
+    },
+    {
+      "verse": 2,
+      "text": "從我幼年以來，敵人屢次 苦害我，卻 沒有 勝了 我。"
+    },
+    {
+      "verse": 3,
+      "text": "如同扶犁的 在 我背 上扶犁而耕，耕的犁溝 甚長。"
+    },
+    {
+      "verse": 4,
+      "text": "耶和華 是公義的；他砍斷了 惡人 的繩索。"
+    },
+    {
+      "verse": 5,
+      "text": "願恨惡 錫安 的都 蒙羞 退 後！"
+    },
+    {
+      "verse": 6,
+      "text": "願他們 像房頂上 的草，未 長成 而枯乾，"
+    },
+    {
+      "verse": 7,
+      "text": "收割的 不 夠 一把，捆禾的 也不滿懷。"
+    },
+    {
+      "verse": 8,
+      "text": "過路的 也不 說：願耶和華 所賜的福 歸與你們！我們奉耶和華 的名 給你們 祝福！"
+    }
+  ]
+}

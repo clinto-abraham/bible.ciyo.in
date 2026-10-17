@@ -1,0 +1,44 @@
+{
+  "translation": "GerElb1905: German Darby Unrevidierte Elberfelder (1905)",
+  "language": "german",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 114,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Als Israel aus Ägypten zog, das Haus Jakob aus dem Volke fremder Sprache,"
+    },
+    {
+      "verse": 2,
+      "text": "da war Juda sein Heiligtum, Israel seine Herrschaft."
+    },
+    {
+      "verse": 3,
+      "text": "Das Meer sah es und floh, der Jordan wandte sich zurück;"
+    },
+    {
+      "verse": 4,
+      "text": "die Berge hüpften wie Widder, die Hügel wie junge Schafe."
+    },
+    {
+      "verse": 5,
+      "text": "Was war dir, du Meer, daß du flohest? Du Jordan, daß du dich zurückwandtest?"
+    },
+    {
+      "verse": 6,
+      "text": "Ihr Berge, daß ihr hüpftet wie Widder? ihr Hügel, wie junge Schafe?"
+    },
+    {
+      "verse": 7,
+      "text": "Erbebe vor dem Herrn, du Erde, vor dem Gott Jakobs,"
+    },
+    {
+      "verse": 8,
+      "text": "Der den Felsen verwandelte in einen Wasserteich, den Kieselfelsen in einen Wasserquell!"
+    }
+  ]
+}

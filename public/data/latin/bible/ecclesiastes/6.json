@@ -1,0 +1,56 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Ecclesiastes",
+  "bookSlug": "ecclesiastes",
+  "nativeName": "Ecclesiastes",
+  "chapterNumber": 6,
+  "totalVerses": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "est et aliud malum quod vidi sub sole et quidem frequens apud homines"
+    },
+    {
+      "verse": 2,
+      "text": "vir cui dedit Deus divitias et substantiam et honorem et nihil deest animae eius ex omnibus quae desiderat nec tribuit ei potestatem Deus ut comedat ex eo sed homo extraneus vorabit illud hoc vanitas et magna miseria est"
+    },
+    {
+      "verse": 3,
+      "text": "si genuerit quispiam centum et vixerit multos annos et plures dies aetatis habuerit et anima illius non utatur bonis substantiae suae sepulturaque careat de hoc ego pronuntio quod melior illo sit abortivus"
+    },
+    {
+      "verse": 4,
+      "text": "frustra enim venit et pergit ad tenebras et oblivione delebitur nomen eius"
+    },
+    {
+      "verse": 5,
+      "text": "non vidit solem neque cognovit distantiam boni et mali"
+    },
+    {
+      "verse": 6,
+      "text": "etiam si duobus milibus annis vixerit et non fuerit perfruitus bonis nonne ad unum locum properant omnia"
+    },
+    {
+      "verse": 7,
+      "text": "omnis labor hominis in ore eius sed anima illius non impletur"
+    },
+    {
+      "verse": 8,
+      "text": "quid habet amplius sapiens ab stulto et quid pauper nisi ut pergat illuc ubi est vita"
+    },
+    {
+      "verse": 9,
+      "text": "melius est videre quod cupias quam desiderare quod nescias sed et hoc vanitas est et praesumptio spiritus"
+    },
+    {
+      "verse": 10,
+      "text": "qui futurus est iam vocatum est nomen eius et scitur quod homo sit et non possit contra fortiorem se in iudicio contendere"
+    },
+    {
+      "verse": 11,
+      "text": "verba sunt plurima multa in disputando habentia vanitatem"
+    }
+  ]
+}

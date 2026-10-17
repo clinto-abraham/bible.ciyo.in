@@ -1,0 +1,44 @@
+{
+  "translation": "FreCrampon: La Bible Augustin Crampon 1923",
+  "language": "french",
+  "dir": "ltr",
+  "bookName": "Psalms",
+  "bookSlug": "psalms",
+  "nativeName": "Psalms",
+  "chapterNumber": 138,
+  "totalVerses": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "De David. Je veux te louer de tout mon cœur, te chanter sur la harpe, en présence des dieux."
+    },
+    {
+      "verse": 2,
+      "text": "Je veux me prosterner dans ton saint temple, et célébrer ton nom, à cause de ta bonté et de ta fidélité, parce que tu as fait une promesse magnifique, au-dessus de toutes les gloires de ton nom."
+    },
+    {
+      "verse": 3,
+      "text": "Le jour où je t'ai invoqué, tu m'as exaucé, tu as rendu à mon âme la force et le courage."
+    },
+    {
+      "verse": 4,
+      "text": "Tous les rois de la terre te loueront, Yahweh, quand ils auront appris les oracles de ta bouche."
+    },
+    {
+      "verse": 5,
+      "text": "Ils célébreront les voies de Yahweh, car la gloire de Yahweh est grande."
+    },
+    {
+      "verse": 6,
+      "text": "Car Yahweh est élevé, et il voit les humbles, et il connaît de loin les orgueilleux."
+    },
+    {
+      "verse": 7,
+      "text": "Si je marche en pleine détresse, tu me rends la vie, tu étends ta main pour arrêter la colère de mes ennemis, et ta droite ma sauve."
+    },
+    {
+      "verse": 8,
+      "text": "Yahweh achèvera ce qu'il a fait pour moi. Yahweh, ta bonté est éternelle: n'abandonne pas l'ouvrage de tes mains!"
+    }
+  ]
+}

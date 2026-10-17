@@ -1,0 +1,108 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "Proverbs",
+  "bookSlug": "proverbs",
+  "nativeName": "Proverbs",
+  "chapterNumber": 18,
+  "totalVerses": 24,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "occasiones quaerit qui vult recedere ab amico omni tempore erit exprobrabilis"
+    },
+    {
+      "verse": 2,
+      "text": "non recipit stultus verba prudentiae nisi ea dixeris quae versantur in corde eius"
+    },
+    {
+      "verse": 3,
+      "text": "impius cum in profundum venerit peccatorum contemnit sed sequitur eum ignominia et obprobrium"
+    },
+    {
+      "verse": 4,
+      "text": "aqua profunda verba ex ore viri et torrens redundans fons sapientiae"
+    },
+    {
+      "verse": 5,
+      "text": "accipere personam impii non est bonum ut declines a veritate iudicii"
+    },
+    {
+      "verse": 6,
+      "text": "labia stulti inmiscunt se rixis et os eius iurgia provocat"
+    },
+    {
+      "verse": 7,
+      "text": "os stulti contritio eius et labia illius ruina animae eius"
+    },
+    {
+      "verse": 8,
+      "text": "verba bilinguis quasi simplicia et ipsa perveniunt usque ad interiora ventris"
+    },
+    {
+      "verse": 9,
+      "text": "qui mollis et dissolutus est in opere suo frater est sua opera dissipantis"
+    },
+    {
+      "verse": 10,
+      "text": "turris fortissima nomen Domini ad ipsum currit iustus et exaltabitur"
+    },
+    {
+      "verse": 11,
+      "text": "substantia divitis urbs roboris eius et quasi murus validus circumdans eum"
+    },
+    {
+      "verse": 12,
+      "text": "antequam conteratur exaltatur cor hominis et antequam glorificetur humiliatur"
+    },
+    {
+      "verse": 13,
+      "text": "qui prius respondit quam audiat stultum se esse demonstrat et confusione dignum"
+    },
+    {
+      "verse": 14,
+      "text": "spiritus viri sustentat inbecillitatem suam spiritum vero ad irascendum facilem quis poterit sustinere"
+    },
+    {
+      "verse": 15,
+      "text": "cor prudens possidebit scientiam et auris sapientium quaerit doctrinam"
+    },
+    {
+      "verse": 16,
+      "text": "donum hominis dilatat viam eius et ante principes spatium ei facit"
+    },
+    {
+      "verse": 17,
+      "text": "iustus prior est accusator sui venit amicus eius et investigavit eum"
+    },
+    {
+      "verse": 18,
+      "text": "contradictiones conprimit sors et inter potentes quoque diiudicat"
+    },
+    {
+      "verse": 19,
+      "text": "frater qui adiuvatur a fratre quasi civitas firma et iudicia quasi vectes urbium"
+    },
+    {
+      "verse": 20,
+      "text": "de fructu oris viri replebitur venter eius et genimina labiorum illius saturabunt eum"
+    },
+    {
+      "verse": 21,
+      "text": "mors et vita in manu linguae qui diligunt eam comedent fructus eius"
+    },
+    {
+      "verse": 22,
+      "text": "qui invenit mulierem invenit bonum et hauriet iucunditatem a Domino"
+    },
+    {
+      "verse": 23,
+      "text": "cum obsecrationibus loquetur pauper et dives effabitur rigide"
+    },
+    {
+      "verse": 24,
+      "text": "vir amicalis ad societatem magis amicus erit quam frater"
+    }
+  ]
+}

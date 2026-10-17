@@ -1,0 +1,64 @@
+{
+  "translation": "Vulgate: Latin Vulgate",
+  "language": "latin",
+  "dir": "ltr",
+  "bookName": "I Corinthians",
+  "bookSlug": "1-corinthians",
+  "nativeName": "I Corinthians",
+  "chapterNumber": 8,
+  "totalVerses": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "de his autem quae idolis sacrificantur scimus quia omnes scientiam habemus scientia inflat caritas vero aedificat"
+    },
+    {
+      "verse": 2,
+      "text": "si quis se existimat scire aliquid nondum cognovit quemadmodum oporteat eum scire"
+    },
+    {
+      "verse": 3,
+      "text": "si quis autem diligit Deum hic cognitus est ab eo"
+    },
+    {
+      "verse": 4,
+      "text": "de escis autem quae idolis immolantur scimus quia nihil est idolum in mundo et quod nullus Deus nisi unus"
+    },
+    {
+      "verse": 5,
+      "text": "nam et si sunt qui dicantur dii sive in caelo sive in terra siquidem sunt dii multi et domini multi"
+    },
+    {
+      "verse": 6,
+      "text": "nobis tamen unus Deus Pater ex quo omnia et nos in illum et unus Dominus Iesus Christus per quem omnia et nos per ipsum"
+    },
+    {
+      "verse": 7,
+      "text": "sed non in omnibus est scientia quidam autem conscientia usque nunc idoli quasi idolothytum manducant et conscientia ipsorum cum sit infirma polluitur"
+    },
+    {
+      "verse": 8,
+      "text": "esca autem nos non commendat Deo neque si non manducaverimus deficiemus neque si manducaverimus abundabimus"
+    },
+    {
+      "verse": 9,
+      "text": "videte autem ne forte haec licentia vestra offendiculum fiat infirmibus"
+    },
+    {
+      "verse": 10,
+      "text": "si enim quis viderit eum qui habet scientiam in idolio recumbentem nonne conscientia eius cum sit infirma aedificabitur ad manducandum idolothyta"
+    },
+    {
+      "verse": 11,
+      "text": "et peribit infirmus in tua scientia frater propter quem Christus mortuus est"
+    },
+    {
+      "verse": 12,
+      "text": "sic autem peccantes in fratres et percutientes conscientiam eorum infirmam in Christo peccatis"
+    },
+    {
+      "verse": 13,
+      "text": "quapropter si esca scandalizat fratrem meum non manducabo carnem in aeternum ne fratrem meum scandalizem"
+    }
+  ]
+}
