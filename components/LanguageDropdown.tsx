@@ -2,7 +2,7 @@
 
 import { useState, useRef, useEffect, useMemo } from 'react';
 import { useRouter, useSearchParams, usePathname } from 'next/navigation';
-import { setClientPreferredLanguage } from '@/lib/preferences';
+import { setClientPreferredLanguage, getClientPreferredLanguage } from '@/lib/preferences';
 
 export interface LanguageOption {
   id: string;
@@ -45,6 +45,20 @@ export default function LanguageDropdown({ currentLang, languages }: LanguageDro
     document.addEventListener('mousedown', handleClickOutside);
     return () => document.removeEventListener('mousedown', handleClickOutside);
   }, []);
+
+  // Client-side preferred language synchronization without dynamic SSR cookie dependency
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    const hasExplicitLang = searchParams?.has('lang');
+    if (!hasExplicitLang && pathname === '/') {
+      const preferred = getClientPreferredLanguage();
+      if (preferred && preferred !== currentLang && preferred !== 'english') {
+        const nextUrl = new URL(window.location.href);
+        nextUrl.searchParams.set('lang', preferred);
+        router.replace(nextUrl.pathname + nextUrl.search);
+      }
+    }
+  }, [searchParams, pathname, currentLang, router]);
 
   // Filtered languages based on search query
   const filteredLanguages = useMemo(() => {

@@ -1,12 +1,13 @@
 import { Suspense } from 'react';
 import Link from 'next/link';
-import { cookies } from 'next/headers';
 import { getBooks, getLanguages, BookMeta } from '@/lib/bible';
-import { PREFERRED_LANG_COOKIE } from '@/lib/preferences';
 import LanguageDropdown from '@/components/LanguageDropdown';
 import PassageSelector from '@/components/PassageSelector';
 import LanguageCard from '@/components/LanguageCard';
 import SiteFooter from '@/components/SiteFooter';
+
+export const revalidate = 604800; // Cache on Vercel CDN for 7 days
+export const dynamic = 'force-static';
 
 interface HomePageProps {
   searchParams?: Promise<{ lang?: string }>;
@@ -14,11 +15,9 @@ interface HomePageProps {
 
 export default async function HomePage({ searchParams }: HomePageProps) {
   const sParams = searchParams ? await searchParams : {};
-  const cookieStore = await cookies();
-  const cookieLang = cookieStore.get(PREFERRED_LANG_COOKIE)?.value;
 
-  // Use query param if provided, else persisted cookie, else english default
-  const currentLang = sParams.lang || cookieLang || 'english';
+  // Use query param if provided, else english default
+  const currentLang = sParams.lang || 'english';
 
   const [languages, books] = await Promise.all([
     getLanguages(),

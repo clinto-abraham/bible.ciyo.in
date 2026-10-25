@@ -17,7 +17,11 @@ export async function GET(
         { status: 404 }
       );
     }
-    return NextResponse.json(data);
+    return NextResponse.json(data, {
+      headers: {
+        'Cache-Control': 'public, max-age=86400, s-maxage=31536000, stale-while-revalidate=86400',
+      },
+    });
   } catch (err: unknown) {
     const message = err instanceof Error ? err.message : 'Internal error';
     return NextResponse.json(

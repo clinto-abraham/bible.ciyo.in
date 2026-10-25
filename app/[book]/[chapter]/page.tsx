@@ -1,8 +1,8 @@
 import { notFound } from 'next/navigation';
-import { cookies } from 'next/headers';
 import { getChapterData } from '@/lib/bible';
-import { PREFERRED_LANG_COOKIE } from '@/lib/preferences';
 import ChapterReader from '@/components/ChapterReader';
+
+export const revalidate = 604800; // Cache on Vercel CDN for 7 days
 
 interface PageProps {
   params: Promise<{
@@ -25,9 +25,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params, searchParams }: PageProps) {
   const { book, chapter } = await params;
   const sParams = searchParams ? await searchParams : {};
-  const cookieStore = await cookies();
-  const cookieLang = cookieStore.get(PREFERRED_LANG_COOKIE)?.value;
-  const lang = sParams.lang || cookieLang || 'english';
+  const lang = sParams.lang || 'english';
   const data = await getChapterData(book, chapter, lang);
   if (!data) return { title: 'Chapter Not Found' };
   const native = data.nativeName || data.hebrewName;
@@ -79,9 +77,7 @@ export async function generateMetadata({ params, searchParams }: PageProps) {
 export default async function ChapterPage({ params, searchParams }: PageProps) {
   const { book, chapter } = await params;
   const sParams = searchParams ? await searchParams : {};
-  const cookieStore = await cookies();
-  const cookieLang = cookieStore.get(PREFERRED_LANG_COOKIE)?.value;
-  const lang = sParams.lang || cookieLang || 'english';
+  const lang = sParams.lang || 'english';
   const initialVerse = sParams.verse || null;
 
   const data = await getChapterData(book, chapter, lang);

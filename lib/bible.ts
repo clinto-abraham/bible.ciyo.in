@@ -164,6 +164,8 @@ export async function getLanguages(): Promise<LanguageMeta[]> {
 }
 
 const booksCache: Record<string, BookMeta[]> = {};
+const chapterCache = new Map<string, ChapterData>();
+const MAX_CHAPTER_CACHE_ENTRIES = 500;
 
 export async function getBooks(lang = 'english'): Promise<BookMeta[]> {
   const normLang = lang.toLowerCase();
@@ -242,6 +244,11 @@ export async function getChapterData(
   const bookIndex = books.findIndex((b) => b.slug === slug || slugifyBook(b.name) === slug);
   const currentBook = bookIndex !== -1 ? books[bookIndex] : null;
   const actualSlug = currentBook ? currentBook.slug : slug;
+
+  const cacheKey = `${lang}:${actualSlug}:${chapterNumber}:${allowFallback}`;
+  if (chapterCache.has(cacheKey)) {
+    return chapterCache.get(cacheKey)!;
+  }
 
   const altSpaced = lang.replace(/-/g, ' ');
   const altHyphen = lang.replace(/\s+/g, '-');
@@ -326,6 +333,12 @@ export async function getChapterData(
       data.nextChapter = null;
     }
   }
+
+  if (chapterCache.size >= MAX_CHAPTER_CACHE_ENTRIES) {
+    const oldestKey = chapterCache.keys().next().value;
+    if (oldestKey) chapterCache.delete(oldestKey);
+  }
+  chapterCache.set(cacheKey, data);
 
   return data;
 }
